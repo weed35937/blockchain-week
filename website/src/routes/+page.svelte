@@ -7,8 +7,8 @@
         <div class="flex-grow"></div>
         <div class="text-right items-end p-10">
             <div class="uppercase">
-                <div class="text-5xl md:text-6xl font-bold">Prague Blockchain Week</div>
-                <div class="text-4xl md:text-5xl font-medium text-pbw-yellow">June 2-11, 2023</div>
+                <div class="text-5xl md:text-6xl lg:text-7xl font-bold">Prague Blockchain Week</div>
+                <div class="text-4xl md:text-5xl lg:text-6xl font-medium text-pbw-yellow">June 2-11, 2023</div>
             </div>
         </div>
     </div>
