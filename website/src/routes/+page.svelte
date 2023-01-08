@@ -2,8 +2,8 @@
     <title>Prague Blockchain Week 2023 | June 2-11, 2023</title>
 </svelte:head>
 
-<div class="w-full bg-pbw-red text-pbw-white text-xl">
-    <div class="max-w-5xl mx-auto flex pt-5 md:pt-10">
+<div class="w-full bg-pbw-red text-pbw-white text-xl relative">
+    <div class="max-w-5xl mx-auto flex pt-5 md:pt-10 pb-16 sm:pb-24 md:pb-40" style="background: url(/bg-prg.png) bottom repeat-x; background-size: 100%;">
         <div class="flex-grow"></div>
         <div class="text-right items-end p-10">
             <div class="uppercase">
