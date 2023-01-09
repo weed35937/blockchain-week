@@ -16,7 +16,7 @@
 <div class="w-full min-h-screen bg-gradient-to-b from-pbw-red to-red-900 text-pbw-white text-xl">
     <div class="max-w-5xl mx-auto pt-2 md:pt-7">
         <div class="p-7">
-            <p>A decentralized conference and gathering of all people interested in cryptocurrencies and related topics. It consists of many independent events across Jun 2 - 11, including conferences, hackathons, workshops, community meetups, as well as various parties and happy hours. </p>
+            <p>A decentralized gathering of all people interested in cryptocurrencies and related topics. It consists of many independent events across Jun 2 - 11, including conferences, hackathons, workshops, community meetups, as well as various parties and happy hours. </p>
             <p class="mt-5">These events will focus on a variety of different cryptocurrency ecosystems and topics such as hard money, payments, DeFi, Web3, DAOs, CryptoEconomics, NFTs, DeSci, mining, and many more</p>
             <p class="mt-5">It is a chain agnostic and neutral community-led initiative. Our goal is not to promote one single blockchain, but rather to stimulate discussion between proponents of different solutions. The common theme is financial freedom, decentralization and privacy.</p>
         </div>
