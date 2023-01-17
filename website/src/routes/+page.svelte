@@ -8,7 +8,7 @@
     <meta name="twitter:site" content="@PrgBlockWeek">
     <meta name="twitter:title" content=" Prague Blockchain Week | June 2-11, 2023">
     <meta name="twitter:description" content="A decentralized gathering of all people interested in cryptocurrencies and related topics. It consists of many independent events across Jun 2 - 11, including conferences, hackathons and others.">
-    <meta name="twitter:image" content="/img/pbw23-twitter-card.png">
+    <meta name="twitter:image" content="https://prgblockweek.com/img/pbw23-banner-square.png">
 </svelte:head>
 
 <div class="w-full bg-pbw-red text-pbw-white text-xl relative">
