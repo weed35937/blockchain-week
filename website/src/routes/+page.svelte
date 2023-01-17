@@ -1,5 +1,14 @@
 <svelte:head>
     <title>Prague Blockchain Week 2023 | June 2-11, 2023</title>
+	<meta name="description" content="A decentralized gathering of all people interested in cryptocurrencies and related topics. It consists of many independent events across Jun 2 - 11, including conferences, hackathons, workshops, community meetups, as well as various parties and happy hours.">
+    <meta name="keywords" content="Conference, Hackathon, Cryptocurrency, Bitcoin, Ethereum, Polkadot, Cosmos, DeFi, Web3, DAO, NFT">
+    <meta name="author" content="UTXO Foundation">
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@PrgBlockWeek">
+    <meta name="twitter:title" content=" Prague Blockchain Week | June 2-11, 2023">
+    <meta name="twitter:description" content="A decentralized gathering of all people interested in cryptocurrencies and related topics. It consists of many independent events across Jun 2 - 11, including conferences, hackathons and others.">
+    <meta name="twitter:image" content="/img/pbw23-twitter-card.png">
 </svelte:head>
 
 <div class="w-full bg-pbw-red text-pbw-white text-xl relative">
@@ -19,6 +28,7 @@
             <p>A decentralized gathering of all people interested in cryptocurrencies and related topics. It consists of <a href="https://guide.prgblockweek.com/events">many independent events</a> across Jun 2 - 11, including conferences, hackathons, workshops, community meetups, as well as various parties and happy hours. </p>
             <p class="mt-5">These events will focus on a variety of different cryptocurrency ecosystems and topics such as hard money, payments, DeFi, Web3, DAOs, CryptoEconomics, NFTs, DeSci, mining, and many more.</p>
             <p class="mt-5">It is a chain agnostic and neutral <a href="https://guide.prgblockweek.com/our-mission-and-team">community-led initiative</a>. Our goal is not to promote one single blockchain, but rather to stimulate discussion between proponents of different solutions. The common theme is financial freedom, decentralization and privacy.</p>
+            <!--p class="mt-5 text-3xl text-center text-pbw-yellow">💛 #PBW23</p-->
         </div>
         <div class="flex flex-wrap gap-10 items-center text-center text-xl md:text-2xl uppercase mt-2 md:mt-7 pb-16 md:pb-24 text-pbw-yellow p-7">
             <div class="flex-grow"><a href="https://guide.prgblockweek.com" class="button">Read documentation</a></div>
