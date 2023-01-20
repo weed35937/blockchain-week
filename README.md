@@ -1,6 +1,6 @@
- # Prague Blockchain Week 2023 (PBW23) 
+ # Prague Blockchain Week (PBW) 
 
- A decentralized conference hosted by [UTXO Foundation](https://utxo.foundation/). We are using this GitHub repository and website to coordinate event listings.
+ A decentralized conference hosted by [UTXO Foundation](https://utxo.foundation/). We are using this GitHub repository to coordinate event listings.
 
 https://prgblockweek.com
 
