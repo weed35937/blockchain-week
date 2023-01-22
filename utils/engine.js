@@ -8,19 +8,26 @@ export class DeConfEngine {
     this.options = options;
     this.srcDir = this.options.srcDir || "./data";
     this.outputDir = this.options.outputDir || "./dist";
+    this.publicUrl = this.options.publicUrl || "https://data.prgblockweek.com";
   }
   async init() {}
   async build() {
     await emptyDir(this.outputDir);
 
-    this.entries = {};
+    this.entries = [];
     for await (const f of Deno.readDir(this.srcDir)) {
       if (!f.name.match(/^\d+$/)) continue;
       const pkg = new DeConf_Package(f.name);
       await pkg.load([this.srcDir, f.name]);
       console.table(pkg.data.events.map((e) => e.data.index), ["name"]);
       await pkg.write(this.outputDir);
+      this.entries.push(pkg)
     }
+    await _jsonWrite([this.outputDir, "index.json"], this.entries.map(p => ({
+      id: p.id,
+      name: p.data.index.name,
+      data: [this.publicUrl,p.id].join("/")
+    })))
   }
 }
 
@@ -48,7 +55,7 @@ class DeConf_Package {
   async write(dir) {
     const outputDir = [dir, this.id].join("/");
     await emptyDir(outputDir);
-    await _jsonWrite([outputDir, "bundle.json"], this.toJSON());
+    await _jsonWrite([outputDir, "index.json"], this.toJSON());
   }
   toJSON() {
     return Object.assign({ id: this.id }, this.data.index, {
