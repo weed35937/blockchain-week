@@ -1,38 +1,33 @@
-name: Test, build, deploy 
-
+name: Test, build, deploy
 on:
   push:
     branches:
-      - master  # Set a branch to deploy
+      - main # Set a branch to deploy
   pull_request:
-
 jobs:
   deploy:
     runs-on: ubuntu-latest
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
     steps:
-      - uses: actions/checkout@v3
+      - name: Setup repo
+        uses: actions/checkout@v3
         with:
-           fetch-depth: 0
-
-      - uses: denoland/setup-deno@v1
+          fetch-depth: 0
+      - name: Setup Deno
+        #uses: denoland/setup-deno@v1
+        uses: denoland/setup-deno@9db7f66e8e16b5699a514448ce994936c63f0d54
         with:
           deno-version: v1.x
-
       - uses: szenius/set-timezone@v1.0
         with:
           timezoneLinux: "Europe/Prague"
-
       - name: Build sources
         run: make
-
-#      - name: Build changelog
-#        run: make changelog
-
+        #      - name: Build changelog
+        #        run: make changelog
       - name: Add custom domain
         run: "touch dist/CNAME && echo \"data.prgblockweek.com\" >> dist/CNAME"
-
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         if: ${{ github.ref == 'refs/heads/master' }}
