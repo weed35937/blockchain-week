@@ -17,4 +17,4 @@ build:
 	deno run --unstable --allow-read --allow-write utils/exec.js build
 
 event-sync:
-	deno run --unstable --allow-read --allow-write --allow-net utils/eventSync.js
+	deno run --unstable --allow-read --allow-write --allow-net utils/eventSync.js $(event)

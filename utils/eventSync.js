@@ -7,6 +7,11 @@ await dc.init();
 const entry = dc.entries[dc.entries.length - 1];
 console.log(`entry=${entry.id}`);
 
-for (const event of entry.data.events) {
-  await event.sync();
+if (Deno.args[0]) {
+  const ev = entry.data.events.find((e) => e.id === Deno.args[0]);
+  await ev.sync();
+} else {
+  for (const event of entry.data.events) {
+    await event.sync();
+  }
 }

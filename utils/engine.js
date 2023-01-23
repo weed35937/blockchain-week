@@ -133,6 +133,9 @@ class DeConf_Event {
     // data
     if (module.data) {
       const data = await module.data(syncTools);
+      if (!JSON.stringify(data)) {
+        return null;
+      }
       await _jsonWrite([this.dir, "data.json"].join("/"), data);
     }
   }

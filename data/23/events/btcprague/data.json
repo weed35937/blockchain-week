@@ -1,0 +1,56 @@
+{
+  "speakers": [
+    {
+      "name": "Knut Svanholm",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2022/11/btcprague-knutsvanholm-320x320.jpg",
+      "bio": "Author of the „∞ / 21M” book",
+      "web": {
+        "url": "https://www.knutsvanholm.com/"
+      }
+    },
+    {
+      "name": "Anita Posch",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/01/Anita-Posch-2-320x320.png",
+      "bio": "Bitcoin educator & author"
+    },
+    {
+      "name": "Dušan Matuška",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/01/Dusan-Matuska-320x320.png",
+      "bio": "Bitcoin educator & miner"
+    },
+    {
+      "name": "Roman Reher",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2022/11/btcprague-romanreher-320x320.jpg",
+      "bio": "Founder of YT channel \"Blocktrainer\"",
+      "twitter": "blocktrainer",
+      "web": {
+        "url": "https://www.blocktrainer.de/"
+      }
+    },
+    {
+      "name": "Giacomo Zucco",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2022/11/btcprague-giacomozucco-320x320.jpg",
+      "bio": "Bitcoin entrepreneur & consultant",
+      "twitter": "giacomozucco"
+    },
+    {
+      "name": "Wolf von Laer",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/01/Wolf-von-Laer-320x320.jpg",
+      "bio": "CEO of Students For Liberty"
+    },
+    {
+      "name": "Benjamin de Waal",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/01/Ben-de-Waal.jpg",
+      "bio": "VP Engineering of Swan Bitcoin"
+    },
+    {
+      "name": "Stephan Livera",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2022/10/btcprague-stephanlivera-320x320.jpg",
+      "bio": "Host of “Stephan Livera Podcast”",
+      "twitter": "stephanlivera",
+      "web": {
+        "url": "https://stephanlivera.com/"
+      }
+    }
+  ]
+}
