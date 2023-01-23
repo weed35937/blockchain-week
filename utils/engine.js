@@ -1,6 +1,7 @@
 import {
   copy,
   emptyDir,
+  ensureDir,
   exists,
 } from "https://deno.land/std@0.173.0/fs/mod.ts";
 import { parse as tomlParse } from "https://deno.land/std@0.173.0/encoding/toml.ts";
@@ -184,7 +185,28 @@ class DeConf_Collection {
       if (!JSON.stringify(data)) {
         return null;
       }
+
+      if (data.speakers) {
+        const photosDir = [this.dir, "photos"].join("/");
+        await emptyDir(photosDir);
+        for (const sp of data.speakers) {
+          if (!sp.photoUrl) continue;
+          const photoFetch = await fetch(sp.photoUrl);
+          const ext = await posix.extname(sp.photoUrl);
+          const dir = [photosDir, "speakers"].join("/");
+          await ensureDir(dir);
+          const nameId = sp.name.toLowerCase().replace(/ /g, "-");
+          if (photoFetch.body) {
+            const fn = [dir, nameId + ext].join("/");
+            console.log(`${fn} writed`);
+            const file = await Deno.open(fn, { write: true, create: true });
+            await photoFetch.body.pipeTo(file.writable);
+            sp.photo = ["photos", "speakers", nameId + ext].join("/");
+          }
+        }
+      }
       await _jsonWrite([this.dir, "data.json"].join("/"), data);
+      this.data.sync = data;
     }
   }
 
@@ -197,6 +219,25 @@ class DeConf_Collection {
       await _fileCopy([this.dir, fnIn].join("/"), [outputDir, fnOut].join("/"));
       const url = [publicUrl, fnOut].join("/");
       this.data.index[asset] = url;
+    }
+    if (this.data.sync && this.data.sync.speakers) {
+      const outDir = [outputDir, this.id, "photos", "speakers"].join("/");
+      await ensureDir(outDir);
+      for (const sp of this.data.sync.speakers) {
+        if (!sp.photo) continue;
+        const srcFile = [this.dir, sp.photo].join("/");
+        if (await exists(srcFile)) {
+          const outFile = [outDir, posix.basename(sp.photo)].join("/");
+          await _fileCopy(srcFile, outFile);
+          sp.photoUrl = [
+            publicUrl,
+            this.id,
+            "photos",
+            "speakers",
+            posix.basename(sp.photo),
+          ].join("/");
+        }
+      }
     }
   }
 

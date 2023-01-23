@@ -3,12 +3,14 @@
     {
       "name": "Anita Posch",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/01/Anita-Posch-2-320x320.png",
-      "bio": "Bitcoin educator & author"
+      "bio": "Bitcoin educator & author",
+      "photo": "photos/speakers/anita-posch.png"
     },
     {
       "name": "Dušan Matuška",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/01/Dusan-Matuska-320x320.png",
-      "bio": "Bitcoin educator & miner"
+      "bio": "Bitcoin educator & miner",
+      "photo": "photos/speakers/dušan-matuška.png"
     },
     {
       "name": "Roman Reher",
@@ -17,23 +19,27 @@
       "twitter": "blocktrainer",
       "web": {
         "url": "https://www.blocktrainer.de/"
-      }
+      },
+      "photo": "photos/speakers/roman-reher.jpg"
     },
     {
       "name": "Giacomo Zucco",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2022/11/btcprague-giacomozucco-320x320.jpg",
       "bio": "Bitcoin entrepreneur & consultant",
-      "twitter": "giacomozucco"
+      "twitter": "giacomozucco",
+      "photo": "photos/speakers/giacomo-zucco.jpg"
     },
     {
       "name": "Wolf von Laer",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/01/Wolf-von-Laer-320x320.jpg",
-      "bio": "CEO of Students For Liberty"
+      "bio": "CEO of Students For Liberty",
+      "photo": "photos/speakers/wolf-von-laer.jpg"
     },
     {
       "name": "Benjamin de Waal",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/01/Ben-de-Waal.jpg",
-      "bio": "VP Engineering of Swan Bitcoin"
+      "bio": "VP Engineering of Swan Bitcoin",
+      "photo": "photos/speakers/benjamin-de-waal.jpg"
     },
     {
       "name": "Stephan Livera",
@@ -42,13 +48,15 @@
       "twitter": "stephanlivera",
       "web": {
         "url": "https://stephanlivera.com/"
-      }
+      },
+      "photo": "photos/speakers/stephan-livera.jpg"
     },
     {
       "name": "Gleb Naumenko",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2022/11/btcprague-glebnaumenko-320x320.jpg",
       "bio": "Bitcoin Core and Lightning Network developer",
-      "twitter": "ffstls"
+      "twitter": "ffstls",
+      "photo": "photos/speakers/gleb-naumenko.jpg"
     }
   ]
 }
