@@ -44,7 +44,7 @@ difficulty = "All Welcome"
 
 # tags for the event, will show up as labels.
 # pick 1-4
-tags = ["Solarpunk"]
+tags = ["solarpunk"]
 
 union = "gm-events"
 

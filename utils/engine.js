@@ -85,7 +85,7 @@ class DeConf_Package {
     // load sub-events
     pkg.events = [];
     for await (const ef of Deno.readDir([...specDir, "events"].join("/"))) {
-      const m = ef.name.match(/^([\w\d\-]+)(\.toml|)$/)
+      const m = ef.name.match(/^([\w\d\-]+)(\.toml|)$/);
       if (!m) continue;
       const ev = new DeConf_Event(m[1]);
       await ev.load([...specDir, "events", ef.name]);
@@ -115,13 +115,13 @@ class DeConf_Event {
 
   async load(path) {
     let fn;
-    if (path[path.length-1].match(/^(.+)\.toml$/)) {
-      fn = path
+    if (path[path.length - 1].match(/^(.+)\.toml$/)) {
+      fn = path;
     } else {
       this.dir = path.join("/");
-      fn = [...path, "index.toml"]
+      fn = [...path, "index.toml"];
     }
-    
+
     const efIndex = await _tomlLoad(fn.join("/"));
     const data = {
       index: { id: this.id, ...efIndex },

@@ -1,14 +1,6 @@
 {
   "speakers": [
     {
-      "name": "Knut Svanholm",
-      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2022/11/btcprague-knutsvanholm-320x320.jpg",
-      "bio": "Author of the „∞ / 21M” book",
-      "web": {
-        "url": "https://www.knutsvanholm.com/"
-      }
-    },
-    {
       "name": "Anita Posch",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/01/Anita-Posch-2-320x320.png",
       "bio": "Bitcoin educator & author"
@@ -51,6 +43,12 @@
       "web": {
         "url": "https://stephanlivera.com/"
       }
+    },
+    {
+      "name": "Gleb Naumenko",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2022/11/btcprague-glebnaumenko-320x320.jpg",
+      "bio": "Bitcoin Core and Lightning Network developer",
+      "twitter": "ffstls"
     }
   ]
 }
