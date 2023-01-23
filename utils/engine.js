@@ -127,7 +127,8 @@ class DeConf_Event {
       index: { id: this.id, ...efIndex },
     };
     if (this.dir) {
-      const syncDataFn = [...this.dir, "data.json"].join("/");
+      const syncDataFn = [this.dir, "data.json"].join("/");
+      console.log(syncDataFn);
       if (await exists(syncDataFn)) {
         data.sync = await _jsonLoad(syncDataFn);
       }
