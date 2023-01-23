@@ -1,7 +1,8 @@
 import { emptyDir, exists } from "https://deno.land/std@0.119.0/fs/mod.ts";
 import { parse as tomlParse } from "https://deno.land/std@0.173.0/encoding/toml.ts";
+import { load as yamlLoad } from "https://deno.land/x/js_yaml_port@3.14.0/js-yaml.js";
 
-const _silentMode = false;
+let _silentMode = false;
 
 export class DeConfEngine {
   constructor(options = {}) {
@@ -11,19 +12,25 @@ export class DeConfEngine {
     this.publicUrl = this.options.publicUrl || "https://data.prgblockweek.com";
     this.githubUrl = this.options.githubUrl ||
       "https://github.com/utxo-foundation/prague-blockchain-week/tree/main/data";
-  }
-  async init() {}
-  async build() {
-    await emptyDir(this.outputDir);
 
+    if (options.silentMode) {
+      _silentMode = true;
+    }
+  }
+  async init() {
     this.entries = [];
     for await (const f of Deno.readDir(this.srcDir)) {
       if (!f.name.match(/^\d+$/)) continue;
       const pkg = new DeConf_Package(f.name, this);
       await pkg.load([this.srcDir, f.name]);
+      this.entries.push(pkg);
+    }
+  }
+  async build() {
+    await emptyDir(this.outputDir);
+    for (const pkg of this.entries) {
       console.table(pkg.data.events.map((e) => e.data.index), ["name"]);
       await pkg.write(this.outputDir);
-      this.entries.push(pkg);
     }
     await _jsonWrite(
       [this.outputDir, "index.json"],
@@ -31,9 +38,32 @@ export class DeConfEngine {
         id: p.id,
         name: p.data.index.name,
         dataUrl: p.data.index.dataUrl,
-        dataGithubUrl: p.data.index.dataGithubUrl,
       })),
     );
+  }
+  async schemas(version = "1") {
+    const schemaDir = `./utils/schema/${version}`;
+    const arr = [];
+    for await (const f of Deno.readDir(schemaDir)) {
+      const m = f.name.match(/^(.+)\.yaml$/);
+      if (!m) {
+        continue;
+      }
+      arr.push({
+        name: m[1],
+        schema: Object.assign(
+          { $id: this.schemaUrl(version, m[1]) },
+          await _yamlLoad([schemaDir, f.name].join("/")),
+        ),
+      });
+    }
+    return arr.sort((x, y) => x.name > y.name ? 1 : -1);
+  }
+  schemaUrl(version = "1", type = "index") {
+    return `${this.publicUrl}/schema/${version}/${type}.json`;
+  }
+  entriesList() {
+    return this.entries.map((e) => e.id);
   }
 }
 
@@ -50,7 +80,7 @@ class DeConf_Package {
     pkg.index = await _tomlLoad([...specDir, "index.toml"].join("/"));
     pkg.index.dataUrl = [this.engine.publicUrl, this.id].join("/");
     pkg.index.dataGithubUrl = [this.engine.githubUrl, this.id].join("/");
-    console.log(`\n##\n## [${pkg.index.name}] \n##`);
+    //console.log(`\n##\n## [${pkg.index.name}] \n##`);
     // load sub-events
     pkg.events = [];
     for await (const ef of Deno.readDir([...specDir, "events"].join("/"))) {
@@ -83,7 +113,7 @@ class DeConf_Event {
   async load(dir) {
     const efIndex = await _tomlLoad([...dir, "index.toml"].join("/"));
     const event = {
-      index: efIndex,
+      index: { id: this.id, ...efIndex },
     };
     this.data = event;
   }
@@ -95,6 +125,9 @@ class DeConf_Event {
 
 async function _tomlLoad(fn) {
   return tomlParse(await Deno.readTextFile(fn));
+}
+async function _yamlLoad(fn) {
+  return yamlLoad(await Deno.readTextFile(fn));
 }
 async function _jsonWrite(fn, data) {
   if (Array.isArray(fn)) {

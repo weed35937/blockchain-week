@@ -1,1 +1,19 @@
 name = "UTXO.23"
+shortname = "UTXO"
+org = "UTXO Foundation"
+dri = "burningtree"
+date = "2023-06-02"
+days = 3
+times = "10:00 - 19:00"
+venueName = "Gabriel Loci"
+venueUrl = "https://goo.gl/maps/TggARBN8xpoht2uM6"
+venueAddress = "Holečkova 106/10, 150 00 Praha 5-Smíchov"
+attendees = "1200"
+tags = ["Cryptocurrency", "Czech", "Slovak"]
+
+[links]
+web = "https://utxo.cz/"
+docs = "https://docs.utxo.cz/udalosti/23"
+twitter = "https://twitter.com/utxoprague"
+telegram = "https://t.me/utxoprague"
+youtube = "https://www.youtube.com/c/UTXOPrague"

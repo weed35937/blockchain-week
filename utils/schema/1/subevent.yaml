@@ -1,0 +1,92 @@
+type: object
+title: Událost
+additionalProperties: false
+required:
+  - id
+  - type
+  - name
+  - duration
+properties:
+  id:
+    type: string
+    pattern: "^[a-z0-9-]+$"
+    title: ID události
+  name:
+    type: string
+    title: Název události
+  type:
+    type: string
+    enum:
+      - workshop
+      - talk
+      - panel
+      - lightning-series
+      - lightning
+      - campfire
+      - other
+    title: Typ události
+  track:
+    type: string
+    pattern: "^[a-z0-9-]+$"
+    title: Programové sekce
+  speakers:
+    type: array
+    items:
+      type: string
+      pattern: "^[a-z0-9-]+$"
+    title: Přednášející
+  duration:
+    type: number
+    title: Doba trvání
+  description:
+    type: string
+    title: Popis události
+  after:
+    type: array
+    items:
+      type: string
+      pattern: "^[a-z0-9-]+$"
+  rightAfter:
+    type: string
+    pattern: "^[a-z0-9-]+$"
+  properties:
+    type: object
+  parent:
+    type: string
+    pattern: "^[a-z0-9-]+$"
+    title: Nadřazená událost
+  tags:
+    type: array
+    items:
+      type: string
+  difficulty:
+    type: string
+    enum:
+      - beginner
+      - advanced
+      - expert
+  fixed:
+    type: object
+    additionalProperties: false
+    properties:
+      time:
+        type: string
+      stage:
+        type: string
+      stages:
+        type: array
+        items:
+          type: string
+      date:
+        type: string
+  video:
+    type: object
+    additionalProperties: false
+    properties:
+      youtube:
+        type: string
+
+  popularity:
+    type: number
+    minimum: 0
+    maximum: 1

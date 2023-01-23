@@ -1,16 +1,14 @@
 # the name of your event
 name = "ETHPrague 2023"
 
+shortname = "ETHPrague"
+
 # the name of the group organizing the event
 org = "Paralelní Polis"
 
 # the github handle of the directly responsible individual for this event
 # (this person will coordinate with devent organizers)
 dri = ""
-
-# the website of the event
-# make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
-website = "https://ethprague.com/"
 
 # the start date of the event
 date = "2023-06-09"
@@ -22,7 +20,8 @@ days = 3
 times = "09:00 - 20:00"
 
 # the event venue name (will show up on the event card - TODO)
-venueName = "[Paralelní Polis & La Fabrika](https://goo.gl/maps/rVo6JRN59aodx5Pj7)"
+venueName = "Paralelní Polis & La Fabrika"
+venueUrl = "https://goo.gl/maps/rVo6JRN59aodx5Pj7"
 
 # the event venue address (will show up on a map -- TODO)
 venueAddress = "Dělnická 475/43, 170 00 Praha 7"
@@ -51,3 +50,11 @@ logomark = "/logomarks/coinfeedslm.png"
 # will show up when the user clicks the event card.
 description = """
 """
+
+[links]
+
+# the website of the event
+# make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
+web = "https://ethprague.com/"
+
+
