@@ -109,11 +109,11 @@ class DeConf_Package {
   async assetsWrite(outputDir) {
     for (const colName of this.collections) {
       for (const item of this.data[colName]) {
-        const dir = [outputDir, "assets", colName].join("/");
+        const dir = [outputDir, ".assets", colName].join("/");
         await emptyDir(dir);
         await item.assetsWrite(
           dir,
-          [this.engine.publicUrl, this.id, "assets", colName].join(
+          [this.engine.publicUrl, this.id, ".assets", colName].join(
             "/",
           ),
         );
