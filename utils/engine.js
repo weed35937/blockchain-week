@@ -113,7 +113,7 @@ class DeConf_Package {
         await emptyDir(dir);
         await item.assetsWrite(
           dir,
-          [this.engine.publicUrl, this.id, "assets", colName, item.id].join(
+          [this.engine.publicUrl, this.id, "assets", colName].join(
             "/",
           ),
         );
@@ -185,12 +185,12 @@ class DeConf_Collection {
 
   async assetsWrite(outputDir, publicUrl) {
     for (const asset of this.assets) {
-      const fn = this.data.index[asset];
-      if (!fn) continue;
-      const dir = [outputDir, this.id].join("/");
-      await emptyDir(dir);
-      await _fileCopy([this.dir, fn].join("/"), [dir, fn].join("/"));
-      const url = [publicUrl, fn].join("/");
+      if (!this.data.index[asset]) continue;
+      const fnIn = this.data.index[asset];
+      const fnOut = [this.id, this.data.index[asset]].join("-");
+      await emptyDir(outputDir);
+      await _fileCopy([this.dir, fnIn].join("/"), [outputDir, fnOut].join("/"));
+      const url = [publicUrl, fnOut].join("/");
       this.data.index[asset] = url;
     }
   }
