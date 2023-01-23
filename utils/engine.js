@@ -28,7 +28,7 @@ export class DeConfEngine {
       this.entries.map((p) => ({
         id: p.id,
         name: p.data.index.name,
-        data: [this.publicUrl, p.id].join("/"),
+        dataUrl: [this.publicUrl, p.id].join("/"),
       })),
     );
   }
