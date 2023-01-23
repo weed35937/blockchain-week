@@ -85,8 +85,9 @@ class DeConf_Package {
     // load sub-events
     pkg.events = [];
     for await (const ef of Deno.readDir([...specDir, "events"].join("/"))) {
-      if (!ef.name.match(/^[\w\d\-]+$/)) continue;
-      const ev = new DeConf_Event(ef.name);
+      const m = ef.name.match(/^([\w\d\-]+)(\.toml|)$/)
+      if (!m) continue;
+      const ev = new DeConf_Event(m[1]);
       await ev.load([...specDir, "events", ef.name]);
       pkg.events.push(ev);
     }
@@ -112,15 +113,24 @@ class DeConf_Event {
     this.dir = null;
   }
 
-  async load(dir) {
-    this.dir = dir.join("/");
-    const efIndex = await _tomlLoad([...dir, "index.toml"].join("/"));
+  async load(path) {
+    let fn;
+    if (path[path.length-1].match(/^(.+)\.toml$/)) {
+      fn = path
+    } else {
+      this.dir = path.join("/");
+      fn = [...path, "index.toml"]
+    }
+    
+    const efIndex = await _tomlLoad(fn.join("/"));
     const data = {
       index: { id: this.id, ...efIndex },
     };
-    const syncDataFn = [...dir, "data.json"].join("/");
-    if (await exists(syncDataFn)) {
-      data.sync = await _jsonLoad(syncDataFn);
+    if (this.dir) {
+      const syncDataFn = [...this.dir, "data.json"].join("/");
+      if (await exists(syncDataFn)) {
+        data.sync = await _jsonLoad(syncDataFn);
+      }
     }
     this.data = data;
   }

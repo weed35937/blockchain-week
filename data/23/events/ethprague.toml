@@ -46,11 +46,13 @@ difficulty = "All Welcome"
 # pick 1-4
 tags = ["Solarpunk"]
 
+union = "gm-events"
+
 # a color, to group key events visually. use sparingly
 # color=""
 
 # A small logomark for the corner of the event
-logomark = "/logomarks/coinfeedslm.png"
+logomark = "./logo.png"
 
 # a description of the event.
 # will show up when the user clicks the event card.
