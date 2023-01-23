@@ -191,7 +191,8 @@ class DeConf_Collection {
     for (const asset of this.assets) {
       if (!this.data.index[asset]) continue;
       const fnIn = this.data.index[asset];
-      const fnOut = [this.id, this.data.index[asset]].join("-");
+      const fnOut = [this.id, this.data.index[asset]].join("/");
+      await emptyDir([outputDir, this.id].join("/"));
       await _fileCopy([this.dir, fnIn].join("/"), [outputDir, fnOut].join("/"));
       const url = [publicUrl, fnOut].join("/");
       this.data.index[asset] = url;
