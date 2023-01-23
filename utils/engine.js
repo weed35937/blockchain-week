@@ -9,6 +9,7 @@ export class DeConfEngine {
     this.srcDir = this.options.srcDir || "./data";
     this.outputDir = this.options.outputDir || "./dist";
     this.publicUrl = this.options.publicUrl || "https://data.prgblockweek.com";
+    this.githubUrl = this.options.githubUrl || "https://github.com/utxo-foundation/prague-blockchain-week/tree/main/data";
   }
   async init() {}
   async build() {
@@ -29,6 +30,7 @@ export class DeConfEngine {
         id: p.id,
         name: p.data.index.name,
         dataUrl: [this.publicUrl, p.id].join("/"),
+        githubUrl: [this.githubUrl, p.id].join("/")
       })),
     );
   }
