@@ -73,6 +73,7 @@ class DeConf_Package {
     this.id = id;
     this.data = null;
     this.engine = engine;
+    this.collections = ["events", "unions"];
   }
 
   async load(specDir) {
@@ -91,6 +92,7 @@ class DeConf_Package {
   async write(dir) {
     const outputDir = [dir, this.id].join("/");
     await emptyDir(outputDir);
+    await this.assetsWrite(outputDir);
     await _jsonWrite([outputDir, "index.json"], this.toJSON());
   }
   async loadCollection(specDir, type) {
@@ -98,11 +100,25 @@ class DeConf_Package {
     for await (const ef of Deno.readDir([...specDir, type].join("/"))) {
       const m = ef.name.match(/^([\w\d\-]+)(\.toml|)$/);
       if (!m) continue;
-      const ev = new DeConf_Collection(m[1]);
+      const ev = new DeConf_Collection(type, m[1]);
       await ev.load([...specDir, type, ef.name]);
       arr.push(ev);
     }
     return arr;
+  }
+  async assetsWrite(outputDir) {
+    for (const colName of this.collections) {
+      for (const item of this.data[colName]) {
+        const dir = [outputDir, "assets", colName].join("/");
+        await emptyDir(dir);
+        await item.assetsWrite(
+          dir,
+          [this.engine.publicUrl, this.id, "assets", colName, item.id].join(
+            "/",
+          ),
+        );
+      }
+    }
   }
   toJSON() {
     return Object.assign({ id: this.id }, this.data.index, {
@@ -114,10 +130,12 @@ class DeConf_Package {
 }
 
 class DeConf_Collection {
-  constructor(id) {
+  constructor(type, id) {
+    this.type = type;
     this.id = id;
     this.data = null;
     this.dir = null;
+    this.assets = ["logo"];
   }
 
   async load(path) {
@@ -138,6 +156,14 @@ class DeConf_Collection {
       if (await exists(syncDataFn)) {
         data.sync = await _jsonLoad(syncDataFn);
       }
+      for (const asset of this.assets) {
+        if (data.index[asset]) {
+          const assetFn = [this.dir, data.index[asset]].join("/");
+          if (!await exists(assetFn)) {
+            throw new Error(`Asset not exists: ${assetFn}`);
+          }
+        }
+      }
     }
     this.data = data;
   }
@@ -157,11 +183,26 @@ class DeConf_Collection {
     }
   }
 
+  async assetsWrite(outputDir, publicUrl) {
+    for (const asset of this.assets) {
+      const fn = this.data.index[asset];
+      if (!fn) continue;
+      const dir = [outputDir, this.id].join("/");
+      await emptyDir(dir);
+      await _fileCopy([this.dir, fn].join("/"), [dir, fn].join("/"));
+      const url = [publicUrl, fn].join("/");
+      this.data.index[asset] = url;
+    }
+  }
+
   toJSON() {
     return Object.assign({ id: this.id }, this.data.index, this.data.sync);
   }
 }
 
+async function _fileCopy(from, to) {
+  return Deno.copyFile(from, to);
+}
 async function _tomlLoad(fn) {
   return tomlParse(await Deno.readTextFile(fn));
 }

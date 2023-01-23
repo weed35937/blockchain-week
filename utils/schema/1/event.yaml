@@ -97,6 +97,8 @@ properties:
     pattern: "^[a-z0-9-]+$"      
   logomark:
     type: string
+  logo:
+    type: string
   description:
     type: string
   links:

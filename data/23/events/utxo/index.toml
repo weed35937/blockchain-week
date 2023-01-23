@@ -13,6 +13,7 @@ venueUrl = "https://goo.gl/maps/TggARBN8xpoht2uM6"
 languages = ["czech", "slovak"]
 attendees = "1200"
 #tags = []
+logo = "logo.jpeg"
 union = 'utxo-events'
 
 [links]
