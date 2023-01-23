@@ -1,5 +1,8 @@
 # Prague Blockchain Week (PBW)
 
+
+[![Test, build, deploy](https://github.com/utxo-foundation/prague-blockchain-week/actions/workflows/deploy.yml/badge.svg)](https://github.com/utxo-foundation/prague-blockchain-week/actions/workflows/deploy.yml)
+
 A decentralized conference hosted by
 [UTXO Foundation](https://utxo.foundation/). We are using this GitHub repository
 to coordinate event listings.
