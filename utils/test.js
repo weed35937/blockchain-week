@@ -18,8 +18,8 @@ for (const item of schemas) {
 }
 
 const colMapper = {
-  events: "event",
   unions: "union",
+  events: "event",
 };
 
 function checkCollection(entry, entryInfo, colName) {
@@ -31,6 +31,13 @@ function checkCollection(entry, entryInfo, colName) {
         throw validators[k].errors;
       }
     });
+    if (colName === "events" && event.data.index.union) {
+      Deno.test(`[${entryInfo} ${colName}=${event.id}] union link`, () => {
+        if (!entry.data.unions.find((u) => u.id === event.data.index.union)) {
+          throw new Error(`Union not exists = ${event.data.index.union}`);
+        }
+      });
+    }
   }
 }
 
