@@ -4,6 +4,12 @@ additionalProperties: false
 required:
   - id
   - name
+  - types
+  - status
+  - org
+  - dri
+  - date
+  - venueName
 properties:
   id:
     type: string
@@ -15,6 +21,23 @@ properties:
   shortname:
     type: string
     title: Short name of event
+  types:
+    type: array
+    items:
+      type: string
+      enum:
+        - conference
+        - hackathon
+        - meetup
+        - expo
+        - party
+        - other
+  status:
+    type: string
+    enum:
+      - idea
+      - planning
+      - published
   org:
     type: string
     title: Organizator of event
@@ -40,9 +63,29 @@ properties:
   venueUrl:
     type: string
     title: Venue map URL
+  languages:
+    type: array
+    items:
+      type: string
+      enum:
+        - english
+        - czech
+        - slovak
   attendees:
     type: string
     title: Max number of attendees
+  chains:
+    type: array
+    items:
+      type: string
+      enum:
+        - bitcoin
+        - ethereum
+        - cosmos
+        - polkadot
+        - monero
+        - cardano
+        - other
   difficulty:
     type: string
   tags:

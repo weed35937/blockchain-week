@@ -1,15 +1,18 @@
 name = "UTXO.23"
 shortname = "UTXO"
+types = ["conference"]
+status = "planning"
 org = "UTXO Foundation"
 dri = "burningtree"
 date = "2023-06-02"
 days = 3
 times = "10:00 - 19:00"
 venueName = "Gabriel Loci"
-venueUrl = "https://goo.gl/maps/TggARBN8xpoht2uM6"
 venueAddress = "Holečkova 106/10, 150 00 Praha 5-Smíchov"
+venueUrl = "https://goo.gl/maps/TggARBN8xpoht2uM6"
+languages = ["czech", "slovak"]
 attendees = "1200"
-tags = ["Cryptocurrency", "Czech", "Slovak"]
+#tags = []
 
 [links]
 web = "https://utxo.cz/"

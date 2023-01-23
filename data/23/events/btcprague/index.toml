@@ -1,3 +1,19 @@
 # the name of your event
 name = "BTC Prague 2023"
 shortname = "BTC Prague"
+types = ["conference", "expo"]
+status = "published"
+chains = ["bitcoin"]
+org = "Twenty one milion"
+dri = ""
+date = "2023-06-08"
+days = 3
+venueName = "PVA Expo Letňany"
+venueAddress = "Beranových 667, 199 00 Praha 9"
+venueUrl = "https://goo.gl/maps/mvd8QeEfxM98EAVNA"
+languages = ["english", "czech", "slovak"]
+attendees = "10000"
+
+[links]
+web = "https://www.btcprague.com/"
+twitter = "https://twitter.com/BtcPrague"
