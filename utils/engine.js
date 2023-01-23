@@ -9,7 +9,8 @@ export class DeConfEngine {
     this.srcDir = this.options.srcDir || "./data";
     this.outputDir = this.options.outputDir || "./dist";
     this.publicUrl = this.options.publicUrl || "https://data.prgblockweek.com";
-    this.githubUrl = this.options.githubUrl || "https://github.com/utxo-foundation/prague-blockchain-week/tree/main/data";
+    this.githubUrl = this.options.githubUrl ||
+      "https://github.com/utxo-foundation/prague-blockchain-week/tree/main/data";
   }
   async init() {}
   async build() {
@@ -18,7 +19,7 @@ export class DeConfEngine {
     this.entries = [];
     for await (const f of Deno.readDir(this.srcDir)) {
       if (!f.name.match(/^\d+$/)) continue;
-      const pkg = new DeConf_Package(f.name);
+      const pkg = new DeConf_Package(f.name, this);
       await pkg.load([this.srcDir, f.name]);
       console.table(pkg.data.events.map((e) => e.data.index), ["name"]);
       await pkg.write(this.outputDir);
@@ -29,23 +30,26 @@ export class DeConfEngine {
       this.entries.map((p) => ({
         id: p.id,
         name: p.data.index.name,
-        dataUrl: [this.publicUrl, p.id].join("/"),
-        githubUrl: [this.githubUrl, p.id].join("/")
+        dataUrl: p.data.index.dataUrl,
+        dataGithubUrl: p.data.index.dataGithubUrl,
       })),
     );
   }
 }
 
 class DeConf_Package {
-  constructor(id) {
+  constructor(id, engine) {
     this.id = id;
     this.data = null;
+    this.engine = engine;
   }
 
   async load(specDir) {
     const pkg = {};
     // load year index
     pkg.index = await _tomlLoad([...specDir, "index.toml"].join("/"));
+    pkg.index.dataUrl = [this.engine.publicUrl, this.id].join("/");
+    pkg.index.dataGithubUrl = [this.engine.githubUrl, this.id].join("/");
     console.log(`\n##\n## [${pkg.index.name}] \n##`);
     // load sub-events
     pkg.events = [];
