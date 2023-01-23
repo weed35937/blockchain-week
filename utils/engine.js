@@ -2,6 +2,7 @@ import { emptyDir, exists } from "https://deno.land/std@0.119.0/fs/mod.ts";
 import { parse as tomlParse } from "https://deno.land/std@0.173.0/encoding/toml.ts";
 import { load as yamlLoad } from "https://deno.land/x/js_yaml_port@3.14.0/js-yaml.js";
 import { posix } from "https://deno.land/std@0.173.0/path/mod.ts";
+import { copy } from "https://deno.land/std@0.119.0/fs/copy.ts";
 import * as syncTools from "./syncTools.js";
 
 let _silentMode = false;
@@ -205,7 +206,7 @@ class DeConf_Collection {
 }
 
 async function _fileCopy(from, to) {
-  await Deno.copyFile(from, to);
+  await copy(from, to, { overwrite: true });
   if (!_silentMode) {
     console.log(`${from} copied to ${to}`);
   }
