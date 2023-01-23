@@ -52,7 +52,8 @@ union = "gm-events"
 # color=""
 
 # A small logomark for the corner of the event
-logomark = "./logo.png"
+#logomark = "./logo.png"
+logo = "logo.jpg"
 
 # a description of the event.
 # will show up when the user clicks the event card.
