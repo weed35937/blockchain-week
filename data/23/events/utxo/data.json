@@ -1,0 +1,110 @@
+{
+  "speakers": [
+    {
+      "id": "petr-lukac",
+      "name": "Petr Lukáč",
+      "twitter": "RuzovejSlon",
+      "bio": "Novinář, podcaster",
+      "orgs": "Podcast [Krypto Space](https://www.kryptospace.cz/)\n",
+      "tracks": [
+        "spolecnost"
+      ],
+      "country": "cz",
+      "photos": [
+        "web:png",
+        "twitter:jpg"
+      ]
+    },
+    {
+      "id": "tereza-starostova",
+      "name": "Tereza Starostová",
+      "twitter": "terkastarostova",
+      "orgs": "Spoluzakladatelka [Holky v Kryptu](https://holkyvkryptu.cz/), předsedkyně [UTXO Foundation](httsp://utxo.foundation)\n",
+      "tracks": [
+        "zaklady",
+        "spolecnost"
+      ],
+      "country": "cz",
+      "photos": [
+        "twitter:jpg"
+      ]
+    },
+    {
+      "id": "tree",
+      "name": "tree",
+      "twitter": "treecz",
+      "bio": "Libertarián, propagátor Web3 a DAOs",
+      "orgs": "Zakladatel [Gwei.cz](https://gwei.cz). Organizátor [ETHBrno](https://ethbrno.cz/), [UTXO.23](https://utxo.cz) a dalších akcí\n",
+      "country": "cz",
+      "tracks": [
+        "eth",
+        "defi",
+        "dao"
+      ],
+      "desc": "Founder of @gweicz | 🦄 #Ethereum #DeFi #DAO enthusiast 🦇🔊 | ✈️ #travel maniac | ⚡ riding #electricunicycle | 🇨🇿🇬🇧 lang | 🟡⚫ | 🇺🇦 Слава Україні!\n",
+      "photos": [
+        "twitter:jpg"
+      ]
+    }
+  ],
+  "tracks": [
+    {
+      "id": "zaklady",
+      "name": "Základy kryptoměn",
+      "shortname": "Základy",
+      "examples": "* principy otevřených projektů (blockchainů)\n* základy bezpečnosti a soukromí\n* peněženky - SW, HW\n* základy obchodování - DCA\n"
+    },
+    {
+      "id": "btc",
+      "name": "Bitcoin",
+      "examples": "* Bitcoin jako peníze\n* Lightning Network - adopce, implementace\n* Taproot\n* Bitcoin mining\n* smart-kontrakty na bitcoinu (RGB)\n"
+    },
+    {
+      "id": "eth",
+      "name": "Ethereum a smart-kontrakty obecně",
+      "shortname": "Ethereum",
+      "examples": "* Ethereum 2.0\n* Layer2 - rollupy\n* (EVM) Sidechainy\n* vývoj smart-kontraktů (solidity)\n* MEV - Miner Extractable Value\n"
+    },
+    {
+      "id": "defi",
+      "name": "Decentralizované finance (DeFi)",
+      "shortname": "DeFi",
+      "examples": "* stablecoiny\n* lending protokoly\n* DEX - decentralizované burzy\n* predikční trhy\n* futures/options kontrakty\n* tokenizace\n"
+    },
+    {
+      "id": "dao",
+      "name": "Decentralizované organizace (DAO)",
+      "shortname": "DAOs",
+      "examples": "* budoucnost organizací\n* showcase jednotlivých DAOs\n"
+    },
+    {
+      "id": "nft",
+      "name": "NFTs a Metaverse",
+      "shortname": "NFTs/Metaverse",
+      "examples": "* NFT umění\n* NFT collectibles\n* gaming\n* Metaverse\n"
+    },
+    {
+      "id": "alty",
+      "name": "Experimentální L1 blockchainy a další altcoiny",
+      "shortname": "Alternativní L1",
+      "examples": "* Polkadot\n* Cardano\n* Cosmos (Secret Network..)\n* Solana\n* NEAR\n* Monero\n* ...\n"
+    },
+    {
+      "id": "regulace",
+      "name": "Regulace a fiat rampy",
+      "shortname": "Regulace",
+      "examples": "* legislativa\n* směnárny a burzy\n* darování kryptoměn\n* insitucionální peníze v kryptoměnách\n"
+    },
+    {
+      "id": "spolecnost",
+      "name": "Krypto-společnost",
+      "shortname": "Společnost",
+      "examples": "* odluka peněz od státu\n* kryptoanarchismus, anarchokapitalismus, meritokracie\n* představení lokálních krypto-komunit\n* fenomén maximalismu\n"
+    },
+    {
+      "id": "other",
+      "name": "Ostatní",
+      "hidden": true
+    }
+  ]
+}

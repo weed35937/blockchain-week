@@ -1,6 +1,7 @@
 import { emptyDir, exists } from "https://deno.land/std@0.119.0/fs/mod.ts";
 import { parse as tomlParse } from "https://deno.land/std@0.173.0/encoding/toml.ts";
 import { load as yamlLoad } from "https://deno.land/x/js_yaml_port@3.14.0/js-yaml.js";
+import * as syncTools from "./syncTools.js";
 
 let _silentMode = false;
 
@@ -13,7 +14,7 @@ export class DeConfEngine {
     this.githubUrl = this.options.githubUrl ||
       "https://github.com/utxo-foundation/prague-blockchain-week/tree/main/data";
 
-    if (options.silentMode) {
+    if (options.silent) {
       _silentMode = true;
     }
   }
@@ -108,18 +109,36 @@ class DeConf_Event {
   constructor(id) {
     this.id = id;
     this.data = null;
+    this.dir = null;
   }
 
   async load(dir) {
+    this.dir = dir.join("/");
     const efIndex = await _tomlLoad([...dir, "index.toml"].join("/"));
-    const event = {
+    const data = {
       index: { id: this.id, ...efIndex },
     };
-    this.data = event;
+    const syncDataFn = [...dir, "data.json"].join("/");
+    if (await exists(syncDataFn)) {
+      data.sync = await _jsonLoad(syncDataFn);
+    }
+    this.data = data;
+  }
+
+  async sync() {
+    const syncFile = [this.dir, "_sync.js"].join("/");
+    if (!await exists(syncFile)) return null;
+    if (!_silentMode) console.log(`syncing ${this.id} ..`);
+    const module = await import("../" + syncFile);
+    // data
+    if (module.data) {
+      const data = await module.data(syncTools);
+      await _jsonWrite([this.dir, "data.json"].join("/"), data);
+    }
   }
 
   toJSON() {
-    return Object.assign({ id: this.id }, this.data.index);
+    return Object.assign({ id: this.id }, this.data.index, this.data.sync);
   }
 }
 
@@ -138,4 +157,7 @@ async function _jsonWrite(fn, data) {
     console.log(`${fn} writed`);
   }
   return true;
+}
+async function _jsonLoad(fn) {
+  return JSON.parse(await Deno.readTextFile(fn));
 }
