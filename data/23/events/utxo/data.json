@@ -13,7 +13,9 @@
       "photos": [
         "web:png",
         "twitter:jpg"
-      ]
+      ],
+      "photoUrl": "https://spec.utxo.cz/22/photos/speakers/petr-lukac-web.png",
+      "photo": "photos/speakers/petr-lukáč.png"
     },
     {
       "id": "tereza-starostova",
@@ -27,7 +29,9 @@
       "country": "cz",
       "photos": [
         "twitter:jpg"
-      ]
+      ],
+      "photoUrl": "https://spec.utxo.cz/22/photos/speakers/tereza-starostova-twitter.jpg",
+      "photo": "photos/speakers/tereza-starostová.jpg"
     },
     {
       "id": "tree",
@@ -44,7 +48,9 @@
       "desc": "Founder of @gweicz | 🦄 #Ethereum #DeFi #DAO enthusiast 🦇🔊 | ✈️ #travel maniac | ⚡ riding #electricunicycle | 🇨🇿🇬🇧 lang | 🟡⚫ | 🇺🇦 Слава Україні!\n",
       "photos": [
         "twitter:jpg"
-      ]
+      ],
+      "photoUrl": "https://spec.utxo.cz/22/photos/speakers/tree-twitter.jpg",
+      "photo": "photos/speakers/tree.jpg"
     }
   ],
   "tracks": [
