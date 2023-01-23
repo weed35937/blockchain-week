@@ -197,11 +197,12 @@ class DeConf_Collection {
           await ensureDir(dir);
           const nameId = sp.name.toLowerCase().replace(/ /g, "-");
           if (photoFetch.body) {
-            const fn = [dir, nameId + ext].join("/");
+            const ffn = (sp.id ? sp.id : nameId) + ext;
+            const fn = [dir, ffn].join("/");
             console.log(`${fn} writed`);
             const file = await Deno.open(fn, { write: true, create: true });
             await photoFetch.body.pipeTo(file.writable);
-            sp.photo = ["photos", "speakers", nameId + ext].join("/");
+            sp.photo = ["photos", "speakers", ffn].join("/");
           }
         }
       }
@@ -227,7 +228,10 @@ class DeConf_Collection {
         if (!sp.photo) continue;
         const srcFile = [this.dir, sp.photo].join("/");
         if (await exists(srcFile)) {
-          const outFile = [outDir, posix.basename(sp.photo)].join("/");
+          const outFile = [
+            outDir,
+            posix.basename(sp.photo),
+          ].join("/");
           await _fileCopy(srcFile, outFile);
           sp.photoUrl = [
             publicUrl,
