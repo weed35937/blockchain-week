@@ -47,6 +47,25 @@ export class DeConfEngine {
         dataUrl: p.data.index.dataUrl,
       })),
     );
+    // write schemas
+    const schemaVersion = 1;
+    const schemas = await this.schemas(schemaVersion);
+
+    const outputSchemaDir = [this.outputDir, "schema", schemaVersion].join("/");
+    await emptyDir(outputSchemaDir);
+    console.log(`writing schema (v${schemaVersion}) ..`);
+
+    const schemaBundle = {};
+    for (const schema of schemas) {
+      await _jsonWrite(
+        [outputSchemaDir, schema.name + ".json"],
+        schema.schema,
+      );
+      schemaBundle[schema.name] = schema.schema;
+    }
+    await _jsonWrite([outputSchemaDir, "bundle.json"], {
+      definitions: schemaBundle,
+    });
   }
   async schemas(version = "1") {
     const schemaDir = `./utils/schema/${version}`;
