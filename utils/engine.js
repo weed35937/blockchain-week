@@ -201,7 +201,11 @@ class DeConf_Collection {
 }
 
 async function _fileCopy(from, to) {
-  return Deno.copyFile(from, to);
+  await Deno.copyFile(from, to);
+  if (!_silentMode) {
+    console.log(`${from} copied to ${to}`);
+  }
+  return true;
 }
 async function _tomlLoad(fn) {
   return tomlParse(await Deno.readTextFile(fn));
