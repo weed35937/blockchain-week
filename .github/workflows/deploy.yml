@@ -26,11 +26,12 @@ jobs:
         run: make
         #      - name: Build changelog
         #        run: make changelog
+      - name: List ./dist
+        run: find dist
       - name: Add custom domain
         run: "touch dist/CNAME && echo \"data.prgblockweek.com\" >> dist/CNAME"
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
-        if: ${{ github.ref == 'refs/heads/main' }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
