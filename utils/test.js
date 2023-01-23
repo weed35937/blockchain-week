@@ -17,6 +17,23 @@ for (const item of schemas) {
   validators[item.name] = ajv.compile(item.schema);
 }
 
+const colMapper = {
+  events: "event",
+  unions: "union",
+};
+
+function checkCollection(entry, entryInfo, colName) {
+  for (const event of entry.data[colName]) {
+    Deno.test(`[${entryInfo} ${colName}=${event.id}] index`, () => {
+      // check event index
+      const k = colMapper[colName];
+      if (!validators[k](event.data.index)) {
+        throw validators[k].errors;
+      }
+    });
+  }
+}
+
 for (const entry of dc.entries) {
   // check index
   const entryInfo = `entry=${entry.id}`;
@@ -26,14 +43,9 @@ for (const entry of dc.entries) {
     }
   });
 
-  // check events
-  for (const event of entry.data.events) {
-    Deno.test(`[${entryInfo} event=${event.id}] index`, () => {
-      // check event index
-      if (!validators.event(event.data.index)) {
-        throw validators.event.errors;
-      }
-    });
+  // check all collections
+  for (const col of Object.keys(colMapper)) {
+    checkCollection(entry, entryInfo, col);
   }
 
   // check specific specs

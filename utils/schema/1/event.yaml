@@ -1,5 +1,5 @@
 type: object
-title: Událost
+title: Event
 additionalProperties: false
 required:
   - id

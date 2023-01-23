@@ -1,0 +1,23 @@
+type: object
+title: Event Union
+additionalProperties: false
+required:
+  - id
+  - name
+properties:
+  id:
+    type: string
+    pattern: "^[a-z0-9-]+$"
+    title: Event Union ID
+  name:
+    type: string
+    title: Name of Event Union
+  org:
+    type: string
+  description:
+    type: string
+  links:
+    type: object
+    additionalProperties:
+      type: string
+      format: uri

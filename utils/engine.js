@@ -83,14 +83,9 @@ class DeConf_Package {
     pkg.index.dataGithubUrl = [this.engine.githubUrl, this.id].join("/");
     //console.log(`\n##\n## [${pkg.index.name}] \n##`);
     // load sub-events
-    pkg.events = [];
-    for await (const ef of Deno.readDir([...specDir, "events"].join("/"))) {
-      const m = ef.name.match(/^([\w\d\-]+)(\.toml|)$/);
-      if (!m) continue;
-      const ev = new DeConf_Event(m[1]);
-      await ev.load([...specDir, "events", ef.name]);
-      pkg.events.push(ev);
-    }
+    pkg.events = await this.loadCollection(specDir, "events");
+    pkg.unions = await this.loadCollection(specDir, "unions");
+
     this.data = pkg;
   }
   async write(dir) {
@@ -98,15 +93,27 @@ class DeConf_Package {
     await emptyDir(outputDir);
     await _jsonWrite([outputDir, "index.json"], this.toJSON());
   }
+  async loadCollection(specDir, type) {
+    const arr = [];
+    for await (const ef of Deno.readDir([...specDir, type].join("/"))) {
+      const m = ef.name.match(/^([\w\d\-]+)(\.toml|)$/);
+      if (!m) continue;
+      const ev = new DeConf_Collection(m[1]);
+      await ev.load([...specDir, type, ef.name]);
+      arr.push(ev);
+    }
+    return arr;
+  }
   toJSON() {
     return Object.assign({ id: this.id }, this.data.index, {
+      unions: this.data.unions,
       events: this.data.events,
       time: new Date(),
     });
   }
 }
 
-class DeConf_Event {
+class DeConf_Collection {
   constructor(id) {
     this.id = id;
     this.data = null;
