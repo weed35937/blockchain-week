@@ -31,6 +31,7 @@ function checkCollection(entry, entryInfo, colName) {
         throw validators[k].errors;
       }
     });
+    // check specific collections
     if (colName === "events" && event.data.index.union) {
       Deno.test(`[${entryInfo} ${colName}=${event.id}] union link`, () => {
         if (!entry.data.unions.find((u) => u.id === event.data.index.union)) {
@@ -54,16 +55,4 @@ for (const entry of dc.entries) {
   for (const col of Object.keys(colMapper)) {
     checkCollection(entry, entryInfo, col);
   }
-
-  // check specific specs
-  /*for (const specId of Object.keys(entry.specs)) {
-    Deno.test(`UTXO.${entryId}: ${specId}[schema]`, () => {
-      if (!validators[specId]) {
-        return null;
-      }
-      if (!validators[specId](entry.specs[specId])) {
-        throw validators[specId].errors;
-      }
-    });
-  }*/
 }
