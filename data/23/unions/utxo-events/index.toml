@@ -1,0 +1,6 @@
+name = "UTXO Events"
+org = "[UTXO Foundation](https://utxo.foundation/)"
+description = "Events for a wide local audience, mostly in Czech or Slovak language as a chain agnostic union."
+
+[links]
+web = "https://utxo.events/"
