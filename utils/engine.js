@@ -21,13 +21,16 @@ export class DeConfEngine {
       await pkg.load([this.srcDir, f.name]);
       console.table(pkg.data.events.map((e) => e.data.index), ["name"]);
       await pkg.write(this.outputDir);
-      this.entries.push(pkg)
+      this.entries.push(pkg);
     }
-    await _jsonWrite([this.outputDir, "index.json"], this.entries.map(p => ({
-      id: p.id,
-      name: p.data.index.name,
-      data: [this.publicUrl,p.id].join("/")
-    })))
+    await _jsonWrite(
+      [this.outputDir, "index.json"],
+      this.entries.map((p) => ({
+        id: p.id,
+        name: p.data.index.name,
+        data: [this.publicUrl, p.id].join("/"),
+      })),
+    );
   }
 }
 
