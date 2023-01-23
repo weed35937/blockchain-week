@@ -1,6 +1,7 @@
 import { emptyDir, exists } from "https://deno.land/std@0.119.0/fs/mod.ts";
 import { parse as tomlParse } from "https://deno.land/std@0.173.0/encoding/toml.ts";
 import { load as yamlLoad } from "https://deno.land/x/js_yaml_port@3.14.0/js-yaml.js";
+import { posix } from "https://deno.land/std@0.173.0/path/mod.ts";
 import * as syncTools from "./syncTools.js";
 
 let _silentMode = false;
@@ -8,8 +9,11 @@ let _silentMode = false;
 export class DeConfEngine {
   constructor(options = {}) {
     this.options = options;
-    this.srcDir = this.options.srcDir || "./data";
-    this.outputDir = this.options.outputDir || "./dist";
+    this.srcDir = posix.resolve(Deno.cwd(), this.options.srcDir || "./data");
+    this.outputDir = posix.resolve(
+      Deno.cwd(),
+      this.options.outputDir || "./dist",
+    );
     this.publicUrl = this.options.publicUrl || "https://data.prgblockweek.com";
     this.githubUrl = this.options.githubUrl ||
       "https://github.com/utxo-foundation/prague-blockchain-week/tree/main/data";
@@ -188,7 +192,6 @@ class DeConf_Collection {
       if (!this.data.index[asset]) continue;
       const fnIn = this.data.index[asset];
       const fnOut = [this.id, this.data.index[asset]].join("-");
-      await emptyDir(outputDir);
       await _fileCopy([this.dir, fnIn].join("/"), [outputDir, fnOut].join("/"));
       const url = [publicUrl, fnOut].join("/");
       this.data.index[asset] = url;
