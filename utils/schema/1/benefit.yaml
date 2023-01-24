@@ -12,6 +12,8 @@ properties:
   name:
     type: string
     title: Name of Benefit
+  slogan:
+    type: string
   description:
     type: string
     __markdown: true
