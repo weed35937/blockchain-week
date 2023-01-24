@@ -102,6 +102,7 @@ class DeConf_Package {
       unions: "union",
       events: "event",
       "media-partners": "media-partner",
+      benefits: "benefit",
     };
     this.collections = Object.keys(this.colMapper);
   }
@@ -157,6 +158,7 @@ class DeConf_Package {
       unions: this.data.unions,
       events: this.data.events,
       "media-partners": this.data["media-partners"],
+      benefits: this.data["benefits"],
       time: new Date(),
     });
   }
