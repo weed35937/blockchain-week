@@ -1,0 +1,20 @@
+name = "IBCPrague 2023"
+shortname = "IBCPrague"
+types = ["conference"]
+status = "planning"
+chains = ["cosmos"]
+org = ""
+dri = ""
+date = "2023-06-06"
+days = 1
+venueName = "Divadlo X10"
+venueAddress = "Charvátova 10/39, Praha 1, 110 00"
+venueUrl = "https://goo.gl/maps/xpzw6siQFXsJrrWh6"
+languages = ["english"]
+attendees = "300"
+#tags = []
+logo = "logo.jpg"
+
+[links]
+web = "https://ibcprague.carrd.co/"
+twitter = "https://twitter.com/IBCPrague"

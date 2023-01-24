@@ -1,0 +1,20 @@
+name = "Gateway to Cosmos 2023"
+shortname = "Gateway Cosmos"
+types = ["conference"]
+status = "planning"
+chains = ["cosmos"]
+org = "RockawayX"
+dri = ""
+date = "2023-06-03"
+days = 3
+venueName = "Cubex"
+venueAddress = "Na Strži 2097/63, 140 00 Praha 4-Nusle"
+venueUrl = "https://goo.gl/maps/vJTjwNR88ovZqd9n7"
+languages = ["english"]
+attendees = "1000"
+#tags = []
+logo = "logo.jpg"
+
+[links]
+web = "https://gateway.events/"
+twitter = "https://twitter.com/Gateway_Conf"

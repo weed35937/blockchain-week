@@ -1,0 +1,20 @@
+name = "Dotsama Prague 2023"
+shortname = "Dotsama"
+types = ["conference"]
+status = "planning"
+chains = ["polkadot"]
+org = ""
+dri = ""
+date = "2023-06-05"
+days = 2
+venueName = "TBA"
+#venueAddress = ""
+#venueUrl = ""
+languages = ["english"]
+attendees = "300"
+#tags = []
+logo = "logo.jpg"
+
+[links]
+#web = ""
+twitter = "https://twitter.com/DotsamaPrague"

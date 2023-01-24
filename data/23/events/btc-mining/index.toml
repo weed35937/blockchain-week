@@ -1,0 +1,20 @@
+name = "Bitcoin Mining Conference 2023"
+shortname = "Bitcoin Mining"
+types = ["conference"]
+status = "published"
+org = "Braiins"
+dri = ""
+date = "2023-06-07"
+days = 1
+times = ""
+venueName = "TBA"
+#venueUrl = ""
+#venueAddress = ""
+languages = ["english"]
+attendees = ""
+#tags = []
+logo = "logo.jpg"
+
+[links]
+web = "https://btcminingconf.com/"
+twitter = "https://twitter.com/BTCMiningConf"
