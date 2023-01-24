@@ -4,6 +4,7 @@ export async function data(tools) {
   for (const el of $(".speaker").toArray()) {
     const value = (path) => cleanup($(path, el).text());
     out.speakers.push({
+      id: value("h3").toLowerCase().replace(/ /g, "-").trim(),
       name: value("h3"),
       photoUrl: $("img", el).attr("src"),
       bio: value(".popis"),

@@ -214,7 +214,7 @@ class DeConf_Collection {
           const ext = await posix.extname(sp.photoUrl);
           const dir = [photosDir, "speakers"].join("/");
           await ensureDir(dir);
-          const nameId = sp.name.toLowerCase().replace(/ /g, "-");
+          const nameId = sp.id || sp.name.toLowerCase().replace(/ /g, "-");
           if (photoFetch.body) {
             const ffn = (sp.id ? sp.id : nameId) + ext;
             const fn = [dir, ffn].join("/");
