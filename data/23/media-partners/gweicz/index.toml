@@ -1,0 +1,8 @@
+name = "Gwei.cz"
+description = "Czech/Slovak Ethereum community"
+languages = ["czech", "slovak"]
+logo = "logo.png"
+
+[links]
+web = "https://gwei.cz"
+twitter = "https://twitter.com/gweicz"

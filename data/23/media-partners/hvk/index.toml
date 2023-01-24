@@ -1,0 +1,7 @@
+name = "Holky v kryptu"
+description = "Dívčí kryptokomunita"
+logo = "logo.svg"
+languages = ["czech"]
+
+[links]
+web = "https://holkyvkryptu.cz/"
