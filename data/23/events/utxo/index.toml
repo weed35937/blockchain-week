@@ -14,7 +14,7 @@ languages = ["czech", "slovak"]
 attendees = 1200
 #tags = []
 logo = "logo.jpg"
-union = 'utxo-events'
+union = 'decentralizuj-se'
 
 [links]
 web = "https://utxo.cz/"
