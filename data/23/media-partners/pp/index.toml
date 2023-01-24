@@ -1,0 +1,8 @@
+name = "Paralelní Polis"
+description = "art - science - technology"
+languages = ["english"]
+logo = "logo.png"
+
+[links]
+web = "https://www.paralelnipolis.cz/"
+twitter = "https://twitter.com/Paralelni_polis"

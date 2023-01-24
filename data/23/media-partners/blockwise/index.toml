@@ -1,0 +1,8 @@
+name = "blockWise"
+description = "Newsletter a vzdelávanie o krypte, web3, metaverse, AR"
+logo = "logo.png"
+languages = ["slovak"]
+
+[links]
+web = "https://www.blockwise.sk/"
+facebook = "https://www.facebook.com/blockwise.sk/"

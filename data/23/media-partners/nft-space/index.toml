@@ -1,0 +1,8 @@
+name = "NFT Space"
+description = "Novinky a vzdělávací články z NFT, Web3 a Metaverse"
+languages = ["czech"]
+logo = "logo.jpg"
+
+[links]
+web = "https://www.nftspace.cz/"
+twitter = "https://twitter.com/nftspaceczsk"

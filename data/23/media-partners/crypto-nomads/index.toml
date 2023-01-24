@@ -1,5 +1,8 @@
 name = "Crypto Nomads Club"
+description = "A community for crypto nomads"
 logo = "logo.png"
+languages = ["english"]
 
 [links]
 web = "https://www.cryptonomadsclub.xyz/"
+twitter = "https://twitter.com/CryptoNomads_gm"

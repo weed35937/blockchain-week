@@ -1,0 +1,7 @@
+name = "KryptomagazinCZ"
+description = "Zpravodajský portál o kryptoměnách"
+logo = "logo.jpg"
+languages = ["czech"]
+
+[links]
+web = "https://kryptomagazin.cz/"

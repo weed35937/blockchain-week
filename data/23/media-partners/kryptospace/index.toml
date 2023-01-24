@@ -1,0 +1,8 @@
+name = "KryptoSpace"
+logo = "logo.jpg"
+description = "Podcast Petra Lukáče je váš průvodce světem kryptoměn"
+languages = ["czech"]
+
+[links]
+web = "https://www.kryptospace.cz/"
+twitter = "https://twitter.com/RuzovejSlon"
