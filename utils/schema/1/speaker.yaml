@@ -1,0 +1,78 @@
+type: object
+title: Přednášející
+additionalProperties: false
+required:
+  - id
+  - name
+properties:
+  id:
+    type: string
+    pattern: "^[a-z0-9-]+$"
+    title: ID přednášejícího
+  name:
+    type: string
+    title: Jméno přednášejícího
+  nickname:
+    type: string
+    title: Přezdívka (nick)
+  twitter:
+    type: string
+    pattern: "^[a-zA-Z0-9_]+$"
+    title: Twitter uživatelské jméno (handle)
+  linkedin:
+    type: string
+    pattern: "^[a-zA-Z0-9-]+$"
+    title: LinkedIn uživatelské jméno
+  mastodon:
+    type: string
+    title: Mastodon uživatelské jméno
+  orgs:
+    type: string
+    title: Organizace (Markdown)
+  bio:
+    type: string
+    title: Stručný popis (bio) (Markdown)
+  web:
+    type: object
+    additionalProperties: false
+    properties:
+      url:
+        type: string
+        format: uri
+      name:
+        type: string
+    title: Webová stránka
+  lead:
+    type: boolean
+    title: Hlavní přednášející
+  tracks:
+    type: array
+    items:
+      type: string
+    title: Programové sekce
+  photos:
+    type: array
+    title: Fotky
+  country:
+    type: string
+    pattern: "^[a-z]{2}$"
+    title: Země
+  desc:
+    type: string
+    title: Popis přednášejícího (Markdown)
+  available:
+    type: array
+    items:
+      type: object
+      additionalProperties: false
+      required:
+        - from
+        - to
+      properties:
+        from:
+          type: string
+          format: date-time
+        to:
+          type: string
+          format: date-time
+    title: Dostupnosti
