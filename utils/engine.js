@@ -98,7 +98,12 @@ class DeConf_Package {
     this.id = id;
     this.data = null;
     this.engine = engine;
-    this.collections = ["events", "unions"];
+    this.colMapper = {
+      unions: "union",
+      events: "event",
+      "media-partners": "media-partner",
+    };
+    this.collections = Object.keys(this.colMapper);
   }
 
   async load(specDir) {
@@ -109,8 +114,10 @@ class DeConf_Package {
     pkg.index.dataGithubUrl = [this.engine.githubUrl, this.id].join("/");
     //console.log(`\n##\n## [${pkg.index.name}] \n##`);
     // load sub-events
-    pkg.events = await this.loadCollection(specDir, "events");
-    pkg.unions = await this.loadCollection(specDir, "unions");
+
+    for (const colPlural of this.collections) {
+      pkg[colPlural] = await this.loadCollection(specDir, colPlural);
+    }
 
     this.data = pkg;
   }
@@ -149,6 +156,7 @@ class DeConf_Package {
     return Object.assign({ id: this.id }, this.data.index, {
       unions: this.data.unions,
       events: this.data.events,
+      "media-partners": this.data["media-partners"],
       time: new Date(),
     });
   }
