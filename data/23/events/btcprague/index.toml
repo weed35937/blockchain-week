@@ -12,7 +12,7 @@ venueName = "PVA Expo Letňany"
 venueAddress = "Beranových 667, 199 00 Praha 9"
 venueUrl = "https://goo.gl/maps/mvd8QeEfxM98EAVNA"
 languages = ["english", "czech", "slovak"]
-attendees = "10000"
+attendees = 10000
 logo = "logo.jpg"
 
 [links]

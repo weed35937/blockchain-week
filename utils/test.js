@@ -5,7 +5,7 @@ import { DeConfEngine } from "./engine.js";
 import Ajv from "https://esm.sh/ajv@8.8.1?pin=v58";
 import addFormats from "https://esm.sh/ajv-formats@2.1.1";
 
-const ajv = new Ajv();
+const ajv = new Ajv({ strict: false });
 addFormats(ajv);
 
 const dc = new DeConfEngine({ silent: true });

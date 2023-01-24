@@ -11,7 +11,7 @@ venueName = "TBA"
 #venueUrl = ""
 #venueAddress = ""
 languages = ["english"]
-attendees = ""
+#attendees = ""
 #tags = []
 logo = "logo.jpg"
 

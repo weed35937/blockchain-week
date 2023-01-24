@@ -14,8 +14,10 @@ properties:
     title: Name of Event Union
   org:
     type: string
+    __markdown: true
   description:
     type: string
+    __markdown: true
   links:
     type: object
     additionalProperties:

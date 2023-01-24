@@ -31,7 +31,7 @@ venueAddress = "Dělnická 475/43, 170 00 Praha 7"
 languages = ["english"]
 
 # the max number of attendees of the event
-attendees = "600"
+attendees = 600
 
 chains = ["ethereum"]
 

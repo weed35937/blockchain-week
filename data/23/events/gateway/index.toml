@@ -11,7 +11,7 @@ venueName = "Cubex"
 venueAddress = "Na Strži 2097/63, 140 00 Praha 4-Nusle"
 venueUrl = "https://goo.gl/maps/vJTjwNR88ovZqd9n7"
 languages = ["english"]
-attendees = "1000"
+attendees = 1000
 #tags = []
 logo = "logo.jpg"
 

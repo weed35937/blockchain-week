@@ -11,7 +11,7 @@ venueName = "Divadlo X10"
 venueAddress = "Charvátova 10/39, Praha 1, 110 00"
 venueUrl = "https://goo.gl/maps/xpzw6siQFXsJrrWh6"
 languages = ["english"]
-attendees = "300"
+attendees = 300
 #tags = []
 logo = "logo.jpg"
 

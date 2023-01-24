@@ -41,6 +41,7 @@ properties:
   org:
     type: string
     title: Organizator of event
+    __markdown: true
   dri:
     type: string
     title: Directly responsible individual (Github username)
@@ -73,7 +74,7 @@ properties:
         - czech
         - slovak
   attendees:
-    type: string
+    type: number
     title: Max number of attendees
   chains:
     type: array
@@ -102,6 +103,7 @@ properties:
     type: string
   description:
     type: string
+    __markdown: true
   links:
     type: object
     additionalProperties:
