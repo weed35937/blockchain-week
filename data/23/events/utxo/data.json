@@ -12,6 +12,7 @@
         "url": "https://www.facebook.com/knox.gunner"
       },
       "country": "cz",
+      "lead": true,
       "photos": [
         "web:jpg"
       ],
@@ -19,23 +20,136 @@
       "photo": "photos/speakers/adam-kracik.jpg"
     },
     {
+      "id": "adam-sobotka",
+      "name": "Adam Sobotka",
+      "nickname": "vorcigernix",
+      "twitter": "vorcigernix",
+      "orgs": "[Zitrone](https://zitrone.pages.dev/) founder, member of [Developer DAO](https://www.developerdao.com/) and Forefront\n",
+      "tracks": [
+        "eth",
+        "dao"
+      ],
+      "country": "cz",
+      "photos": [
+        "web:jpg",
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/22/photos/speakers/adam-sobotka-web.jpg",
+      "photo": "photos/speakers/adam-sobotka.jpg"
+    },
+    {
+      "id": "dominika-v",
+      "name": "Dominika V",
+      "twitter": "DominikaV5",
+      "bio": "Content creator, nadšenec do krypta\n",
+      "orgs": "[Holky v kryptu](https://holkyvkryptu.cz/)\n",
+      "tracks": [
+        "zaklady",
+        "btc",
+        "spolecnost"
+      ],
+      "desc": "Že si Bitcoin koupí říkala svému šéfovi už někdy mezi 2015-2017 ještě předtím než vůbec věděla, jak na to. V Polis si pak kupovala první krypto a v rámci projektu Mytitle se zabývala blockchainovými záznamy potvrzující digitální vlastnictví. Strašně ji to chytlo a zaujalo, jak kryptoměny fungují. Na základě článku se jí ozvala Soňa a brzy po vzniku Holek v kryptu se stala jejich součástí. V HvK tvoří content, organizuje kryptobazary a spoluvede workshopy. Pomáhala organizovat UTXO a ETHBrno.\n",
+      "lead": true,
+      "photos": [
+        "web:jpg",
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/22/photos/speakers/dominika-v-web.jpg",
+      "photo": "photos/speakers/dominika-v.jpg"
+    },
+    {
+      "id": "huge",
+      "name": "Huge",
+      "linkedin": "uhuge",
+      "bio": "DeFi geek with thirst for AI revolutions",
+      "orgs": "indie, částečně Lemonero\n",
+      "tracks": [
+        "alty",
+        "eth",
+        "defi"
+      ],
+      "country": "cz",
+      "web": {
+        "url": "https://github.com/huge"
+      },
+      "desc": "See [LinkedIn.com/in/uhuge](https://linkedin.com/in/uhuge)\n",
+      "photos": [
+        "web:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/22/photos/speakers/huge-web.jpg",
+      "photo": "photos/speakers/huge.jpg"
+    },
+    {
       "id": "hynek-jina",
       "name": "Hynek Jína",
       "twitter": "HynekJina",
-      "bio": "Ekonom, libertarián, obhájce svobodného vzdělávání",
-      "orgs": "IT Project Manager v [SatoshiLabs](https://satoshilabs.com/) (Trezor)\n",
+      "bio": "Ekonom, libertarián a otec",
+      "orgs": "Head of Development v [Trezoru](https://trezor.io/)\n",
       "tracks": [
         "btc",
         "zaklady"
       ],
       "country": "cz",
-      "desc": "Ekonom, libertarián, obhájce svobodného vzdělávání, bývalý učitel hudební výchovy a organizátor svobodných rodinných pobytů [Svéjá](https://sveja.cz).\n\n#bitcoin #lightning_network\n",
+      "desc": "Ekonom, libertarián, obhájce svobodného vzdělávání, bývalý učitel hudební výchovy a organizátor svobodných rodinných pobytů [Svéjá](https://sveja.cz/).\n",
       "photos": [
         "web:jpg",
         "twitter:jpg"
       ],
       "photoUrl": "https://spec.utxo.cz/22/photos/speakers/hynek-jina-web.jpg",
       "photo": "photos/speakers/hynek-jina.jpg"
+    },
+    {
+      "id": "jan-cerny",
+      "name": "Jan Černý",
+      "twitter": "JanCerny",
+      "orgs": "Spolutvůrce [KryptoDoupě.cz](https://kryptodoupe.cz), moderátor [discordu Bitcoinového kanálu](https://bitcoinovejkanal.cz/)\n",
+      "tracks": [
+        "zaklady",
+        "btc"
+      ],
+      "country": "cz",
+      "desc": "Jeden z mnoha moderátorů [discordu Bitcoinového kanálu](https://discord.gg/HWG9Erm). Jeden z otců zakladatelů projektu [KryptoDoupě.cz](https://kryptodoupe.cz). Holky mi píšou, jak dostat bitcoiny z Change Invest, kluci se ptají, jak těžit obskurní kryptoměny. Ale jinak jsem pěkná osina v prdeli. :o) (bude to chtít učesat)\n",
+      "photos": [
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/22/photos/speakers/jan-cerny-twitter.jpg",
+      "photo": "photos/speakers/jan-cerny.jpg"
+    },
+    {
+      "id": "jan-21m",
+      "name": "Jan Kohout",
+      "nickname": "JohnnyThe₿itcoiner",
+      "twitter": "jan_21m",
+      "bio": "#bitcoin pleb, POW maxi, fyzioterapeut",
+      "orgs": "Autor pořadu [Kryptoplebs](https://www.youtube.com/channel/UCzg8Lo2-zxu2yTWU4-I3ORA)\n",
+      "tracks": [
+        "btc"
+      ],
+      "country": "cz",
+      "lead": true,
+      "photos": [
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/22/photos/speakers/jan-21m-twitter.jpg",
+      "photo": "photos/speakers/jan-21m.jpg"
+    },
+    {
+      "id": "jan-zibner",
+      "name": "Jan Zibner",
+      "twitter": "artiffine",
+      "bio": "Právník se specializací na právo duševního vlastnictví a digitální trendy",
+      "orgs": "CLO & spoluzakladatel [Artiffine](https://www.artiffine.com/)\n",
+      "tracks": [
+        "nft"
+      ],
+      "country": "cz",
+      "desc": "JUDr., Ph.D. IT/IP právník se specializací na právo duševního vlastnictví a digitální trendy, aktuálně jako CLO & Co-founder projektu Artiffine\n",
+      "photos": [
+        "web:jpg",
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/22/photos/speakers/jan-zibner-web.jpg",
+      "photo": "photos/speakers/jan-zibner.jpg"
     },
     {
       "id": "josef-gattermayer",
@@ -49,13 +163,29 @@
       ],
       "country": "cz",
       "desc": "Josef Gattermayer je CEO [Ackee Blockchain](https://ackeeblockchain.com), spoluzakladatel [Ackee](https://www.ackee.cz/)) a odborný asistent na [Faktultě informačních technologií ČVUT](https://fit.cvut.cz/cs) v Praze. O tom, že bezpečnost bude klíčovým prvkem k lepší adaptaci kryptoměn, se přesvědčil již v roce 2016, kdy přišel během Bitfinex hacku o první Ether. V roce 2018 úspěšně se svým týmem získal grant od Ethereum Foundation na rozvoj vývojářských nástrojů této kryptoměny a s tímto týmem v roce 2021 založil auditorskou firmu Ackee Blockchain, která se věnuje bezpečnosti smart kontraktů.\n",
-      "lead": true,
       "photos": [
         "web:jpg",
         "twitter:jpg"
       ],
       "photoUrl": "https://spec.utxo.cz/22/photos/speakers/josef-gattermayer-web.jpg",
       "photo": "photos/speakers/josef-gattermayer.jpg"
+    },
+    {
+      "id": "julie-sislerova",
+      "name": "Julie Šislerová",
+      "twitter": "juliesislerova",
+      "bio": "VR & AR Expert, Metaverse & NFT Evangelist",
+      "orgs": "Founder of #HolkyvMetaverse community, mentor #HolkyzMarketingu\n",
+      "tracks": [
+        "nft"
+      ],
+      "country": "cz",
+      "lead": true,
+      "photos": [
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/22/photos/speakers/julie-sislerova-twitter.jpg",
+      "photo": "photos/speakers/julie-sislerova.jpg"
     },
     {
       "id": "juraj-bednar",
@@ -76,10 +206,135 @@
       "country": "sk",
       "photos": [
         "web:jpg",
-        "sm:png"
+        "twitter:jpg"
       ],
       "photoUrl": "https://spec.utxo.cz/22/photos/speakers/juraj-bednar-web.jpg",
       "photo": "photos/speakers/juraj-bednar.jpg"
+    },
+    {
+      "id": "karel-fillner",
+      "name": "Karel Fillner",
+      "twitter": "btctip_cz",
+      "bio": "crypto enthusiast",
+      "orgs": "Founder [btctip.cz](https://btctip.cz/), CEO @ [Invictus Mining](https://www.invictusmining.com/), CSO @ [Callisto](https://callisto.network/)\n",
+      "tracks": [
+        "btc",
+        "alty"
+      ],
+      "country": "cz",
+      "lead": true,
+      "photos": [
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/22/photos/speakers/karel-fillner-twitter.jpg",
+      "photo": "photos/speakers/karel-fillner.jpg"
+    },
+    {
+      "id": "kirill-juran",
+      "name": "Kirill Juran",
+      "linkedin": "kirilljuran",
+      "twitter": "KirillJuran",
+      "bio": "Právník, transakční a investiční poradce",
+      "web": {
+        "url": "https://www.youtube.com/c/KirillJuran/videos",
+        "name": "Kirill Juran @ YouTube"
+      },
+      "orgs": "CEO @ [SimpleTax&Law](https://www.smpl.cz/)\n",
+      "country": "cz",
+      "tracks": [
+        "regulace"
+      ],
+      "lead": true,
+      "photos": [
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/22/photos/speakers/kirill-juran-twitter.jpg",
+      "photo": "photos/speakers/kirill-juran.jpg"
+    },
+    {
+      "id": "martin-janik",
+      "name": "Martin Janík",
+      "nickname": "yanas",
+      "twitter": "yanascz",
+      "bio": "Bitcoiner. Skydiver. Software Developer.",
+      "orgs": "Vývojář v [Invity.io](https://invity.io/) ze skupiny SatoshiLabs\n",
+      "web": {
+        "url": "https://yanas.cz"
+      },
+      "tracks": [
+        "btc"
+      ],
+      "country": "cz",
+      "photos": [
+        "web:jpg",
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/22/photos/speakers/martin-janik-web.jpg",
+      "photo": "photos/speakers/martin-janik.jpg"
+    },
+    {
+      "id": "michal-novak",
+      "name": "Michal Novák",
+      "twitter": "PBudoucnosti",
+      "orgs": "Autor knihy [Lightning Network: Platby budoucnosti](https://platbybudoucnosti.cz/)\n",
+      "web": {
+        "url": "https://platbybudoucnosti.cz/"
+      },
+      "tracks": [
+        "btc"
+      ],
+      "country": "cz",
+      "lead": true,
+      "photos": [
+        "web:jpg",
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/22/photos/speakers/michal-novak-web.jpg",
+      "photo": "photos/speakers/michal-novak.jpg"
+    },
+    {
+      "id": "sodomak",
+      "name": "Milan Půlkrábek",
+      "nickname": "Sodomák",
+      "twitter": "Sodomak",
+      "linkedin": "milanpulkrabek",
+      "bio": "Lektor a konzultant digitální sebeobrany",
+      "orgs": "Autor projektu CryptoLAB, člen [Paralelní Polis](https://www.paralelnipolis.cz/)",
+      "web": {
+        "url": "https://www.digitalni-sebeobrana.cz/"
+      },
+      "tracks": [
+        "zaklady",
+        "btc",
+        "spolecnost"
+      ],
+      "country": "cz",
+      "lead": true,
+      "photos": [
+        "web:jpg",
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/22/photos/speakers/sodomak-web.jpg",
+      "photo": "photos/speakers/sodomak.jpg"
+    },
+    {
+      "id": "ondrej-rehacek",
+      "name": "Ondřej Řeháček",
+      "twitter": "olidotexe",
+      "bio": "Vývojář, Smart-contract Auditor",
+      "orgs": "Partner Engineer @ [Fractal.is](https://www.fractal.is/), Software & Blockchain Developer, Lecturer @ [Ackee Blockchain](https://ackeeblockchain.com/)\n",
+      "tracks": [
+        "eth",
+        "alty",
+        "nft"
+      ],
+      "desc": "Full-stack software engineer with eight years of experience, Solana blockchain auditor.\n",
+      "photos": [
+        "web:jpg",
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/22/photos/speakers/ondrej-rehacek-web.jpg",
+      "photo": "photos/speakers/ondrej-rehacek.jpg"
     },
     {
       "id": "petr-lukac",
@@ -92,29 +347,166 @@
       ],
       "country": "cz",
       "photos": [
-        "web:png",
+        "web:jpg",
         "twitter:jpg"
       ],
-      "photoUrl": "https://spec.utxo.cz/22/photos/speakers/petr-lukac-web.png",
-      "photo": "photos/speakers/petr-lukac.png"
+      "photoUrl": "https://spec.utxo.cz/22/photos/speakers/petr-lukac-web.jpg",
+      "photo": "photos/speakers/petr-lukac.jpg"
+    },
+    {
+      "id": "petr-mensik",
+      "name": "Petr Menšík",
+      "twitter": "polkadotterss",
+      "bio": "Zakladatel Polkadot, Dfinity a Solana komunit v ČR a na Slovensku",
+      "orgs": "Zakladatel [Polkadotters](https://twitter.com/polkadotters1)\n",
+      "web": {
+        "url": "https://www.facebook.com/petr.mensik.374"
+      },
+      "tracks": [
+        "alty",
+        "defi"
+      ],
+      "country": "cz",
+      "desc": "Zakladatel Polkadot, Dfinity a Solana komunit v ČR a na Slovensku. Nejblíže je mi ovšem [Polkadot](https://polkadot.network/), proto jsme založili značku [Polkadotters](https://polkadotters.medium.com/) pod kterou pravidelně píšeme pro mezinárodní publikum a zároveň provozujeme validátory na Polkadotu, Kusamě a téměr všech ostatních parachainech.\n",
+      "photos": [
+        "web:jpg",
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/22/photos/speakers/petr-mensik-web.jpg",
+      "photo": "photos/speakers/petr-mensik.jpg"
     },
     {
       "id": "petr-sanetrnik",
       "name": "Petr Sanetrník",
       "twitter": "PetrSanetrnik",
-      "orgs": "Zakladatel [Webfusion](https://webfusion.cz/), spoluzakladatel [VR Education](https://vreducation.cz/), spoluzakladatel a portfolio manager v [Crypviz Asset Management](https://crypviz.io/)\n",
+      "bio": "Portfolio manager",
+      "orgs": "Spoluzakladatel [Crypviz Asset Management fund](https://crypviz.cz/)\n",
       "tracks": [
         "eth",
         "defi",
-        "nft"
+        "regulace"
       ],
       "country": "cz",
+      "desc": "Jsem zakladatelem digitální agentury webfusion.cz zaměřenou na tvorbu webových stránek, vývoj aplikací a online marketing. Dále jsem také spoluzakladatelem vreducation.cz, kde digitalizujeme firemní vzdělávání a spoluzakladatelem Crypviz Asset Management Fund, kde mám na starost portfolio management.\n",
       "photos": [
         "web:jpg",
         "twitter:jpg"
       ],
       "photoUrl": "https://spec.utxo.cz/22/photos/speakers/petr-sanetrnik-web.jpg",
       "photo": "photos/speakers/petr-sanetrnik.jpg"
+    },
+    {
+      "id": "radek-svarz",
+      "name": "Radek Švarz",
+      "twitter": "radk",
+      "linkedin": "radeksvarz",
+      "tracks": [
+        "defi",
+        "dao",
+        "regulace"
+      ],
+      "bio": "Vizionář, architekt, propojování businessu a IT",
+      "orgs": "dCZK, APUS.finance, advisor [Alzheimerchain](https://alzheimerchain.com/), [Non Fungible Brain](https://www.nonfungiblebrain.com/), KryptoNadace\n",
+      "country": "cz",
+      "desc": "Radek pracoval přes 17 let pro TradFi (banky) v různých externích a IT manažerských pozicích. Řídil např. systémovou integraci při změně core banking systému, v posledních letech se věnoval celkové business/IT architektuře bank. Užívá si posouvání hranic použitím cutting-edge technologií, kde se propojuje business a IT. Od 2017 věří, že ČR je celosvětově velice silné v crypto engineeringu a rád by, aby nezahodilo šanci být tahounem crypto odvětví v Evropě.\n",
+      "photos": [
+        "web:png",
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/22/photos/speakers/radek-svarz-web.png",
+      "photo": "photos/speakers/radek-svarz.png"
+    },
+    {
+      "id": "radim-kozub",
+      "name": "Radim Kozub",
+      "twitter": "RadimKozzub",
+      "orgs": "Lawyer in Blockchain Legal",
+      "web": {
+        "url": "https://www.blockchainlegal.cz/"
+      },
+      "tracks": [
+        "regulace"
+      ],
+      "country": "cz",
+      "lead": true,
+      "photos": [
+        "web:jpg",
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/22/photos/speakers/radim-kozub-web.jpg",
+      "photo": "photos/speakers/radim-kozub.jpg"
+    },
+    {
+      "id": "stanislav-simek",
+      "name": "Stanislav Šimek",
+      "web": {
+        "url": "https://www.linkedin.com/in/stanislav-%C5%A1imek-6272091a5/"
+      },
+      "bio": "Právník a kryptoměnový konzultant",
+      "tracks": [
+        "regulace",
+        "nft"
+      ],
+      "desc": "Právník s dlouholetou zkušeností v přední české advokátní kanceláři a kryptoměnový konzultant. Nyní podílející se na vývoji Thrive-to-Earn hry.\n",
+      "country": "cz",
+      "photos": [
+        "web:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/22/photos/speakers/stanislav-simek-web.jpg",
+      "photo": "photos/speakers/stanislav-simek.jpg"
+    },
+    {
+      "id": "tereza-starostova",
+      "name": "Tereza Starostová",
+      "twitter": "terkastarostova",
+      "orgs": "Spoluzakladatelka [Holky v Kryptu](https://holkyvkryptu.cz/), předsedkyně [UTXO Foundation](httsp://utxo.foundation)\n",
+      "tracks": [
+        "zaklady",
+        "spolecnost"
+      ],
+      "country": "cz",
+      "photos": [
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/22/photos/speakers/tereza-starostova-twitter.jpg",
+      "photo": "photos/speakers/tereza-starostova.jpg"
+    },
+    {
+      "id": "fetyas",
+      "name": "Tomáš Kalabis",
+      "nickname": "Fetyas",
+      "twitter": "hernakrypto",
+      "orgs": "YouTube kanál [KryptoHerna](https://www.youtube.com/channel/UCOgYjFqYfUnXo5DK9HceAMw)\n",
+      "tracks": [
+        "nft"
+      ],
+      "country": "cz",
+      "desc": "Jsem zakladatel YouTube kanálu na téma blockchain gaming [KryptoHerna](https://twitter.com/hernakrypto), vystudovaný ekonom, nadšenec do videoher a souvisejících technologií, zapálený sportovec. Současně se podílím na vývoji Thrive-to-Earn hry.\n",
+      "photos": [
+        "web:jpg",
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/22/photos/speakers/fetyas-web.jpg",
+      "photo": "photos/speakers/fetyas.jpg"
+    },
+    {
+      "id": "tree",
+      "name": "tree",
+      "twitter": "treecz",
+      "bio": "Libertarián, propagátor Web3 a DAOs",
+      "orgs": "Zakladatel [Gwei.cz](https://gwei.cz). Organizátor [ETHBrno](https://ethbrno.cz/), [UTXO.23](https://utxo.cz) a dalších akcí\n",
+      "country": "cz",
+      "tracks": [
+        "eth",
+        "defi",
+        "dao"
+      ],
+      "desc": "Founder of @gweicz | 🦄 #Ethereum #DeFi #DAO enthusiast 🦇🔊 | ✈️ #travel maniac | ⚡ riding #electricunicycle | 🇨🇿🇬🇧 lang | 🟡⚫ | 🇺🇦 Слава Україні!\n",
+      "photos": [
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/22/photos/speakers/tree-twitter.jpg",
+      "photo": "photos/speakers/tree.jpg"
     },
     {
       "id": "urza",
@@ -142,7 +534,6 @@
       "desc": "člen projektu [Svoboda učení](https://www.svobodauceni.cz/)\n",
       "photos": [
         "web:jpg",
-        "sm:png",
         "twitter:jpg"
       ],
       "photoUrl": "https://spec.utxo.cz/22/photos/speakers/urza-web.jpg",
