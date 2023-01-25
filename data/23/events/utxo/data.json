@@ -1,6 +1,87 @@
 {
   "speakers": [
     {
+      "id": "adam-kracik",
+      "name": "Adam Kracík",
+      "bio": "Nezávislý žurnalista a kryptoměnový analytik",
+      "tracks": [
+        "zaklady",
+        "alty"
+      ],
+      "web": {
+        "url": "https://www.facebook.com/knox.gunner"
+      },
+      "country": "cz",
+      "photos": [
+        "web:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/22/photos/speakers/adam-kracik-web.jpg",
+      "photo": "photos/speakers/adam-kracik.jpg"
+    },
+    {
+      "id": "hynek-jina",
+      "name": "Hynek Jína",
+      "twitter": "HynekJina",
+      "bio": "Ekonom, libertarián, obhájce svobodného vzdělávání",
+      "orgs": "IT Project Manager v [SatoshiLabs](https://satoshilabs.com/) (Trezor)\n",
+      "tracks": [
+        "btc",
+        "zaklady"
+      ],
+      "country": "cz",
+      "desc": "Ekonom, libertarián, obhájce svobodného vzdělávání, bývalý učitel hudební výchovy a organizátor svobodných rodinných pobytů [Svéjá](https://sveja.cz).\n\n#bitcoin #lightning_network\n",
+      "photos": [
+        "web:jpg",
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/22/photos/speakers/hynek-jina-web.jpg",
+      "photo": "photos/speakers/hynek-jina.jpg"
+    },
+    {
+      "id": "josef-gattermayer",
+      "name": "Josef Gattermayer",
+      "twitter": "jgattermayer",
+      "orgs": "Spoluzakladatel [Ackee](https://www.ackee.cz/), CEO @ [Ackee Blockchain](https://ackeeblockchain.com/)\n",
+      "tracks": [
+        "eth",
+        "defi",
+        "alty"
+      ],
+      "country": "cz",
+      "desc": "Josef Gattermayer je CEO [Ackee Blockchain](https://ackeeblockchain.com), spoluzakladatel [Ackee](https://www.ackee.cz/)) a odborný asistent na [Faktultě informačních technologií ČVUT](https://fit.cvut.cz/cs) v Praze. O tom, že bezpečnost bude klíčovým prvkem k lepší adaptaci kryptoměn, se přesvědčil již v roce 2016, kdy přišel během Bitfinex hacku o první Ether. V roce 2018 úspěšně se svým týmem získal grant od Ethereum Foundation na rozvoj vývojářských nástrojů této kryptoměny a s tímto týmem v roce 2021 založil auditorskou firmu Ackee Blockchain, která se věnuje bezpečnosti smart kontraktů.\n",
+      "lead": true,
+      "photos": [
+        "web:jpg",
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/22/photos/speakers/josef-gattermayer-web.jpg",
+      "photo": "photos/speakers/josef-gattermayer.jpg"
+    },
+    {
+      "id": "juraj-bednar",
+      "name": "Juraj Bednár",
+      "twitter": "jurbed",
+      "bio": "Podnikatel, hacker a milovník svobody",
+      "orgs": "Spoluzakladatel [Hacktrophy](https://hacktrophy.com/sk/), člen [Paralelné Polis](https://paralelnapolis.sk)\n",
+      "web": {
+        "url": "https://juraj.bednar.io"
+      },
+      "lead": true,
+      "tracks": [
+        "zaklady",
+        "btc",
+        "dao",
+        "spolecnost"
+      ],
+      "country": "sk",
+      "photos": [
+        "web:jpg",
+        "sm:png"
+      ],
+      "photoUrl": "https://spec.utxo.cz/22/photos/speakers/juraj-bednar-web.jpg",
+      "photo": "photos/speakers/juraj-bednar.jpg"
+    },
+    {
       "id": "petr-lukac",
       "name": "Petr Lukáč",
       "twitter": "RuzovejSlon",
@@ -18,39 +99,54 @@
       "photo": "photos/speakers/petr-lukac.png"
     },
     {
-      "id": "tereza-starostova",
-      "name": "Tereza Starostová",
-      "twitter": "terkastarostova",
-      "orgs": "Spoluzakladatelka [Holky v Kryptu](https://holkyvkryptu.cz/), předsedkyně [UTXO Foundation](httsp://utxo.foundation)\n",
-      "tracks": [
-        "zaklady",
-        "spolecnost"
-      ],
-      "country": "cz",
-      "photos": [
-        "twitter:jpg"
-      ],
-      "photoUrl": "https://spec.utxo.cz/22/photos/speakers/tereza-starostova-twitter.jpg",
-      "photo": "photos/speakers/tereza-starostova.jpg"
-    },
-    {
-      "id": "tree",
-      "name": "tree",
-      "twitter": "treecz",
-      "bio": "Libertarián, propagátor Web3 a DAOs",
-      "orgs": "Zakladatel [Gwei.cz](https://gwei.cz). Organizátor [ETHBrno](https://ethbrno.cz/), [UTXO.23](https://utxo.cz) a dalších akcí\n",
-      "country": "cz",
+      "id": "petr-sanetrnik",
+      "name": "Petr Sanetrník",
+      "twitter": "PetrSanetrnik",
+      "orgs": "Zakladatel [Webfusion](https://webfusion.cz/), spoluzakladatel [VR Education](https://vreducation.cz/), spoluzakladatel a portfolio manager v [Crypviz Asset Management](https://crypviz.io/)\n",
       "tracks": [
         "eth",
         "defi",
-        "dao"
+        "nft"
       ],
-      "desc": "Founder of @gweicz | 🦄 #Ethereum #DeFi #DAO enthusiast 🦇🔊 | ✈️ #travel maniac | ⚡ riding #electricunicycle | 🇨🇿🇬🇧 lang | 🟡⚫ | 🇺🇦 Слава Україні!\n",
+      "country": "cz",
       "photos": [
+        "web:jpg",
         "twitter:jpg"
       ],
-      "photoUrl": "https://spec.utxo.cz/22/photos/speakers/tree-twitter.jpg",
-      "photo": "photos/speakers/tree.jpg"
+      "photoUrl": "https://spec.utxo.cz/22/photos/speakers/petr-sanetrnik-web.jpg",
+      "photo": "photos/speakers/petr-sanetrnik.jpg"
+    },
+    {
+      "id": "urza",
+      "name": "Urza",
+      "twitter": "urzanarchy",
+      "bio": "Anarchokapitalista, autor knihy [Anarchokapitalismus](https://kniha.urza.cz/)",
+      "orgs": "Zakladatel [Svobodného přístavu](https://pristav.urza.cz/), vedoucí [CZ/SK Mises Institutu](https://www.mises.cz/)\n",
+      "web": {
+        "name": "Urza.cz",
+        "url": "https://urza.cz"
+      },
+      "lead": true,
+      "tracks": [
+        "spolecnost",
+        "regulace",
+        "btc"
+      ],
+      "country": "cz",
+      "available": [
+        {
+          "from": "2023-06-03T10:00:00",
+          "to": "2023-06-03T13:59:59"
+        }
+      ],
+      "desc": "člen projektu [Svoboda učení](https://www.svobodauceni.cz/)\n",
+      "photos": [
+        "web:jpg",
+        "sm:png",
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/22/photos/speakers/urza-web.jpg",
+      "photo": "photos/speakers/urza.jpg"
     }
   ],
   "tracks": [
