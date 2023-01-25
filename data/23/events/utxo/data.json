@@ -4,6 +4,7 @@
       "id": "adam-kracik",
       "name": "Adam Kracík",
       "bio": "Nezávislý žurnalista a kryptoměnový analytik",
+      "caption": "Freelance journalist and cryptocurrency analyst\n",
       "tracks": [
         "zaklady",
         "alty"
@@ -24,6 +25,7 @@
       "name": "Adam Sobotka",
       "nickname": "vorcigernix",
       "twitter": "vorcigernix",
+      "caption": "[Zitrone](https://zitrone.pages.dev/) founder, [Developer DAO](https://www.developerdao.com/)\n",
       "orgs": "[Zitrone](https://zitrone.pages.dev/) founder, member of [Developer DAO](https://www.developerdao.com/) and Forefront\n",
       "tracks": [
         "eth",
@@ -43,6 +45,7 @@
       "twitter": "DominikaV5",
       "bio": "Content creator, nadšenec do krypta\n",
       "orgs": "[Holky v kryptu](https://holkyvkryptu.cz/)\n",
+      "caption": "Content creator, Crypto enthusiast @ [Women in crypto CZ](https://holkyvkryptu.cz/)",
       "tracks": [
         "zaklady",
         "btc",
@@ -61,8 +64,9 @@
       "id": "huge",
       "name": "Huge",
       "linkedin": "uhuge",
-      "bio": "DeFi geek with thirst for AI revolutions",
+      "bio": "DeFi geek s touhou po AI revolucích",
       "orgs": "indie, částečně Lemonero\n",
+      "caption": "DeFi geek with thirst for AI revolutions\n",
       "tracks": [
         "alty",
         "eth",
@@ -84,7 +88,8 @@
       "name": "Hynek Jína",
       "twitter": "HynekJina",
       "bio": "Ekonom, libertarián a otec",
-      "orgs": "Head of Development v [Trezoru](https://trezor.io/)\n",
+      "orgs": "Vedoucí oddělení vývoje v [Trezoru](https://trezor.io/)\n",
+      "caption": "Head of Development at [Trezor](https://trezor.io/)\n",
       "tracks": [
         "btc",
         "zaklady"
@@ -103,6 +108,7 @@
       "name": "Jan Černý",
       "twitter": "JanCerny",
       "orgs": "Spolutvůrce [KryptoDoupě.cz](https://kryptodoupe.cz), moderátor [discordu Bitcoinového kanálu](https://bitcoinovejkanal.cz/)\n",
+      "caption": "Co-creator of [KryptoDoupě.cz](https://kryptodoupe.cz)\n",
       "tracks": [
         "zaklady",
         "btc"
@@ -110,9 +116,10 @@
       "country": "cz",
       "desc": "Jeden z mnoha moderátorů [discordu Bitcoinového kanálu](https://discord.gg/HWG9Erm). Jeden z otců zakladatelů projektu [KryptoDoupě.cz](https://kryptodoupe.cz). Holky mi píšou, jak dostat bitcoiny z Change Invest, kluci se ptají, jak těžit obskurní kryptoměny. Ale jinak jsem pěkná osina v prdeli. :o) (bude to chtít učesat)\n",
       "photos": [
+        "web:jpg",
         "twitter:jpg"
       ],
-      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/jan-cerny-twitter.jpg",
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/jan-cerny-web.jpg",
       "photo": "photos/speakers/jan-cerny.jpg"
     },
     {
@@ -122,6 +129,7 @@
       "twitter": "jan_21m",
       "bio": "#bitcoin pleb, POW maxi, fyzioterapeut",
       "orgs": "Autor pořadu [Kryptoplebs](https://www.youtube.com/channel/UCzg8Lo2-zxu2yTWU4-I3ORA)\n",
+      "caption": "Author of the [\"Kryptoplebs](https://www.youtube.com/channel/UCzg8Lo2-zxu2yTWU4-I3ORA), physiotherapist\n",
       "tracks": [
         "btc"
       ],
@@ -139,6 +147,7 @@
       "twitter": "artiffine",
       "bio": "Právník se specializací na právo duševního vlastnictví a digitální trendy",
       "orgs": "CLO & spoluzakladatel [Artiffine](https://www.artiffine.com/)\n",
+      "caption": "Lawyer, CLO & co-founder of [Artiffine](https://www.artiffine.com/)\n",
       "tracks": [
         "nft"
       ],
@@ -156,6 +165,7 @@
       "name": "Josef Gattermayer",
       "twitter": "jgattermayer",
       "orgs": "Spoluzakladatel [Ackee](https://www.ackee.cz/), CEO @ [Ackee Blockchain](https://ackeeblockchain.com/)\n",
+      "caption": "CEO @ [Ackee Blockchain](https://ackeeblockchain.com/)\n",
       "tracks": [
         "eth",
         "defi",
@@ -175,7 +185,8 @@
       "name": "Julie Šislerová",
       "twitter": "juliesislerova",
       "bio": "VR & AR Expert, Metaverse & NFT Evangelist",
-      "orgs": "Founder of #HolkyvMetaverse community, mentor #HolkyzMarketingu\n",
+      "orgs": "Zakladatelka komunity #HolkyvMetaverse, mentorka #HolkyzMarketingu\n",
+      "caption": "VR & AR Expert, Metaverse & NFT Evangelist\n",
       "tracks": [
         "nft"
       ],
@@ -192,6 +203,7 @@
       "name": "Juraj Bednár",
       "twitter": "jurbed",
       "bio": "Podnikatel, hacker a milovník svobody",
+      "caption": "Entrepreneur, hacker and freedom lover\n",
       "orgs": "Spoluzakladatel [Hacktrophy](https://hacktrophy.com/sk/), člen [Paralelné Polis](https://paralelnapolis.sk)\n",
       "web": {
         "url": "https://juraj.bednar.io"
@@ -216,7 +228,8 @@
       "name": "Karel Fillner",
       "twitter": "btctip_cz",
       "bio": "crypto enthusiast",
-      "orgs": "Founder [btctip.cz](https://btctip.cz/), CEO @ [Invictus Mining](https://www.invictusmining.com/), CSO @ [Callisto](https://callisto.network/)\n",
+      "orgs": "Zakladatel [btctip.cz](https://btctip.cz/), CEO @ [Invictus Mining](https://www.invictusmining.com/), CSO @ [Callisto](https://callisto.network/)\n",
+      "caption": "Founder of [btctip.cz](https://btctip.cz/), CEO @ [Invictus Mining](https://www.invictusmining.com/)\n",
       "tracks": [
         "btc",
         "alty"
@@ -235,6 +248,7 @@
       "linkedin": "kirilljuran",
       "twitter": "KirillJuran",
       "bio": "Právník, transakční a investiční poradce",
+      "caption": "Lawyer, CEO @ [SimpleTax&Law](https://www.smpl.cz/)\n",
       "web": {
         "url": "https://www.youtube.com/c/KirillJuran/videos",
         "name": "Kirill Juran @ YouTube"
@@ -258,6 +272,7 @@
       "twitter": "yanascz",
       "bio": "Bitcoiner. Skydiver. Software Developer.",
       "orgs": "Vývojář v [Invity.io](https://invity.io/) ze skupiny SatoshiLabs\n",
+      "caption": "Developer at [Invity.io](https://invity.io/)\n",
       "web": {
         "url": "https://yanas.cz"
       },
@@ -277,6 +292,7 @@
       "name": "Michal Novák",
       "twitter": "PBudoucnosti",
       "orgs": "Autor knihy [Lightning Network: Platby budoucnosti](https://platbybudoucnosti.cz/)\n",
+      "caption": "Author of [\"Lightning Network: Payments of the Future\"](https://platbybudoucnosti.cz/)\n",
       "web": {
         "url": "https://platbybudoucnosti.cz/"
       },
@@ -300,6 +316,7 @@
       "linkedin": "milanpulkrabek",
       "bio": "Lektor a konzultant digitální sebeobrany",
       "orgs": "Autor projektu CryptoLAB, člen [Paralelní Polis](https://www.paralelnipolis.cz/)",
+      "caption": "Lecturer and consultant in digital self-defence\n",
       "web": {
         "url": "https://www.digitalni-sebeobrana.cz/"
       },
@@ -323,6 +340,7 @@
       "twitter": "olidotexe",
       "bio": "Vývojář, Smart-contract Auditor",
       "orgs": "Partner Engineer @ [Fractal.is](https://www.fractal.is/), Software & Blockchain Developer, Lecturer @ [Ackee Blockchain](https://ackeeblockchain.com/)\n",
+      "caption": "Developer, Smart-contract Auditor",
       "tracks": [
         "eth",
         "alty",
@@ -342,6 +360,7 @@
       "twitter": "RuzovejSlon",
       "bio": "Novinář, podcaster",
       "orgs": "Podcast [Krypto Space](https://www.kryptospace.cz/)\n",
+      "caption": "Independent journalist, Podcast [Krypto Space](https://www.kryptospace.cz/)\n",
       "tracks": [
         "spolecnost"
       ],
@@ -359,6 +378,7 @@
       "twitter": "polkadotterss",
       "bio": "Zakladatel Polkadot, Dfinity a Solana komunit v ČR a na Slovensku",
       "orgs": "Zakladatel [Polkadotters](https://twitter.com/polkadotters1)\n",
+      "caption": "Founder of [Polkadotters](https://twitter.com/polkadotters1)\n",
       "web": {
         "url": "https://www.facebook.com/petr.mensik.374"
       },
@@ -381,6 +401,7 @@
       "twitter": "PetrSanetrnik",
       "bio": "Portfolio manager",
       "orgs": "Spoluzakladatel [Crypviz Asset Management fund](https://crypviz.cz/)\n",
+      "caption": "Co-founder of [Crypviz Asset Management fund](https://crypviz.cz/)\n",
       "tracks": [
         "eth",
         "defi",
@@ -407,20 +428,22 @@
       ],
       "bio": "Vizionář, architekt, propojování businessu a IT",
       "orgs": "dCZK, APUS.finance, advisor [Alzheimerchain](https://alzheimerchain.com/), [Non Fungible Brain](https://www.nonfungiblebrain.com/), KryptoNadace\n",
+      "caption": "Visionary @ [APUS.finance](https://apus.finance)\n",
       "country": "cz",
       "desc": "Radek pracoval přes 17 let pro TradFi (banky) v různých externích a IT manažerských pozicích. Řídil např. systémovou integraci při změně core banking systému, v posledních letech se věnoval celkové business/IT architektuře bank. Užívá si posouvání hranic použitím cutting-edge technologií, kde se propojuje business a IT. Od 2017 věří, že ČR je celosvětově velice silné v crypto engineeringu a rád by, aby nezahodilo šanci být tahounem crypto odvětví v Evropě.\n",
       "photos": [
-        "web:png",
+        "web:jpg",
         "twitter:jpg"
       ],
-      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/radek-svarz-web.png",
-      "photo": "photos/speakers/radek-svarz.png"
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/radek-svarz-web.jpg",
+      "photo": "photos/speakers/radek-svarz.jpg"
     },
     {
       "id": "radim-kozub",
       "name": "Radim Kozub",
       "twitter": "RadimKozzub",
-      "orgs": "Lawyer in Blockchain Legal",
+      "orgs": "Právník v [Blockchain Legal](https://www.blockchainlegal.cz/)",
+      "caption": "Lawyer at [Blockchain Legal](https://www.blockchainlegal.cz/)\n",
       "web": {
         "url": "https://www.blockchainlegal.cz/"
       },
@@ -443,6 +466,7 @@
         "url": "https://www.linkedin.com/in/stanislav-%C5%A1imek-6272091a5/"
       },
       "bio": "Právník a kryptoměnový konzultant",
+      "caption": "Lawyer and Cryptocurrency Consultant",
       "tracks": [
         "regulace",
         "nft"
@@ -460,6 +484,7 @@
       "name": "Tereza Starostová",
       "twitter": "terkastarostova",
       "orgs": "Spoluzakladatelka [Holky v Kryptu](https://holkyvkryptu.cz/), předsedkyně [UTXO Foundation](httsp://utxo.foundation)\n",
+      "caption": "Chairwoman at [UTXO](https://utxo.foundation) co-founder of [Women in crypto CZ](https://holkyvkryptu.cz)\n",
       "tracks": [
         "zaklady",
         "spolecnost"
@@ -477,6 +502,7 @@
       "nickname": "Fetyas",
       "twitter": "hernakrypto",
       "orgs": "YouTube kanál [KryptoHerna](https://www.youtube.com/channel/UCOgYjFqYfUnXo5DK9HceAMw)\n",
+      "caption": "YouTube channel [\"KryptoHerna\"](https://www.youtube.com/channel/UCOgYjFqYfUnXo5DK9HceAMw)\n",
       "tracks": [
         "nft"
       ],
@@ -495,6 +521,7 @@
       "twitter": "treecz",
       "bio": "Libertarián, propagátor Web3 a DAOs",
       "orgs": "Zakladatel [Gwei.cz](https://gwei.cz). Organizátor [ETHBrno](https://ethbrno.cz/), [UTXO.23](https://utxo.cz) a dalších akcí\n",
+      "caption": "Zakladatel [Gwei.cz](https://gwei.cz), organizátor [ETHBrno](https://ethbrno.cz/) & [UTXO.23](https://utxo.cz)\n",
       "country": "cz",
       "tracks": [
         "eth",
@@ -514,6 +541,7 @@
       "twitter": "urzanarchy",
       "bio": "Anarchokapitalista, autor knihy [Anarchokapitalismus](https://kniha.urza.cz/)",
       "orgs": "Zakladatel [Svobodného přístavu](https://pristav.urza.cz/), vedoucí [CZ/SK Mises Institutu](https://www.mises.cz/)\n",
+      "caption": "Author of a book about [Anarcho-Capitalism](https://kniha.urza.cz/)\n",
       "web": {
         "name": "Urza.cz",
         "url": "https://urza.cz"
