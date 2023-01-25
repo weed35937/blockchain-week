@@ -46,8 +46,6 @@ difficulty = "All Welcome"
 # pick 1-4
 tags = ["solarpunk"]
 
-union = "gm-events"
-
 # a color, to group key events visually. use sparingly
 # color=""
 
