@@ -15,7 +15,6 @@ attendees = 600
 chains = ["ethereum"]
 difficulty = "All Welcome"
 tags = ["solarpunk"]
-union = "gm-events"
 logo = "logo.jpg"
 description = """
 """

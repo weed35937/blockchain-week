@@ -1,6 +1,7 @@
 name = "GM Events"
 org = "[PWN](https://pwn.finance/)"
 description = "The best Ethereum, Web3 and DeFi events"
+events = [ "ethprague", "praguedefi", "privacyeth" ]
 
 [links]
 web = "https://gm.events/"

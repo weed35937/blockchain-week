@@ -18,6 +18,11 @@ properties:
   description:
     type: string
     __markdown: true
+  events:
+    type: array
+    items:
+      type: string
+      pattern: "^[a-z0-9-]+$"
   links:
     type: object
     additionalProperties:

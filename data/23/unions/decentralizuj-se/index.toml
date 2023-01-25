@@ -1,6 +1,7 @@
 name = "Decentralizuj se!"
 org = "[UTXO Foundation](https://utxo.foundation/)"
 description = "Crypto for beginners and users in local language"
+events = [ "utxo" ]
 
 [links]
 web = "https://utxo.events/"

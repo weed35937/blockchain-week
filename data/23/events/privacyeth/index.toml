@@ -13,7 +13,6 @@ venueUrl = "https://goo.gl/maps/xpzw6siQFXsJrrWh6"
 languages = ["english"]
 attendees = 300
 tags = ["lunarpunk", "privacy", "security"]
-union = "gm-events"
 logo = "logo.jpg"
 
 [links]
