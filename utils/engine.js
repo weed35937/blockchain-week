@@ -131,6 +131,7 @@ class DeConf_Package {
   async loadCollection(specDir, type) {
     const arr = [];
     for await (const ef of Deno.readDir([...specDir, type].join("/"))) {
+      if (ef.name.match(/^_/)) continue;
       const m = ef.name.match(/^([\w\d\-]+)(\.toml|)$/);
       if (!m) continue;
       const ev = new DeConf_Collection(type, m[1]);

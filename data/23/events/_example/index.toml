@@ -1,0 +1,72 @@
+# the name of your event
+name = "Example Event 2023"
+shortname = "Example"
+
+types = ["hackathon", "conference"]
+status = "planning"
+
+# the name of the group organizing the event
+org = "Example place"
+
+# the github handle of the directly responsible individual for this event
+# (this person will coordinate with devent organizers)
+dri = ""
+
+# the start date of the event
+date = "2023-06-09"
+
+# how many days the event lasts (1 - N)
+days = 3
+
+# the event times (shows up in the event card)
+times = "09:00 - 20:00"
+
+# the event venue name (will show up on the event card - TODO)
+venueName = "Paralelní Polis & La Fabrika"
+venueUrl = "https://goo.gl/maps/rVo6JRN59aodx5Pj7"
+
+# the event venue address (will show up on a map -- TODO)
+venueAddress = "Dělnická 475/43, 170 00 Praha 7"
+
+languages = ["english"]
+
+# the max number of attendees of the event
+attendees = 600
+
+chains = ["ethereum"]
+
+# these is unsued:
+# tickets = ""
+
+# the "difficulty" of the event -- one of:
+# ["Beginner", "Intermediate", "Advanced", "All Welcome"]
+difficulty = "All Welcome"
+
+# tags for the event, will show up as labels.
+# pick 1-4
+tags = ["solarpunk"]
+
+union = "gm-events"
+
+# a color, to group key events visually. use sparingly
+# color=""
+
+# A small logomark for the corner of the event
+#logomark = "./logo.png"
+#logo = "logo.jpg"
+
+# a description of the event.
+# will show up when the user clicks the event card.
+description = """
+"""
+
+[links]
+# the website of the event
+# make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
+web = "https://ethprague.com/"
+
+
+twitter = "https://twitter.com/EthPrague"
+
+
+telegram = "https://t.me/ethprague"
