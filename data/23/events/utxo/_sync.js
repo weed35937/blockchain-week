@@ -4,7 +4,7 @@ export async function data($) {
     speakers: bundle.spec.speakers.map(s => {
       if (s.photos && s.photos[0]) {
         const [ tp, ext ] = s.photos[0].split(":")
-        s.photoUrl = `https://spec.utxo.cz/22/photos/speakers/${s.id}-${tp}.${ext}`
+        s.photoUrl = `https://spec.utxo.cz/23/photos/speakers/${s.id}-${tp}.${ext}`
       }
       return s
     }),
