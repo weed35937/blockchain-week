@@ -225,7 +225,10 @@ class DeConf_Collection {
           const dir = [photosDir, "speakers"].join("/");
           const ffn = (sp.id ? sp.id : nameId) + ext;
           const fn = [dir, ffn].join("/");
-          if (await exists(fn)) continue;
+          if (await exists(fn)) {
+            sp.photo = ["photos", "speakers", ffn].join("/");
+            continue;
+          };
           await ensureDir(dir);
           const nameId = sp.id || sp.name.toLowerCase().replace(/ /g, "-");
           const photoFetch = await fetch(sp.photoUrl);

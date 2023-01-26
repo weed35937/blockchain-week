@@ -4,7 +4,7 @@
       "id": "michael-saylor",
       "name": "Michael Saylor",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/01/Michael-Saylor-2-320x320.jpg",
-      "bio": "Executive chairman & president of MicroStrategy",
+      "caption": "Executive chairman & president of MicroStrategy",
       "twitter": "saylor",
       "tag": "Entrepreneur",
       "country": "xx",
@@ -12,13 +12,14 @@
       "web": {
         "url": "https://michael.com"
       },
-      "link": "https://www.btcprague.com/speakers/michael-saylor/"
+      "link": "https://www.btcprague.com/speakers/michael-saylor/",
+      "photo": "photos/speakers/michael-saylor.jpg"
     },
     {
       "id": "stephan-livera",
       "name": "Stephan Livera",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2022/10/btcprague-stephanlivera-320x320.jpg",
-      "bio": "Host of “Stephan Livera Podcast”",
+      "caption": "Host of “Stephan Livera Podcast”",
       "twitter": "stephanlivera",
       "linkedin": "stephan-livera-11130717",
       "tag": "Influencer",
@@ -27,13 +28,14 @@
       "web": {
         "url": "https://stephanlivera.com/"
       },
-      "link": "https://www.btcprague.com/speakers/stephan-livera/"
+      "link": "https://www.btcprague.com/speakers/stephan-livera/",
+      "photo": "photos/speakers/stephan-livera.jpg"
     },
     {
       "id": "roman-reher",
       "name": "Roman Reher",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2022/11/btcprague-romanreher-320x320.jpg",
-      "bio": "Founder of YT channel \"Blocktrainer\"",
+      "caption": "Founder of YT channel \"Blocktrainer\"",
       "twitter": "blocktrainer",
       "tag": "Influencer",
       "country": "xx",
@@ -41,13 +43,14 @@
       "web": {
         "url": "https://www.blocktrainer.de/"
       },
-      "link": "https://www.btcprague.com/speakers/roman-reher/"
+      "link": "https://www.btcprague.com/speakers/roman-reher/",
+      "photo": "photos/speakers/roman-reher.jpg"
     },
     {
       "id": "aleks-svetski",
       "name": "Aleks Svetski",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/01/Aleks-Svetski-320x320.jpeg",
-      "bio": "Bitcoin author & podcaster",
+      "caption": "Bitcoin author & podcaster",
       "twitter": "SvetskiWrites",
       "tag": "Author",
       "country": "xx",
@@ -55,13 +58,14 @@
       "web": {
         "url": "https://Svetski.info"
       },
-      "link": "https://www.btcprague.com/speakers/aleks-svetski/"
+      "link": "https://www.btcprague.com/speakers/aleks-svetski/",
+      "photo": "photos/speakers/aleks-svetski.jpeg"
     },
     {
       "id": "peter-mccormack",
       "name": "Peter McCormack",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/01/Peter-McCormack-1-320x320.jpeg",
-      "bio": "Host of the “What Bitcoin Did” podcast",
+      "caption": "Host of the “What Bitcoin Did” podcast",
       "twitter": "PeterMcCormack",
       "linkedin": "petermccormack1",
       "tag": "Influencer",
@@ -70,13 +74,14 @@
       "web": {
         "url": "https://www.whatbitcoindid.com/"
       },
-      "link": "https://www.btcprague.com/speakers/peter-mccormack/"
+      "link": "https://www.btcprague.com/speakers/peter-mccormack/",
+      "photo": "photos/speakers/peter-mccormack.jpeg"
     },
     {
       "id": "obi-nwosu",
       "name": "Obi Nwosu",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/01/Obi-Nwosu-320x320.jpeg",
-      "bio": "CEO of Fedi",
+      "caption": "CEO of Fedi",
       "twitter": "obi",
       "tag": "Entrepreneur",
       "country": "xx",
@@ -84,38 +89,41 @@
       "web": {
         "url": "https://www.fedi.xyz/"
       },
-      "link": "https://www.btcprague.com/speakers/obi-nwosu/"
+      "link": "https://www.btcprague.com/speakers/obi-nwosu/",
+      "photo": "photos/speakers/obi-nwosu.jpeg"
     },
     {
       "id": "giacomo-zucco",
       "name": "Giacomo Zucco",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2022/11/btcprague-giacomozucco-320x320.jpg",
-      "bio": "Bitcoin entrepreneur & consultant",
+      "caption": "Bitcoin entrepreneur & consultant",
       "twitter": "giacomozucco",
       "tag": "Entrepreneur",
       "country": "xx",
       "desc": "Did you think being a toxic maximalist and a very nice person were mutually exclusive? You definitely need to meet Giacomo and his cute Italian accent – his talks are always both deep and funny.",
       "web": {},
-      "link": "https://www.btcprague.com/speakers/giacomo-zucco/"
+      "link": "https://www.btcprague.com/speakers/giacomo-zucco/",
+      "photo": "photos/speakers/giacomo-zucco.jpg"
     },
     {
       "id": "knut-svanholm",
       "name": "Knut Svanholm",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2022/11/btcprague-knutsvanholm-320x320.jpg",
-      "bio": "Author of the \"∞ / 21M” book",
+      "caption": "Author of the \"∞ / 21M” book",
       "tag": "Author",
       "country": "xx",
       "desc": "His book became an instant classic. Knut comes from Sweden but lives in Madeira where he is a member of the Governance Board at @FREEMadeiraOrg – an attempt to create a bitcoin citadel right here and right now.",
       "web": {
         "url": "https://www.knutsvanholm.com/"
       },
-      "link": "https://www.btcprague.com/speakers/knut-svanholm/"
+      "link": "https://www.btcprague.com/speakers/knut-svanholm/",
+      "photo": "photos/speakers/knut-svanholm.jpg"
     },
     {
       "id": "anita-posch",
       "name": "Anita Posch",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/01/Anita-Posch-2-320x320.png",
-      "bio": "Bitcoin educator & author",
+      "caption": "Bitcoin educator & author",
       "twitter": "anitaposch",
       "tag": "Author",
       "country": "xx",
@@ -123,25 +131,27 @@
       "web": {
         "url": "https://anitaposch.com"
       },
-      "link": "https://www.btcprague.com/speakers/anita-posch/"
+      "link": "https://www.btcprague.com/speakers/anita-posch/",
+      "photo": "photos/speakers/anita-posch.png"
     },
     {
       "id": "lunaticoin",
       "name": "Lunaticoin",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/01/Luna-1.png",
-      "bio": "Bitcoin podcaster",
+      "caption": "Bitcoin podcaster",
       "twitter": "lunaticoin",
       "tag": "Influencer",
       "country": "xx",
       "desc": "Lunaticoin is an MC and moderator of different bitcoin events. He represents the Spanish community and he will share what is happening over there in the panel with similar personalities from other European countries.",
       "web": {},
-      "link": "https://www.btcprague.com/speakers/lunaticoin/"
+      "link": "https://www.btcprague.com/speakers/lunaticoin/",
+      "photo": "photos/speakers/lunaticoin.png"
     },
     {
       "id": "rahim-taghizadegan",
       "name": "Rahim Taghizadegan",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2022/11/btcprague-rahimtaghizadegan-320x320.jpg",
-      "bio": "Austrian economist & entrepreneur",
+      "caption": "Austrian economist & entrepreneur",
       "twitter": "scholarium_at",
       "tag": "Author",
       "country": "xx",
@@ -149,74 +159,80 @@
       "web": {
         "url": "https://scholarium.at/rt/"
       },
-      "link": "https://www.btcprague.com/speakers/rahim-taghizadegan/"
+      "link": "https://www.btcprague.com/speakers/rahim-taghizadegan/",
+      "photo": "photos/speakers/rahim-taghizadegan.jpg"
     },
     {
       "id": "gleb-naumenko",
       "name": "Gleb Naumenko",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2022/11/btcprague-glebnaumenko-320x320.jpg",
-      "bio": "Bitcoin Core and Lightning Network developer",
+      "caption": "Bitcoin Core and Lightning Network developer",
       "twitter": "ffstls",
       "tag": "Developer",
       "country": "xx",
       "desc": "His focus in development is security. Coming from Ukraine, Gleb will talk about how thanks to bitcoin he was able to raise funds from all over the world to provide help to his fellow citizens during the current war conflict.",
       "web": {},
-      "link": "https://www.btcprague.com/speakers/gleb-naumenko/"
+      "link": "https://www.btcprague.com/speakers/gleb-naumenko/",
+      "photo": "photos/speakers/gleb-naumenko.jpg"
     },
     {
       "id": "samantha-de-waal",
       "name": "Samantha de Waal",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/01/Samantha-de-Waal-1-3-e1674643216602-320x320.jpeg",
-      "bio": "12-year-old bitcoiner",
+      "caption": "12-year-old bitcoiner",
       "twitter": "SamTheBTCKid",
       "tag": "Influencer",
       "country": "xx",
       "desc": "Samantha has been a bitcoiner for twelve years. She’s also twelve years old. Sam has grown up around bitcoin and has never known a world without it. Now she wants to help other people -and especially kids- understand this revolutionary technology.",
       "web": {},
-      "link": "https://www.btcprague.com/speakers/samantha-de-waal/"
+      "link": "https://www.btcprague.com/speakers/samantha-de-waal/",
+      "photo": "photos/speakers/samantha-de-waal.jpeg"
     },
     {
       "id": "benjamin-de-waal",
       "name": "Benjamin de Waal",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/01/Ben-de-Waal.jpg",
-      "bio": "VP Engineering of Swan Bitcoin",
+      "caption": "VP Engineering of Swan Bitcoin",
       "twitter": "Ben_deWaal",
       "tag": "Developer",
       "country": "xx",
       "desc": "Benjamin is a developer and manages a software team at the biggest bitcoin-only US exchange Swan Bitcoin. Ben values bitcoin’s privacy and censorship resistance features over its financial aspect. He is a bitcoin OG since 2010.",
       "web": {},
-      "link": "https://www.btcprague.com/speakers/benjamin-de-waal/"
+      "link": "https://www.btcprague.com/speakers/benjamin-de-waal/",
+      "photo": "photos/speakers/benjamin-de-waal.jpg"
     },
     {
       "id": "wolf-von-laer",
       "name": "Wolf von Laer",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/01/Wolf-von-Laer-320x320.jpg",
-      "bio": "CEO of Students For Liberty",
+      "caption": "CEO of Students For Liberty",
       "tag": "Community Leader",
       "country": "xx",
       "desc": "Students for Liberty is a non-profit organization that trains and supports pro-liberty students worldwide. Wolf is a libertarian who lived and studied in many countries and is also a member of the Montpelerin Society.",
       "web": {
         "url": "https://www.wolfvonlaer.com"
       },
-      "link": "https://www.btcprague.com/speakers/wolf-von-laer/"
+      "link": "https://www.btcprague.com/speakers/wolf-von-laer/",
+      "photo": "photos/speakers/wolf-von-laer.jpg"
     },
     {
       "id": "daniel-prince",
       "name": "Daniel Prince",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/01/Daniel-Prince-320x320.png",
-      "bio": "Host of \"Once BITten\" podcast",
+      "caption": "Host of \"Once BITten\" podcast",
       "twitter": "PrinceySOV",
       "tag": "Author",
       "country": "xx",
       "desc": "A long-time forex trader before he swallowed the orange pill. Today he is a digital nomad and father of 4 homeschooled children. Daniel will moderate panels at BTC Prague where he will leverage his skill of making discussions go the right way.",
       "web": {},
-      "link": "https://www.btcprague.com/speakers/daniel-prince/"
+      "link": "https://www.btcprague.com/speakers/daniel-prince/",
+      "photo": "photos/speakers/daniel-prince.png"
     },
     {
       "id": "peter-young",
       "name": "Peter Young",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/01/Peter-Young-320x320.jpg",
-      "bio": "CEO of Free Cities Foundation",
+      "caption": "CEO of Free Cities Foundation",
       "twitter": "freecitiesfound",
       "linkedin": "https://linkedin.com/company/freecitiesfoundation",
       "tag": "Community Leader",
@@ -225,13 +241,14 @@
       "web": {
         "url": "https://free-cities.org/"
       },
-      "link": "https://www.btcprague.com/speakers/peter-young/"
+      "link": "https://www.btcprague.com/speakers/peter-young/",
+      "photo": "photos/speakers/peter-young.jpg"
     },
     {
       "id": "dusan-matuska",
       "name": "Dušan Matuška",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/01/Dusan-Matuska-320x320.png",
-      "bio": "Bitcoin educator & miner",
+      "caption": "Bitcoin educator & miner",
       "twitter": "dusan_matuska",
       "tag": "Entrepreneur",
       "country": "sk",
@@ -239,13 +256,14 @@
       "web": {
         "url": "http://amityage.com"
       },
-      "link": "https://www.btcprague.com/speakers/dusan-matuska/"
+      "link": "https://www.btcprague.com/speakers/dusan-matuska/",
+      "photo": "photos/speakers/dusan-matuska.png"
     },
     {
       "id": "ioni-appelberg",
       "name": "Ioni Appelberg",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2022/11/btcprague-ioniappelberg-320x320.jpg",
-      "bio": "Bitcoin animator & video creator",
+      "caption": "Bitcoin animator & video creator",
       "twitter": "IoniAppelberg",
       "tag": "Author",
       "country": "xx",
@@ -253,13 +271,14 @@
       "web": {
         "url": "https://www.ioniappelberg.com/"
       },
-      "link": "https://www.btcprague.com/speakers/ioni-appelberg/"
+      "link": "https://www.btcprague.com/speakers/ioni-appelberg/",
+      "photo": "photos/speakers/ioni-appelberg.jpg"
     },
     {
       "id": "erik-dale",
       "name": "Erik Dale",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2022/11/btcpraque-erikdale-320x320.jpg",
-      "bio": "Host of the \"Bitcoin for Breakfast\" podcast",
+      "caption": "Host of the \"Bitcoin for Breakfast\" podcast",
       "twitter": "EuroDale",
       "tag": "Influencer",
       "country": "xx",
@@ -267,7 +286,8 @@
       "web": {
         "url": "https://www.kongerik.et/"
       },
-      "link": "https://www.btcprague.com/speakers/erik-dale/"
+      "link": "https://www.btcprague.com/speakers/erik-dale/",
+      "photo": "photos/speakers/erik-dale.jpg"
     }
   ]
 }
