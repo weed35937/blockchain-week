@@ -19,7 +19,7 @@ export async function data(tools) {
       id: link.match(/speakers\/(.+)\/$/)[1],
       name,
       photoUrl: $("img", el).attr("src"),
-      bio: value(".popis"),
+      caption: value(".popis"),
       twitter: $$("a.twitter", sp).attr("href")?.replace("https://twitter.com/",""),
       linkedin: $$("a.linkedIn", sp).attr("href")?.replace("https://www.linkedin.com/in/","").replace(/\/$/,""),
       tag: value(".taxTag "),
