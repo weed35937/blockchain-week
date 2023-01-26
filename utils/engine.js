@@ -218,20 +218,21 @@ class DeConf_Collection {
 
       if (data.speakers) {
         const photosDir = [this.dir, "photos"].join("/");
-        await emptyDir(photosDir);
+        await ensureDir(photosDir);
         for (const sp of data.speakers) {
           if (!sp.photoUrl) continue;
-          const photoFetch = await fetch(sp.photoUrl);
           const ext = await posix.extname(sp.photoUrl);
           const dir = [photosDir, "speakers"].join("/");
+          const ffn = (sp.id ? sp.id : nameId) + ext;
+          const fn = [dir, ffn].join("/");
+          if (await exists(fn)) continue;
           await ensureDir(dir);
           const nameId = sp.id || sp.name.toLowerCase().replace(/ /g, "-");
+          const photoFetch = await fetch(sp.photoUrl);
           if (photoFetch.body) {
-            const ffn = (sp.id ? sp.id : nameId) + ext;
-            const fn = [dir, ffn].join("/");
-            console.log(`${fn} writed`);
             const file = await Deno.open(fn, { write: true, create: true });
             await photoFetch.body.pipeTo(file.writable);
+            console.log(`${fn} writed`);
             sp.photo = ["photos", "speakers", ffn].join("/");
           }
         }
