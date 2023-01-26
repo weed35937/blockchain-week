@@ -1,5 +1,5 @@
-name = "Dotsama Prague 2023"
-shortname = "Dotsama"
+name = "DOTPrague 2023"
+shortname = "DOTPrague"
 types = ["conference"]
 status = "planning"
 chains = ["polkadot"]
