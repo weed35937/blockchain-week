@@ -16,6 +16,12 @@ languages = ["english"]
 #tags = []
 logo = "logo.jpg"
 
+[registration]
+type = "invites"
+link = "https://cs.braiins.com/bitcoin-mining-conference-2023#join"
+button = "Join #BMC2023"
+status = "available"
+
 [links]
 web = "https://btcminingconf.com/"
 twitter = "https://twitter.com/BTCMiningConf"

@@ -19,6 +19,9 @@ A one-day lunarpunk-style conference focused on privacy. The conference originat
 '''
 logo = "logo.jpg"
 
+[registration]
+type = "tickets"
+
 [links]
 #web = ""
 twitter = "https://twitter.com/PrivacyETHconf"

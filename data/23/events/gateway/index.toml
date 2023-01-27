@@ -19,6 +19,9 @@ Gateway to Cosmos is the one-stop-shop conference for all Cosmos Network evangel
 '''
 logo = "logo.jpg"
 
+[registration]
+type = "tickets"
+
 [links]
 web = "https://gateway.events/"
 twitter = "https://twitter.com/Gateway_Conf"

@@ -19,6 +19,12 @@ Open community conference focused on cryptocurrencies and blockchain for a wide 
 '''
 logo = "logo.jpg"
 
+[registration]
+type = "tickets"
+#price = ""
+#link = ""
+#status = "available"
+
 [links]
 web = "https://utxo.cz/"
 docs = "https://docs.utxo.cz/udalosti/23"

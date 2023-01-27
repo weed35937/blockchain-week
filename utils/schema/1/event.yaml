@@ -104,6 +104,31 @@ properties:
   description:
     type: string
     __markdown: true
+  registration:
+    type: object
+    additionalProperties: false
+    required:
+      - type
+    properties:
+      type:
+        type: string
+        enum:
+          - tickets
+          - invites
+          - signup
+      price:
+        type: string
+      link:
+        type: string
+        format: uri
+      button:
+        type: string
+      status:
+        type: string
+        enum:
+          - available
+          - sold-out
+          - closed
   links:
     type: object
     additionalProperties:

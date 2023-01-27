@@ -19,6 +19,12 @@ BTC Prague, coming June 8th to 10th 2023, is going to be the biggest bitcoin-onl
 '''
 logo = "logo.jpg"
 
+[registration]
+type = "tickets"
+price = ">9 EUR"
+link = "https://www.btcprague.com/#tickets"
+status = "available"
+
 [links]
 web = "https://www.btcprague.com/"
 twitter = "https://twitter.com/BtcPrague"

@@ -20,6 +20,9 @@ logo = "logo.jpg"
 description = """
 """
 
+[registration]
+type = "invites"
+
 [links]
 web = "https://ethprague.com/"
 twitter = "https://twitter.com/EthPrague"

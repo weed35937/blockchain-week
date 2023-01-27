@@ -16,6 +16,11 @@ attendees = 1000
 #tags = []
 logo = "logo.jpg"
 
+[registration]
+type = "tickets"
+price = ">222 EUR"
+link = "https://tickets.paralelnipolis.cz/dtp/PDFS23/"
+
 [links]
 web = "https://praguedefisummit.com/"
 twitter = "https://twitter.com/PragueDefi"
