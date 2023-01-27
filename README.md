@@ -7,7 +7,8 @@ A decentralized conference hosted by
 [UTXO Foundation](https://utxo.foundation/). We are using this GitHub repository
 to coordinate event listings.
 
-- Data: [data.prgblockweek.com](https://data.prgblockweek.com)
+- 💽 Data: [data.prgblockweek.com](https://data.prgblockweek.com)
+- 🕵️ Inspector: [inspector.prgblockweek.com](http://inspector.prgblockweek.com/)
 
 ## Follow us!
 
