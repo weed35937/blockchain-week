@@ -8,7 +8,7 @@ A decentralized conference hosted by
 to coordinate event listings.
 
 - 💽 Data: [data.prgblockweek.com](https://data.prgblockweek.com)
-- 🕵️ Inspect: [inspect.prgblockweek.com](http://inspector.prgblockweek.com/)
+- 🕵️ Inspect: [inspect.prgblockweek.com](http://inspect.prgblockweek.com/)
 
 ## Follow us!
 
