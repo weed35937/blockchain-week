@@ -13,6 +13,9 @@ venueAddress = "Beranových 667, 199 00 Praha 9"
 venueUrl = "https://goo.gl/maps/mvd8QeEfxM98EAVNA"
 languages = ["english", "czech", "slovak"]
 attendees = 10000
+description = '''
+BTC Prague, coming June 8th to 10th 2023, is going to be the biggest bitcoin-only conference in Europe ever, welcoming 10,000 visitors from all around the world.
+'''
 logo = "logo.jpg"
 
 [links]

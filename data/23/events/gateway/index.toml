@@ -13,6 +13,9 @@ venueUrl = "https://goo.gl/maps/vJTjwNR88ovZqd9n7"
 languages = ["english"]
 attendees = 1000
 #tags = []
+description = '''
+Gateway to Cosmos is the one-stop-shop conference for all Cosmos Network evangelists. The ever-growing Cosmos community deserves a place to connect and network with one another in person to foster these special relationships that have stemmed from the Internet of Blockchains.
+'''
 logo = "logo.jpg"
 
 [links]

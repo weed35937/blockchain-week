@@ -13,6 +13,9 @@ venueUrl = "https://goo.gl/maps/xpzw6siQFXsJrrWh6"
 languages = ["english"]
 attendees = 300
 tags = ["lunarpunk", "privacy", "security"]
+description = '''
+A one-day lunarpunk-style conference focused on privacy. The conference originated as the dark side of [ETHPrague](https://ethprague.com), and is run by the same team behind the [ETHBrno](https://ethbrno.cz) hackathon in November.
+'''
 logo = "logo.jpg"
 
 [links]
