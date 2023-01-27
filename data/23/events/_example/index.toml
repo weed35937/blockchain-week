@@ -1,8 +1,26 @@
 # the name of your event
 name = "Example Event 2023"
+
+# shortest possible name (without year)
 shortname = "Example"
 
-types = ["hackathon", "conference"]
+# type of the event
+# 
+#  available types (you can choose more):
+#   * meetup
+#   * conference
+#   * hackathon
+#   * expo
+#   * party
+#   * other
+types = ["meetup"]
+
+# status of the event
+#
+#  available types:
+#   * idea
+#   * planning
+#   * published
 status = "planning"
 
 # the name of the group organizing the event
@@ -24,50 +42,72 @@ days = 3
 # the event times (shows up in the event card)
 times = "09:00 - 20:00"
 
-# the event venue name (will show up on the event card - TODO)
-venueName = "Paralelní Polis & La Fabrika"
-venueUrl = "https://goo.gl/maps/rVo6JRN59aodx5Pj7"
+# the event venue name
+venueName = "Example venue"
 
-# the event venue address (will show up on a map -- TODO)
-venueAddress = "Dělnická 475/43, 170 00 Praha 7"
+# link to the venue on google maps 
+venueUrl = "https://goo.gl/maps/example"
 
+# the event venue address
+venueAddress = "118 Holland St, Somerville, MA 02144"
+
+# the languages in which the event will take place (you can choose more)
 languages = ["english"]
 
 # the max number of attendees of the event
 attendees = 600
 
-chains = ["ethereum"]
-
-# these is unsued:
-# tickets = ""
-
-# the "difficulty" of the event -- one of:
-# ["Beginner", "Intermediate", "Advanced", "All Welcome"]
-difficulty = "All Welcome"
+# blockchains that the event deals with
+# if it is an interchain event, then leave blank
+chains = ["example"]
 
 # tags for the event, will show up as labels.
 # pick 1-4
 tags = ["solarpunk"]
 
-# a color, to group key events visually. use sparingly
-# color=""
-
-# A small logomark for the corner of the event
-#logomark = "./logo.png"
+# A logo attachment
 #logo = "logo.jpg"
 
 # a description of the event.
-# will show up when the user clicks the event card.
 description = """
 """
+
+[registration]
+# type of registration
+#
+#  Possible values:
+#   * tickets
+#   * invites
+#   * signup
+type = "tickets"
+
+# price of the ticket
+price = "100 EUR"
+
+# link to the registration or ticket purchase page
+link = "https://example.org/tickets"
+
+# custom action button label 
+#button = "Buy tickets!"
+
+# status of registrations
+#
+#  Possible values:
+#   * available
+#   * sold-out
+#   * closed
+status = "available"
 
 [links]
 # the website of the event
 # make sure to have all the relevant information: dates, venue, program, ticketing (if any), etc.
-web = "https://ethprague.com/"
+web = "https://example.org/"
 
+# twitter account
+twitter = "https://twitter.com/ExampleConf"
 
-twitter = "https://twitter.com/EthPrague"
+# public telegram group
+telegram = "https://t.me/example"
 
-
-telegram = "https://t.me/ethprague"
+# docs
+#docs = "https://example.org/docs"
