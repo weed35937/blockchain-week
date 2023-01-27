@@ -5,6 +5,7 @@ status = "planning"
 chains = ["polkadot"]
 org = ""
 dri = ""
+poc = "Damsky"
 date = "2023-06-05"
 days = 2
 venueName = "TBA"

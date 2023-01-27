@@ -4,6 +4,7 @@ types = ["hackathon", "conference"]
 status = "planning"
 org = "DuckTape/Paralelní Polis"
 dri = ""
+poc = "JosefJ, Vojta"
 date = "2023-06-09"
 days = 3
 times = "09:00 - 20:00"

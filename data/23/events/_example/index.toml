@@ -9,8 +9,11 @@ status = "planning"
 org = "Example place"
 
 # the github handle of the directly responsible individual for this event
-# (this person will coordinate with devent organizers)
-dri = ""
+# (this person will coordinate with #pbw23 organizers)
+dri = "john007"
+
+# A point of contact (responsible person)
+poc = "John Appleseed"
 
 # the start date of the event
 date = "2023-06-09"

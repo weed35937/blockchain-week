@@ -45,6 +45,9 @@ properties:
   dri:
     type: string
     title: Directly responsible individual (Github username)
+  poc:
+    type: string
+    title: A point of contact (POC)
   date:
     type: string
     pattern: "^\\d{4}-\\d{2}-\\d{2}$"

@@ -4,6 +4,7 @@ types = ["conference"]
 status = "planning"
 org = "[UTXO Foundation](https://utxo.foundation)"
 dri = "burningtree"
+poc = "Tereza Starostová"
 date = "2023-06-02"
 days = 3
 times = "10:00 - 19:00"

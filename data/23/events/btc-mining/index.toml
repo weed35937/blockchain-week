@@ -4,6 +4,7 @@ types = ["conference"]
 status = "published"
 org = "[Braiins](https://braiins.com/)"
 dri = ""
+poc = "Kristian Csepcsar"
 date = "2023-06-07"
 days = 1
 times = ""

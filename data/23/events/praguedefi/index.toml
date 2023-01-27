@@ -4,6 +4,7 @@ types = ["conference"]
 status = "published"
 org = "DuckTape/Paralelní Polis"
 dri = ""
+poc = "Steve Fau, Dan"
 date = "2023-06-06"
 days = 3
 times = ""
