@@ -1,0 +1,23 @@
+name = "STRV meetup"
+shortname = ""
+types = ["meetup"]
+status = "planning"
+chains = []
+org = ""
+dri = ""
+poc = "[strakovic](https://twitter.com/strakovicm)"
+date = "2023-06-07"
+days = 1
+venueName = "STRV Karlín"
+venueAddress = "Rohanské nábřeží 678/23, 186 00 Praha 8 - Karlín, Czech Republic"
+venueUrl = "https://goo.gl/maps/JESLTW4cf49XPjEm8"
+languages = ["english"]
+#attendees = 100
+tags = []
+description = '''
+'''
+#logo = "logo.jpg"
+
+[links]
+#web = ""
+#twitter = ""

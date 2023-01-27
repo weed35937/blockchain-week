@@ -1,0 +1,23 @@
+name = "APUS meetup"
+shortname = ""
+types = ["meetup"]
+status = "planning"
+chains = ["ethereum"]
+org = ""
+dri = ""
+poc = "[Radek Švarz](https://t.me/r4deks)"
+date = "2023-06-02"
+days = 1
+venueName = "TBA"
+#venueAddress = ""
+#venueUrl = ""
+languages = ["czech", "slovak"]
+#attendees = 100
+tags = ["DeFi", "lending"]
+description = '''
+'''
+#logo = "logo.jpg"
+
+[links]
+#web = ""
+#twitter = ""
