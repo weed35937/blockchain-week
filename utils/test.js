@@ -27,10 +27,12 @@ function checkCollection(entry, entryInfo, colName) {
       }
     });
     // check specific collections
-    if (colName === "events" && event.data.index.union) {
-      Deno.test(`[${entryInfo} ${colName}=${event.id}] union link`, () => {
-        if (!entry.data.unions.find((u) => u.id === event.data.index.union)) {
-          throw new Error(`Union not exists = ${event.data.index.union}`);
+    if (colName === "events" && event.data.index.venues) {
+      Deno.test(`[${entryInfo} ${colName}=${event.id}] venues link`, () => {
+        for (const placeId of event.data.index.venues) {
+          if (!entry.data.places.find((p) => p.id === placeId)) {
+            throw new Error(`Place not exists = ${placeId}`);
+          }
         }
       });
     }

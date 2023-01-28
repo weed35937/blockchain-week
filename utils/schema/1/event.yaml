@@ -9,7 +9,6 @@ required:
   - org
   - dri
   - date
-  - venueName
 properties:
   id:
     type: string
@@ -61,6 +60,11 @@ properties:
   times:
     type: string
     title: Event times
+  venues:
+    type: array
+    items:
+      type: string
+      pattern: "^[a-z0-9-]+$"
   venueName:
     type: string
     title: Venue name
