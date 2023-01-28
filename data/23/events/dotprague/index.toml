@@ -8,17 +8,17 @@ dri = ""
 poc = "Damsky"
 date = "2023-06-05"
 days = 2
-venueName = "TBA"
-#venueAddress = ""
-#venueUrl = ""
+venues = ["jatka78"]
 languages = ["english"]
 attendees = 300
 #tags = []
-logo = "logo.jpg"
+logo = "logo.png"
 
 [registration]
 type = "tickets"
 
 [links]
-#web = ""
+web = "https://dotprague.xyz/"
 twitter = "https://twitter.com/DotsamaPrague"
+telegram = "https://t.me/+z77D0iuvL8YyNTBk"
+discord = "https://discord.com/invite/KQXAs7Y3pQ"
