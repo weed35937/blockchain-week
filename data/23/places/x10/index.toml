@@ -1,4 +1,4 @@
-name = "Divadlo X10"
+name = "X10"
 eventTypes = ["conference", "hackathon", "party"]
 capacity = 300
 address = "Charvátova 10/39, Praha 1, 110 00"
