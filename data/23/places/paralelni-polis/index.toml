@@ -1,5 +1,5 @@
 name = "Paralelní Polis"
-eventTypes = ["conference", "hackathon", "party", "meetup", "dev-session", "party"]
+eventTypes = ["conference", "hackathon", "party", "meetup", "party"]
 capacity = 250
 address = "Dělnická 475/43, 170 00 Praha 7"
 mapUrl = "https://goo.gl/maps/nxYRgrCFSigLA3ea9"

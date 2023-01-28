@@ -1,0 +1,12 @@
+name = "PVA Expo"
+eventTypes = ["conference", "hackathon", "expo"]
+capacity = 25000
+address = "Beranových 667, 199 00 Praha 9"
+mapUrl = "https://goo.gl/maps/w8pucaRDjFq9oFqe9"
+description = '''
+PVA (Prague Exhibition Grounds) EXPO PRAHA or Výstaviště Letňany is a trade fair complex in Prague-Letňany. It covers an area of 105,000 m² in close proximity to the final metro station of the C line and Letňany Airport for small aircraft.
+'''
+photo = "photo.jpg"
+
+[links]
+web = "https://www.pvaexpo.cz/pronajem-arealu"

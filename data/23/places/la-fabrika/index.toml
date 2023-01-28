@@ -1,0 +1,12 @@
+name = "La Fabrika"
+eventTypes = ["conference", "hackathon"]
+capacity = 450
+address = "Komunardů 1001, 170 00 Praha 7-Holešovice"
+mapUrl = "https://goo.gl/maps/9GMeXXFaowpAtxfT8"
+description = '''
+The barrier-free, variable space with two multifunctional halls, its high-tech equipment and catering facilities, allows for events of all kinds. Suitable to complement the Paralelní Polis next door. It is possible to combine the venue into one.
+'''
+photo = "photo.jpg"
+
+[links]
+web = "https://www.lafabrika.cz/en/pronajem"

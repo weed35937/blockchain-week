@@ -22,10 +22,10 @@ properties:
       enum:
         - conference
         - hackathon
-        - workshop
         - meetup
+        - expo
         - party
-        - dev-session
+        - other
   capacity:
     type: number
   address:

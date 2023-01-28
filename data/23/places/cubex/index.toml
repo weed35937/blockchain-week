@@ -1,0 +1,12 @@
+name = "Cubex"
+eventTypes = ["conference", "hackathon"]
+capacity = 1700
+address = "Na Strži 2097/63, 140 00 Praha 4-Nusle"
+mapUrl = "https://goo.gl/maps/okNgvCMx2wu6DaTb9"
+description = '''
+Cubex Centre Prague in new multipurpose venue in Prague, Pankrác, for up to 1700 participants.
+'''
+photo = "photo.jpg"
+
+[links]
+web = "https://www.cubexcentrum.cz/eng"
