@@ -1,0 +1,45 @@
+type: object
+title: Place
+additionalProperties: false
+required:
+  - id
+  - name
+properties:
+  id:
+    type: string
+    pattern: "^[a-z0-9-]+$"
+    title: Event Union ID
+  hash:
+    type: string
+    pattern: "^[a-f0-9]+$"
+  name:
+    type: string
+    title: Name of Event Union
+  eventTypes:
+    type: array
+    items:
+      type: string
+      enum:
+        - conference
+        - hackathon
+        - workshop
+        - meetup
+        - party
+        - dev-session
+  capacity:
+    type: number
+  address:
+    type: string
+  mapUrl:
+    type: string
+    format: uri
+  description:
+    type: string
+    __markdown: true
+  photo:
+    type: string
+  links:
+    type: object
+    additionalProperties:
+      type: string
+      format: uri

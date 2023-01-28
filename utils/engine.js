@@ -99,10 +99,11 @@ class DeConf_Package {
     this.data = null;
     this.engine = engine;
     this.colMapper = {
-      unions: "union",
+      places: "place",
       events: "event",
       "media-partners": "media-partner",
       benefits: "benefit",
+      unions: "union",
     };
     this.collections = Object.keys(this.colMapper);
   }
@@ -156,10 +157,11 @@ class DeConf_Package {
   }
   toJSON() {
     return Object.assign({ id: this.id }, this.data.index, {
-      unions: this.data.unions,
-      events: this.data.events,
-      "media-partners": this.data["media-partners"],
-      benefits: this.data["benefits"],
+      ...Object.fromEntries(
+        Object.keys(this.colMapper).map((col) => {
+          return [col, this.data[col]];
+        }),
+      ),
       time: new Date(),
     });
   }
@@ -171,7 +173,7 @@ class DeConf_Collection {
     this.id = id;
     this.data = null;
     this.dir = null;
-    this.assets = ["logo"];
+    this.assets = ["logo", "photo"];
   }
 
   async load(path) {

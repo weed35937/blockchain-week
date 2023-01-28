@@ -1,0 +1,12 @@
+name = "Gabriel Loci"
+eventTypes = ["conference", "hackathon", "party"]
+capacity = 1500
+address = "Holečkova 106/10, 150 00 Praha 5-Smíchov"
+mapUrl = "https://goo.gl/maps/f2nf36TFe9XdqpJP8"
+description = '''
+The former monastery complex offers a unique event space. The building is not equipped, so it is more suitable for larger events.
+'''
+photo = "photo.jpg"
+
+[links]
+web = "https://www.gabrielloci.com/en/"

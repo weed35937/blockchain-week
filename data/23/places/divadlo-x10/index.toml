@@ -1,0 +1,12 @@
+name = "Divadlo X10"
+eventTypes = ["conference", "hackathon", "party"]
+capacity = 300
+address = "Charvátova 10/39, Praha 1, 110 00"
+mapUrl = "https://goo.gl/maps/xpzw6siQFXsJrrWh6"
+description = '''
+The basement of the former Art Industry Building, now a theatre. One large hall for approx 250 people seated. Includes basic equipment (lights, projector, sound, chairs).
+'''
+photo = "photo.jpg"
+
+[links]
+web = "https://www.divadlox10.cz/en/rental-space"
