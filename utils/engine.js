@@ -184,8 +184,9 @@ class DeConf_Collection {
     }
 
     const efIndex = await _tomlLoad(fn.join("/"));
+    const hash = await _makeHash([this.type, this.id].join(":"));
     const data = {
-      index: { id: this.id, ...efIndex },
+      index: { id: this.id, hash, ...efIndex },
     };
     if (this.dir) {
       const syncDataFn = [this.dir, "data.json"].join("/");
@@ -228,7 +229,7 @@ class DeConf_Collection {
           if (await exists(fn)) {
             sp.photo = ["photos", "speakers", ffn].join("/");
             continue;
-          };
+          }
           await ensureDir(dir);
           const nameId = sp.id || sp.name.toLowerCase().replace(/ /g, "-");
           const photoFetch = await fetch(sp.photoUrl);
@@ -309,4 +310,12 @@ async function _jsonWrite(fn, data) {
 }
 async function _jsonLoad(fn) {
   return JSON.parse(await Deno.readTextFile(fn));
+}
+
+async function _makeHash(str) {
+  return Array.from(
+    new Uint8Array(
+      await crypto.subtle.digest("SHA-256", (new TextEncoder()).encode(str)),
+    ),
+  ).map((b) => b.toString(16).padStart(2, "0")).join("");
 }

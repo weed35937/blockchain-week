@@ -9,6 +9,9 @@ properties:
     type: string
     pattern: "^[a-z0-9-]+$"
     title: Event Union ID
+  hash:
+    type: string
+    pattern: "^[a-f0-9]+$"
   name:
     type: string
     title: Name of Event Union
