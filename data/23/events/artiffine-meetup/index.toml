@@ -1,0 +1,23 @@
+name = "Artiffine meetup"
+shortname = ""
+types = ["meetup"]
+status = "planning"
+chains = []
+org = ""
+dri = ""
+poc = "Jan Zibner"
+date = "2023-06-09"
+days = 1
+venueName = "TBA"
+#venueAddress = ""
+#venueUrl = ""
+languages = ["czech", "slovak"]
+#attendees = 100
+tags = ["NFT", "legal"]
+description = '''
+'''
+#logo = "logo.jpg"
+
+[links]
+#web = "https://www.artiffine.com/"
+#twitter = "https://twitter.com/artiffine"
