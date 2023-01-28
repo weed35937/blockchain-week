@@ -1,0 +1,12 @@
+name = "Paralelní Polis"
+eventTypes = ["conference", "hackathon", "party", "meetup", "dev-session", "party"]
+capacity = 250
+address = "Dělnická 475/43, 170 00 Praha 7"
+mapUrl = "https://goo.gl/maps/nxYRgrCFSigLA3ea9"
+description = '''
+Fully equipped venue for all types of events. Spaces including "Bitcoin Coffee" (50 ppl), "Paper Hub" coworking (100 ppl) and lecture hall "Institute of Cryptoanarchy" (100 ppl). The space can be expanded by another 400 people by connecting with La Fabrika.
+'''
+photo = "photo.jpg"
+
+[links]
+web = "https://www.paralelnipolis.cz/en/"
