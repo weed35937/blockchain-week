@@ -16,7 +16,7 @@ languages = ["english"]
 tags = ["metaverse", "NFT"]
 description = '''
 '''
-#logo = "logo.jpg"
+logo = "logo.jpeg"
 
 [links]
 #web = ""

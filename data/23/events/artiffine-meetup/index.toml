@@ -16,7 +16,7 @@ languages = ["czech", "slovak"]
 tags = ["NFT", "legal"]
 description = '''
 '''
-#logo = "logo.jpg"
+logo = "logo.jpg"
 
 [links]
 #web = "https://www.artiffine.com/"

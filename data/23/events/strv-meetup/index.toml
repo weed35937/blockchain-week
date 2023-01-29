@@ -16,7 +16,7 @@ languages = ["english"]
 tags = []
 description = '''
 '''
-#logo = "logo.jpg"
+logo = "logo.png"
 
 [links]
 #web = ""

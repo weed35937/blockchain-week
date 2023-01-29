@@ -17,7 +17,7 @@ attendees = 30
 tags = ["DeFi", "lending"]
 description = '''
 '''
-#logo = "logo.jpg"
+logo = "logo.jpg"
 
 [links]
 #web = ""
