@@ -1,0 +1,24 @@
+name = "Gwei.cz Meetup"
+shortname = ""
+types = ["meetup"]
+status = "planning"
+chains = ["ethereum"]
+org = "Gwei.cz"
+dri = "burningtree"
+poc = "[tree](https://t.me/treecz)"
+date = "2023-06-08"
+days = 1
+times = "18:00-21:00"
+venueName = "TBA"
+#venueAddress = ""
+#venueUrl = ""
+languages = ["czech", "slovak"]
+attendees = 50
+tags = ["DeFi", "Web3"]
+description = '''
+'''
+logo = "logo.png"
+
+[links]
+#web = "https://www.artiffine.com/"
+#twitter = "https://twitter.com/artiffine"
