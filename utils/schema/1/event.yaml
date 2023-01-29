@@ -60,6 +60,7 @@ properties:
   times:
     type: string
     title: Event times
+    pattern: "^\\d{2}:\\d{2}-\\d{2}:\\d{2}$"
   venues:
     type: array
     items:
@@ -109,6 +110,7 @@ properties:
   description:
     type: string
     __markdown: true
+        
   registration:
     type: object
     additionalProperties: false
@@ -139,3 +141,32 @@ properties:
     additionalProperties:
       type: string
       format: uri
+  
+  segments:
+    type: array
+    items:
+      type: object
+      additionalProperties: false
+      required:
+        - date
+        - times
+      properties:
+        date:
+          type: string
+          pattern: "^\\d{4}-\\d{2}-\\d{2}$"
+        times:
+          type: string
+          pattern: "^\\d{2}:\\d{2}-\\d{2}:\\d{2}$"
+        ecap:
+          type: number
+        title:
+          type: string
+        venues:
+          type: array
+          items:
+            type: string
+            pattern: "^[a-z0-9-]+$"
+        startTime:
+          type: string
+        endTime:
+          type: string

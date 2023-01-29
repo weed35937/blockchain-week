@@ -8,6 +8,8 @@ import { parse as tomlParse } from "https://deno.land/std@0.173.0/encoding/toml.
 import { load as yamlLoad } from "https://deno.land/x/js_yaml_port@3.14.0/js-yaml.js";
 import { posix } from "https://deno.land/std@0.173.0/path/mod.ts";
 import * as syncTools from "./syncTools.js";
+import format from "https://deno.land/x/date_fns@v2.22.1/format/index.js";
+import addDays from "https://deno.land/x/date_fns@v2.22.1/addDays/index.ts";
 
 let _silentMode = false;
 
@@ -190,6 +192,26 @@ class DeConf_Collection {
     const data = {
       index: { id: this.id, hash, ...efIndex },
     };
+    if (this.type === "events") {
+      // add Event Segments
+      if (!data.index.segments) {
+        data.index.segments = [];
+        for (let i = 0; i < data.index.days; i++) {
+          data.index.segments.push({
+            date: format(addDays(new Date(data.index.date), i), "yyyy-MM-dd"),
+            times: data.index.times || "09:00-18:00",
+          });
+        }
+      }
+      for (const sg of data.index.segments) {
+        const [sstart, send] = sg.times.split("-");
+        sg.startTime = (new Date(`${sg.date}T${sstart}`)).toISOString();
+        const endDate = send <= sstart
+          ? format(addDays(new Date(sg.date), 1), "yyyy-MM-dd")
+          : sg.date;
+        sg.endTime = (new Date(`${endDate}T${send}`)).toISOString();
+      }
+    }
     if (this.dir) {
       const syncDataFn = [this.dir, "data.json"].join("/");
       if (await exists(syncDataFn)) {

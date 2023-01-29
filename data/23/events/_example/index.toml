@@ -5,7 +5,6 @@ name = "Example Event 2023"
 shortname = "Example"
 
 # type of the event
-# 
 #  available types (you can choose more):
 #   * meetup
 #   * conference
@@ -16,7 +15,6 @@ shortname = "Example"
 types = ["meetup"]
 
 # status of the event
-#
 #  available types:
 #   * idea
 #   * planning
@@ -41,6 +39,9 @@ days = 3
 
 # the event times (shows up in the event card)
 times = "09:00 - 20:00"
+
+# Link to venues from the Places table - use this OR enter venueName, venueUrl and venueAddress
+# venues = ["gabriel-loci"]
 
 # the event venue name
 venueName = "Example venue"
@@ -74,7 +75,6 @@ description = """
 
 [registration]
 # type of registration
-#
 #  Possible values:
 #   * tickets
 #   * invites
@@ -91,7 +91,6 @@ link = "https://example.org/tickets"
 #button = "Buy tickets!"
 
 # status of registrations
-#
 #  Possible values:
 #   * available
 #   * sold-out

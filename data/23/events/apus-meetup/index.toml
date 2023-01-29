@@ -7,12 +7,13 @@ org = ""
 dri = ""
 poc = "[Radek Švarz](https://t.me/r4deks)"
 date = "2023-06-02"
+times = "14:00-17:00"
 days = 1
 venueName = "TBA"
 #venueAddress = ""
 #venueUrl = ""
 languages = ["czech", "slovak"]
-#attendees = 100
+attendees = 30
 tags = ["DeFi", "lending"]
 description = '''
 '''

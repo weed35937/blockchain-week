@@ -26,3 +26,19 @@ status = "available"
 [links]
 web = "https://www.btcprague.com/"
 twitter = "https://twitter.com/BtcPrague"
+
+[[segments]]
+date = "2023-06-08"
+times = "09:00-20:00"
+ecap = 500
+title = "Industry Day"
+
+[[segments]]
+date = "2023-06-09"
+times = "09:00-19:00"
+ecap = 10000
+
+[[segments]]
+date = "2023-06-10"
+times = "09:00-19:00"
+ecap = 10000

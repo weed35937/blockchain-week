@@ -7,7 +7,6 @@ dri = "burningtree"
 poc = "[Tereza Starostová](https://t.me/Terezastarostova)"
 date = "2023-06-02"
 days = 3
-times = "10:00 - 19:00"
 venues = ["gabriel-loci"]
 languages = ["czech", "slovak"]
 attendees = 1200
@@ -29,3 +28,18 @@ docs = "https://docs.utxo.cz/udalosti/23"
 twitter = "https://twitter.com/utxoprague"
 telegram = "https://t.me/utxoprague"
 youtube = "https://www.youtube.com/c/UTXOPrague"
+
+[[segments]]
+date = "2023-06-02"
+times = "18:00-02:00"
+title = "Day 0 - Opening Party"
+
+[[segments]]
+date = "2023-06-03"
+times = "10:00-19:00"
+title = "Day 1"
+
+[[segments]]
+date = "2023-06-04"
+times = "10:00-18:00"
+title = "Day 2"

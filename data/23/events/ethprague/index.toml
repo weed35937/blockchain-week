@@ -7,7 +7,6 @@ dri = ""
 poc = "JosefJ, Vojta"
 date = "2023-06-09"
 days = 3
-times = "09:00 - 20:00"
 venues = ["paralelni-polis", "la-fabrika"]
 languages = ["english"]
 attendees = 600
@@ -25,3 +24,32 @@ type = "invites"
 web = "https://ethprague.com/"
 twitter = "https://twitter.com/EthPrague"
 telegram = "https://t.me/ethprague"
+
+[[segments]]
+date = "2023-06-09"
+times = "09:00-19:00"
+ecap = 600
+
+[[segments]]
+date = "2023-06-09"
+times = "19:00-09:00"
+ecap = 100
+title = "Night hacking"
+venues = ["paralelni-polis"]
+
+[[segments]]
+date = "2023-06-10"
+times = "09:00-19:00"
+ecap = 600
+
+[[segments]]
+date = "2023-06-10"
+times = "19:00-09:00"
+ecap = 100
+title = "Night hacking"
+venues = ["paralelni-polis"]
+
+[[segments]]
+date = "2023-06-11"
+times = "09:00-18:00"
+ecap = 600

@@ -1,0 +1,28 @@
+name = "#Lunarpunk Party"
+shortname = ""
+types = ["party"]
+status = "planning"
+#chains = ["ethereum"]
+org = ""
+dri = ""
+poc = ""
+date = "2023-06-05"
+times = "20:00-04:00"
+days = 1
+venues = ["x10"]
+languages = ["english"]
+attendees = 300
+#tags = ["DeFi"]
+description = '''
+'''
+#logo = "logo.jpg"
+
+[links]
+#web = ""
+#twitter = ""
+
+[registration]
+type = "tickets"
+#price = ""
+#link = ""
+#status = "available"
