@@ -170,3 +170,5 @@ properties:
           type: string
         endTime:
           type: string
+  speakers:
+    type: array
