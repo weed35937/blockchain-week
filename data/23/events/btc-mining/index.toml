@@ -2,6 +2,7 @@ name = "Bitcoin Mining Conference 2023"
 shortname = "Bitcoin Mining"
 types = ["conference"]
 status = "published"
+chains = ["bitcoin"]
 org = "[Braiins](https://braiins.com/)"
 dri = ""
 poc = "Kristian Csepcsar"
