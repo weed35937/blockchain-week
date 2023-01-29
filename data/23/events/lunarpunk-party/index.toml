@@ -12,7 +12,7 @@ days = 1
 venues = ["x10"]
 languages = ["english"]
 attendees = 300
-#tags = ["DeFi"]
+tags = ["lunarpunk"]
 description = '''
 '''
 logo = "logo.jpg"

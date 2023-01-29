@@ -2,6 +2,7 @@ name = "Prague DeFi Summit 2023"
 shortname = "Prague DeFi"
 types = ["conference"]
 status = "published"
+chains = ["ethereum"]
 org = "DuckTape/Paralelní Polis"
 dri = ""
 poc = "Steve Fau, Dan"

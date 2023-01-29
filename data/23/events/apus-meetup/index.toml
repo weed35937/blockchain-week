@@ -22,3 +22,6 @@ logo = "logo.jpg"
 [links]
 #web = ""
 #twitter = ""
+
+[[speakers]]
+id = "radek-svarz"
