@@ -1,0 +1,7 @@
+name = "Ethereum"
+symbol = "ETH"
+logo = "logo.webp"
+
+[links]
+web = "https://ethereum.org/"
+twitter = "https://twitter.com/ethereum"

@@ -106,6 +106,7 @@ class DeConf_Package {
       "media-partners": "media-partner",
       benefits: "benefit",
       unions: "union",
+      chains: "chain",
     };
     this.collections = Object.keys(this.colMapper);
   }

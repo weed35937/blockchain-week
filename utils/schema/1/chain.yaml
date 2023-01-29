@@ -1,0 +1,24 @@
+type: object
+title: Blockchain
+additionalProperties: false
+required:
+  - id
+  - name
+properties:
+  id:
+    type: string
+    pattern: "^[a-z0-9-]+$"
+    title: Blockchain ID
+  hash:
+    type: string
+  name:
+    type: string
+  symbol:
+    type: string
+  logo:
+    type: string
+  links:
+    type: object
+    additionalProperties:
+      type: string
+      format: uri
