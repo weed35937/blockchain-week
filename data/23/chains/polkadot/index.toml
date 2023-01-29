@@ -1,0 +1,7 @@
+name = "Polkadot"
+symbol = "DOT"
+logo = "logo.png"
+
+[links]
+web = "https://polkadot.network/"
+twitter = "https://twitter.com/polkadot"

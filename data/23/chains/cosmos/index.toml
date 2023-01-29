@@ -1,0 +1,7 @@
+name = "Cosmos"
+symbol = "ATOM"
+logo = "logo.png"
+
+[links]
+web = "https://cosmos.network/"
+twitter = "https://twitter.com/cosmos"
