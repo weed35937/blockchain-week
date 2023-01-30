@@ -3,6 +3,7 @@ pipeline:
   build:
     image: denoland/deno
     commands:
+      - apt update
       - apt install make
       - deno --version
       - make
