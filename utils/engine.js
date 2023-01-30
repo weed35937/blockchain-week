@@ -19,6 +19,7 @@ export class DeConfEngine {
     this.srcDir = this.options.srcDir || "./data";
     this.outputDir = this.options.outputDir || "./dist";
     this.publicUrl = this.options.publicUrl || "https://data.prgblockweek.com";
+    this.exploreUrl = this.options.exploreUrl || "https://explore.prgblockweek.com";
     this.githubUrl = this.options.githubUrl ||
       "https://github.com/utxo-foundation/prague-blockchain-week/tree/main/data";
 
@@ -47,6 +48,7 @@ export class DeConfEngine {
         id: p.id,
         name: p.data.index.name,
         dataUrl: p.data.index.dataUrl,
+        exploreUrl: p.data.index.exploreUrl,
       })),
     );
     // write schemas
@@ -116,6 +118,7 @@ class DeConf_Package {
     // load year index
     pkg.index = await _tomlLoad([...specDir, "index.toml"].join("/"));
     pkg.index.dataUrl = [this.engine.publicUrl, this.id].join("/");
+    pkg.index.exploreUrl = [this.engine.exploreUrl, this.id].join("/");
     pkg.index.dataGithubUrl = [this.engine.githubUrl, this.id].join("/");
     //console.log(`\n##\n## [${pkg.index.name}] \n##`);
     // load sub-events

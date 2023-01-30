@@ -1,14 +1,14 @@
 pipeline:
 
-  build:
+  build_mirror:
     image: denoland/deno
     commands:
       - apt update
       - apt install make
       - deno --version
-      - make
+      - make mirror
 
-  deploy:
+  deploy_mirror:
     image: rclone/rclone
     commands:
       - "rclone sync dist/ :sftp:data/ --sftp-host frontier.gwei.cz --sftp-user pbw-deploy --sftp-port 2022 --sftp-pass $RCLONE_PASS -v"
