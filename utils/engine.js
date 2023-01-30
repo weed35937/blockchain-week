@@ -19,7 +19,8 @@ export class DeConfEngine {
     this.srcDir = this.options.srcDir || "./data";
     this.outputDir = this.options.outputDir || "./dist";
     this.publicUrl = this.options.publicUrl || "https://data.prgblockweek.com";
-    this.exploreUrl = this.options.exploreUrl || "https://explore.prgblockweek.com";
+    this.exploreUrl = this.options.exploreUrl ||
+      "https://explore.prgblockweek.com";
     this.githubUrl = this.options.githubUrl ||
       "https://github.com/utxo-foundation/prague-blockchain-week/tree/main/data";
 
