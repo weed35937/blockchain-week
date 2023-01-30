@@ -1,0 +1,15 @@
+pipeline:
+
+  build:
+    image: denoland/deno
+    commands:
+      - deno --version
+      - make
+
+  deploy:
+    image: rclone/rclone
+    commands:
+      - "rclone sync dist/ :sftp:data/ --sftp-host frontier.gwei.cz --sftp-user pbw-deploy --sftp-port 2022 --sftp-pass $RCLONE_PASS -v"
+    secrets: [RCLONE_PASS]
+    when:
+      branch: [main]
