@@ -19,7 +19,9 @@ Experience the future of blockchain technology at this 2-day Polkadot Conference
 '''
 
 [registration]
-type = "tickets"
+type = "invites"
+link = "https://form.dotprague.xyz/attendee"
+button = "Join waitlist"
 
 [links]
 web = "https://dotprague.xyz/"

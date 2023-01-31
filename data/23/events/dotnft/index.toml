@@ -1,0 +1,27 @@
+name = "DotNFT 2023"
+shortname = "DotNFT"
+types = ["conference"]
+status = "planning"
+chains = ["polkadot"]
+org = "[KodaDot](https://kodadot.xyz/)"
+dri = ""
+poc = "Damsky"
+date = "2023-06-04"
+days = 1
+times = "10:00-18:00"
+venueName = "TBD"
+languages = ["english"]
+attendees = 200
+tags = ["NFT"]
+#logo = "logo.png"
+description = '''
+'''
+
+[registration]
+type = "invites"
+
+[links]
+#web = "https://dotprague.xyz/"
+#twitter = "https://twitter.com/DotsamaPrague"
+telegram = "https://t.me/+z77D0iuvL8YyNTBk"
+discord = "https://discord.com/invite/KQXAs7Y3pQ"
