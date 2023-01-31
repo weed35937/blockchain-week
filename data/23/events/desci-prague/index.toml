@@ -1,5 +1,5 @@
-name = "DeSci Prague"
-#shortname = ""
+name = "DeSci Prague 2023"
+shortname = "DeSci Prague"
 types = ["conference"]
 status = "idea"
 #chains = []
