@@ -1,0 +1,23 @@
+name = "DeSci Prague"
+#shortname = ""
+types = ["conference"]
+status = "idea"
+#chains = []
+org = ""
+dri = ""
+poc = "Radek Švarz"
+date = "2023-06-06"
+days = 1
+venueName = "TBA"
+#venueAddress = ""
+#venueUrl = ""
+languages = ["english"]
+attendees = 150
+tags = ["DeSci", "science"]
+description = '''
+'''
+logo = "logo.png"
+
+[links]
+#web = ""
+#twitter = ""
