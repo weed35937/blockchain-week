@@ -5,7 +5,7 @@ status = "idea"
 #chains = []
 org = ""
 dri = ""
-poc = "Radek Švarz"
+poc = "[Radek Švarz](https://t.me/r4deks)"
 date = "2023-06-06"
 days = 1
 venueName = "TBA"
@@ -15,6 +15,7 @@ languages = ["english"]
 attendees = 150
 tags = ["DeSci", "science"]
 description = '''
+One-day conference focused on Decentralized Science (DeSci).
 '''
 logo = "logo.png"
 
