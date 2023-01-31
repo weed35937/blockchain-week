@@ -357,6 +357,24 @@
       "photo": "photos/speakers/ondrej-rehacek.jpg"
     },
     {
+      "id": "pavol-luptak",
+      "name": "Pavol Lupták",
+      "twitter": "wilderko",
+      "bio": "Kryptoanarchista, voluntarista, věčný cestovatel zaměřený na hackování technologií a společnosti",
+      "orgs": "[Nethemba](https://nethemba.com/), [Hacktrophy](https://hacktrophy.com/), [liberationtravel](https://liberation.travel/)\n",
+      "caption": "Cryptoanarchist, voluntaryist, perpetual traveler\n",
+      "tracks": [
+        "spolecnost"
+      ],
+      "country": "sk",
+      "lead": true,
+      "photos": [
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/pavol-luptak-twitter.jpg",
+      "photo": "photos/speakers/pavol-luptak.jpg"
+    },
+    {
       "id": "petr-lukac",
       "name": "Petr Lukáč",
       "twitter": "RuzovejSlon",
