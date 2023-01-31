@@ -1,0 +1,12 @@
+name = "Ackee @ Blox"
+eventTypes = ["meetup", "conference"]
+capacity = 100
+address = "Evropská 2758/11, 160 00 Praha 6"
+mapUrl = "https://goo.gl/maps/PgZrePiSutCV9MeL9"
+description = '''
+Ackee office space, which includes a presentation room.
+'''
+photo = "photo.jpg"
+
+[links]
+web = "https://www.ackee.cz/"
