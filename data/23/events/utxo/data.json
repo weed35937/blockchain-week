@@ -267,6 +267,28 @@
       "photo": "photos/speakers/kirill-juran.jpg"
     },
     {
+      "id": "lukas-kovanda",
+      "name": "Lukáš Kovanda",
+      "twitter": "lukaskovanda",
+      "bio": "Ekonom a autor ekonomické literatury",
+      "orgs": "Hlavní ekonom [Trinity Bank](https://www.trinitybank.cz/), Poradce @ [SAB Finance](https://www.sab.cz/) | Přednášející @ [VŠE](https://www.vse.cz/)\n",
+      "caption": "Chief Economist @ [Trinity Bank](https://www.trinitybank.cz/), Advisor @ [SAB Finance](https://www.sab.cz/)\n",
+      "web": {
+        "url": "http://www.lukaskovanda.cz/"
+      },
+      "country": "cz",
+      "tracks": [
+        "regulace"
+      ],
+      "lead": true,
+      "photos": [
+        "web:jpg",
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/lukas-kovanda-web.jpg",
+      "photo": "photos/speakers/lukas-kovanda.jpg"
+    },
+    {
       "id": "martin-janik",
       "name": "Martin Janík",
       "nickname": "yanas",
