@@ -17,6 +17,9 @@ languages = ["english"]
 #tags = []
 logo = "logo.jpg"
 
+[cfp]
+link = "https://cs.braiins.com/bitcoin-mining-conference-2023#join"
+
 [registration]
 type = "invites"
 link = "https://cs.braiins.com/bitcoin-mining-conference-2023#join"

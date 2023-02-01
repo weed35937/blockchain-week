@@ -12,7 +12,7 @@ days = 3
 venues = ["paralelni-polis", "la-fabrika"]
 languages = ["english"]
 attendees = 1000
-#tags = []
+tags = ["DeFi"]
 logo = "logo.jpg"
 
 [cfp]
