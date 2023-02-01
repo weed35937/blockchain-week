@@ -16,6 +16,11 @@ Open community conference focused on cryptocurrencies and blockchain for a wide 
 '''
 logo = "logo.jpg"
 
+[cfp]
+link = "https://cfp.utxo.cz/23/cfp"
+deadline = "2023-04-01"
+text = "The conference is in Czech-Slovak language, aimed at a wide audience. English speakers are not accepted (exceptions possible)."
+
 [registration]
 type = "tickets"
 #price = ""

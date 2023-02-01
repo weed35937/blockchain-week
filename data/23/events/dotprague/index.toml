@@ -18,6 +18,9 @@ description = '''
 Experience the future of blockchain technology at this 2-day Polkadot Conference in Prague. Network, learn from industry leaders and explore the latest developments in the ecosystem.
 '''
 
+[cfp]
+link = "https://form.dotprague.xyz/speaker"
+
 [registration]
 type = "invites"
 link = "https://form.dotprague.xyz/attendee"
