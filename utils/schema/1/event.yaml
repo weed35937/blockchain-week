@@ -125,6 +125,20 @@ properties:
         pattern: "^\\d{4}-\\d{2}-\\d{2}$"     
       text:
         type: string
+
+  sponsors:
+    type: object
+    additionalProperties: false
+    required:
+      - link
+    properties:
+      link:
+        type: string
+        format: uri
+      range:
+        type: string
+      text:
+        type: string
          
   registration:
     type: object

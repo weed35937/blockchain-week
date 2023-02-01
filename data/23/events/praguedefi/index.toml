@@ -18,6 +18,10 @@ logo = "logo.jpg"
 [cfp]
 link = "https://cfp.paralelnipolis.cz/defi-prague-2022/cfp"
 
+[sponsors]
+link = "https://assets.ctfassets.net/6j1me6tz5h39/1EhHviIDBaaglWrkUJMRqB/6afefea254fc320badd38b9aa72526ab/DeFi_Pitchdeck.pdf"
+range = "6k-96k EUR"
+
 [registration]
 type = "tickets"
 price = ">222 EUR"
