@@ -1,0 +1,33 @@
+# the name of your event
+name = "Bitcoin conference"
+types = ["conference", "expo"]
+status = "published"
+chains = ["bitcoin"]
+org = "Censored"
+dri = ""
+poc = ""
+date = "2023-06-08"
+days = 3
+venues = ["pva-expo"]
+languages = ["english", "czech", "slovak"]
+attendees = 10000
+description = '''
+'''
+logo = "logo.png"
+hidden = true
+
+[[segments]]
+date = "2023-06-08"
+times = "09:00-20:00"
+ecap = 500
+title = "Industry Day"
+
+[[segments]]
+date = "2023-06-09"
+times = "09:00-19:00"
+ecap = 10000
+
+[[segments]]
+date = "2023-06-10"
+times = "09:00-19:00"
+ecap = 10000

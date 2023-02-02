@@ -217,7 +217,7 @@ class DeConf_Collection {
         sg.endTime = (new Date(`${endDate}T${send}`)).toISOString();
       }
     }
-    if (this.dir) {
+    if (this.dir && !data.index.hidden) {
       const syncDataFn = [this.dir, "data.json"].join("/");
       if (await exists(syncDataFn)) {
         data.sync = await _jsonLoad(syncDataFn);

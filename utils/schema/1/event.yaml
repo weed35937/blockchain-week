@@ -110,6 +110,8 @@ properties:
   description:
     type: string
     __markdown: true
+  hidden:
+    type: boolean
 
   cfp:
     type: object
