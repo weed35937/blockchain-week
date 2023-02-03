@@ -110,6 +110,7 @@ class DeConf_Package {
       benefits: "benefit",
       unions: "union",
       chains: "chain",
+      "other-events": "event",
     };
     this.collections = Object.keys(this.colMapper);
   }
@@ -197,7 +198,7 @@ class DeConf_Collection {
     const data = {
       index: { id: this.id, hash, ...efIndex },
     };
-    if (this.type === "events") {
+    if (["events", "other-events"].includes(this.type)) {
       // add Event Segments
       if (!data.index.segments) {
         data.index.segments = [];

@@ -1,0 +1,37 @@
+name = "Maker Faire Prague 2023"
+shortname = "Maker Faire"
+types = ["other"]
+status = "published"
+org = "[Make More](https://makerfaire.cz/o-nas/#kontakt)"
+dri = ""
+poc = ""
+date = "2023-06-10"
+days = 2
+times = "23:00-04:00"
+venueName = "Výstaviště Praha Holešovice"
+venueAddress = "Holešovice, 170 00 Prague 7"
+venueUrl = "https://goo.gl/maps/HKYc4gj959Pi6EhZ7"
+languages = ["english"]
+attendees = 2000
+tags = ["technology", "science", "design"]
+logo = "logo.jpg"
+description = '''
+Maker Faire is a festival full of workshops, interactive activities and above all enthusiastic and curious people. Almost everything can be experienced first-hand and much can be made. Makers present their projects and prototypes.
+
+The festival brings together enthusiasts and experts, but also promises smart entertainment for the whole family – combining modern technology, traditional crafts, science and design.
+'''
+
+[registration]
+type = "tickets"
+
+[links]
+web = "https://makerfaire.cz/en/"
+twitter = "https://twitter.com/makerfaire"
+
+[[segments]]
+date = "2023-06-10"
+times = "10:00-18:00"
+
+[[segments]]
+date = "2023-06-11"
+times = "10:00-16:00"

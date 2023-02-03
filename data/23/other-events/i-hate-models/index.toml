@@ -1,0 +1,27 @@
+name = "I Hate Models /FR"
+types = ["other"]
+status = "published"
+org = ""
+dri = ""
+poc = ""
+date = "2023-06-09"
+days = 1
+times = "23:00-04:00"
+venueName = "Roxy"
+venueAddress = "Dlouhá 33, 110 00 Staré Město"
+venueUrl = "https://goo.gl/maps/1trUQWd24gcVap1W7"
+languages = ["english"]
+attendees = 750
+tags = ["music", "concert", "culture", "techno"]
+logo = "photo.jpg"
+description = '''
+The energy of club music serves as a vessel for his own feelings and a tool to manipulate others with. The spectrum of moods expressed – in his productions, DJ sets and on his label Disco Inferno – veers from nostalgia and passion to loneliness, melancholia and brutality, often juxtaposing darkness and light in the same pulse as an authentic conduit of his own artistic self-assessment. I Hate Models will shock #ROXYprague for the first time on Friday 9/6.
+'''
+
+[registration]
+type = "tickets"
+link = "https://goout.net/en/i-hate-models/szffnvu/"
+price = "631 CZK"
+
+[links]
+web = "https://www.roxy.cz/en/events/detail/3437/i-hate-models"

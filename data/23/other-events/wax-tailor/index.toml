@@ -1,0 +1,37 @@
+name = "Wax Tailor /FR"
+types = ["other"]
+status = "published"
+org = ""
+dri = ""
+poc = ""
+date = "2023-06-08"
+days = 1
+times = "19:30-22:00"
+venueName = "Palác Akropolis"
+venueAddress = "Kubelíkova 1548, 130 00 Praha 3-Žižkov"
+venueUrl = "https://goo.gl/maps/F9Rs96yUMdBs3Eay8"
+languages = ["english"]
+attendees = 700
+tags = ["music", "concert", "culture", "trip-hop"]
+logo = "photo.jpg"
+description = '''
+Wax Tailor announces the release of his new album „Fishing For Accidents“ on February 10th, 2023, accompanied by a new international tour.
+
+„The starting point of this record is a quote from the film director Orson Welles, which evokes the notion of accident in the creative process. I always thought that accidents were an integral part of creation and the job of a film or music director is also to know how to capture them in order to make the accident an artistic intention. I decided not to follow a well established concept but this more instinctive guideline and to go fishing for accidents“.
+
+In this new opus, Wax Tailor explores with his sampler a world of vinyls and cinematographic references, brandishing as a flag a stamped musical culture and multiplying references to the 7th art in a music written in 33 rpm and 24 images seconds. After the dark „The Shadow Of Their Suns“ released in 2021, Wax Tailor takes us with „Fishing For Accidents“, on a brighter and more colorful side without ever betraying his universe and his convictions.
+
+A multi-recidivist talent scout, he gathers around him a prestigious cast ranging from hip hop (Mick Jenkins, Mr. Lif, Kuf Knotz, Lojii, Napoleon Da Legend, Ill Conscious, Voice Monet, David Bars, Mattic) to the indie rock scene (Jennifer Charles, singer of the legendary band Elysian Fields and Victoria Bigelow).
+
+With one eye on the past and the other on the horizon, Wax Tailor instills the incandescence of an organic sound and distills his art of sound anachronism in a wide gap between nostalgia and modernity that has made him one of the leaders of the international electro hip hop scene for over 20 years.
+
+With 7 studio albums, more than 800 concerts worldwide, numerous international awards and prestigious collaborations: Ghostface Killah (Wu Tang Clan), Del The Funky Homosapien (Gorillaz), Mark Lanegan, Mick Jenkins, Aloe Blacc, D-Smoke, Tricky, Sharon Jones, Lee Fields etc. The French independent producer Wax Tailor confirms, despite his media discretion, his influence for more than 20 years on the international electro hip hop scene.
+'''
+
+[registration]
+type = "tickets"
+link = "https://goout.net/en/wax-tailor/szebfvu/"
+price = "560 CZK"
+
+[links]
+web = "https://www.palacakropolis.com/work/33298/?event_id=35843&lng=en&no=62&page_id=33824"
