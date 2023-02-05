@@ -40,7 +40,7 @@ export class DeConfEngine {
   }
   async build() {
     await emptyDir(this.outputDir);
-    console.log(this.tag)
+    console.log(`Tag: ${this.tag}`);
     await _textWrite([this.outputDir, "TAG"], this.tag);
     for (const pkg of this.entries) {
       console.table(pkg.data.events.map((e) => e.data.index), ["name"]);
@@ -53,6 +53,8 @@ export class DeConfEngine {
         name: p.data.index.name,
         dataUrl: p.data.index.dataUrl,
         exploreUrl: p.data.index.exploreUrl,
+        __time: new Date(),
+        __tag: this.tag,
       })),
     );
     // write schemas

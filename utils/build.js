@@ -9,9 +9,8 @@ const options = Object.fromEntries(
   }).filter((x) => x),
 );
 
-const deconf = new DeConfEngine();
-console.log(options)
-await deconf.init(options);
+const deconf = new DeConfEngine(options);
+await deconf.init();
 
 const output = await deconf.build();
 if (output) {
