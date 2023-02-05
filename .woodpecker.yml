@@ -1,5 +1,4 @@
 pipeline:
-
   build_mirror:
     image: denoland/deno
     commands:
@@ -7,7 +6,8 @@ pipeline:
       - apt install make
       - deno --version
       - make mirror
-
+    when:
+      branch: [main]
   deploy_mirror:
     image: rclone/rclone
     commands:
@@ -15,3 +15,4 @@ pipeline:
     secrets: [RCLONE_PASS]
     when:
       branch: [main]
+branches: [main]

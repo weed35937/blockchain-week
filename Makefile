@@ -23,3 +23,6 @@ build-mirror:
 
 event-sync:
 	deno run --unstable --allow-read --allow-write --allow-net utils/eventSync.js $(event)
+
+tag:
+	deno run --unstable --allow-run utils/tag.js

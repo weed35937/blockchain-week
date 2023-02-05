@@ -1,37 +1,82 @@
 name: Test, build, deploy
+env:
+  ENTRY: 23
+  GH_PAGES_DOMAIN: data.prgblockweek.com
 on:
   push:
     branches:
-      - main # Set a branch to deploy
-  pull_request:
+      - main
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
-    concurrency:
-      group: ${{ github.workflow }}-${{ github.ref }}
+    outputs:
+      tag: ${{ env.TAG }}
     steps:
-      - name: Setup repo
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
         with:
           fetch-depth: 0
-      - name: Setup Deno
-        #uses: denoland/setup-deno@v1
-        uses: denoland/setup-deno@9db7f66e8e16b5699a514448ce994936c63f0d54
+      - uses: denoland/setup-deno@v1
         with:
           deno-version: v1.x
       - uses: szenius/set-timezone@v1.0
         with:
           timezoneLinux: "Europe/Prague"
-      - name: Build sources
-        run: make
-        #      - name: Build changelog
-        #        run: make changelog
-      - name: List ./dist
-        run: find dist
-      - name: Add custom domain
-        run: "touch dist/CNAME && echo \"data.prgblockweek.com\" >> dist/CNAME"
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+      - run: make
+      - run: find dist
+      - run: "deno run --allow-run utils/tag.js >> $GITHUB_ENV"
+      - run: "echo \"${{ env.TAG }}\" >> ./dist/TAG"
+      - run: "echo \"Builded Tag: ${{ env.TAG }}\""
+      - uses: montudor/action-zip@v1
+      - run: "zip -qq -r release.zip dist"
+      - uses: actions/upload-artifact@v3
+        with:
+          name: release
+          path: release.zip
+  release:
+    needs: [build]
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+      - run: "echo \"TAG=${{ needs.build.outputs.tag }}\" >> $GITHUB_ENV"
+      - run: "echo \"Tag: ${{ env.TAG }}\""
+      - uses: actions/download-artifact@v3
+        with:
+          name: release
+      - uses: montudor/action-zip@v1
+      - run: unzip -qq release.zip
+      - run: "zip -qq -r ../pbw-${{ env.ENTRY }}-${{ env.TAG }}.zip ${{ env.ENTRY }}"
+        working-directory: ./dist
+      - uses: rickstaa/action-create-tag@v1
+        with:
+          tag: "${{ env.TAG }}"
+          message: "Latest release"
+          github_token: '${{ secrets.GITHUB_TOKEN }}'
+      - uses: softprops/action-gh-release@v1
+        with:
+          tag_name: "${{ env.TAG }}"
+          name: "${{ env.TAG }}"
+          body: "This is a automated release."
+          draft: false
+          prerelease: false
+          files: |
+            pbw-${{ env.ENTRY }}-${{ env.TAG }}.zip
+  pages:
+    needs: [build]
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/download-artifact@v3
+        with:
+          name: release
+      - uses: montudor/action-zip@v1
+      - run: unzip -qq release.zip
+      - run: find dist
+      - run: "touch dist/CNAME && echo \"${{ env.GH_PAGES_DOMAIN }}\" >> dist/CNAME"
+      - uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
