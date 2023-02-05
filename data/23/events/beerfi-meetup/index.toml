@@ -1,0 +1,30 @@
+name = "BeerFi meetup"
+shortname = "BeerFi"
+types = ["meetup"]
+status = "planning"
+chains = ["ethereum", "cosmos", "polkadot"]
+org = "Ethan Clime"
+dri = ""
+poc = "[Radek Švarz](https://t.me/r4deks)"
+date = "2023-06-10"
+times = "18:30-00:00"
+days = 1
+venueName = "TBA"
+#venueAddress = ""
+#venueUrl = ""
+languages = ["english"]
+attendees = 50
+tags = ["web3", "developers", "smart-contracts"]
+description = '''
+We are Web3 on-chain dev Meetup Group and this is our special meetup for Prague Blockchain Week 2023 🍺.
+
+We regularly meet every Tuesday in the last week of the month. Whether you are a Web2 developer who wants to learn more or a senior Web3 developer, our meeting is for you!
+'''
+logo = "logo.jpg"
+
+[links]
+web = "https://beerfi.gwei.cz"
+#twitter = ""
+
+[[speakers]]
+id = "radek-svarz"
