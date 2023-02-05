@@ -21,11 +21,10 @@ jobs:
       - uses: szenius/set-timezone@v1.0
         with:
           timezoneLinux: "Europe/Prague"
-      - run: make
-      - run: find dist
       - run: "deno run --allow-run utils/tag.js >> $GITHUB_ENV"
-      - run: "echo \"${{ env.TAG }}\" >> ./dist/TAG"
-      - run: "echo \"Builded Tag: ${{ env.TAG }}\""
+      - run: "echo \"Tag: ${{ env.TAG }}\""
+      - run: "make tag=${{ env.TAG }}"
+      - run: find dist
       - uses: montudor/action-zip@v1
       - run: "zip -qq -r release.zip dist"
       - uses: actions/upload-artifact@v3

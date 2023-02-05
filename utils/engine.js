@@ -16,6 +16,7 @@ let _silentMode = false;
 export class DeConfEngine {
   constructor(options = {}) {
     this.options = options;
+    this.tag = this.options.tag || "dev";
     this.srcDir = this.options.srcDir || "./data";
     this.outputDir = this.options.outputDir || "./dist";
     this.publicUrl = this.options.publicUrl || "https://data.prgblockweek.com";
@@ -39,6 +40,8 @@ export class DeConfEngine {
   }
   async build() {
     await emptyDir(this.outputDir);
+    console.log(this.tag)
+    await _textWrite([this.outputDir, "TAG"], this.tag);
     for (const pkg of this.entries) {
       console.table(pkg.data.events.map((e) => e.data.index), ["name"]);
       await pkg.write(this.outputDir);
@@ -103,6 +106,7 @@ class DeConf_Package {
     this.id = id;
     this.data = null;
     this.engine = engine;
+    this.tag = engine.tag;
     this.colMapper = {
       places: "place",
       events: "event",
@@ -170,7 +174,8 @@ class DeConf_Package {
           return [col, this.data[col]];
         }),
       ),
-      time: new Date(),
+      __time: new Date(),
+      __tag: this.tag,
     });
   }
 }
@@ -337,6 +342,12 @@ async function _jsonWrite(fn, data) {
     console.log(`${fn} writed`);
   }
   return true;
+}
+async function _textWrite(fn, text) {
+  if (Array.isArray(fn)) {
+    fn = fn.join("/");
+  }
+  await Deno.writeTextFile(fn, text);
 }
 async function _jsonLoad(fn) {
   return JSON.parse(await Deno.readTextFile(fn));

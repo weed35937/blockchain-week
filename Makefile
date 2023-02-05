@@ -16,7 +16,7 @@ format:
 fmt: format
 
 build:
-	deno run --unstable --allow-read --allow-write utils/exec.js build
+	deno run --unstable --allow-read --allow-write utils/build.js tag=$(tag)
 
 build-mirror:
 	deno run --unstable --allow-read --allow-write utils/mirror.js

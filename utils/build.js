@@ -1,11 +1,6 @@
 import { DeConfEngine } from "./engine.js";
 
-const deconf = new DeConfEngine();
-await deconf.init();
-
-let cmd = Deno.args[0] || "build";
-let args = Deno.args.slice(1) || [];
-
+const args = Deno.args || [];
 const options = Object.fromEntries(
   args.map((x) => {
     const [key, value] = x.split("=");
@@ -14,7 +9,11 @@ const options = Object.fromEntries(
   }).filter((x) => x),
 );
 
-const output = await deconf[cmd](...args);
+const deconf = new DeConfEngine();
+console.log(options)
+await deconf.init(options);
+
+const output = await deconf.build();
 if (output) {
   console.log(output);
 }
