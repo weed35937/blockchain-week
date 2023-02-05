@@ -10,6 +10,8 @@ to coordinate event listings.
 - 💽 Data: [data.prgblockweek.com](https://data.prgblockweek.com)
 - 🕵️ Explore: [explore.prgblockweek.com](https://explore.prgblockweek.com/)
 
+You can use JSON Hero to view the data: [`/23/index.json` @ JSON Hero](https://jsonhero.io/new?url=https://data.prgblockweek.com/23/index.json)
+
 ## Follow us!
 
 - Web: [prgblockweek.com](https://prgblockweek.com)
