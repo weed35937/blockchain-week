@@ -14,6 +14,13 @@ languages = ["english"]
 attendees = 1000
 tags = ["DeFi"]
 logo = "logo.jpg"
+description = '''
+DeFi is under siege.
+
+The industry has arrived at a point where it is no longer sufficient to just keep saying “let’s get back to building”. We risk losing a bankless future unless the community comes together and collaborates on an action plan. Does the plan involve collaborating with the legacy establishment, or is it centered around scorched-earth policy? What are the key pillars of the plan? The community needs to decide, the industry needs to take action. 
+
+For this purpose Prague DeFi Summit, and the event build-up, has been designed around community collaboration and idea iteration. The Summit, filled with presentations, panels, fireside chats and networking is going to culminate in a roundtable with elected DeFi representatives with the purpose of distilling the community feedback into a coherent action plan. Are we ready to seize the opportunity?
+'''
 
 [cfp]
 link = "https://cfp.paralelnipolis.cz/defi-prague-2022/cfp"

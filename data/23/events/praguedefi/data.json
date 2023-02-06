@@ -1,0 +1,61 @@
+{
+  "speakers": [
+    {
+      "id": "radek-svarz",
+      "name": "Radek Svarz",
+      "twitter": "radk",
+      "caption": "",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6JENTjUwVwc5yK5CupfZTc/a6745d430226893ae44412f32c4781ae/2020_radek_profile_-_face_aReCqT8.jpg",
+      "country": "cz",
+      "photo": "photos/speakers/radek-svarz.jpg"
+    },
+    {
+      "id": "sasha-tanase",
+      "name": "Sasha Tanase",
+      "twitter": "sasha_tanase",
+      "caption": "",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2G0x2iQJtCP7aBfdDY1yJ0/0a70687805c116a6400309de5cae5f8f/sasha.jpg",
+      "photo": "photos/speakers/sasha-tanase.jpg"
+    },
+    {
+      "id": "rosco-kalis",
+      "name": "Rosco Kalis",
+      "twitter": "RoscoKalis ",
+      "caption": "Revoke Cash",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5wjHrhpbYShTSv34Rp4vca/1882ecd12c4f5526e0422002f58f4a4c/photo_2023-02-06_11.42.28.jpeg",
+      "photo": "photos/speakers/rosco-kalis.jpeg"
+    },
+    {
+      "id": "will-harborne",
+      "name": "Will Harborne",
+      "twitter": "will_harborne",
+      "caption": "Rhino Fi",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/7lHwPf9tIk1Y3anuGcVhrA/eba6131507e769002ae96efcb83406ba/photo_2023-02-06_11.25.04.jpeg",
+      "photo": "photos/speakers/will-harborne.jpeg"
+    },
+    {
+      "id": "anna-george",
+      "name": "Anna George",
+      "twitter": "AnnaMSGeorge",
+      "caption": "CoWSwap",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/7sNztyNmT7QSd43ml0FStd/0e382e06be6176f1edaa8613dfc82cd4/V__st__i__ek.JPG",
+      "photo": "photos/speakers/anna-george.JPG"
+    },
+    {
+      "id": "naim-ashhab",
+      "name": "Naim Ashhab",
+      "twitter": "ashhanai",
+      "caption": "PWN",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/88N0QDix2MbIljjxpzk9v/175995cdecad997e485e1fd99a7589e4/1616698822484.jpeg",
+      "photo": "photos/speakers/naim-ashhab.jpeg"
+    },
+    {
+      "id": "julien-bouteloup",
+      "name": "Julien Bouteloup",
+      "twitter": "bneiluj",
+      "caption": "Stake Capital Group ",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2iBMPVY6qhcs1D4v4DpW73/98cda1ae2e55679820172b03cf8179ea/julien.jpeg",
+      "photo": "photos/speakers/julien-bouteloup.jpeg"
+    }
+  ]
+}

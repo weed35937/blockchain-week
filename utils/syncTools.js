@@ -3,8 +3,8 @@ import { ensureDir, exists } from "https://deno.land/std@0.173.0/fs/mod.ts";
 
 const CACHE_DIR = "./cache";
 
-export async function loadJSONUrl(url) {
-  const resp = await fetch(url);
+export async function loadJSONUrl(url, options) {
+  const resp = await fetch(url, options);
   return resp.json();
 }
 
@@ -38,4 +38,12 @@ export async function loadHtmlUrl(url) {
 export async function loadHtmlLocal(fn) {
   const text = cheerio.load(await Deno.readTextFile(fn));
   return text;
+}
+
+export function formatId(str) {
+  return str
+    .normalize("NFD")
+    .toLowerCase()
+    .replace(/[\u0300-\u036F]/g, "")
+    .replace(/\s+/, "-");
 }
