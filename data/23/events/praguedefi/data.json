@@ -4,7 +4,7 @@
       "id": "radek-svarz",
       "name": "Radek Svarz",
       "twitter": "radk",
-      "caption": "",
+      "caption": "AlzheimerChain",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6JENTjUwVwc5yK5CupfZTc/a6745d430226893ae44412f32c4781ae/2020_radek_profile_-_face_aReCqT8.jpg",
       "country": "cz",
       "photo": "photos/speakers/radek-svarz.jpg"
@@ -13,9 +13,17 @@
       "id": "sasha-tanase",
       "name": "Sasha Tanase",
       "twitter": "sasha_tanase",
-      "caption": "",
+      "caption": "web3UX",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2G0x2iQJtCP7aBfdDY1yJ0/0a70687805c116a6400309de5cae5f8f/sasha.jpg",
       "photo": "photos/speakers/sasha-tanase.jpg"
+    },
+    {
+      "id": "marc-zeller",
+      "name": "Marc Zeller",
+      "twitter": "![MarcZeller.jpeg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/508ec973-7608-498c-98a4-e4d94817a81d/MarcZeller.jpeg)",
+      "caption": "AAVE",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3LrJr2y42JL5NO7XcqP7xn/355bf0464ed6a98604089fe57c068959/MarcZeller.jpeg",
+      "photo": "photos/speakers/marc-zeller.jpeg"
     },
     {
       "id": "rosco-kalis",
