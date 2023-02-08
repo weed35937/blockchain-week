@@ -1,6 +1,7 @@
 const peopleMapper = {
   "Radek Svarz": { country: "cz" },
   "Naim Ashhab": { country: "cz" },
+  "Marc Zeller": { twitter: "lemiscate" }
 };
 
 export async function data($) {
