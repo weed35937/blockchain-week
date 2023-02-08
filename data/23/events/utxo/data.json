@@ -1,6 +1,23 @@
 {
   "speakers": [
     {
+      "id": "adam-hrazdira",
+      "name": "Adam Hrazdira",
+      "bio": "Solana blockchain auditor, nadšenec pro programovací jazyk Rust",
+      "orgs": "[Ackee Blockchain](https://ackeeblockchain.com/)\n",
+      "caption": "Solana blockchain auditor, Rust language enthusiast",
+      "tracks": [
+        "alty"
+      ],
+      "country": "cz",
+      "desc": "Solana blockchain auditor v české bezpečnostní společnosti Ackee Blockchain.\n",
+      "photos": [
+        "web:png"
+      ],
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/adam-hrazdira-web.png",
+      "photo": "photos/speakers/adam-hrazdira.png"
+    },
+    {
       "id": "adam-kracik",
       "name": "Adam Kracík",
       "twitter": "kracik_adam",
@@ -414,6 +431,24 @@
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/pavol-luptak-twitter.jpg",
       "photo": "photos/speakers/pavol-luptak.jpg"
+    },
+    {
+      "id": "petr-hotovec",
+      "name": "Petr Hotovec",
+      "linkedin": "petr-hotovec-2b1759a7",
+      "bio": "Vystudovaný právník a ekonom",
+      "orgs": "[Soft Vision](https://softvision.ai/)\n",
+      "caption": "Cryptocurrency hedge fund manager and consultant",
+      "tracks": [
+        "regulace"
+      ],
+      "country": "cz",
+      "desc": "Petr Hotovec is the chief operating officer at the Investment Adviser. Petr worked in Prague, Czech Republic-based legal office Skils s.r.o. advokátní kancelář (former Weil, Gotshal & Manges) as a lawyer. Prior to that he worked as an analyst in the first Central European cryptocurrency fund – Kryptofond and at Allen & Overy in Prague as a paralegal. Petr specialised in M&A, corporate and finance law during his stay at Skils and Allen & Overy.\nPetr Hotovec holds a master’s degree in law and a bachelor's degree in economics and finance from the Charles University in Prague, Czech Republic. \n\nPetr Hotovec is co-founder of Dromi Solutions, a blockchain consultancy agency.\n",
+      "photos": [
+        "web:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/petr-hotovec-web.jpg",
+      "photo": "photos/speakers/petr-hotovec.jpg"
     },
     {
       "id": "petr-lukac",
