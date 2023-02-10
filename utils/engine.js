@@ -7,7 +7,7 @@ import {
 import { parse as tomlParse } from "https://deno.land/std@0.173.0/encoding/toml.ts";
 import { load as yamlLoad } from "https://deno.land/x/js_yaml_port@3.14.0/js-yaml.js";
 import { posix } from "https://deno.land/std@0.173.0/path/mod.ts";
-import * as syncTools from "./syncTools.js";
+import * as syncTools from "./sync.lib.js";
 import format from "https://deno.land/x/date_fns@v2.22.1/format/index.js";
 import addDays from "https://deno.land/x/date_fns@v2.22.1/addDays/index.ts";
 
