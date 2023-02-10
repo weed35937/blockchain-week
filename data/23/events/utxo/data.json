@@ -198,6 +198,23 @@
       "photo": "photos/speakers/jan-zibner.jpg"
     },
     {
+      "id": "jiri-skrivan",
+      "name": "Jiří Skřivan",
+      "bio": "Podnikatel, milovník svobody, nadšenec do krypta",
+      "orgs": "Zakladatel [Skovo.cz](https://www.skovo.cz/)\n",
+      "caption": "Founder [Skovo.cz](https://www.skovo.cz/)\n",
+      "country": "cz",
+      "tracks": [
+        "zaklady"
+      ],
+      "desc": "Jirka je zástupce [Skovo.cz](https://www.skovo.cz/). Výrobce produktů pro bezpečné zabezpečení Vašeho seedu.\n",
+      "photos": [
+        "web:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/jiri-skrivan-web.jpg",
+      "photo": "photos/speakers/jiri-skrivan.jpg"
+    },
+    {
       "id": "josef-gattermayer",
       "name": "Josef Gattermayer",
       "twitter": "jgattermayer",
