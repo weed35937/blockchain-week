@@ -198,6 +198,30 @@
       "photo": "photos/speakers/jan-zibner.jpg"
     },
     {
+      "id": "jiri-cepelka",
+      "name": "Jiří Čepelka",
+      "twitter": "JiriCepelka",
+      "web": {
+        "url": "https://jiricepelka.carrd.co"
+      },
+      "tracks": [
+        "zaklady",
+        "eth",
+        "defi"
+      ],
+      "bio": "Kryptoanarchista a lunarpunk",
+      "caption": "Cryptoanarchist and lunarpunk, [IBC Prague](https://ibcprague.carrd.co/) organizer",
+      "orgs": "Zakladatel Secret Network czech/slovak & organizátor [IBC Prague](https://ibcprague.carrd.co/)\n",
+      "country": "cz",
+      "desc": "Miluju Ethereum, Secret Network a DAOs \nAktivně se podílím na budování soukromí ve Web3 a na adopci Secret Network.\n",
+      "photos": [
+        "web:jpg",
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/jiri-cepelka-web.jpg",
+      "photo": "photos/speakers/jiri-cepelka.jpg"
+    },
+    {
       "id": "jiri-skrivan",
       "name": "Jiří Skřivan",
       "bio": "Podnikatel, milovník svobody, nadšenec do krypta",
