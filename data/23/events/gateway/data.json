@@ -6,6 +6,7 @@
       "photoUrl": "https://ik.imagekit.io/treevio/tr:w-500/https://s3.eu-central-1.wasabisys.com/rbf-gateway/rbf-gateway/speakersc-list-4sxkyx-image.png?version=1675855162482",
       "caption": "Osmosis Co-Founder",
       "twitter": "sunnya97",
+      "country": "tw",
       "photo": "photos/speakers/sunny-aggarwal.png"
     },
     {
@@ -14,6 +15,7 @@
       "photoUrl": "https://ik.imagekit.io/treevio/tr:w-500/https://s3.eu-central-1.wasabisys.com/rbf-gateway/rbf-gateway/speakersc-list-aj7n-q-image.png?version=1675855162482",
       "caption": "Sommelier Co-Founder",
       "twitter": "zmanian",
+      "country": "us",
       "photo": "photos/speakers/zaki-manian.png"
     },
     {
@@ -22,6 +24,7 @@
       "photoUrl": "https://ik.imagekit.io/treevio/tr:w-500/https://s3.eu-central-1.wasabisys.com/rbf-gateway/rbf-gateway/speakersc-list-rckxid-image.png?version=1675855162482",
       "caption": "Axelar Co-Founder",
       "twitter": "sergey_nog",
+      "country": "us",
       "photo": "photos/speakers/sergey-gorbunov.png"
     },
     {
@@ -30,6 +33,7 @@
       "photoUrl": "https://ik.imagekit.io/treevio/tr:w-500/https://s3.eu-central-1.wasabisys.com/rbf-gateway/rbf-gateway/speakersc-list-hu9osm-image.png?version=1675855162482",
       "caption": "Agoric Co-Founder",
       "twitter": "deantribble",
+      "country": "us",
       "photo": "photos/speakers/dean-tribble.png"
     },
     {
@@ -38,6 +42,7 @@
       "photoUrl": "https://ik.imagekit.io/treevio/tr:w-500/https://s3.eu-central-1.wasabisys.com/rbf-gateway/rbf-gateway/speakersc-list-najlp1-image.png?version=1675855162482",
       "caption": "Evmos Co-Founder",
       "twitter": "fekunze",
+      "country": "de",
       "photo": "photos/speakers/federico-kunze-kullmer.png"
     }
   ]

@@ -3,7 +3,11 @@ export async function data(tools) {
     const out = { speakers: [] };
   
     const peopleMapper = {
-      //'Dušan Matuška': { country: 'sk' }
+      'Federico Kunze Küllmer': { country: 'de' },
+      'Sunny Aggarwal': { country: 'tw' },
+      'Zaki Manian': { country: 'us' },
+      'Sergey Gorbunov': { country: 'us' },
+      'Dean Tribble': { country: 'us' },
     }
   
     for (const el of $("#speakers div.w-full.relative").toArray()) {

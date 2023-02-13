@@ -1,7 +1,12 @@
 const peopleMapper = {
   "Radek Svarz": { country: "cz" },
   "Naim Ashhab": { country: "cz" },
-  "Marc Zeller": { twitter: "lemiscate" }
+  "Marc Zeller": { country: "fr", twitter: "lemiscate" },
+  "Sasha Tanase": { country: "ro" },
+  "Rosco Kalis": { country: "nl" },
+  "Will Harborne": { country: "gb" },
+  "Anna George": { country: "pt" },
+  "Julien Bouteloup": { country: "ch" }
 };
 
 export async function data($) {
