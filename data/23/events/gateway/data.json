@@ -1,0 +1,44 @@
+{
+  "speakers": [
+    {
+      "id": "sunny-aggarwal",
+      "name": "Sunny Aggarwal",
+      "photoUrl": "https://ik.imagekit.io/treevio/tr:w-500/https://s3.eu-central-1.wasabisys.com/rbf-gateway/rbf-gateway/speakersc-list-4sxkyx-image.png?version=1675855162482",
+      "caption": "Osmosis Co-Founder",
+      "twitter": "sunnya97",
+      "photo": "photos/speakers/sunny-aggarwal.png"
+    },
+    {
+      "id": "zaki-manian",
+      "name": "Zaki Manian",
+      "photoUrl": "https://ik.imagekit.io/treevio/tr:w-500/https://s3.eu-central-1.wasabisys.com/rbf-gateway/rbf-gateway/speakersc-list-aj7n-q-image.png?version=1675855162482",
+      "caption": "Sommelier Co-Founder",
+      "twitter": "zmanian",
+      "photo": "photos/speakers/zaki-manian.png"
+    },
+    {
+      "id": "sergey-gorbunov",
+      "name": "Sergey Gorbunov",
+      "photoUrl": "https://ik.imagekit.io/treevio/tr:w-500/https://s3.eu-central-1.wasabisys.com/rbf-gateway/rbf-gateway/speakersc-list-rckxid-image.png?version=1675855162482",
+      "caption": "Axelar Co-Founder",
+      "twitter": "sergey_nog",
+      "photo": "photos/speakers/sergey-gorbunov.png"
+    },
+    {
+      "id": "dean-tribble",
+      "name": "Dean Tribble",
+      "photoUrl": "https://ik.imagekit.io/treevio/tr:w-500/https://s3.eu-central-1.wasabisys.com/rbf-gateway/rbf-gateway/speakersc-list-hu9osm-image.png?version=1675855162482",
+      "caption": "Agoric Co-Founder",
+      "twitter": "deantribble",
+      "photo": "photos/speakers/dean-tribble.png"
+    },
+    {
+      "id": "federico-kunze-kullmer",
+      "name": "Federico Kunze Küllmer",
+      "photoUrl": "https://ik.imagekit.io/treevio/tr:w-500/https://s3.eu-central-1.wasabisys.com/rbf-gateway/rbf-gateway/speakersc-list-najlp1-image.png?version=1675855162482",
+      "caption": "Evmos Co-Founder",
+      "twitter": "fekunze",
+      "photo": "photos/speakers/federico-kunze-kullmer.png"
+    }
+  ]
+}

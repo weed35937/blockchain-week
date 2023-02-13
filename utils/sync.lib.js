@@ -45,5 +45,5 @@ export function formatId(str) {
     .normalize("NFD")
     .toLowerCase()
     .replace(/[\u0300-\u036F]/g, "")
-    .replace(/\s+/, "-");
+    .replace(/\s+/g, "-");
 }
