@@ -29,7 +29,7 @@ export async function data(tools) {
       }
       out.speakers.push(item);
     }
-    console.log(out)
+    //console.log(out)
     return out;
   }
   
