@@ -1,7 +1,7 @@
 name = "Gateway to Cosmos 2023"
 shortname = "Gateway Cosmos"
 types = ["conference"]
-status = "planning"
+status = "published"
 chains = ["cosmos"]
 org = "[RockawayX](https://rockawayx.com/)"
 dri = ""
@@ -19,6 +19,8 @@ logo = "logo.jpg"
 
 [registration]
 type = "tickets"
+price = "50 EUR"
+link = "https://gateway.events/#tickets"
 
 [links]
 web = "https://gateway.events/"

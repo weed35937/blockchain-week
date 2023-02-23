@@ -31,7 +31,7 @@ range = "6k-96k EUR"
 
 [registration]
 type = "tickets"
-price = ">222 EUR"
+price = "222 EUR"
 link = "https://tickets.paralelnipolis.cz/dtp/PDFS23/"
 
 [links]
