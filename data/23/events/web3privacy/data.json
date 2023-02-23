@@ -1,0 +1,40 @@
+{
+  "speakers": [
+    {
+      "id": "guy-zyskind",
+      "name": "Guy Zyskind",
+      "twitter": "GuyZys",
+      "caption": "Founder of [Secret Network](https://scrt.network/), CEO [SCRT Labs](https://www.scrtlabs.com/)",
+      "country": "is",
+      "photoUrl": "https://prague.web3privacy.info/people/guy-zyskind.jpeg",
+      "photo": "photos/speakers/guy-zyskind.jpeg"
+    },
+    {
+      "id": "manu-alzuru",
+      "name": "Manu Alzuru",
+      "twitter": "ManuAlzuru",
+      "caption": "Humanist,  solarpunk, Founder of [DoinGud](https://doingud.com/) & [ETH Barcelona](https://ethbarcelona.com/)",
+      "country": "es",
+      "photoUrl": "https://prague.web3privacy.info/people/manu-alzuru.jpeg",
+      "photo": "photos/speakers/manu-alzuru.jpeg"
+    },
+    {
+      "id": "juraj-bednar",
+      "name": "Juraj Bednar",
+      "twitter": "jurbed",
+      "caption": "Educator, writer, cryptoanarchist & biohacker",
+      "country": "sk",
+      "photoUrl": "https://prague.web3privacy.info/people/juraj-bednar.jpeg",
+      "photo": "photos/speakers/juraj-bednar.jpeg"
+    },
+    {
+      "id": "mario-havel",
+      "name": "Mario Havel",
+      "twitter": "TMIYChao",
+      "caption": "Hacker, Co-Founder of [Bordel Hackerspace](https://bordel.paralelnipolis.cz/#/)",
+      "country": "cz",
+      "photoUrl": "https://prague.web3privacy.info/people/mario-havel.jpeg",
+      "photo": "photos/speakers/mario-havel.jpeg"
+    }
+  ]
+}

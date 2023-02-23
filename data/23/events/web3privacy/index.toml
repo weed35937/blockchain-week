@@ -1,0 +1,44 @@
+name = "Web3Privacy Prague 2023"
+shortname = "Web3Privacy"
+types = ["conference"]
+status = "planning"
+chains = ["ethereum"]
+org = "[UTXO Foundation](https://utxo.foundation)"
+dri = "burningtree"
+poc = "[tree](https://t.me/treecz)"
+date = "2023-06-05"
+days = 1
+venues = ["x10"]
+languages = ["english"]
+attendees = 300
+tags = ["lunarpunk", "privacy", "security"]
+description = '''
+A one-day lunarpunk-style conference focused on privacy. First ever [Web3Privacy Summit](https://github.com/web3privacy/w3ps) #1.
+
+---
+
+If privacy is a human right, then we need to protect it.
+  
+Privacy advocates worldwide are coming together to discuss how to mainstream privacy within the Web3 industry. So it will become a cultural phenomenon embodying both decentralisation & anti-surveillance capitalism practices.
+  
+The conference complements the research project [Web3Privacy Now](http://web3privacy.info/) and was created by joining forces with the production team of the privacy hackathon [ETHBrno](https://ethbrno.cz/).
+'''
+logo = "logo.png"
+
+[registration]
+type = "tickets"
+price = "99 EUR"
+#link = ""
+#status = "available"
+
+[links]
+web = "https://prague.web3privacy.info"
+twitter = "https://twitter.com/web3privacy"
+signal = "https://chat.web3privacy.info"
+
+[[segments]]
+date = "2023-06-05"
+times = "09:00-20:00"
+
+[[segments]]
+remote = "lunarpunk-party"

@@ -1,11 +1,11 @@
 name = "#Lunarpunk Party"
-shortname = ""
+#shortname = ""
 types = ["party"]
 status = "planning"
 #chains = ["ethereum"]
-org = ""
-dri = ""
-poc = ""
+org = "[UTXO Foundation](https://utxo.foundation)"
+dri = "burningtree"
+poc = "[tree](https://t.me/treecz)"
 date = "2023-06-05"
 times = "20:00-04:00"
 days = 1
@@ -23,6 +23,6 @@ logo = "logo.jpg"
 
 [registration]
 type = "tickets"
-#price = ""
+price = "15 EUR"
 #link = ""
 #status = "available"

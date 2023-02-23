@@ -216,7 +216,10 @@ class DeConf_Collection {
           });
         }
       }
-      for (const sg of data.index.segments) {
+      for (let sg of data.index.segments) {
+        if (sg.remote) {
+          continue;
+        }
         const [sstart, send] = sg.times.split("-");
         sg.startTime = (new Date(`${sg.date}T${sstart}`)).toISOString();
         const endDate = send <= sstart
