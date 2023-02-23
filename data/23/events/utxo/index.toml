@@ -14,7 +14,7 @@ attendees = 1200
 description = '''
 Open community conference focused on cryptocurrencies and blockchain for a wide audience (mostly in Czech language).
 '''
-logo = "logo.jpg"
+logo = "logo.png"
 
 [cfp]
 link = "https://cfp.utxo.cz/23/cfp"
