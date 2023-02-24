@@ -59,6 +59,30 @@
       "photo": "photos/speakers/adam-sobotka.jpg"
     },
     {
+      "id": "david-stancel",
+      "name": "David Stancel",
+      "twitter": "dave_stancel",
+      "orgs": "Autor [Coin Story](https://coinstory.tech/), CIO @ [Fumbi](https://fumbi.network/)\n",
+      "caption": "Author of [Coin Story](https://coinstory.tech), CIO @ [Fumbi](https://fumbi.network/)",
+      "tracks": [
+        "defi",
+        "alty",
+        "spolecnost"
+      ],
+      "web": {
+        "name": "stanceldavid.sk",
+        "url": "https://stanceldavid.sk/"
+      },
+      "country": "sk",
+      "desc": "Dávid vyštudoval Ekonómiu na Masarykovej univerzite v Brne, a Master of Science v obore Digitálnych mien na Univerzite v Nikózii na Cypre. Pracoval  ako IT auditor a konzultant v [PwC Slovensko](https://www.pwc.com/sk/sk/). Spoluzakladal [Blockchain Slovakia](https://blockchainslovakia.sk/) a pracoval ako konzultant v oblasti kryptomien a blockchain technológií na niekoľkých slovenských ako aj zajhraničných startupoch a projektoch a v súčasnosti je na pozícii Chief Investment Officer vo [Fumbi](https://fumbi.network/). David často prednáša o kryptomenách a blockchaine na medzinárodných fórach, konferenciách či univerzitách. Taktiež učí vlastný predmet o kryptomenách na Slovenskej Technickej univerzite ako aj na Ekonomickej univerzite v Bratislave. Je taktiež autorom knihy Coinstory, ktorá mapuje históriu a evolúciu kryptomien ([CoinStory.tech](https://coinstory.tech/)).\n",
+      "photos": [
+        "web:jpg",
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/david-stancel-web.jpg",
+      "photo": "photos/speakers/david-stancel.jpg"
+    },
+    {
       "id": "dominika-v",
       "name": "Dominika V",
       "twitter": "DominikaV5",
@@ -79,6 +103,31 @@
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/dominika-v-web.jpg",
       "photo": "photos/speakers/dominika-v.jpg"
+    },
+    {
+      "id": "frantisek-kudrna",
+      "name": "František Kudrna",
+      "twitter": "FrantisekKudrna",
+      "linkedin": "fkudrna",
+      "bio": "Realitní makléř, táta od 4 dětí",
+      "orgs": "Spoluzakladatel [Altlift.cz](https://www.altlift.cz/), CFO, jednatel Tillit.cz\n",
+      "caption": "Real estate agent, [Co-founder of Altlift.cz](https://altlift.cz)",
+      "web": {
+        "url": "http://frantisekkudrna.cz/"
+      },
+      "tracks": [
+        "defi",
+        "regulace",
+        "spolecnost"
+      ],
+      "country": "cz",
+      "desc": "František se v oblasti kryptoměn pohybuje od počátku roku 2016.  Své dlouholeté zkušenosti z oblastí průmyslové automatizace a prostředí realit využívá k rozvoji společnosti Altlift, kde působí jako CFO. Je odborníkem na využití kryptoměn na realitním trhu. #Family4Kids\n",
+      "photos": [
+        "web:jpg",
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/frantisek-kudrna-web.jpg",
+      "photo": "photos/speakers/frantisek-kudrna.jpg"
     },
     {
       "id": "huge",
@@ -139,6 +188,27 @@
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/jacob-jelen-twitter.jpg",
       "photo": "photos/speakers/jacob-jelen.jpg"
+    },
+    {
+      "id": "jakub-jedlinsky",
+      "name": "Jakub Jedlinský",
+      "twitter": "Jakub_Jedlinsky",
+      "bio": "Makroekonom a analytik specializující se na modelování tokenomiky",
+      "caption": "Macroeconomist specialising in tokenomics modelling",
+      "orgs": "Spoluzakladatel [Altlift.cz](https://altlift.cz), vyučující na [KMEV VŠE](https://kmev.vse.cz/)\n",
+      "lead": true,
+      "tracks": [
+        "defi",
+        "alty",
+        "spolecnost"
+      ],
+      "country": "cz",
+      "photos": [
+        "web:jpg",
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/jakub-jedlinsky-web.jpg",
+      "photo": "photos/speakers/jakub-jedlinsky.jpg"
     },
     {
       "id": "jan-cerny",
@@ -366,6 +436,26 @@
       "photo": "photos/speakers/lukas-kovanda.jpg"
     },
     {
+      "id": "martin-bok",
+      "name": "Martin Bok",
+      "twitter": "BokcvO_ok",
+      "bio": "Tokenomics designer / analytik",
+      "orgs": "Analytik pro [Altlift](https://altlift.cz/)",
+      "caption": "Tokenomics designer / analyst @ [Altlift](https://altlift.cz/)",
+      "country": "cz",
+      "tracks": [
+        "defi",
+        "alty"
+      ],
+      "desc": "Analyst in Altlift.cz with focus on testing tokenomics using SFC modelling\n",
+      "photos": [
+        "web:png",
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/martin-bok-web.png",
+      "photo": "photos/speakers/martin-bok.png"
+    },
+    {
       "id": "martin-janik",
       "name": "Martin Janík",
       "nickname": "yanas",
@@ -437,7 +527,6 @@
     {
       "id": "ondrej-rehacek",
       "name": "Ondřej Řeháček",
-      "twitter": "olidotexe",
       "bio": "Vývojář, Smart-contract Auditor",
       "orgs": "Partner Engineer @ [Fractal.is](https://www.fractal.is/), Software & Blockchain Developer, Lecturer @ [Ackee Blockchain](https://ackeeblockchain.com/)\n",
       "caption": "Developer, Smart-contract Auditor",
@@ -703,6 +792,26 @@
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/urza-web.jpg",
       "photo": "photos/speakers/urza.jpg"
+    },
+    {
+      "id": "vojtech-pour",
+      "name": "Vojtěch Pour",
+      "twitter": "vojtechpoureth",
+      "bio": "spoluzakladatel Meetvers, Web3 social nadšenec",
+      "orgs": "[Meetvers](https://meetvers.io)\n",
+      "caption": "Co-founder of [Meetvers](https://meetvers.io), Web3 social enthusiast",
+      "country": "cz",
+      "tracks": [
+        "eth",
+        "spolecnost"
+      ],
+      "desc": "Zakladatel meetvers.io, Web3 social nadšenec\n",
+      "photos": [
+        "web:jpg",
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/vojtech-pour-web.jpg",
+      "photo": "photos/speakers/vojtech-pour.jpg"
     }
   ],
   "tracks": [
