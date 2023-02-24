@@ -1,5 +1,5 @@
-name = "DOTPrague 2023"
-shortname = "DOTPrague"
+name = "PolkadotPrague 2023"
+shortname = "PolkadotPrague"
 types = ["conference"]
 status = "planning"
 chains = ["polkadot"]
@@ -28,6 +28,6 @@ button = "Join waitlist"
 
 [links]
 web = "https://dotprague.xyz/"
-twitter = "https://twitter.com/DotsamaPrague"
+twitter = "https://twitter.com/PolkadotCzechia"
 telegram = "https://t.me/+z77D0iuvL8YyNTBk"
 discord = "https://discord.com/invite/KQXAs7Y3pQ"
