@@ -35,9 +35,7 @@ telegram = "https://t.me/utxoprague"
 youtube = "https://www.youtube.com/c/UTXOPrague"
 
 #[[segments]]
-#date = "2023-06-02"
-#times = "18:00-02:00"
-#title = "Day 0 - Opening Party"
+#remote = "pbw-opening"
 
 [[segments]]
 date = "2023-06-03"
