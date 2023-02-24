@@ -84,4 +84,11 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
-    
+  trigger_explore_rebuild:
+    needs: [deploy]
+    runs-on: ubuntu-latest
+    environment:
+      name: remote-triggers
+    steps:
+      - run: |
+          curl -XPOST -u "${{ secrets.PAT_USERNAME}}:${{secrets.PAT_TOKEN}}" -H "Accept: application/vnd.github.everest-preview+json" -H "Content-Type: application/json" https://api.github.com/repos/utxo-foundation/pbw-explore/dispatches --data '{"event_type": "build_app"}'
