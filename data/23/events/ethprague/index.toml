@@ -37,12 +37,13 @@ telegram = "https://t.me/ethprague"
 
 [[segments]]
 date = "2023-06-09"
-times = "09:00-19:00"
+times = "18:00-21:00"
+title = "Hackathon Opening"
 ecap = 600
 
 [[segments]]
 date = "2023-06-09"
-times = "19:00-09:00"
+times = "21:00-09:00"
 ecap = 100
 title = "Night hacking"
 venues = ["paralelni-polis"]
