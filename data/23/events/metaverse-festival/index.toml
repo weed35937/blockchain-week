@@ -1,0 +1,47 @@
+name = "Metaverse Festival Prague 2023"
+shortname = "Metaverse Festival"
+types = ["conference"]
+status = "published"
+#chains = ["ethereum"]
+org = "[YORD](https://yordstudio.com/cs/)"
+dri = ""
+#poc = ""
+date = "2023-06-07"
+times = "09:00-00:00"
+days = 1
+#venues = ["x10"]
+venueName = "TBA"
+languages = ["english"]
+attendees = 250
+tags = ["metaverse", "VR", "NFT"]
+description = '''
+Metaverse Festival 2023 is an event that brings together individuals and organizations interested in Metaverse, VR/AR, NFTs, gaming, and other forms of immersive technology. The festival will provide a space for attendees to inspire, connect, learn, and collaborate on the Metaverse's latest developments and future potential.
+
+A full day packed with exciting events and activities, including keynote speeches and panel discussions featuring industry leaders and experts. Networking sessions and workshops will also allow attendees to learn about specific topics and technologies related to the Metaverse. Moreover, interactive zones like a virtual reality showcase will let attendees try the latest VR/AR/Metaverse experiences and technology.
+
+The main program will focus on topics such as:
+
+* How To Build Your Metaverse
+* Fashion in Metaverse
+* Investment in Metaverse
+* Market Trends and future of Metaverse
+* Advertisement/Marketing in the Metaverse
+* Events and Entertainment in Metaverse
+* NFTs and Metaverse
+* Web3 community and Metaverse
+* Legal and regulatory issues in Metaverse
+
+
+All tickets include welcome drinks, finger food, and the DJ afterparty with networking.
+'''
+logo = "logo.jpg"
+
+[links]
+web = "https://metaversefestivalprague.com/"
+#twitter = ""
+
+[registration]
+type = "tickets"
+price = "25 EUR"
+link = "https://metaversefestivalprague.com/tickets/"
+status = "available"
