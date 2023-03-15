@@ -6,7 +6,8 @@ const peopleMapper = {
   "Rosco Kalis": { country: "nl" },
   "Will Harborne": { country: "gb" },
   "Anna George": { country: "pt" },
-  "Julien Bouteloup": { country: "ch" }
+  "Julien Bouteloup": { country: "ch" },
+  "Stanislav Šimek": { country: "cz" }
 };
 
 export async function data($) {

@@ -8,6 +8,7 @@ export async function data(tools) {
       'Zaki Manian': { country: 'us' },
       'Sergey Gorbunov': { country: 'us' },
       'Dean Tribble': { country: 'us' },
+      'Sean Braithwaite': { country: 'de' }
     }
   
     for (const el of $("#speakers div.w-full.relative").toArray()) {
