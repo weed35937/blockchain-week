@@ -1,6 +1,23 @@
 {
   "speakers": [
     {
+      "id": "marc-zeller",
+      "name": "Marc Zeller",
+      "twitter": "lemiscate",
+      "caption": "AAVE",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3LrJr2y42JL5NO7XcqP7xn/355bf0464ed6a98604089fe57c068959/MarcZeller.jpeg",
+      "country": "fr",
+      "photo": "photos/speakers/marc-zeller.jpeg"
+    },
+    {
+      "id": "stanislav-simek",
+      "name": "Stanislav Šimek",
+      "twitter": "Stan_Simek",
+      "caption": "BADOKH",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6BJjdgSTjR32La8WrdC9S3/047214513234227a6f91a667dff54ed1/8259775487b6747_dee460985be8272737fead6d15425b3b_600_FRDEnA6.jpg",
+      "photo": "photos/speakers/stanislav-simek.jpg"
+    },
+    {
       "id": "radek-svarz",
       "name": "Radek Svarz",
       "twitter": "radk",
@@ -17,15 +34,6 @@
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2G0x2iQJtCP7aBfdDY1yJ0/0a70687805c116a6400309de5cae5f8f/sasha.jpg",
       "country": "ro",
       "photo": "photos/speakers/sasha-tanase.jpg"
-    },
-    {
-      "id": "marc-zeller",
-      "name": "Marc Zeller",
-      "twitter": "lemiscate",
-      "caption": "AAVE",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3LrJr2y42JL5NO7XcqP7xn/355bf0464ed6a98604089fe57c068959/MarcZeller.jpeg",
-      "country": "fr",
-      "photo": "photos/speakers/marc-zeller.jpeg"
     },
     {
       "id": "rosco-kalis",
