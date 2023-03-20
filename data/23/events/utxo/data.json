@@ -75,6 +75,7 @@
       },
       "country": "sk",
       "desc": "Dávid vyštudoval Ekonómiu na Masarykovej univerzite v Brne, a Master of Science v obore Digitálnych mien na Univerzite v Nikózii na Cypre. Pracoval  ako IT auditor a konzultant v [PwC Slovensko](https://www.pwc.com/sk/sk/). Spoluzakladal [Blockchain Slovakia](https://blockchainslovakia.sk/) a pracoval ako konzultant v oblasti kryptomien a blockchain technológií na niekoľkých slovenských ako aj zajhraničných startupoch a projektoch a v súčasnosti je na pozícii Chief Investment Officer vo [Fumbi](https://fumbi.network/). David často prednáša o kryptomenách a blockchaine na medzinárodných fórach, konferenciách či univerzitách. Taktiež učí vlastný predmet o kryptomenách na Slovenskej Technickej univerzite ako aj na Ekonomickej univerzite v Bratislave. Je taktiež autorom knihy Coinstory, ktorá mapuje históriu a evolúciu kryptomien ([CoinStory.tech](https://coinstory.tech/)).\n",
+      "lead": true,
       "photos": [
         "web:jpg",
         "twitter:jpg"
@@ -196,7 +197,6 @@
       "bio": "Makroekonom a analytik specializující se na modelování tokenomiky",
       "caption": "Macroeconomist specialising in tokenomics modelling",
       "orgs": "Spoluzakladatel [Altlift.cz](https://altlift.cz), vyučující na [KMEV VŠE](https://kmev.vse.cz/)\n",
-      "lead": true,
       "tracks": [
         "defi",
         "alty",
@@ -241,7 +241,6 @@
         "btc"
       ],
       "country": "cz",
-      "lead": true,
       "photos": [
         "twitter:jpg"
       ],
@@ -383,7 +382,6 @@
         "alty"
       ],
       "country": "cz",
-      "lead": true,
       "photos": [
         "twitter:jpg"
       ],
@@ -414,6 +412,28 @@
       "photo": "photos/speakers/kirill-juran.jpg"
     },
     {
+      "id": "libor-flossler",
+      "nickname": "Investocka",
+      "name": "Libor Flössler",
+      "twitter": "investocka",
+      "orgs": "YT kanál [Investocka](https://www.youtube.com/c/Investocka), investiční deskovka [Vyhrej Život](https://www.vyhrejzivot.cz/)\n",
+      "caption": "YT channel [Investocka](https://www.youtube.com/c/Investocka), investment board game [\"Win Life\"](https://www.vyhrejzivot.cz/)",
+      "web": {
+        "url": "https://vyhrejzivot.cz"
+      },
+      "tracks": [
+        "zaklady"
+      ],
+      "country": "cz",
+      "desc": "YT kanál Investocka. Autor české investiční deskovky Vyhrej Život. Investor\n",
+      "photos": [
+        "web:jpg",
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/libor-flossler-web.jpg",
+      "photo": "photos/speakers/libor-flossler.jpg"
+    },
+    {
       "id": "lukas-kovanda",
       "name": "Lukáš Kovanda",
       "twitter": "lukaskovanda",
@@ -434,6 +454,27 @@
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/lukas-kovanda-web.jpg",
       "photo": "photos/speakers/lukas-kovanda.jpg"
+    },
+    {
+      "id": "mario-havel",
+      "name": "Mario Havel",
+      "twitter": "TMIYChao",
+      "bio": "Kryptoanarchista, libertarián a hacker",
+      "orgs": "[Ethereum Foundation](https://ethereum.foundation/), Zakladatel [Bordel Hackerspace](https://bordel.paralelnipolis.cz/#/), člen [Paralelní Polis](https://www.paralelnipolis.cz/)\n",
+      "caption": "Hacker, Co-Founder of [Bordel Hackerspace](https://bordel.paralelnipolis.cz/#/)\n",
+      "tracks": [
+        "zaklady",
+        "btc",
+        "eth",
+        "defi"
+      ],
+      "country": "sk",
+      "photos": [
+        "web:jpg",
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/mario-havel-web.jpg",
+      "photo": "photos/speakers/mario-havel.jpg"
     },
     {
       "id": "martin-bok",
@@ -591,6 +632,7 @@
         "spolecnost"
       ],
       "country": "cz",
+      "lead": true,
       "photos": [
         "web:jpg",
         "twitter:jpg"
