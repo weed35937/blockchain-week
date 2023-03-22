@@ -1,0 +1,7 @@
+name = "StreamETH"
+description = "The complete solution to organize your virtual or hybrid event"
+logo = "logo.png"
+
+[links]
+web = "https://streameth.org/"
+twitter = "https://twitter.com/streameth"
