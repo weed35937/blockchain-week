@@ -1,4 +1,5 @@
 name = "Optimism"
+logo = "logo.png"
 
 [links]
 web = "https://www.optimism.io/"
