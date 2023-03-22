@@ -1,0 +1,7 @@
+name = "Broadcastr"
+description = "Your broadcastr NFT is your new livestreaming channel."
+logo = "logo.png"
+
+[links]
+web = "https://broadcastr.xyz/"
+twitter = "https://twitter.com/broadcastrxyz"
