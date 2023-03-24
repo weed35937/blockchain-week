@@ -113,6 +113,7 @@ class DeConf_Package {
       places: "place",
       events: "event",
       "media-partners": "media-partner",
+      contributors: "contributor",
       benefits: "benefit",
       unions: "union",
       chains: "chain",
