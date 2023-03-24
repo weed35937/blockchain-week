@@ -1,0 +1,11 @@
+name = "Metro Theater"
+eventTypes = ["conference"]
+capacity = 222
+address = "Národní 25, 110 00 Staré Město"
+mapUrl = "https://goo.gl/maps/EWh7Cuo9fQEfowG79"
+description = '''
+'''
+photo = "photo.jpg"
+
+[links]
+web = "https://www.divadlometro.cz/"
