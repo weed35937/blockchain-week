@@ -1,12 +1,12 @@
 const peopleMapper = {
-    "dcbuilder-eth": { country: "cz" },
-    "luc-computer": { country: "nl" },
-    "ferit-tuncer": { country: "pt" },
-    "puncar": { country: "us" },
-    "miao-zhicheng": { country: "ee" },
-    "cryptowanderer": { country: "za" },
-    //"daniel-lumi": { country: "" },
-    "nicolas-manea": { country: "gb" }
+    "dcbuilder.eth": { country: "cz" },
+    "luc.computer": { country: "nl" },
+    "Ferit Tunçer": { country: "pt" },
+    "Puncar": { country: "us" },
+    "Miao ZhiCheng": { country: "ee" },
+    "Cryptowanderer": { country: "za" },
+    //"Daniel Lumi": { country: "" },
+    "Nicolas Manea": { country: "gb" }
   };
   
   export async function data($) {
