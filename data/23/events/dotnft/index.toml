@@ -1,6 +1,6 @@
 name = "DotNFT 2023"
 shortname = "DotNFT"
-types = ["conference"]
+types = ["meetup"]
 status = "planning"
 chains = ["polkadot"]
 org = "[KodaDot](https://kodadot.xyz/)"

@@ -1,6 +1,6 @@
 name = "IBCPrague 2023"
 shortname = "IBCPrague"
-types = ["conference"]
+types = ["meetup"]
 status = "planning"
 chains = ["cosmos"]
 org = ""
