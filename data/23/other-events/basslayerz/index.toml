@@ -1,0 +1,27 @@
+name = "BassLayerz /UK"
+types = ["other"]
+status = "published"
+org = ""
+dri = ""
+poc = ""
+date = "2023-06-09"
+days = 1
+times = "20:00-04:00"
+venueName = "Cross Club"
+venueAddress = "Plynární 23, Prague"
+venueUrl = "https://goo.gl/maps/zk2icpnrDR1K9TfV6"
+languages = ["english"]
+attendees = 750
+tags = ["music", "concert", "culture", "drum and bass"]
+logo = "photo.jpg"
+description = '''
+Drum and bass trio BassLayerz (DJ Slipz, MC Spyda, Blu Bomma) from the United Kingdom will perform on June 9 at the Cross club in Prague.
+'''
+
+[registration]
+type = "tickets"
+link = "https://goout.net/en/rough-tempo-takeover-basslayerz/sztfrkv/"
+price = "150 CZK"
+
+[links]
+web = "https://goout.net/en/rough-tempo-takeover-basslayerz/sztfrkv/"
