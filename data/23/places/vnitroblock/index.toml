@@ -1,0 +1,12 @@
+name = "Vnitroblock"
+eventTypes = ["conference", "hackathon", "expo"]
+capacity = 500
+address = "Tusarova 791/31, 170 00 Praha 7-Holešovice"
+mapUrl = "https://goo.gl/maps/vaL3v3QqvEuZDaEKA"
+description = '''
+Situated in a repurposed industrial space in the heart of Holešovice, the art district of Prague, Vnitroblock functions as a creative/cultural center. At Vnitroblock you can find a cafe, a dance studio, a small cinema, an event/theater hall, an outdoor space, a gallery, a store with designer sneakers, and so much more. The space is located in a courtyard behind apartment buildings – walk through the unassuming entrance on Tusarova Street and you’ll quickly find yourself in a gorgeous multifunctional space with exposed brick and steel beams, concrete floors, and high ceilings with factory windows. The main floor is dominated by the open cafe – grab a seat and enjoy a great cup of coffee and a light meal. The tables are spread out and offer enough space if you are looking for a place in Prague to work remotely. If the weather is lovely, head outside to Vnitroblock’s outdoor space, complete with picnic tables, food trucks, shops, and more. This bustling creative hub is a must-see.
+'''
+photo = "photo.jpg"
+
+[links]
+web = "https://www.pvaexpo.cz/pronajem-arealu"

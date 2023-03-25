@@ -7,7 +7,7 @@ dri = ""
 poc = "JosefJ, Vojta"
 date = "2023-06-09"
 days = 3
-venues = ["paralelni-polis", "la-fabrika"]
+venues = ["paralelni-polis", "la-fabrika", "vnitroblock"]
 languages = ["english"]
 attendees = 750
 chains = ["ethereum"]
@@ -38,29 +38,41 @@ telegram = "https://t.me/ethprague"
 [[segments]]
 date = "2023-06-09"
 times = "18:00-21:00"
-title = "Hackathon Opening"
-ecap = 750
+#title = "Hackathon Opening"
+ecap = 250
+venues = ["paralelni-polis", "la-fabrika"]
 
 [[segments]]
 date = "2023-06-09"
-times = "21:00-09:00"
-ecap = 100
-title = "Night hacking"
-venues = ["paralelni-polis"]
+times = "10:00-23:59"
+ecap = 500
+title = "Hacker House"
+venues = ["vnitroblock"]
 
 [[segments]]
 date = "2023-06-10"
 times = "09:00-19:00"
-ecap = 750
+ecap = 250
+#title = "Conference"
+venues = ["paralelni-polis", "la-fabrika"]
 
 [[segments]]
 date = "2023-06-10"
-times = "19:00-09:00"
-ecap = 100
-title = "Night hacking"
-venues = ["paralelni-polis"]
+times = "00:00-23:59"
+ecap = 500
+title = "Hacker House"
+venues = ["vnitroblock"]
 
 [[segments]]
 date = "2023-06-11"
 times = "09:00-18:00"
-ecap = 750
+#title = "Conference"
+venues = ["paralelni-polis", "la-fabrika"]
+ecap = 250
+
+[[segments]]
+date = "2023-06-11"
+times = "00:00-15:00"
+ecap = 500
+title = "Hacker House"
+venues = ["vnitroblock"]
