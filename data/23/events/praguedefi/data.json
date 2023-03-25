@@ -1,22 +1,13 @@
 {
   "speakers": [
     {
-      "id": "marc-zeller",
-      "name": "Marc Zeller",
-      "twitter": "lemiscate",
-      "caption": "AAVE",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3LrJr2y42JL5NO7XcqP7xn/355bf0464ed6a98604089fe57c068959/MarcZeller.jpeg",
-      "country": "fr",
-      "photo": "photos/speakers/marc-zeller.jpeg"
-    },
-    {
-      "id": "stanislav-simek",
-      "name": "Stanislav Šimek",
-      "twitter": "Stan_Simek",
-      "caption": "BADOKH",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6BJjdgSTjR32La8WrdC9S3/047214513234227a6f91a667dff54ed1/8259775487b6747_dee460985be8272737fead6d15425b3b_600_FRDEnA6.jpg",
-      "country": "cz",
-      "photo": "photos/speakers/stanislav-simek.jpg"
+      "id": "julien-bouteloup",
+      "name": "Julien Bouteloup",
+      "twitter": "bneiluj",
+      "caption": "Stake Capital Group ",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2iBMPVY6qhcs1D4v4DpW73/98cda1ae2e55679820172b03cf8179ea/julien.jpeg",
+      "country": "ch",
+      "photo": "photos/speakers/julien-bouteloup.jpeg"
     },
     {
       "id": "radek-svarz",
@@ -37,31 +28,13 @@
       "photo": "photos/speakers/sasha-tanase.jpg"
     },
     {
-      "id": "rosco-kalis",
-      "name": "Rosco Kalis",
-      "twitter": "RoscoKalis ",
-      "caption": "Revoke Cash",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5wjHrhpbYShTSv34Rp4vca/1882ecd12c4f5526e0422002f58f4a4c/photo_2023-02-06_11.42.28.jpeg",
-      "country": "nl",
-      "photo": "photos/speakers/rosco-kalis.jpeg"
-    },
-    {
-      "id": "will-harborne",
-      "name": "Will Harborne",
-      "twitter": "will_harborne",
-      "caption": "Rhino Fi",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/7lHwPf9tIk1Y3anuGcVhrA/eba6131507e769002ae96efcb83406ba/photo_2023-02-06_11.25.04.jpeg",
-      "country": "gb",
-      "photo": "photos/speakers/will-harborne.jpeg"
-    },
-    {
-      "id": "anna-george",
-      "name": "Anna George",
-      "twitter": "AnnaMSGeorge",
-      "caption": "CoWSwap",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/7sNztyNmT7QSd43ml0FStd/0e382e06be6176f1edaa8613dfc82cd4/V__st__i__ek.JPG",
-      "country": "pt",
-      "photo": "photos/speakers/anna-george.JPG"
+      "id": "marc-zeller",
+      "name": "Marc Zeller",
+      "twitter": "lemiscate",
+      "caption": "AAVE",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3LrJr2y42JL5NO7XcqP7xn/355bf0464ed6a98604089fe57c068959/MarcZeller.jpeg",
+      "country": "fr",
+      "photo": "photos/speakers/marc-zeller.jpeg"
     },
     {
       "id": "naim-ashhab",
@@ -73,13 +46,31 @@
       "photo": "photos/speakers/naim-ashhab.jpeg"
     },
     {
-      "id": "julien-bouteloup",
-      "name": "Julien Bouteloup",
-      "twitter": "bneiluj",
-      "caption": "Stake Capital Group ",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2iBMPVY6qhcs1D4v4DpW73/98cda1ae2e55679820172b03cf8179ea/julien.jpeg",
-      "country": "ch",
-      "photo": "photos/speakers/julien-bouteloup.jpeg"
+      "id": "rosco-kalis",
+      "name": "Rosco Kalis",
+      "twitter": "RoscoKalis ",
+      "caption": "Revoke Cash",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5wjHrhpbYShTSv34Rp4vca/1882ecd12c4f5526e0422002f58f4a4c/photo_2023-02-06_11.42.28.jpeg",
+      "country": "nl",
+      "photo": "photos/speakers/rosco-kalis.jpeg"
+    },
+    {
+      "id": "anna-george",
+      "name": "Anna George",
+      "twitter": "AnnaMSGeorge",
+      "caption": "CoWSwap",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/7sNztyNmT7QSd43ml0FStd/0e382e06be6176f1edaa8613dfc82cd4/V__st__i__ek.JPG",
+      "country": "pt",
+      "photo": "photos/speakers/anna-george.JPG"
+    },
+    {
+      "id": "will-harborne",
+      "name": "Will Harborne",
+      "twitter": "will_harborne",
+      "caption": "Rhino Fi",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/7lHwPf9tIk1Y3anuGcVhrA/eba6131507e769002ae96efcb83406ba/photo_2023-02-06_11.25.04.jpeg",
+      "country": "gb",
+      "photo": "photos/speakers/will-harborne.jpeg"
     }
   ]
 }

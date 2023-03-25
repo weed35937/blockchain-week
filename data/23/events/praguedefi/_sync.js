@@ -7,7 +7,7 @@ const peopleMapper = {
   "Will Harborne": { country: "gb" },
   "Anna George": { country: "pt" },
   "Julien Bouteloup": { country: "ch" },
-  "Stanislav Šimek": { country: "cz" }
+  //"Stanislav Šimek": { country: "cz" }
 };
 
 export async function data($) {
@@ -16,8 +16,33 @@ export async function data($) {
     {
       method: "POST",
       body: JSON.stringify({
-        query:
-          "{ pragueDefiSummitCollection(limit: 1) { items { pitchDeck { url } twitterLink discordLink telegramLink applyToSpeakLink applyToSpeakLabel duckTapeLink paralelniPolisLink manifestoText { json links { entries { block { sys { id } } } assets { block { sys { id } url title width height } } } } } } pragueDefiSummitPeopleCollection { items { sys { id } name twitter company profileImage { sys { publishedAt id } fileName url } } } }",
+        query: `
+          { 
+            pragueDefiSummitPeopleSortedCollection(limit: 1) {
+                  items {
+                    pdsPeopleSortedCollection {
+                          items {
+                              sys { id }
+                              ... on PragueDefiSummitPeople {
+                                  sys { id }
+                                  name
+                                  twitter
+                                  company
+                                  role
+                                  profileImage {
+                                      sys {
+                                          publishedAt
+                                          id
+                                      }
+                                      fileName
+                                      url
+                                  }
+                              }
+                          }
+                      }
+                  }
+              }
+          }`
       }),
       headers: {
         "content-type": "application/json",
@@ -26,7 +51,7 @@ export async function data($) {
     },
   );
   return {
-    speakers: res.data.pragueDefiSummitPeopleCollection.items.map((s) =>
+    speakers: res.data.pragueDefiSummitPeopleSortedCollection.items[0].pdsPeopleSortedCollection.items.map((s) =>
       Object.assign({
         id: $.formatId(s.name),
         name: s.name,
