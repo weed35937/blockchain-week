@@ -12,7 +12,7 @@ days = 1
 #venues = ["x10"]
 venueName = "TBA"
 languages = ["english"]
-attendees = 250
+attendees = 300
 tags = ["metaverse", "VR", "NFT"]
 description = '''
 Metaverse Festival 2023 is an event that brings together individuals and organizations interested in Metaverse, VR/AR, NFTs, gaming, and other forms of immersive technology. The festival will provide a space for attendees to inspire, connect, learn, and collaborate on the Metaverse's latest developments and future potential.

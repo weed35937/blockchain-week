@@ -9,7 +9,7 @@ date = "2023-06-09"
 days = 3
 venues = ["paralelni-polis", "la-fabrika"]
 languages = ["english"]
-attendees = 600
+attendees = 750
 chains = ["ethereum"]
 difficulty = "All Welcome"
 tags = ["solarpunk"]
@@ -39,7 +39,7 @@ telegram = "https://t.me/ethprague"
 date = "2023-06-09"
 times = "18:00-21:00"
 title = "Hackathon Opening"
-ecap = 600
+ecap = 750
 
 [[segments]]
 date = "2023-06-09"
@@ -51,7 +51,7 @@ venues = ["paralelni-polis"]
 [[segments]]
 date = "2023-06-10"
 times = "09:00-19:00"
-ecap = 600
+ecap = 750
 
 [[segments]]
 date = "2023-06-10"
@@ -63,4 +63,4 @@ venues = ["paralelni-polis"]
 [[segments]]
 date = "2023-06-11"
 times = "09:00-18:00"
-ecap = 600
+ecap = 750
