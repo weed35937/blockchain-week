@@ -1,0 +1,42 @@
+name = "Prague Quadrennial 2023"
+shortname = "PQ 2023"
+types = ["other"]
+status = "published"
+org = ""
+dri = ""
+poc = ""
+date = "2023-06-08"
+days = 11
+#times = "23:00-04:00"
+venueName = "Many different locations"
+venueAddress = "TBD"
+#venueUrl = "https://goo.gl/maps/1trUQWd24gcVap1W7"
+languages = ["english"]
+#attendees = 0
+tags = ["art", "performance", "design", "space"]
+logo = "logo.png"
+description = '''
+Prague Quadrennial of Performance Design and Space is the largest festival of its kind in the world.
+
+Since 1967, once every four years, PQ explores the field of scenography in its broadest sense - from scenic art, sound and light design to new approaches in scenography, like site-specific, applied scenography, street performance or costume as performance. The core of the festival is contemporary scenography creating an environment, which acts upon all the human senses.
+
+Most of the installation at PQ is currently based on performativity and interaction, when an audience adopts an active participatory role co-creating the imaginative environment of scenography. Thus, PQ is open to further artistic professions and shows the interdisciplinary character of scenography and performance design. From the audience viewpoint, this results in an attractive and untraditional format, which, as opposed to an exhibitory style of galleries, works with an active and two-way inclusion of the audience, when each visitor becomes co-creator of their unique experience at one of the culturally most diverse festivals in Europe. PQ 2015 received a prestigious award EFFE and was named one of the most innovative festivals in Europe.
+
+----
+
+The 15th edition of PQ will take place on 8 to 18 June 2023. The main festival location will be the Prague Market, some of the festival programme parts will take place in the Fair Trade Palace of the National Gallery and at the Theatre Faculty of the Academy of Performing Arts in Prague. Within the two main competitive exhibitions and six projects curated by an international team of professionals, PQ 2023 will present artworks from hundreds of artists from dozens of countries from all over the world.
+
+The theme of PQ 2023 is “RARE” - in a sense of a unique, one and only, raw, or bizarre. This choice reflects the ground-breaking changes in all areas of human activity and creativity, which was accelerated by the pandemic during the last two years. Our conception of the physical was significantly altered - the space, encounters and sharing. The physical became a rare and unique opportunity. The theme aims to invite scenographers and performance designers to share their notions of the post-pandemic world and their visions of the future influenced by the events of the near past.
+'''
+
+[registration]
+type = "tickets"
+link = "https://pq.cz/festival-pass-and-tickets/"
+price = "2400 CZK"
+
+[links]
+web = "https://pq.cz/"
+twitter = "https://twitter.com/pq_festival"
+facebook = "https://www.facebook.com/pquadrennial"
+instagram = "https://www.instagram.com/praguequadrennial"
+youtube = "https://www.youtube.com/user/PragueQuadrennial"
