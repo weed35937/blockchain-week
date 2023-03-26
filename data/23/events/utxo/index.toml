@@ -24,7 +24,7 @@ text = "The conference is in Czech-Slovak language, aimed at a wide audience. En
 [registration]
 type = "tickets"
 price = "590 CZK"
-#link = ""
+#link = "https://vstupenky.utxo.cz/23/"
 #status = "available"
 
 [links]
