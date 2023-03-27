@@ -70,6 +70,15 @@
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5HPNj2nmhLXDVv7o1CQ8Tf/9b3591c31b32f241e74ec510d5462543/Profile_E3Z8U9O.jpg",
       "country": "gb",
       "photo": "photos/speakers/nicolas-manea.jpg"
+    },
+    {
+      "id": "tim-beiko",
+      "name": "Tim Beiko",
+      "twitter": "TimBeiko",
+      "caption": "Ethereum Foundation",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/E18FntUsLDbkexkDQU1tt/3a5c1ab0edde53fa60abfe0015399781/Tim_Small_Photo_K43SY5x.png",
+      "country": "ca",
+      "photo": "photos/speakers/tim-beiko.png"
     }
   ]
 }
