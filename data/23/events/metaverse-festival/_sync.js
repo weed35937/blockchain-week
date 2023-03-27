@@ -1,13 +1,28 @@
 import { Html5Entities } from "https://deno.land/x/html_entities@v1.0/mod.js";
 
+const peopleMapper = {
+  "Adam Rajnoha": { country: "cz" },
+  "David Mařák": { country: "cz" },
+  "Filip Kolert": { country: "cz" },
+  "Honza Borýsek": { country: "cz" },
+  "Iraida Novruzova": { country: "az" },
+  "Inna Fetissova": { country: "cz" },
+  "Juraj Kováč": { country: "sk" },
+  "Martin Sokol": { country: "cz" },
+  "Natália Rajnohová": { country: "sk" },
+  "Olska Green": { country: "pt" },
+  "Ondrej T.": { country: "sk" },
+  "Pavla Julia Kolářová": { country: "cz" }, 
+  "Sara Polak": { country: "cz" }, 
+  "Thomas De Bruyne": { country: "be" }, 
+  "Timmu Toke": { country: "us" },
+  "Julie Šislerová": { country: "cz" }, 
+};
+
 export async function data(tools) {
     const $ = await tools.loadHtmlUrl("https://metaversefestivalprague.com/");
     const out = { speakers: [] };
-  
-    const peopleMapper = {
-      'Dušan Matuška': { country: 'sk' }
-    }
-  
+
     for (const el of $("div.elementor-col-16").toArray()) {
       const name = cleanupName($('h3 span', el).html())
       if (name === "Reveal Soon") {
