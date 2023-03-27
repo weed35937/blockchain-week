@@ -3,37 +3,51 @@
     {
       "id": "adam-rajnoha",
       "name": "Adam Rajnoha",
-      "caption": "Co-Founder & CEO of MOYA"
+      "caption": "Co-Founder & CEO of MOYA",
+      "photoUrl": "https://metaversefestivalprague.com/wp-content/uploads/elementor/thumbs/1-q37tzwz6wixoc6obbnb16h8x2u42s02ouu4mal3s8o.png",
+      "photo": "photos/speakers/adam-rajnoha.png"
     },
     {
       "id": "julie-sislerova",
       "name": "Julie Šislerová",
-      "caption": "Founder of Holky v Metaverse"
+      "caption": "Founder of Holky v Metaverse",
+      "photoUrl": "https://metaversefestivalprague.com/wp-content/uploads/elementor/thumbs/3-q37u00qjnv2tmmiupoxjggargdljmshm7cqk7oy7js.png",
+      "photo": "photos/speakers/julie-sislerova.png"
     },
     {
       "id": "david-marak",
       "name": "David Mařák",
-      "caption": "Co-Founder & CTO of Yord"
+      "caption": "Co-Founder & CTO of Yord",
+      "photoUrl": "https://metaversefestivalprague.com/wp-content/uploads/elementor/thumbs/metaverse-speakers-4-q3b5fwdth7ae5qpjfu794w5n621i95plps1vyvh5tk.png",
+      "photo": "photos/speakers/david-marak.png"
     },
     {
       "id": "honza-borysek",
       "name": "Honza Borýsek",
-      "caption": "Founder, Growth & Innovation"
+      "caption": "Founder, Growth & Innovation",
+      "photoUrl": "https://metaversefestivalprague.com/wp-content/uploads/elementor/thumbs/metaverse-speakers-5-q3b5fia8mor3bla0q63ulhpq99z01p5mnu9lrq22ew.png",
+      "photo": "photos/speakers/honza-borysek.png"
     },
     {
       "id": "juraj-kovac",
       "name": "Juraj Kováč",
-      "caption": "Creative & Strategy Director, THIS IS LOCCO"
+      "caption": "Creative & Strategy Director, THIS IS LOCCO",
+      "photoUrl": "https://metaversefestivalprague.com/wp-content/uploads/elementor/thumbs/metaverse-speakers-q39ne0tta7j3el7bzq14cxf8050pieps6l1kbcnauw.png",
+      "photo": "photos/speakers/juraj-kovac.png"
     },
     {
       "id": "ondrej-t",
       "name": "Ondrej T.",
-      "caption": "Metaverse & Web3 Advisor and Evangelist"
+      "caption": "Metaverse & Web3 Advisor and Evangelist",
+      "photoUrl": "https://metaversefestivalprague.com/wp-content/uploads/elementor/thumbs/metaverse-speakers-1-q39u99bkwfz7682vb3bgp1ewxofb4d84iae9kg2g8o.png",
+      "photo": "photos/speakers/ondrej-t.png"
     },
     {
       "id": "thomas-de-bruyne",
       "name": "Thomas De Bruyne",
-      "caption": "Xperience Lab Lead | Transformational Leadership"
+      "caption": "Xperience Lab Lead | Transformational Leadership",
+      "photoUrl": "https://metaversefestivalprague.com/wp-content/uploads/elementor/thumbs/metaverse-speakers-2-q39nhc7be62id2dxmnmqnlarg2obnyvoyzw89hqawo.png",
+      "photo": "photos/speakers/thomas-de-bruyne.png"
     },
     {
       "id": "olska-green",
@@ -73,7 +87,9 @@
     {
       "id": "martin-sokol",
       "name": "Martin Sokol",
-      "caption": "Digital Marketing | Growth of Mobile Games"
+      "caption": "Digital Marketing | Growth of Mobile Games",
+      "photoUrl": "https://metaversefestivalprague.com/wp-content/uploads/elementor/thumbs/metaverse-speakers-12-q3zc8mkrnrc05oxlvzyklnfqk65jc8zirkorpkelyw.png",
+      "photo": "photos/speakers/martin-sokol.png"
     },
     {
       "id": "timmu-toke",

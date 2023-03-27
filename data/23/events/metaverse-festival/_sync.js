@@ -18,7 +18,7 @@ export async function data(tools) {
         id: tools.formatId(name),
         name,
         caption: $('p.elementor-icon-box-description', el).text().trim(),
-        photoUrl:  $('img.attachment-large', el).attr('src'),        
+        photoUrl:  $('div.elementor-widget-container img', el).attr('src'),        
       }
   
       if (peopleMapper[name]) {
