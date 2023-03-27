@@ -1,0 +1,32 @@
+name = "Cryptopunk lounge on the hill"
+#shortname = ""
+types = ["meetup"]
+status = "published"
+chains = []
+org = "Ackee Blockchain"
+dri = ""
+poc = ""
+date = "2023-06-02"
+days = 1
+times = "18:00-23:00"
+venueName = "Klub Čajovna"
+venueAddress = "Vaníčkova 7, 160 17 Praha-Strahov"
+venueUrl = "https://goo.gl/maps/dmKGjcL1pA3xWnao8"
+languages = ["english"]
+attendees = 60
+tags = ["tea", "DeFi", "shisha", "NFT", "strahovlife"]
+description = '''
+A place for networking and chilling with great shisha and tea in the heart of the student halls of residence on the famous Strahov hill.
+'''
+logo = "photo.jpg"
+
+[links]
+web = "https://www.eventbrite.com/e/cryptopunk-lounge-on-the-hill-tickets-598666115467"
+telegram = "https://t.me/+TNahjZYEOLAwZmVk"
+#twitter = ""
+
+[registration]
+type = "signup"
+link = "https://www.eventbrite.com/e/cryptopunk-lounge-on-the-hill-tickets-598666115467"
+status = "available"
+button = "Register for free!"

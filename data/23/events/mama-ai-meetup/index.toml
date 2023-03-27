@@ -1,7 +1,7 @@
 name = "Smart Contract Security - Sunset Meetup"
 #shortname = ""
 types = ["meetup"]
-status = "planning"
+status = "published"
 chains = []
 org = "The MAMA AI"
 dri = ""
@@ -26,7 +26,6 @@ web = "https://www.eventbrite.com/e/smart-contract-security-sunset-meetup-ticket
 
 [registration]
 type = "signup"
-#price = "Free"
 link = "https://www.eventbrite.com/e/smart-contract-security-sunset-meetup-tickets-596165265357"
 status = "available"
 button = "Register for free!"
