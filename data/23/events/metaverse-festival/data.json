@@ -1,0 +1,100 @@
+{
+  "speakers": [
+    {
+      "id": "adam-rajnoha",
+      "name": "Adam Rajnoha",
+      "caption": "Co-Founder & CEO of MOYA"
+    },
+    {
+      "id": "julie-sislerova",
+      "name": "Julie Šislerová",
+      "caption": "Founder of Holky v Metaverse"
+    },
+    {
+      "id": "david-marak",
+      "name": "David Mařák",
+      "caption": "Co-Founder & CTO of Yord"
+    },
+    {
+      "id": "honza-borysek",
+      "name": "Honza Borýsek",
+      "caption": "Founder, Growth & Innovation"
+    },
+    {
+      "id": "juraj-kovac",
+      "name": "Juraj Kováč",
+      "caption": "Creative & Strategy Director, THIS IS LOCCO"
+    },
+    {
+      "id": "ondrej-t",
+      "name": "Ondrej T.",
+      "caption": "Metaverse & Web3 Advisor and Evangelist"
+    },
+    {
+      "id": "thomas-de-bruyne",
+      "name": "Thomas De Bruyne",
+      "caption": "Xperience Lab Lead | Transformational Leadership"
+    },
+    {
+      "id": "olska-green",
+      "name": "Olska Green",
+      "caption": "Founder of Phygital Sustainable Fashion Brand ECOOLSKA",
+      "photoUrl": "https://metaversefestivalprague.com/wp-content/uploads/2023/03/metaverse-speakers-10.png",
+      "photo": "photos/speakers/olska-green.png"
+    },
+    {
+      "id": "filip-kolert",
+      "name": "Filip Kolert",
+      "caption": "Founder &  COO at Swipelux",
+      "photoUrl": "https://metaversefestivalprague.com/wp-content/uploads/2023/03/metaverse-speakers-6.png",
+      "photo": "photos/speakers/filip-kolert.png"
+    },
+    {
+      "id": "iraida-novruzova",
+      "name": "Iraida Novruzova",
+      "caption": "Metaverse FashionExpert",
+      "photoUrl": "https://metaversefestivalprague.com/wp-content/uploads/2023/03/metaverse-speakers-11.png",
+      "photo": "photos/speakers/iraida-novruzova.png"
+    },
+    {
+      "id": "pavla-julia-kolarova",
+      "name": "Pavla Julia Kolářová",
+      "caption": "Brand & Strategic Designer | Web3",
+      "photoUrl": "https://metaversefestivalprague.com/wp-content/uploads/2023/03/metaverse-speakers-8.png",
+      "photo": "photos/speakers/pavla-julia-kolarova.png"
+    },
+    {
+      "id": "sara-polak",
+      "name": "Sara Polak",
+      "caption": "Founder at CCHAOS Research",
+      "photoUrl": "https://metaversefestivalprague.com/wp-content/uploads/2023/03/metaverse-speakers-13.png",
+      "photo": "photos/speakers/sara-polak.png"
+    },
+    {
+      "id": "martin-sokol",
+      "name": "Martin Sokol",
+      "caption": "Digital Marketing | Growth of Mobile Games"
+    },
+    {
+      "id": "timmu-toke",
+      "name": "Timmu Toke",
+      "caption": "CEO atReady Player Me",
+      "photoUrl": "https://metaversefestivalprague.com/wp-content/uploads/2023/03/metaverse-speakers-14.png",
+      "photo": "photos/speakers/timmu-toke.png"
+    },
+    {
+      "id": "natalia-rajnohova",
+      "name": "Natália Rajnohová",
+      "caption": "CMO at YORD, Co-founder at MOYA",
+      "photoUrl": "https://metaversefestivalprague.com/wp-content/uploads/2023/03/metaverse-speakers-16.png",
+      "photo": "photos/speakers/natalia-rajnohova.png"
+    },
+    {
+      "id": "inna-fetissova",
+      "name": "Inna Fetissova",
+      "caption": "Co-Founder and CMO at MOYA",
+      "photoUrl": "https://metaversefestivalprague.com/wp-content/uploads/2023/03/metaverse-speakers-17.png",
+      "photo": "photos/speakers/inna-fetissova.png"
+    }
+  ]
+}
