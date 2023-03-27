@@ -1,0 +1,32 @@
+name = "Smart Contract Security - Sunset Meetup"
+#shortname = ""
+types = ["meetup"]
+status = "planning"
+chains = []
+org = "The MAMA AI"
+dri = ""
+poc = ""
+date = "2023-06-06"
+days = 1
+times = "18:30-23:00"
+venueName = "The MAMA AI office"
+venueAddress = "Revoluční 17, 110 00 Staré Město"
+venueUrl = "https://goo.gl/maps/SY8wNwrZiBqkoMaD6"
+languages = ["english"]
+attendees = 100
+tags = ["ethereum", "smart-contracts", "security"]
+description = '''
+Attention all Ethereum developers and security professionals! Join us at the Ethereum Smart Contract Security Meetup to discuss smart contract vulnerabilities and best practices. We will be presenting our approach to smart contract security, which is based on machine learning and neural networks. Additionally, you'll have the opportunity to network with fellow tech professionals and learn from real-world experiences in securing Ethereum-based applications. Don't miss out on this chance to enhance your skills and knowledge!
+'''
+logo = "photo.jpg"
+
+[links]
+web = "https://www.eventbrite.com/e/smart-contract-security-sunset-meetup-tickets-596165265357"
+#twitter = ""
+
+[registration]
+type = "signup"
+#price = "Free"
+link = "https://www.eventbrite.com/e/smart-contract-security-sunset-meetup-tickets-596165265357"
+status = "available"
+button = "Register for free!"
