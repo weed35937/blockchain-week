@@ -23,7 +23,7 @@ export async function data(tools) {
       twitter: $$("a.twitter", sp).attr("href")?.replace("https://twitter.com/",""),
       linkedin: $$("a.linkedIn", sp).attr("href")?.replace("https://www.linkedin.com/in/","").replace(/\/$/,""),
       tag: value(".taxTag "),
-      country: 'xx',
+      //country: 'xx',
       desc: $$('p', sp).text(),
       web: { url: $$(".www", sp).attr("href") },
       link

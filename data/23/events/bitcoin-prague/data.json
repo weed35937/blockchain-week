@@ -4,16 +4,121 @@
       "id": "michael-saylor",
       "name": "Michael Saylor",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/01/Michael-Saylor-2-320x320.jpg",
-      "caption": "Executive chairman & president of MicroStrategy",
+      "caption": "Executive Chairman of MicroStrategy",
       "twitter": "saylor",
       "tag": "Entrepreneur",
-      "country": "xx",
       "desc": "Bitcoin expert at the biggest hodler among public companies with +130k BTC on their balance sheet. Michael stands behind free education initiatives saylor.org & hope.com.",
       "web": {
         "url": "https://michael.com"
       },
       "link": "https://www.btcprague.com/speakers/michael-saylor/",
       "photo": "photos/speakers/michael-saylor.jpg"
+    },
+    {
+      "id": "adam-back",
+      "name": "Adam Back",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/03/Adam-Back-320x320.jpeg",
+      "caption": "Co-founder & CEO of Blockstream",
+      "twitter": "adam3us",
+      "tag": "Developer",
+      "desc": "Dr. Adam Back, invented Hashcash, the proof-of-work algorithm cited by Satoshi Nakamoto in the bitcoin whitepaper, as the future basis for its mining function. Adam is an applied cryptographer and security architect, who has advised many companies on cryptography and peer-to-peer finance. ",
+      "web": {
+        "url": "https://blockstream.com/"
+      },
+      "link": "https://www.btcprague.com/speakers/adam-back/",
+      "photo": "photos/speakers/adam-back.jpeg"
+    },
+    {
+      "id": "marek-palatinus",
+      "name": "Marek Palatinus",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/02/Marek-Palatinus-320x320.jpg",
+      "caption": "Co-founder of SatoshiLabs",
+      "twitter": "slush",
+      "tag": "Entrepreneur",
+      "desc": "Marek is one of the creators of the world’s first hardware wallet, Trezor. He has been in bitcoin since 2010 and founded the world’s first bitcoin mining pool, Slush Pool. He is well known to the global community as an industry visionary and innovator.",
+      "web": {},
+      "link": "https://www.btcprague.com/speakers/marek-palatinus/",
+      "photo": "photos/speakers/marek-palatinus.jpg"
+    },
+    {
+      "id": "robert-breedlove",
+      "name": "Robert Breedlove",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/02/Robert-Breedlove-320x320.png",
+      "caption": "Host of the \"What is Money?\" show",
+      "twitter": "Breedlove22",
+      "tag": "Author",
+      "desc": "Robert is a freedom maximalist, ex-hedge fund manager, and philosopher in the bitcoin space. His mission is to restore freedom, truth, and virtue in our world by tenaciously asking the question: “What is Money?”",
+      "web": {
+        "url": "https://whatismoneypodcast.com/"
+      },
+      "link": "https://www.btcprague.com/speakers/robert-breedlove/",
+      "photo": "photos/speakers/robert-breedlove.png"
+    },
+    {
+      "id": "aleks-svetski",
+      "name": "Aleks Svetski",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/01/Aleks-Svetski-320x320.jpeg",
+      "caption": "Bitcoin author & podcaster",
+      "twitter": "SvetskiWrites",
+      "tag": "Author",
+      "desc": "Aleks is co-author of „The UnCommunist Manifesto” book and publishes his own magazine „Bitcoin Times” in strictly limited edition. He has deep talks with guests in his „Svetski Wake Up Podcast” and is a freedom and voluntaryism advocate.",
+      "web": {
+        "url": "https://Svetski.info"
+      },
+      "link": "https://www.btcprague.com/speakers/aleks-svetski/",
+      "photo": "photos/speakers/aleks-svetski.jpeg"
+    },
+    {
+      "id": "r0ckstar-dev",
+      "name": "R0ckstar Dev",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/03/R0ckstar.jpg",
+      "caption": "Head of Bitcoin at Strike",
+      "twitter": "r0ckstardev",
+      "tag": "Developer",
+      "desc": "Rockstar Dev leads non-profit efforts at Strike and is a longtime core contributor for BTCPay Server, a self-hosted, free open-source bitcoin payment processor. He is also a practicing privacy advocate.",
+      "web": {},
+      "link": "https://www.btcprague.com/speakers/r0ckstar-dev/",
+      "photo": "photos/speakers/r0ckstar-dev.jpg"
+    },
+    {
+      "id": "abubakar-nur-khalil",
+      "name": "Abubakar Nur Khalil",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/03/Abubakar-Nur-Khalil-320x320.jpg",
+      "caption": "CEO of Recursive Capital",
+      "twitter": "ihate1999",
+      "tag": "Developer",
+      "desc": "Abubakar is a Nigerian Bitcoin Core contributor and a co-founder of Qala, a program designed to train African Bitcoin developers. He is a board member of ₿trust, a nonprofit focused on growing the Bitcoin ecosystem in Africa.",
+      "web": {
+        "url": "https://rcrsv.xyz"
+      },
+      "link": "https://www.btcprague.com/speakers/abubakar-nur-khalil/",
+      "photo": "photos/speakers/abubakar-nur-khalil.jpg"
+    },
+    {
+      "id": "samantha-de-waal",
+      "name": "Samantha de Waal",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/01/Samantha-de-Waal-1-3-e1674643216602-320x320.jpeg",
+      "caption": "12-year-old bitcoiner",
+      "twitter": "SamTheBTCKid",
+      "tag": "Influencer",
+      "desc": "Samantha has been a bitcoiner for twelve years. She’s also twelve years old. Sam has grown up around bitcoin and has never known a world without it. Now she wants to help other people -and especially kids- understand this revolutionary technology.",
+      "web": {},
+      "link": "https://www.btcprague.com/speakers/samantha-de-waal/",
+      "photo": "photos/speakers/samantha-de-waal.jpeg"
+    },
+    {
+      "id": "jameson-lopp",
+      "name": "Jameson Lopp",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/03/Jameson-Lopp-320x320.jpeg",
+      "caption": "Founder & CTO of Casa",
+      "twitter": "lopp",
+      "tag": "Developer",
+      "desc": "Jameson has been building multisig bitcoin wallets since 2015. He enjoys researching various aspects of the ecosystem and giving presentations about what he has learned the hard way while trying to write robust software that can withstand both adversaries and unsophisticated users.",
+      "web": {
+        "url": "https://lopp.net/"
+      },
+      "link": "https://www.btcprague.com/speakers/jameson-lopp/",
+      "photo": "photos/speakers/jameson-lopp.jpeg"
     },
     {
       "id": "stephan-livera",
@@ -23,7 +128,6 @@
       "twitter": "stephanlivera",
       "linkedin": "stephan-livera-11130717",
       "tag": "Influencer",
-      "country": "xx",
       "desc": "As a long-term expert in bitcoin and Austrian economics and the host of one of bitcoin’s leading shows, Stephan was a no-brainer choice to be an MC of the conference and a panel moderator.",
       "web": {
         "url": "https://stephanlivera.com/"
@@ -32,50 +136,16 @@
       "photo": "photos/speakers/stephan-livera.jpg"
     },
     {
-      "id": "roman-reher",
-      "name": "Roman Reher",
-      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2022/11/btcprague-romanreher-320x320.jpg",
-      "caption": "Founder of YT channel \"Blocktrainer\"",
-      "twitter": "blocktrainer",
-      "tag": "Influencer",
-      "country": "xx",
-      "desc": "“Blocktrainer” is the world’s second-biggest bitcoin-only YT channel. Roman will share what is happening in their community behind the German language barrier in the panel with similar personalities from other European countries.",
-      "web": {
-        "url": "https://www.blocktrainer.de/"
-      },
-      "link": "https://www.btcprague.com/speakers/roman-reher/",
-      "photo": "photos/speakers/roman-reher.jpg"
-    },
-    {
-      "id": "aleks-svetski",
-      "name": "Aleks Svetski",
-      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/01/Aleks-Svetski-320x320.jpeg",
-      "caption": "Bitcoin author & podcaster",
-      "twitter": "SvetskiWrites",
-      "tag": "Author",
-      "country": "xx",
-      "desc": "Aleks is co-author of „The UnCommunist Manifesto” book and publishes his own magazine „Bitcoin Times” in strictly limited edition. He has deep talks with guests in his „Svetski Wake Up Podcast” and is a freedom and voluntaryism advocate.",
-      "web": {
-        "url": "https://Svetski.info"
-      },
-      "link": "https://www.btcprague.com/speakers/aleks-svetski/",
-      "photo": "photos/speakers/aleks-svetski.jpeg"
-    },
-    {
-      "id": "peter-mccormack",
-      "name": "Peter McCormack",
-      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/01/Peter-McCormack-1-320x320.jpeg",
-      "caption": "Host of the “What Bitcoin Did” podcast",
-      "twitter": "PeterMcCormack",
-      "linkedin": "petermccormack1",
-      "tag": "Influencer",
-      "country": "xx",
-      "desc": "Peter is the host of one of the most favorite bitcoin podcasts where he interviews all the important personalities of the scene. He is also the Chairman of Real Bedford F.C. – an English football team that adopted and promotes bitcoin.",
-      "web": {
-        "url": "https://www.whatbitcoindid.com/"
-      },
-      "link": "https://www.btcprague.com/speakers/peter-mccormack/",
-      "photo": "photos/speakers/peter-mccormack.jpeg"
+      "id": "giacomo-zucco",
+      "name": "Giacomo Zucco",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2022/11/btcprague-giacomozucco-320x320.jpg",
+      "caption": "Bitcoin entrepreneur & consultant",
+      "twitter": "giacomozucco",
+      "tag": "Entrepreneur",
+      "desc": "Did you think being a toxic maximalist and a very nice person were mutually exclusive? You definitely need to meet Giacomo and his cute Italian accent – his talks are always both deep and funny.",
+      "web": {},
+      "link": "https://www.btcprague.com/speakers/giacomo-zucco/",
+      "photo": "photos/speakers/giacomo-zucco.jpg"
     },
     {
       "id": "obi-nwosu",
@@ -84,7 +154,6 @@
       "caption": "CEO of Fedi",
       "twitter": "obi",
       "tag": "Entrepreneur",
-      "country": "xx",
       "desc": "Obi is a London-based bitcoin advocate. His goal is to broader bitcoin adoption using the Fedimint protocol, which enables bitcoin custody within a trusted community. Obi is going to reveal something truly essential regarding the Fedi project at BTC Prague!",
       "web": {
         "url": "https://www.fedi.xyz/"
@@ -93,31 +162,97 @@
       "photo": "photos/speakers/obi-nwosu.jpeg"
     },
     {
-      "id": "giacomo-zucco",
-      "name": "Giacomo Zucco",
-      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2022/11/btcprague-giacomozucco-320x320.jpg",
-      "caption": "Bitcoin entrepreneur & consultant",
-      "twitter": "giacomozucco",
-      "tag": "Entrepreneur",
-      "country": "xx",
-      "desc": "Did you think being a toxic maximalist and a very nice person were mutually exclusive? You definitely need to meet Giacomo and his cute Italian accent – his talks are always both deep and funny.",
-      "web": {},
-      "link": "https://www.btcprague.com/speakers/giacomo-zucco/",
-      "photo": "photos/speakers/giacomo-zucco.jpg"
+      "id": "pavol-rusnak",
+      "name": "Pavol Rusnák",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/03/Pavol-Rusnak-320x320.png",
+      "caption": "Co-founder of SatoshiLabs",
+      "twitter": "pavolrusnak",
+      "linkedin": "pavolrusnak",
+      "tag": "Developer",
+      "desc": "Stick is a pioneering cypherpunk and unrelenting worker in the bitcoin space. He is also an avid supporter of open-source software and hardware, believing that they are essential tools for protecting the power and independence of individuals.",
+      "web": {
+        "url": "https://rusnak.io/"
+      },
+      "link": "https://www.btcprague.com/speakers/pavol-rusnak/",
+      "photo": "photos/speakers/pavol-rusnak.png"
     },
     {
-      "id": "knut-svanholm",
-      "name": "Knut Svanholm",
-      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2022/11/btcprague-knutsvanholm-320x320.jpg",
-      "caption": "Author of the \"∞ / 21M” book",
-      "tag": "Author",
-      "country": "xx",
-      "desc": "His book became an instant classic. Knut comes from Sweden but lives in Madeira where he is a member of the Governance Board at @FREEMadeiraOrg – an attempt to create a bitcoin citadel right here and right now.",
+      "id": "filip-karadjordjevic",
+      "name": "Filip Karadjordjevic",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/03/Filip-Karadjordjevic-320x320.jpeg",
+      "caption": "CSO at JAN3",
+      "twitter": "princfilip1",
+      "tag": "Influencer",
+      "desc": "Prince Filip of Serbia engages with high-level actors – nation-states, enterprises, and individuals – helping them achieve sovereignty and prosperity through bitcoin and oversees strategic initiatives to accelerate bitcoin adoption worldwide.",
+      "web": {},
+      "link": "https://www.btcprague.com/speakers/filip-karadjordjevic/",
+      "photo": "photos/speakers/filip-karadjordjevic.jpeg"
+    },
+    {
+      "id": "peter-todd",
+      "name": "Peter Todd",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/02/Peter-Todd-320x320.png",
+      "caption": "Cryptochronomancer / web-π dev",
+      "twitter": "peterktodd",
+      "tag": "Developer",
+      "desc": "Peter is the founder of OpenTimestamps, an independent applied cryptography consultant, a Bitcoin Core developer, and a freedom lover. He is well known for opening sensitive topics regarding bitcoin’s future and its development.",
       "web": {
-        "url": "https://www.knutsvanholm.com/"
+        "url": "https://petertodd.org"
       },
-      "link": "https://www.btcprague.com/speakers/knut-svanholm/",
-      "photo": "photos/speakers/knut-svanholm.jpg"
+      "link": "https://www.btcprague.com/speakers/peter-todd/",
+      "photo": "photos/speakers/peter-todd.png"
+    },
+    {
+      "id": "roman-reher",
+      "name": "Roman Reher",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/03/Roman-Reher-320x320.jpg",
+      "caption": "Founder of YT channel \"Blocktrainer\"",
+      "twitter": "blocktrainer",
+      "tag": "Influencer",
+      "desc": "“Blocktrainer” is the world’s second-biggest bitcoin-only YT channel. Roman will share what is happening in their community behind the German language barrier in the panel with similar personalities from other European countries.",
+      "web": {
+        "url": "https://www.blocktrainer.de/"
+      },
+      "link": "https://www.btcprague.com/speakers/roman-reher/",
+      "photo": "photos/speakers/roman-reher.jpg"
+    },
+    {
+      "id": "eric-weiss",
+      "name": "Eric Weiss",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/02/Eric-Weiss-320x320.jpeg",
+      "caption": "Founder & CIO for Bitcoin Investment Group",
+      "twitter": "Eric_BIGfund",
+      "tag": "Entrepreneur",
+      "desc": "Eric has invested in the internet business space and has formed a number of technology-based companies focused on search engine marketing and social media. He is widely credited with orange-pilling Michael Saylor.",
+      "web": {},
+      "link": "https://www.btcprague.com/speakers/eric-weiss/",
+      "photo": "photos/speakers/eric-weiss.jpeg"
+    },
+    {
+      "id": "jan-capek",
+      "name": "Jan Čapek",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/03/Jan-Capek-320x320.png",
+      "caption": "Co-founder of Braiins",
+      "twitter": "janbraiins",
+      "tag": "Developer",
+      "desc": "Jan is an embedded devices engineer and father of the key component of the Braiins OS+, custom ASIC firmware to optimize mining machines. Braiins are the company behind Braiins Pool, the world’s first bitcoin mining pool still in operation.",
+      "web": {
+        "url": "https://braiins.com"
+      },
+      "link": "https://www.btcprague.com/speakers/jan-capek/",
+      "photo": "photos/speakers/jan-capek.png"
+    },
+    {
+      "id": "ben-arc",
+      "name": "Ben Arc",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/03/Ben-Arc.jpg",
+      "caption": "Creator of LNbits",
+      "twitter": "arcbtc",
+      "tag": "Developer",
+      "desc": "Hardware and software bitcoin tinkerer. Ben is a former teacher who felt the bitcoin maker scene was too small, so he started a few free open-source bitcoin projects. He was also involved early on in Nostr, is the owner of nostr.com domain, and built the first Nostr Signing Device and Nostr Market.",
+      "web": {},
+      "link": "https://www.btcprague.com/speakers/ben-arc/",
+      "photo": "photos/speakers/ben-arc.jpg"
     },
     {
       "id": "anita-posch",
@@ -126,7 +261,6 @@
       "caption": "Bitcoin educator & author",
       "twitter": "anitaposch",
       "tag": "Author",
-      "country": "xx",
       "desc": "Anita created the “Bitcoin for Fairness” project with the goal to educate on bitcoin in emerging countries, focused on Africa. For her bitcoin is a tool for freedom, human rights, and privacy. She is also the author of the “(L)earn Bitcoin” book and a podcaster.",
       "web": {
         "url": "https://anitaposch.com"
@@ -135,17 +269,72 @@
       "photo": "photos/speakers/anita-posch.png"
     },
     {
+      "id": "knut-svanholm",
+      "name": "Knut Svanholm",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2022/11/btcprague-knutsvanholm-320x320.jpg",
+      "caption": "Author of the \"∞ / 21M” book",
+      "tag": "Author",
+      "desc": "His book became an instant classic. Knut comes from Sweden but lives in Madeira where he is a member of the Governance Board at FREE Madeira – an attempt to create a bitcoin citadel right here and right now.",
+      "web": {
+        "url": "https://www.knutsvanholm.com/"
+      },
+      "link": "https://www.btcprague.com/speakers/knut-svanholm/",
+      "photo": "photos/speakers/knut-svanholm.jpg"
+    },
+    {
       "id": "lunaticoin",
       "name": "Lunaticoin",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/01/Luna-1.png",
       "caption": "Bitcoin podcaster",
       "twitter": "lunaticoin",
       "tag": "Influencer",
-      "country": "xx",
       "desc": "Lunaticoin is an MC and moderator of different bitcoin events. He represents the Spanish community and he will share what is happening over there in the panel with similar personalities from other European countries.",
       "web": {},
       "link": "https://www.btcprague.com/speakers/lunaticoin/",
       "photo": "photos/speakers/lunaticoin.png"
+    },
+    {
+      "id": "pavlenex",
+      "name": "Pavlenex",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/03/Pavlenex-320x320.jpg",
+      "caption": "Product manager in bitcoin and open-source",
+      "twitter": "pavlenex",
+      "tag": "Developer",
+      "desc": "Pavlenex is a Spiral grantee product manager working in bitcoin and open-source. Currently building BTCPay Server, Stratum v2, Bitcoin.design, Bitcoinsmiles.org, Balkan community Dvedeset Jedan, and local Bitcoin Hub in Belgrade, Serbia.",
+      "web": {
+        "url": "https://pavlenex.com/"
+      },
+      "link": "https://www.btcprague.com/speakers/pavlenex/",
+      "photo": "photos/speakers/pavlenex.jpg"
+    },
+    {
+      "id": "niko-laamanen",
+      "name": "Niko Laamanen",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/02/Niko-Laamanen-320x320.jpg",
+      "caption": "Bitcoin publisher",
+      "twitter": "omnifinn",
+      "tag": "Entrepreneur",
+      "desc": "Niko founded a decentralized voluntary-based starfish organization Konsensus Network, a bitcoin publishing house making bitcoin knowledge accessible in many languages. He is a member of the board of FREE Madeira and hosts the “Starfish Cast”.",
+      "web": {
+        "url": "https://konsensus.network"
+      },
+      "link": "https://www.btcprague.com/speakers/niko-laamanen/",
+      "photo": "photos/speakers/niko-laamanen.jpg"
+    },
+    {
+      "id": "roya-mahboob",
+      "name": "Roya Mahboob",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/02/Roya-Mahboob-320x320.jpg",
+      "caption": "Entrepreneur and Afghanistan’s first female tech CEO",
+      "twitter": "RoyaMahboob",
+      "linkedin": "roya-mahboob-93946536",
+      "tag": "Entrepreneur",
+      "desc": "Roya helps to educate and empower Afghan women and girls, being an outspoken advocate for their rights and technological and financial literacy. She is behind the Digital Citizen Fund and the Afghan Girls Robotics Team.  ",
+      "web": {
+        "url": "https://digitalcitizenfund.org"
+      },
+      "link": "https://www.btcprague.com/speakers/roya-mahboob/",
+      "photo": "photos/speakers/roya-mahboob.jpg"
     },
     {
       "id": "rahim-taghizadegan",
@@ -154,8 +343,7 @@
       "caption": "Austrian economist & entrepreneur",
       "twitter": "scholarium_at",
       "tag": "Author",
-      "country": "xx",
-      "desc": "He is the last Austrian economist from Austria and the founder of the private university @scholarium_at in Vienna. Rahim is also a best-selling author, physicist, philosopher, investor, and entrepreneur – a true polymath.",
+      "desc": "He is the last Austrian economist from Austria and the founder of the private university Scholarium in Vienna. Rahim is also a best-selling author, physicist, philosopher, investor, and entrepreneur – a true polymath.",
       "web": {
         "url": "https://scholarium.at/rt/"
       },
@@ -169,24 +357,22 @@
       "caption": "Bitcoin Core and Lightning Network developer",
       "twitter": "ffstls",
       "tag": "Developer",
-      "country": "xx",
       "desc": "His focus in development is security. Coming from Ukraine, Gleb will talk about how thanks to bitcoin he was able to raise funds from all over the world to provide help to his fellow citizens during the current war conflict.",
       "web": {},
       "link": "https://www.btcprague.com/speakers/gleb-naumenko/",
       "photo": "photos/speakers/gleb-naumenko.jpg"
     },
     {
-      "id": "samantha-de-waal",
-      "name": "Samantha de Waal",
-      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/01/Samantha-de-Waal-1-3-e1674643216602-320x320.jpeg",
-      "caption": "12-year-old bitcoiner",
-      "twitter": "SamTheBTCKid",
-      "tag": "Influencer",
-      "country": "xx",
-      "desc": "Samantha has been a bitcoiner for twelve years. She’s also twelve years old. Sam has grown up around bitcoin and has never known a world without it. Now she wants to help other people -and especially kids- understand this revolutionary technology.",
+      "id": "mahassin-l-quadri",
+      "name": "Mahassin L. Quadri",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/03/Mahassin-Quadri-320x320.jpg",
+      "caption": "Bitcoin educator",
+      "linkedin": "mahassin-l-quadri",
+      "tag": "Activist",
+      "desc": "Mahassin raises the future generations of African bitcoiners through the WAAS (We Are All Satoshi) project in a network of school clubs, where teenagers are educated about bitcoin and taught how to code. ",
       "web": {},
-      "link": "https://www.btcprague.com/speakers/samantha-de-waal/",
-      "photo": "photos/speakers/samantha-de-waal.jpeg"
+      "link": "https://www.btcprague.com/speakers/mahassin-l-quadri/",
+      "photo": "photos/speakers/mahassin-l-quadri.jpg"
     },
     {
       "id": "benjamin-de-waal",
@@ -195,7 +381,6 @@
       "caption": "VP Engineering of Swan Bitcoin",
       "twitter": "Ben_deWaal",
       "tag": "Developer",
-      "country": "xx",
       "desc": "Benjamin is a developer and manages a software team at the biggest bitcoin-only US exchange Swan Bitcoin. Ben values bitcoin’s privacy and censorship resistance features over its financial aspect. He is a bitcoin OG since 2010.",
       "web": {},
       "link": "https://www.btcprague.com/speakers/benjamin-de-waal/",
@@ -207,7 +392,6 @@
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/01/Wolf-von-Laer-320x320.jpg",
       "caption": "CEO of Students For Liberty",
       "tag": "Community Leader",
-      "country": "xx",
       "desc": "Students for Liberty is a non-profit organization that trains and supports pro-liberty students worldwide. Wolf is a libertarian who lived and studied in many countries and is also a member of the Montpelerin Society.",
       "web": {
         "url": "https://www.wolfvonlaer.com"
@@ -216,13 +400,80 @@
       "photo": "photos/speakers/wolf-von-laer.jpg"
     },
     {
+      "id": "lyudmyla-kozlovska",
+      "name": "Lyudmyla Kozlovska",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/02/Lyudmyla-Kozlovska-320x320.png",
+      "caption": "Bitcoin advocate & human rights defender",
+      "twitter": "LyudaKozlovska",
+      "tag": "Activist",
+      "desc": "Lyudmyla is the president of the Open Dialog Foundation and a human rights defender from Ukraine. She advocates supporting civil society activists using bitcoin to address financial exclusion, political oppression, and the delivery of humanitarian aid.",
+      "web": {
+        "url": "https://en.odfoundation.eu/"
+      },
+      "link": "https://www.btcprague.com/speakers/lyudmyla-kozlovska/",
+      "photo": "photos/speakers/lyudmyla-kozlovska.png"
+    },
+    {
+      "id": "ethan-rose",
+      "name": "Ethan Rose",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/02/Ethan-Rose-320x320.jpg",
+      "caption": "CEO & Founder of Pouch & Bitcoin Island Philippines",
+      "twitter": "BtcRetreat",
+      "linkedin": "ethanrose0",
+      "tag": "Entrepreneur",
+      "desc": "Ethan decided to fix problems in one of the most significant remittance markets by connecting the bitcoin lightning network to the Philippine banking system. Pouch then kicked off the Bitcoin Island Community in Boracay with 250+ merchants accepting bitcoin.",
+      "web": {},
+      "link": "https://www.btcprague.com/speakers/ethan-rose/",
+      "photo": "photos/speakers/ethan-rose.jpg"
+    },
+    {
+      "id": "peter-mccormack",
+      "name": "Peter McCormack",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/01/Peter-McCormack-1-320x320.jpeg",
+      "caption": "Host of the “What Bitcoin Did” podcast",
+      "twitter": "PeterMcCormack",
+      "linkedin": "petermccormack1",
+      "tag": "Influencer",
+      "desc": "Peter is the host of one of the most favorite bitcoin podcasts where he interviews all the important personalities of the scene. He is also the Chairman of Real Bedford F.C. – an English football team that adopted and promotes bitcoin.",
+      "web": {
+        "url": "https://www.whatbitcoindid.com/"
+      },
+      "link": "https://www.btcprague.com/speakers/peter-mccormack/",
+      "photo": "photos/speakers/peter-mccormack.jpeg"
+    },
+    {
+      "id": "fadi-elsalameen",
+      "name": "Fadi Elsalameen",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/03/Fadi-Elsalameen-320x320.jpeg",
+      "caption": "Adjunct Senior Fellow at Bitcoin Policy Institute",
+      "twitter": "elsalameen",
+      "tag": "Activist",
+      "desc": "Fadi is a Palestinian human rights and anti-corruption activist with a special focus on bitcoin as a tool for freedom. Through the “Fadi Elsalameen Fund for Students in Need”, he helps around 30 Palestinian students annually to go to Palestinian universities.",
+      "web": {},
+      "link": "https://www.btcprague.com/speakers/fadi-elsalameen/",
+      "photo": "photos/speakers/fadi-elsalameen.jpeg"
+    },
+    {
+      "id": "ben-perrin",
+      "name": "Ben Perrin",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/02/Ben-Perrin-320x320.jpg",
+      "caption": "Host of “BTC Sessions”",
+      "twitter": "BTCsessions",
+      "tag": "Author",
+      "desc": "“BTC Sessions” is a YouTube channel with in-depth video tutorials on using and securing bitcoin. It has amassed nearly 7.5 million views since 2016. Ben has traveled the globe speaking at conferences and hosting deep-dive workshops.",
+      "web": {
+        "url": "https://www.btcsessions.ca/"
+      },
+      "link": "https://www.btcprague.com/speakers/ben-perrin/",
+      "photo": "photos/speakers/ben-perrin.jpg"
+    },
+    {
       "id": "daniel-prince",
       "name": "Daniel Prince",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/01/Daniel-Prince-320x320.png",
       "caption": "Host of \"Once BITten\" podcast",
       "twitter": "PrinceySOV",
       "tag": "Author",
-      "country": "xx",
       "desc": "A long-time forex trader before he swallowed the orange pill. Today he is a digital nomad and father of 4 homeschooled children. Daniel will moderate panels at BTC Prague where he will leverage his skill of making discussions go the right way.",
       "web": {},
       "link": "https://www.btcprague.com/speakers/daniel-prince/",
@@ -231,18 +482,86 @@
     {
       "id": "peter-young",
       "name": "Peter Young",
-      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/01/Peter-Young-320x320.jpg",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/01/Peter-Young-1-320x320.jpg",
       "caption": "CEO of Free Cities Foundation",
       "twitter": "freecitiesfound",
       "linkedin": "https://linkedin.com/company/freecitiesfoundation",
       "tag": "Community Leader",
-      "country": "xx",
-      "desc": "Free Cities Foundation is an organization supporting innovation via liberty-oriented policies that lead to greater human freedom and prosperity. Peter will attend a panel focused on bitcoin islands such as Madeira, Roatan, or Isle of Man.",
+      "desc": "Free Cities Foundation is an organization supporting innovation via liberty-oriented policies that lead to greater human freedom and prosperity. In his keynote, Peter will explain why the values of bitcoin and Free Cities are connected and how they can well complement each other.",
       "web": {
         "url": "https://free-cities.org/"
       },
       "link": "https://www.btcprague.com/speakers/peter-young/",
       "photo": "photos/speakers/peter-young.jpg"
+    },
+    {
+      "id": "kevin-loaec",
+      "name": "Kevin Loaec",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/03/Kevin-Loaec-320x320.jpg",
+      "caption": "CEO and co-founder at Wizardsardine",
+      "twitter": "kloaec",
+      "tag": "Developer",
+      "desc": "Kevin is an adversarial thinker and security enthusiast, working on bitcoin for the past decade. He is known for co-architecting the Revault protocol and also for having co-organized Breaking Bitcoin, Building on Bitcoin, and BTCAzores.",
+      "web": {
+        "url": "https://wizardsardine.com"
+      },
+      "link": "https://www.btcprague.com/speakers/kevin-loaec/",
+      "photo": "photos/speakers/kevin-loaec.jpg"
+    },
+    {
+      "id": "yusuf-nessary",
+      "name": "Yusuf Nessary",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/03/Yusuf-Nessary-1-320x320.jpg",
+      "caption": "Co-founder and Director of Built With Bitcoin Foundation",
+      "twitter": "YusufBWB",
+      "linkedin": "yusuf-nessary-17b29a1bb",
+      "tag": "Activist",
+      "desc": "Built With Bitcoin Foundation has built and repaired 13 schools, 7 solar projects, and over a dozen water and farming systems to date. Yusuf also founded Zam Zam Water, a 100% volunteer-based NGO building water wells, schools for orphans, and farming systems around the world.",
+      "web": {},
+      "link": "https://www.btcprague.com/speakers/yusuf-nessary/",
+      "photo": "photos/speakers/yusuf-nessary.jpg"
+    },
+    {
+      "id": "joe-hall",
+      "name": "Joe Hall",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/03/Joe-Hall-320x320.jpeg",
+      "caption": "Bitcoin reporter and content creator",
+      "twitter": "JoeNakamoto",
+      "tag": "Author",
+      "desc": "Joe is a bitcoin journalist, filmmaker, conference host & MC. He writes for Cointelegraph and loves to give away sats for his YouTube videos. Joe is multi-lingual and travels the world introducing new people to bitcoin.",
+      "web": {
+        "url": "https://www.youtube.com/channel/UC3tE6BqE2SLnU8jHZfWWPDQ"
+      },
+      "link": "https://www.btcprague.com/speakers/joe-hall/",
+      "photo": "photos/speakers/joe-hall.jpeg"
+    },
+    {
+      "id": "jakub-vejmola",
+      "name": "Jakub Vejmola",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/02/Jakub-Vejmola-1-320x320.jpg",
+      "caption": "Host of Czech „Bitcoin channel\" on YouTube",
+      "twitter": "BitcoinovejKnl",
+      "tag": "Influencer",
+      "desc": "Jakub aka Kicom is a Czech YouTuber and bitcoin evangelist. His „Bitcoin channel“ is one of the biggest bitcoin YT channels worldwide, despite being in the Czech language only. He explains bitcoin to a broad public in a very easygoing way.",
+      "web": {
+        "url": "https://www.BTCKNL.cz"
+      },
+      "link": "https://www.btcprague.com/speakers/jakub-vejmola/",
+      "photo": "photos/speakers/jakub-vejmola.jpg"
+    },
+    {
+      "id": "sophie-von-laer",
+      "name": "Sophie von Laer",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/02/Sophie-von-Laer-320x320.jpg",
+      "caption": "Bitcoin Leadership Expert & Consultant",
+      "linkedin": "sophievonlaer",
+      "tag": "Entrepreneur",
+      "desc": "Sophie is a former engineer turned bitcoiner who is passionate about developing individuals into leaders that advance human flourishing and freedom. She works with companies ranging from start-ups to Fortune 500.",
+      "web": {
+        "url": "https://www.sophievonlaer.com"
+      },
+      "link": "https://www.btcprague.com/speakers/sophie-von-laer/",
+      "photo": "photos/speakers/sophie-von-laer.jpg"
     },
     {
       "id": "dusan-matuska",
@@ -251,13 +570,27 @@
       "caption": "Bitcoin educator & miner",
       "twitter": "dusan_matuska",
       "tag": "Entrepreneur",
-      "country": "sk",
       "desc": "The personal target of Dušan is to educate 100 million people on bitcoin. He spread the book “Bitcoin Money” to schools in Slovakia. Dušan is building a bitcoin education center “AmityAge” on the free island of Roatán and he mines bitcoin in Paraguay.",
       "web": {
         "url": "http://amityage.com"
       },
       "link": "https://www.btcprague.com/speakers/dusan-matuska/",
+      "country": "sk",
       "photo": "photos/speakers/dusan-matuska.png"
+    },
+    {
+      "id": "mathew-mezinskis",
+      "name": "Matthew Mežinskis",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/02/Matthew-Mezinskis-3-320x320.jpg",
+      "caption": "Creator of “Porkopolis Economics”",
+      "twitter": "crypto_voices",
+      "tag": "Author",
+      "desc": "Matthew is an American of Latvian, Norwegian, and Irish descent, residing in Eastern Europe. His project “Porkopolis Economics” is publishing the Global Monetary Base Index, the only economically comparable money supply to bitcoin.",
+      "web": {
+        "url": "https://porkopolis.io"
+      },
+      "link": "https://www.btcprague.com/speakers/mathew-mezinskis/",
+      "photo": "photos/speakers/mathew-mezinskis.jpg"
     },
     {
       "id": "ioni-appelberg",
@@ -266,8 +599,7 @@
       "caption": "Bitcoin animator & video creator",
       "twitter": "IoniAppelberg",
       "tag": "Author",
-      "country": "xx",
-      "desc": "He creates beautiful hand-drawn animations, especially for @knutsvanholm. Ioni does deep dives into topics like civilization collapses, financial surveillance, or bitcoin and psychedelics.",
+      "desc": "He creates beautiful hand-drawn animations, especially for Knut Svanholm. Ioni does deep dives into topics like civilization collapses, financial surveillance, or bitcoin and psychedelics.",
       "web": {
         "url": "https://www.ioniappelberg.com/"
       },
@@ -281,7 +613,6 @@
       "caption": "Host of the \"Bitcoin for Breakfast\" podcast",
       "twitter": "EuroDale",
       "tag": "Influencer",
-      "country": "xx",
       "desc": "Norwegian communication professional living in Berlin, Germany. Erik has experience from the top level of the European Commission where he was supposed to analyze bitcoin. That turned him in the end from an EU clown to a bitcoin troublemaker.",
       "web": {
         "url": "https://www.kongerik.et/"
