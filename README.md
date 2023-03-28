@@ -13,6 +13,13 @@ to coordinate event listings.
 You can use JSON Hero to view the data:
 [`/23/index.json` @ JSON Hero](https://jsonhero.io/new?url=https://data.prgblockweek.com/23/index.json)
 
+## Want to add your own event?
+
+Please check out our [Event Host Guide](https://guide.prgblockweek.com/event-host-guide) and then add your event to the catalogue using one of the following methods:
+
+1. Use the online form (easy way): [Event submission form](https://prgblockweek.com/submit-event)
+2. Add your event manually - fork this repository, make your changes and ask for your changes to be merged via PR
+
 ## Follow us!
 
 - Web: [prgblockweek.com](https://prgblockweek.com)
