@@ -1,0 +1,34 @@
+name = "Starknet Prague"
+#shortname = ""
+types = ["meetup"]
+status = "published"
+chains = []
+org = "Starknet Foundation"
+dri = ""
+poc = ""
+date = "2023-06-08"
+days = 1
+times = "18:00-21:00"
+venueName = "TBD"
+#venueAddress = ""
+#venueUrl = "https://goo.gl/maps/xxxxx"
+languages = ["english"]
+attendees = 100
+tags = ["ethereum", "starknet", "scaling", "L2", "cairo"]
+description = '''
+We're happy to host the second Starknet Prague meetup, this time with a special guest (TBD) directly from StarkWare, the creators of Starknet.
+
+Come and learn about validity rollups, L2s, L3s, Cairo lang and mingle with the local Starknet community.
+'''
+logo = "logo.jpg"
+
+[links]
+#web = ""
+#twitter = ""
+telegram = "https://t.me/StarknetPrague"
+
+#[registration]
+#type = "signup"
+#link = ""
+#status = "available"
+#button = "Register for free!"
