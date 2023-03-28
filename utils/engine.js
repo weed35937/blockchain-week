@@ -190,6 +190,7 @@ class DeConf_Collection {
     this.data = null;
     this.dir = null;
     this.assets = ["logo", "photo"];
+    this.haveSync = false;
   }
 
   async load(path) {
@@ -243,14 +244,18 @@ class DeConf_Collection {
         }
       }
     }
+    // check if sync file exists
+    this.syncFile = [this.dir, "_sync.js"].join("/");
+    if (await exists(this.syncFile)) {
+      this.haveSync = true;
+    }
     this.data = data;
   }
 
   async sync() {
-    const syncFile = [this.dir, "_sync.js"].join("/");
-    if (!await exists(syncFile)) return null;
+    if (!this.haveSync) return null;
     if (!_silentMode) console.log(`syncing ${this.id} ..`);
-    const module = await import("../" + syncFile);
+    const module = await import("../" + this.syncFile);
     // data
     if (module.data) {
       const data = await module.data(syncTools);
