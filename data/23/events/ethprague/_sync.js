@@ -7,7 +7,8 @@ const peopleMapper = {
     "Cryptowanderer": { country: "za" },
     //"Daniel Lumi": { country: "" },
     "Nicolas Manea": { country: "gb" },
-    "Tim Beiko": { country: "ca" }
+    "Tim Beiko": { country: "ca" },
+    "Abeer Sharma": { country: 'hk' },
   };
   
   export async function data($) {
