@@ -88,6 +88,22 @@
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/15qMac7cF5dXQ9bes6jpFP/96372a94b15da0c4498ea350c595c0d7/97d25cd6976d3a552668d8282ebfc63a.jpeg",
       "country": "hk",
       "photo": "photos/speakers/abeer-sharma.jpeg"
+    },
+    {
+      "id": "kirsten-pomales",
+      "name": "Kirsten Pomales",
+      "twitter": "kirstenrpomales",
+      "caption": "TalentLayer",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5u9vwjRJIXTcxjiKyIW1nO/7fa0f11880ff886bd5191a6d6714acee/cool_r3Xkpx2.png",
+      "photo": "photos/speakers/kirsten-pomales.png"
+    },
+    {
+      "id": "rhys-williams",
+      "name": "Rhys Williams",
+      "twitter": "rhysistweets",
+      "caption": "University of Glasgow",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6d30X3MZOajpdcK2IJ5t0J/1deb1bfbf73148a4233d57d888d822b2/Media_741938_smxx.jpg",
+      "photo": "photos/speakers/rhys-williams.jpg"
     }
   ]
 }

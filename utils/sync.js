@@ -12,7 +12,7 @@ if (Deno.args[0]) {
   await ev.sync();
 } else {
   for (const event of entry.data.events) {
-    if (!event.haveSync) {
+    if (!event.haveSync || event.data.index.hidden) {
       continue;
     }
     await event.sync();
