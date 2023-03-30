@@ -1,0 +1,29 @@
+name = "DeFi meetup #7"
+#shortname = ""
+types = ["meetup"]
+status = "published"
+chains = []
+org = "[PWN](https://pwn.finance/)"
+dri = ""
+poc = ""
+date = "2023-06-05"
+days = 1
+times = "18:00-20:00"
+venues = ["paralelni-polis"]
+languages = ["english"]
+attendees = 80
+#tags = [""]
+description = '''
+Save the date for the next DeFi meetup #7! We'll meet again on June 5th in Paralelní Polis. More info about the speakers soon.
+'''
+logo = "flyer.png"
+
+[links]
+web = "https://www.meetup.com/prague-ethereum-meetup/events/292551212/"
+#twitter = ""
+
+[registration]
+type = "signup"
+link = "https://www.meetup.com/prague-ethereum-meetup/events/292551212/"
+status = "available"
+button = "Register for free!"
