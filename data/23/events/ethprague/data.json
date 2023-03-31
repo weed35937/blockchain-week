@@ -1,31 +1,21 @@
 {
   "speakers": [
     {
-      "id": "dcbuilder-eth",
-      "name": "dcbuilder.eth",
-      "twitter": "DCbuild3r",
-      "caption": "Worldcoin",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5ckzIji6kfbucbd3qqoL2Z/06e8a00ef6ffb5e2cc09b70d38633185/r-mqtMjszyRcqDbIsDI0E.jpeg",
-      "country": "cz",
-      "photo": "photos/speakers/dcbuilder-eth.jpeg"
+      "id": "tim-beiko",
+      "name": "Tim Beiko",
+      "twitter": "TimBeiko",
+      "caption": "Ethereum Foundation",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/E18FntUsLDbkexkDQU1tt/3a5c1ab0edde53fa60abfe0015399781/Tim_Small_Photo_K43SY5x.png",
+      "country": "ca",
+      "photo": "photos/speakers/tim-beiko.png"
     },
     {
-      "id": "luc-computer",
-      "name": "luc.computer",
-      "twitter": "lucemansnl",
-      "caption": "ens.eth / v3xlabs.eth",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2BG9dvrm9trs9BmOapUkBS/638df3c9a163d8dfb3d8ed7ab2f63502/react_live_1_by_1_1_PaNo1Cn.png",
-      "country": "nl",
-      "photo": "photos/speakers/luc-computer.png"
-    },
-    {
-      "id": "ferit-tuncer",
-      "name": "Ferit Tunçer",
-      "twitter": "0xferit",
-      "caption": "Prove Us Wrong",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6YFxhGfXMDNtlx1Kqfqflc/e49fa727bc3ae58e7b914486891bee1c/ferit_bgTransparent_0Bqkvbp.png",
-      "country": "pt",
-      "photo": "photos/speakers/ferit-tuncer.png"
+      "id": "rhys-williams",
+      "name": "Rhys Williams",
+      "twitter": "rhysistweets",
+      "caption": "University of Glasgow",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6d30X3MZOajpdcK2IJ5t0J/1deb1bfbf73148a4233d57d888d822b2/Media_741938_smxx.jpg",
+      "photo": "photos/speakers/rhys-williams.jpg"
     },
     {
       "id": "puncar",
@@ -37,6 +27,15 @@
       "photo": "photos/speakers/puncar.jpg"
     },
     {
+      "id": "nicolas-manea",
+      "name": "Nicolas Manea",
+      "twitter": "NicolasManea",
+      "caption": "Cardiff University",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5HPNj2nmhLXDVv7o1CQ8Tf/9b3591c31b32f241e74ec510d5462543/Profile_E3Z8U9O.jpg",
+      "country": "gb",
+      "photo": "photos/speakers/nicolas-manea.jpg"
+    },
+    {
       "id": "miao-zhicheng",
       "name": "Miao ZhiCheng",
       "twitter": "https://www.lensfrens.xyz/hellwolf.lens",
@@ -44,6 +43,49 @@
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/JxxN1mJuM0Ds75UgI2Lbg/0c66ab5093d7b3b0df33fc6941f71739/miao-2023-sketch-plus-urbit_3XLDkFK.png",
       "country": "ee",
       "photo": "photos/speakers/miao-zhicheng.png"
+    },
+    {
+      "id": "luc-computer",
+      "name": "luc.computer",
+      "twitter": "lucemansnl",
+      "caption": "ens.eth / v3xlabs.eth",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2BG9dvrm9trs9BmOapUkBS/638df3c9a163d8dfb3d8ed7ab2f63502/react_live_1_by_1_1_PaNo1Cn.png",
+      "country": "nl",
+      "photo": "photos/speakers/luc-computer.png"
+    },
+    {
+      "id": "kirsten-pomales",
+      "name": "Kirsten Pomales",
+      "twitter": "kirstenrpomales",
+      "caption": "TalentLayer",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5u9vwjRJIXTcxjiKyIW1nO/7fa0f11880ff886bd5191a6d6714acee/cool_r3Xkpx2.png",
+      "photo": "photos/speakers/kirsten-pomales.png"
+    },
+    {
+      "id": "ferit-tuncer",
+      "name": "Ferit Tunçer",
+      "twitter": "0xferit",
+      "caption": "Prove Us Wrong",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6YFxhGfXMDNtlx1Kqfqflc/e49fa727bc3ae58e7b914486891bee1c/ferit_bgTransparent_0Bqkvbp.png",
+      "country": "pt",
+      "photo": "photos/speakers/ferit-tuncer.png"
+    },
+    {
+      "id": "dcbuilder-eth",
+      "name": "dcbuilder.eth",
+      "twitter": "DCbuild3r",
+      "caption": "Worldcoin",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5ckzIji6kfbucbd3qqoL2Z/06e8a00ef6ffb5e2cc09b70d38633185/r-mqtMjszyRcqDbIsDI0E.jpeg",
+      "country": "cz",
+      "photo": "photos/speakers/dcbuilder-eth.jpeg"
+    },
+    {
+      "id": "daniel-lumi",
+      "name": "Daniel Lumi",
+      "twitter": "zkLumi",
+      "caption": "",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/4CDpZ13I1MqmalsULotTFm/2645ff8b850f56b57866c0287701618f/FCE962F5-FF3B-4CE1-AC17-1E5184032B9A_9rSVeEL.jpeg",
+      "photo": "photos/speakers/daniel-lumi.jpeg"
     },
     {
       "id": "cryptowanderer",
@@ -55,32 +97,6 @@
       "photo": "photos/speakers/cryptowanderer.jpeg"
     },
     {
-      "id": "daniel-lumi",
-      "name": "Daniel Lumi",
-      "twitter": "zkLumi",
-      "caption": "",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/4CDpZ13I1MqmalsULotTFm/2645ff8b850f56b57866c0287701618f/FCE962F5-FF3B-4CE1-AC17-1E5184032B9A_9rSVeEL.jpeg",
-      "photo": "photos/speakers/daniel-lumi.jpeg"
-    },
-    {
-      "id": "nicolas-manea",
-      "name": "Nicolas Manea",
-      "twitter": "NicolasManea",
-      "caption": "Cardiff University",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5HPNj2nmhLXDVv7o1CQ8Tf/9b3591c31b32f241e74ec510d5462543/Profile_E3Z8U9O.jpg",
-      "country": "gb",
-      "photo": "photos/speakers/nicolas-manea.jpg"
-    },
-    {
-      "id": "tim-beiko",
-      "name": "Tim Beiko",
-      "twitter": "TimBeiko",
-      "caption": "Ethereum Foundation",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/E18FntUsLDbkexkDQU1tt/3a5c1ab0edde53fa60abfe0015399781/Tim_Small_Photo_K43SY5x.png",
-      "country": "ca",
-      "photo": "photos/speakers/tim-beiko.png"
-    },
-    {
       "id": "abeer-sharma",
       "name": "Abeer Sharma",
       "twitter": "schizoidrentoid",
@@ -88,22 +104,6 @@
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/15qMac7cF5dXQ9bes6jpFP/96372a94b15da0c4498ea350c595c0d7/97d25cd6976d3a552668d8282ebfc63a.jpeg",
       "country": "hk",
       "photo": "photos/speakers/abeer-sharma.jpeg"
-    },
-    {
-      "id": "kirsten-pomales",
-      "name": "Kirsten Pomales",
-      "twitter": "kirstenrpomales",
-      "caption": "TalentLayer",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5u9vwjRJIXTcxjiKyIW1nO/7fa0f11880ff886bd5191a6d6714acee/cool_r3Xkpx2.png",
-      "photo": "photos/speakers/kirsten-pomales.png"
-    },
-    {
-      "id": "rhys-williams",
-      "name": "Rhys Williams",
-      "twitter": "rhysistweets",
-      "caption": "University of Glasgow",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6d30X3MZOajpdcK2IJ5t0J/1deb1bfbf73148a4233d57d888d822b2/Media_741938_smxx.jpg",
-      "photo": "photos/speakers/rhys-williams.jpg"
     }
   ]
 }

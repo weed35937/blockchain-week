@@ -60,7 +60,7 @@ const peopleMapper = {
           caption: s.company || "",
           photoUrl: s.profileImage?.url,
         }, peopleMapper[s.name] || {})
-      ),
+      ).sort((x, y) => x.id > y.id ? -1 : 1),
     };
   }
   
