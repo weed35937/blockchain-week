@@ -71,6 +71,14 @@
       "photo": "photos/speakers/ferit-tuncer.png"
     },
     {
+      "id": "dustin-jacobus",
+      "name": "Dustin Jacobus",
+      "twitter": "DustinJacobus",
+      "caption": "dustinjacobus.com",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1BlmATxtPAM0Jf0tysNZnT/d2c8345908541ee33bf25a1ce733976f/mysc0ydA_400x400.jpeg",
+      "photo": "photos/speakers/dustin-jacobus.jpeg"
+    },
+    {
       "id": "dcbuilder-eth",
       "name": "dcbuilder.eth",
       "twitter": "DCbuild3r",
