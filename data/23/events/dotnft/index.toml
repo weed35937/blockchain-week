@@ -1,27 +1,36 @@
-name = "DotNFT 2023"
-shortname = "DotNFT"
-types = ["meetup"]
-status = "planning"
+name = "PolkadotNFT in Prague 2023"
+shortname = "PolkadotNFT"
+types = ["conference"]
+status = "published"
 chains = ["polkadot"]
 org = "[KodaDot](https://kodadot.xyz/)"
 dri = ""
 poc = "Damsky"
 date = "2023-06-04"
 days = 1
-times = "10:00-18:00"
-venueName = "TBD"
+times = "13:00-23:30"
+venues = ["paralelni-polis"]
 languages = ["english"]
 attendees = 200
 tags = ["NFT"]
-#logo = "logo.png"
+logo = "logo.webp"
 description = '''
+Embark on a thrilling adventure into the world of non-fungible tokens at PolkadotNFT Prague 2023! Join us at the iconic Paralelni Polis on June 4th and connect with inspired creators, passionate enthusiasts, and visionary pioneers from the thriving Web3 ecosystem.
+
+🎟️ Embrace a transformative experience that redefines the boundaries of digital art! Secure your FREE spot at PolkadotNFT Prague 2023 today and immerse yourself in the exciting world of non-fungible tokens. 🎟️
 '''
 
 [registration]
 type = "invites"
+link = "https://www.eventbrite.com/e/polkadotnft-in-prague-tickets-608637119007"
+status = "available"
+button = "Get ticket for free!"
 
 [links]
-#web = "https://dotprague.xyz/"
-#twitter = "https://twitter.com/DotsamaPrague"
-telegram = "https://t.me/+z77D0iuvL8YyNTBk"
-discord = "https://discord.com/invite/KQXAs7Y3pQ"
+web = "https://polkadotnft.xyz/"
+twitter = "https://twitter.com/polkadotczechia"
+telegram = "https://t.me/+Tkk4ORL3JPJmZjY0"
+discord = "https://discord.gg/KQXAs7Y3pQ"
+
+[cfp]
+link = "https://form.polkadotnft.xyz/speaker"
