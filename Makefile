@@ -11,7 +11,7 @@ link-check:
 	lychee spec/**/*.yaml
 
 format:
-	deno fmt utils/*.js README.md
+	deno fmt utils/*.js data/*/events/*/*.js README.md
 
 fmt: format
 

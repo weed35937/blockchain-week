@@ -4,33 +4,39 @@ export async function data(tools) {
   const out = { speakers: [] };
 
   const peopleMapper = {
-    'Dušan Matuška': { country: 'sk' }
-  }
+    "Dušan Matuška": { country: "sk" },
+  };
 
   for (const el of $(".speaker").toArray()) {
     const value = (path) => cleanup($(path, el).text());
-    const name = value("h3")
-    const link = $("a", el).attr("href")
+    const name = value("h3");
+    const link = $("a", el).attr("href");
 
-    const $$ = await tools.loadHtmlUrl(link)
-    const sp = $$('.container.pt-5')
+    const $$ = await tools.loadHtmlUrl(link);
+    const sp = $$(".container.pt-5");
 
     const item = {
       id: link.match(/speakers\/(.+)\/$/)[1],
       name,
       photoUrl: $("img", el).attr("src"),
       caption: value(".popis"),
-      twitter: $$("a.twitter", sp).attr("href")?.replace("https://twitter.com/",""),
-      linkedin: $$("a.linkedIn", sp).attr("href")?.replace("https://www.linkedin.com/in/","").replace(/\/$/,""),
+      twitter: $$("a.twitter", sp).attr("href")?.replace(
+        "https://twitter.com/",
+        "",
+      ),
+      linkedin: $$("a.linkedIn", sp).attr("href")?.replace(
+        "https://www.linkedin.com/in/",
+        "",
+      ).replace(/\/$/, ""),
       tag: value(".taxTag "),
       //country: 'xx',
-      desc: $$('p', sp).text(),
+      desc: $$("p", sp).text(),
       web: { url: $$(".www", sp).attr("href") },
-      link
-    }
+      link,
+    };
 
     if (peopleMapper[name]) {
-      Object.assign(item, peopleMapper[name])
+      Object.assign(item, peopleMapper[name]);
     }
     out.speakers.push(item);
   }

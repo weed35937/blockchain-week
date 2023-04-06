@@ -42,7 +42,7 @@ export async function data($) {
                       }
                   }
               }
-          }`
+          }`,
       }),
       headers: {
         "content-type": "application/json",
@@ -51,14 +51,15 @@ export async function data($) {
     },
   );
   return {
-    speakers: res.data.pragueDefiSummitPeopleSortedCollection.items[0].pdsPeopleSortedCollection.items.map((s) =>
-      Object.assign({
-        id: $.formatId(s.name),
-        name: s.name,
-        twitter: s.twitter.replace("https://twitter.com/", ""),
-        caption: s.company || "",
-        photoUrl: s.profileImage?.url,
-      }, peopleMapper[s.name] || {})
-    ),
+    speakers: res.data.pragueDefiSummitPeopleSortedCollection.items[0]
+      .pdsPeopleSortedCollection.items.map((s) =>
+        Object.assign({
+          id: $.formatId(s.name),
+          name: s.name,
+          twitter: s.twitter.replace("https://twitter.com/", ""),
+          caption: s.company || "",
+          photoUrl: s.profileImage?.url,
+        }, peopleMapper[s.name] || {})
+      ),
   };
 }

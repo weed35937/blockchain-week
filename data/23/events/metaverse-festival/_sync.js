@@ -12,45 +12,45 @@ const peopleMapper = {
   "Natália Rajnohová": { country: "sk" },
   "Olska Green": { country: "pt" },
   "Ondrej T.": { country: "sk" },
-  "Pavla Julia Kolářová": { country: "cz" }, 
-  "Sara Polak": { country: "cz" }, 
-  "Thomas De Bruyne": { country: "be" }, 
+  "Pavla Julia Kolářová": { country: "cz" },
+  "Sara Polak": { country: "cz" },
+  "Thomas De Bruyne": { country: "be" },
   "Timmu Toke": { country: "us" },
   "Julie Šislerová": { country: "cz" },
   "Kateřinak Škarabelová": { country: "cz" },
 };
 
 export async function data(tools) {
-    const $ = await tools.loadHtmlUrl("https://metaversefestivalprague.com/");
-    const out = { speakers: [] };
+  const $ = await tools.loadHtmlUrl("https://metaversefestivalprague.com/");
+  const out = { speakers: [] };
 
-    for (const el of $("div.elementor-col-16").toArray()) {
-      const name = cleanupName($('h3 span', el).html())
-      if (name === "Reveal Soon") {
-        continue;
-      }
-  
-      const item = {
-        id: tools.formatId(name),
-        name,
-        caption: $('p.elementor-icon-box-description', el).text().trim(),
-        photoUrl:  $('div.elementor-widget-container img', el).attr('src'),        
-      }
-  
-      if (peopleMapper[name]) {
-        Object.assign(item, peopleMapper[name])
-      }
-      out.speakers.push(item);
+  for (const el of $("div.elementor-col-16").toArray()) {
+    const name = cleanupName($("h3 span", el).html());
+    if (name === "Reveal Soon") {
+      continue;
     }
 
-    return out;
+    const item = {
+      id: tools.formatId(name),
+      name,
+      caption: $("p.elementor-icon-box-description", el).text().trim(),
+      photoUrl: $("div.elementor-widget-container img", el).attr("src"),
+    };
+
+    if (peopleMapper[name]) {
+      Object.assign(item, peopleMapper[name]);
+    }
+    out.speakers.push(item);
   }
 
-  function cleanupName (str) {
-    return Html5Entities.decode(str.trim())
-        .replace(/\s?<br>\s?/, ' ')
-        .toLowerCase()
-        .split(' ')
-        .map(str => str.charAt(0).toUpperCase() + str.slice(1))
-        .join(' ')
-  }
+  return out;
+}
+
+function cleanupName(str) {
+  return Html5Entities.decode(str.trim())
+    .replace(/\s?<br>\s?/, " ")
+    .toLowerCase()
+    .split(" ")
+    .map((str) => str.charAt(0).toUpperCase() + str.slice(1))
+    .join(" ");
+}
