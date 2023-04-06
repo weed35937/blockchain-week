@@ -8,7 +8,11 @@ const peopleMapper = {
     //"Daniel Lumi": { country: "" },
     "Nicolas Manea": { country: "gb" },
     "Tim Beiko": { country: "ca" },
-    "Abeer Sharma": { country: 'hk' },
+    "Abeer Sharma": { country: "hk" },
+    "Dustin Jacobus": { country: "be" },
+    "Rhys Williams": { country: "gb" },
+    "Sahil Sen": { country: "in" },
+    "Steffen Kux": { country: "de" },
   };
   
   export async function data($) {

@@ -15,6 +15,7 @@
       "twitter": "SteffenKux",
       "caption": "corpus.ventures ",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/UAnUnhBvoaCfDKJdleqrm/0e023b4d80a8d6239b141b9550e5daee/Q6qSm9qU_400x400_GAHpW5O.jpg",
+      "country": "de",
       "photo": "photos/speakers/steffen-kux.jpg"
     },
     {
@@ -23,6 +24,7 @@
       "twitter": "sensahil",
       "caption": "QuickNode",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/7vg1xoIO0SXkeCyhL9PZBq/1961b397049edf1f7b53530ed59f2aff/headshot_qg6hliN.png.jpeg",
+      "country": "in",
       "photo": "photos/speakers/sahil-sen.jpeg"
     },
     {
@@ -31,6 +33,7 @@
       "twitter": "rhysistweets",
       "caption": "University of Glasgow",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6d30X3MZOajpdcK2IJ5t0J/1deb1bfbf73148a4233d57d888d822b2/Media_741938_smxx.jpg",
+      "country": "gb",
       "photo": "photos/speakers/rhys-williams.jpg"
     },
     {
@@ -100,6 +103,7 @@
       "twitter": "DustinJacobus",
       "caption": "dustinjacobus.com",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1BlmATxtPAM0Jf0tysNZnT/d2c8345908541ee33bf25a1ce733976f/mysc0ydA_400x400.jpeg",
+      "country": "be",
       "photo": "photos/speakers/dustin-jacobus.jpeg"
     },
     {
