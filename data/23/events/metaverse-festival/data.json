@@ -124,9 +124,17 @@
       "id": "inna-fetissova",
       "name": "Inna Fetissova",
       "caption": "Co-Founder and CMO at MOYA",
-      "photoUrl": "https://metaversefestivalprague.com/wp-content/uploads/2023/03/metaverse-speakers-17.png",
+      "photoUrl": "https://metaversefestivalprague.com/wp-content/uploads/2023/04/metaverse-speakers-20.png",
       "country": "cz",
       "photo": "photos/speakers/inna-fetissova.png"
+    },
+    {
+      "id": "katerinak-skarabelova",
+      "name": "Kateřinak Škarabelová",
+      "caption": "Co-founder Studio Püree,3D designer",
+      "photoUrl": "https://metaversefestivalprague.com/wp-content/uploads/2023/04/metaverse-speakers-19.png",
+      "country": "cz",
+      "photo": "photos/speakers/katerinak-skarabelova.png"
     }
   ]
 }
