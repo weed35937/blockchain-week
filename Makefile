@@ -26,3 +26,6 @@ sync:
 
 tag:
 	deno run --unstable --allow-run utils/tag.js
+
+inspect:
+	deno run --inspect-brk --unstable --allow-read utils/test.js
