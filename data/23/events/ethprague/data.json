@@ -10,6 +10,22 @@
       "photo": "photos/speakers/tim-beiko.png"
     },
     {
+      "id": "steffen-kux",
+      "name": "Steffen Kux",
+      "twitter": "SteffenKux",
+      "caption": "corpus.ventures ",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/UAnUnhBvoaCfDKJdleqrm/0e023b4d80a8d6239b141b9550e5daee/Q6qSm9qU_400x400_GAHpW5O.jpg",
+      "photo": "photos/speakers/steffen-kux.jpg"
+    },
+    {
+      "id": "sahil-sen",
+      "name": "Sahil Sen",
+      "twitter": "sensahil",
+      "caption": "QuickNode",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/7vg1xoIO0SXkeCyhL9PZBq/1961b397049edf1f7b53530ed59f2aff/headshot_qg6hliN.png.jpeg",
+      "photo": "photos/speakers/sahil-sen.jpeg"
+    },
+    {
       "id": "rhys-williams",
       "name": "Rhys Williams",
       "twitter": "rhysistweets",
@@ -43,6 +59,14 @@
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/JxxN1mJuM0Ds75UgI2Lbg/0c66ab5093d7b3b0df33fc6941f71739/miao-2023-sketch-plus-urbit_3XLDkFK.png",
       "country": "ee",
       "photo": "photos/speakers/miao-zhicheng.png"
+    },
+    {
+      "id": "madalina-raicu",
+      "name": "Madalina Raicu",
+      "twitter": "made_raicu",
+      "caption": " Vega Protocol",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5Cv9lqWQlXFlSV85pdhuQw/5b0f1dc6918f68199c3e92d286b6e91a/mraicu_Nf46nYi.jpeg",
+      "photo": "photos/speakers/madalina-raicu.jpeg"
     },
     {
       "id": "luc-computer",
