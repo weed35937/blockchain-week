@@ -31,6 +31,10 @@ price = "99 EUR"
 #link = ""
 #status = "available"
 
+[sponsors]
+link = "https://prague.web3privacy.info/sponsors.pdf"
+range = "0.5-8k EUR"
+
 [links]
 web = "https://prague.web3privacy.info"
 twitter = "https://twitter.com/web3privacy"

@@ -14,10 +14,6 @@ attendees = 300
 #tags = []
 logo = "logo.jpg"
 
-[sponsors]
-link = "https://app.skiff.com/docs/c46f9b08-27f8-4dd9-a2ef-145bd2003e78#1W5I8FwJVAziW3wjY1ay%2B%2FVwGi8aoNeNu32Qn5xSAgE%3D"
-range = "1k-15k USD"
-
 [registration]
 type = "tickets"
 
