@@ -17,7 +17,8 @@ const peopleMapper = {
   "Thomas De Bruyne": { country: "be" },
   "Timmu Toke": { country: "us" },
   "Julie Šislerová": { country: "cz" },
-  "Kateřinak Škarabelová": { country: "cz" },
+  "Kateřina Škarabelová": { country: "cz" },
+  "Matej Curda": { country: "cz" },
 };
 
 export async function data(tools) {

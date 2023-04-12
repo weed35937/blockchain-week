@@ -129,12 +129,27 @@
       "photo": "photos/speakers/inna-fetissova.png"
     },
     {
-      "id": "katerinak-skarabelova",
-      "name": "Kateřinak Škarabelová",
+      "id": "katerina-skarabelova",
+      "name": "Kateřina Škarabelová",
       "caption": "Co-founder Studio Püree,3D designer",
       "photoUrl": "https://metaversefestivalprague.com/wp-content/uploads/2023/04/metaverse-speakers-19.png",
       "country": "cz",
-      "photo": "photos/speakers/katerinak-skarabelova.png"
+      "photo": "photos/speakers/katerina-skarabelova.png"
+    },
+    {
+      "id": "luca-zicconi",
+      "name": "Luca Zicconi",
+      "caption": "Web3 Studio Lead at Škoda Auto",
+      "photoUrl": "https://metaversefestivalprague.com/wp-content/uploads/2023/04/metaverse-speakers-24.png",
+      "photo": "photos/speakers/luca-zicconi.png"
+    },
+    {
+      "id": "matej-curda",
+      "name": "Matej Curda",
+      "caption": "Founder and advisor in the Web3 space",
+      "photoUrl": "https://metaversefestivalprague.com/wp-content/uploads/elementor/thumbs/metaverse-speakers-23-q4v0qyzx3p41sle9zozz0py036spa7rqfiipfesdrs.png",
+      "country": "cz",
+      "photo": "photos/speakers/matej-curda.png"
     }
   ]
 }

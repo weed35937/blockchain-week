@@ -1,6 +1,6 @@
 const peopleMapper = {
-  "dcbuilder.eth": { country: "cz" },
-  "luc.computer": { country: "nl" },
+  "Dcbuilder.eth": { country: "cz" },
+  "Luc.computer": { country: "nl" },
   "Ferit Tunçer": { country: "pt" },
   "Puncar": { country: "us" },
   "Miao ZhiCheng": { country: "ee" },
