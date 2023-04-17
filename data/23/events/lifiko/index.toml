@@ -1,0 +1,24 @@
+name = "Lifiko"
+shortname = ""
+types = ["workshop"]
+status = "planning"
+org = ""
+dri = ""
+poc = ""
+date = "2023-06-05"
+days = 1
+venueName = "WorkLounge Diamant"
+venueAddress = "Václavské nám. 1/841/3, 110 00 Nové Město"
+#venueUrl = ""
+languages = ["czech", "slovak"]
+attendees = 25
+tags = ["taxes", "daně"]
+description = '''
+Základy kryptoměn a blockchainu, principy a aplikace DeFi, bezpečnostní opatření a regulace, investování a obchodování s kryptoměnami, a jak tuto novou oblast začlenit do finančního poradenství.
+
+**Pouze pro licencované poradce.**
+'''
+logo = "logo.png"
+
+[links]
+web = "https://lifiko.cz"
