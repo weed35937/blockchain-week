@@ -9,7 +9,7 @@ date = "2023-06-03"
 days = 2
 venues = ["gabriel-loci"]
 languages = ["czech", "slovak"]
-attendees = 1200
+attendees = 700
 #tags = []
 description = '''
 Open community conference focused on cryptocurrencies and blockchain for a wide audience (mostly in Czech language).
