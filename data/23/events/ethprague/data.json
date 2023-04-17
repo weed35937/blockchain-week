@@ -1,6 +1,14 @@
 {
   "speakers": [
     {
+      "id": "vitalik-buterin",
+      "name": "Vitalik Buterin",
+      "twitter": "VitalikButerin",
+      "caption": "Ethereum Foundation",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2NqJAtibmXHGj6lV1lxWk8/190348f4e303add3ecdf5a3e415f88eb/signal-2023-04-13-172434_002.jpeg",
+      "photo": "photos/speakers/vitalik-buterin.jpeg"
+    },
+    {
       "id": "tim-beiko",
       "name": "Tim Beiko",
       "twitter": "TimBeiko",
@@ -53,6 +61,14 @@
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5HPNj2nmhLXDVv7o1CQ8Tf/9b3591c31b32f241e74ec510d5462543/Profile_E3Z8U9O.jpg",
       "country": "gb",
       "photo": "photos/speakers/nicolas-manea.jpg"
+    },
+    {
+      "id": "nicholas-paul-brysiewicz",
+      "name": "Nicholas Paul Brysiewicz",
+      "twitter": "nicholaspaul26",
+      "caption": "LONG NOW",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6EDhzzzLUebx5XFue2bdfi/df6a6ca1e297de76d5c623397e03dbe6/PB9XWGLt_400x400.jpg",
+      "photo": "photos/speakers/nicholas-paul-brysiewicz.jpg"
     },
     {
       "id": "miao-zhicheng",

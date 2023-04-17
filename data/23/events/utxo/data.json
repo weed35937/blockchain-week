@@ -62,8 +62,8 @@
       "id": "david-stancel",
       "name": "David Stancel",
       "twitter": "dave_stancel",
-      "orgs": "Autor [Coin Story](https://coinstory.tech/), CIO @ [Fumbi](https://fumbi.network/)\n",
-      "caption": "Author of [Coin Story](https://coinstory.tech), CIO @ [Fumbi](https://fumbi.network/)",
+      "orgs": "Autor [Coin Story](https://coinstory.tech/), Krypto evangelist\n",
+      "caption": "Author of [Coin Story](https://coinstory.tech)",
       "tracks": [
         "defi",
         "alty",
@@ -74,7 +74,7 @@
         "url": "https://stanceldavid.sk/"
       },
       "country": "sk",
-      "desc": "Dávid vyštudoval Ekonómiu na Masarykovej univerzite v Brne, a Master of Science v obore Digitálnych mien na Univerzite v Nikózii na Cypre. Pracoval  ako IT auditor a konzultant v [PwC Slovensko](https://www.pwc.com/sk/sk/). Spoluzakladal [Blockchain Slovakia](https://blockchainslovakia.sk/) a pracoval ako konzultant v oblasti kryptomien a blockchain technológií na niekoľkých slovenských ako aj zajhraničných startupoch a projektoch a v súčasnosti je na pozícii Chief Investment Officer vo [Fumbi](https://fumbi.network/). David často prednáša o kryptomenách a blockchaine na medzinárodných fórach, konferenciách či univerzitách. Taktiež učí vlastný predmet o kryptomenách na Slovenskej Technickej univerzite ako aj na Ekonomickej univerzite v Bratislave. Je taktiež autorom knihy Coinstory, ktorá mapuje históriu a evolúciu kryptomien ([CoinStory.tech](https://coinstory.tech/)).\n",
+      "desc": "Dávid vyštudoval Ekonómiu na Masarykovej univerzite v Brne, a Master of Science v obore Digitálnych mien na Univerzite v Nikózii na Cypre. Pracoval  ako IT auditor a konzultant v [PwC Slovensko](https://www.pwc.com/sk/sk/). Spoluzakladal [Blockchain Slovakia](https://blockchainslovakia.sk/) a pracoval ako konzultant v oblasti kryptomien a blockchain technológií na niekoľkých slovenských ako aj zajhraničných startupoch a projektoch. David často prednáša o kryptomenách a blockchaine na medzinárodných fórach, konferenciách či univerzitách. Taktiež učí vlastný predmet o kryptomenách na Slovenskej Technickej univerzite ako aj na Ekonomickej univerzite v Bratislave. Je taktiež autorom knihy Coinstory, ktorá mapuje históriu a evolúciu kryptomien ([CoinStory.tech](https://coinstory.tech/)).\n",
       "lead": true,
       "photos": [
         "web:jpg",
@@ -172,6 +172,25 @@
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/hynek-jina-web.jpg",
       "photo": "photos/speakers/hynek-jina.jpg"
+    },
+    {
+      "id": "ivo-cechman",
+      "name": "Ivo Čechman",
+      "twitter": "ajvxck",
+      "orgs": "Technologický specialista v týmu [Crypto Kingdom](https://cryptokingdom.tech/cs/).\n",
+      "caption": "Tech specialist in the team of [Crypto Kingdom](https://cryptokingdom.tech/cs/).\n",
+      "tracks": [
+        "eth",
+        "defi",
+        "alty"
+      ],
+      "country": "cz",
+      "photos": [
+        "web:jpg",
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/ivo-cechman-web.jpg",
+      "photo": "photos/speakers/ivo-cechman.jpg"
     },
     {
       "id": "jacob-jelen",
@@ -369,24 +388,6 @@
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/juraj-bednar-web.jpg",
       "photo": "photos/speakers/juraj-bednar.jpg"
-    },
-    {
-      "id": "karel-fillner",
-      "name": "Karel Fillner",
-      "twitter": "btctip_cz",
-      "bio": "crypto enthusiast",
-      "orgs": "Zakladatel [btctip.cz](https://btctip.cz/), CEO @ [Invictus Mining](https://www.invictusmining.com/), CSO @ [Callisto](https://callisto.network/)\n",
-      "caption": "Founder of [btctip.cz](https://btctip.cz/), CEO @ [Invictus Mining](https://www.invictusmining.com/)\n",
-      "tracks": [
-        "btc",
-        "alty"
-      ],
-      "country": "cz",
-      "photos": [
-        "twitter:jpg"
-      ],
-      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/karel-fillner-twitter.jpg",
-      "photo": "photos/speakers/karel-fillner.jpg"
     },
     {
       "id": "kirill-juran",

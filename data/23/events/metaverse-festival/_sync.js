@@ -3,7 +3,7 @@ import { Html5Entities } from "https://deno.land/x/html_entities@v1.0/mod.js";
 const peopleMapper = {
   "Adam Rajnoha": { country: "cz" },
   "David Mařák": { country: "cz" },
-  "Filip Kolert": { country: "cz" },
+  "Filip Kollert": { country: "cz" },
   "Honza Borýsek": { country: "cz" },
   "Iraida Novruzova": { country: "az" },
   "Inna Fetissova": { country: "cz" },
