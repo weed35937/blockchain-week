@@ -27,6 +27,14 @@
       "photo": "photos/speakers/steffen-kux.jpg"
     },
     {
+      "id": "stani-kulechov",
+      "name": "Stani Kulechov",
+      "twitter": "StaniKulechov",
+      "caption": "AAVE & LENS PROTOCOL",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/4ws5PA8vKt02JgVN3pK7Zh/bdbe2855fc12a3461cafa1d41a6ed2ad/stani1.png",
+      "photo": "photos/speakers/stani-kulechov.png"
+    },
+    {
       "id": "sahil-sen",
       "name": "Sahil Sen",
       "twitter": "sensahil",
