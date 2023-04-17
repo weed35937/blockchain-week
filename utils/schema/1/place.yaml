@@ -23,6 +23,7 @@ properties:
         - conference
         - hackathon
         - meetup
+        - workshop
         - expo
         - party
         - other

@@ -1,0 +1,22 @@
+name = "Crypto Portal presents: XRhythm Music Event"
+shortname = "XRhythm"
+types = ["party"]
+status = "planning"
+org = "[Crypto Portal](https://twitter.com/CryptoPortalArt)"
+dri = ""
+poc = ""
+date = "2023-06-03"
+times = "18:30-02:00"
+days = 1
+venues = ["vr-play-park"]
+languages = ["english", "czech", "slovak"]
+attendees = 200
+tags = ["nft", "music"]
+description = '''
+On June 3, Crypto Portal presents XRythm in partnership with Museverse - an exploration into audio-visual experiences, music, and its future in Web3. Join us at VR Play Park for an intriguing panel discussion, cross-reality performances, and afterparty overlooking Wenceslas Square in the heart of Prague.
+
+More info coming soon….
+
+Interested in supporting this event? Contact [derek@cryptoportal.art](mailto:derek@cryptoportal.art)
+'''
+logo = "logo.webp"

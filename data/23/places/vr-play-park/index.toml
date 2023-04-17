@@ -1,0 +1,12 @@
+name = "VR Play Park"
+eventTypes = ["conference", "hackathon", "meetup", "workshop", "expo"]
+capacity = 200
+address = "Václavské nám. 22, 110 00 Nové Město, Praha"
+mapUrl = "https://goo.gl/maps/PBTRa6SxSkfkZiKv5"
+description = '''
+The one and only virtual reality theme park in Prague, VR Play Park, is conveniently situated on Wenceslas Square, spanning across a spacious 500 sqm area. With a diverse array of virtual reality attractions, a well-equipped bar, an NFT exhibition, and breathtaking views of Prague's most iconic square, VR Play Park offers a unique portal to the metaverse. This cutting-edge venue has also hosted exciting events such as the Metaverse festival, developers meet-ups, and Web3 panel talks, making it a hub for technology enthusiasts and innovators in Prague.
+'''
+photo = "photo.webp"
+
+[links]
+web = "http://vrplaypark.com"

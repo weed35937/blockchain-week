@@ -151,7 +151,11 @@ class DeConf_Package {
       const m = ef.name.match(/^([\w\d\-]+)(\.toml|)$/);
       if (!m) continue;
       const ev = new DeConf_Collection(type, m[1]);
-      await ev.load([...specDir, type, ef.name]);
+      try {
+        await ev.load([...specDir, type, ef.name]);
+      } catch (e) {
+        throw new Error(`[item=${m[1]}]: ${e}`)
+      }
       arr.push(ev);
     }
     return arr;
