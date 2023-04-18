@@ -1,48 +1,4 @@
 {
-  "logo": {
-    "id": "metaverse-festival",
-    "hash": "0dd7f6398a15dfa19b8e12c3f198f25f8e571746eaf526ec6e7143ecbf5b04fb",
-    "name": "Metaverse Festival Prague 2023",
-    "shortname": "Metaverse Festival",
-    "types": [
-      "conference"
-    ],
-    "status": "published",
-    "org": "[YORD](https://yordstudio.com/cs/)",
-    "dri": "",
-    "date": "2023-06-07",
-    "times": "09:00-00:00",
-    "days": 1,
-    "venueName": "TBA",
-    "languages": [
-      "english"
-    ],
-    "attendees": 300,
-    "tags": [
-      "metaverse",
-      "VR",
-      "NFT"
-    ],
-    "description": "Metaverse Festival 2023 is an event that brings together individuals and organizations interested in Metaverse, VR/AR, NFTs, gaming, and other forms of immersive technology. The festival will provide a space for attendees to inspire, connect, learn, and collaborate on the Metaverse's latest developments and future potential.\n\nA full day packed with exciting events and activities, including keynote speeches and panel discussions featuring industry leaders and experts. Networking sessions and workshops will also allow attendees to learn about specific topics and technologies related to the Metaverse. Moreover, interactive zones like a virtual reality showcase will let attendees try the latest VR/AR/Metaverse experiences and technology.\n\nThe main program will focus on topics such as:\n\n* How To Build Your Metaverse\n* Fashion in Metaverse\n* Investment in Metaverse\n* Market Trends and future of Metaverse\n* Advertisement/Marketing in the Metaverse\n* Events and Entertainment in Metaverse\n* NFTs and Metaverse\n* Web3 community and Metaverse\n* Legal and regulatory issues in Metaverse\n\n\nAll tickets include welcome drinks, finger food, and the DJ afterparty with networking.\n",
-    "logo": "logo.jpg",
-    "links": {
-      "web": "https://metaversefestivalprague.com/"
-    },
-    "registration": {
-      "type": "tickets",
-      "price": "25 EUR",
-      "link": "https://metaversefestivalprague.com/tickets/",
-      "status": "available"
-    },
-    "segments": [
-      {
-        "date": "2023-06-07",
-        "times": "09:00-00:00",
-        "startTime": "2023-06-07T07:00:00.000Z",
-        "endTime": "2023-06-07T22:00:00.000Z"
-      }
-    ]
-  },
   "speakers": [
     {
       "id": "adam-rajnoha",
