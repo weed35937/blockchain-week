@@ -1,0 +1,43 @@
+name = "Cypherpunk Meetup"
+#shortname = ""
+types = ["meetup"]
+status = "published"
+chains = []
+org = "cypherpunkers"
+dri = ""
+poc = ""
+date = "2023-06-08"
+days = 1
+times = "19:45-22:00"
+venueName = "Hotel Duo (room Berlin)"
+venueAddress = "Teplická 492, 190 00 Praha 9"
+venueUrl = "https://goo.gl/maps/A9QCvhzVCPwB1aAt6"
+languages = ["english"]
+attendees = 150
+tags = ["cypherpunk","privacy"]
+description = '''
+As the Bitcoin technology matures and gains wider adoption, issues such as regulation, centralization, and privacy concerns arise, potentially undermining the very principles that inspired its creation: a purely peer-to-peer version of electronic cash that would allow online payments to be sent directly from one party to another without going through a financial institution.
+
+Contemplating regulation, cheering up for bitcoin ETF or state and institutional adoption: all of these issues have far diverged from bitcoin's original vision. How could we have allowed this to happen?
+
+Noisy keyboard warriors won't win us the real fight ahead of us: The Crypto Wars 2.0. How to arm up?
+
+Cypherpunks don't ask for permissions.
+
+Cypherpunks don't care about regulation.
+
+Cypherpunks build tools to allow new societal structures to emerge.
+
+Come and meet to discuss how to bring back the spirit and principles of the movement and shift the power struggle right back where it belongs: the hands of the users!
+'''
+logo = "image.jpeg"
+
+[links]
+web = "https://pay.cypherpunk.today/apps/3cepDfGU46a4bTf19K68Srr7eqC2"
+#twitter = ""
+
+[registration]
+type = "tickets"
+price = "200 CZK (in BTC)"
+link = "https://pay.cypherpunk.today/apps/3cepDfGU46a4bTf19K68Srr7eqC2/crowdfund"
+status = "available"
