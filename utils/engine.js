@@ -283,10 +283,16 @@ class DeConf_Collection {
       return null;
     }
     const src = [this.dir, fn].join("/");
+    const extname = posix.extname(src);
     const dest = [this.dir, fn.replace(/\.([^\.]+)$/, ".op.webp")].join("/");
     //console.log({src, dest})
     if (await exists(dest)) {
       return null;
+    }
+    if (extname === ".webp") {
+      await _fileCopy(src, dest);
+      console.log(`${dest} copied`);
+      return true;
     }
     await _imageOptimalizedWrite(src, dest);
     console.log(`${dest} writed`);
@@ -350,8 +356,7 @@ class DeConf_Collection {
       //console.log(fnIn, asset);
       let fnOut = [this.id, asset].join("/");
       await emptyDir([outputDir, this.id].join("/"));
-      const opPath = fnIn.replace(/[^\.]+$/, "op.webp");
-      const opOutPath = fnIn.replace(/[^\.]+$/, "webp");
+      const [opPath, opOutPath] = this.opResolve(fnIn);
       const opFn = [this.dir, opPath].join("/");
       if (await exists(opFn)) {
         fnIn = opPath;
@@ -389,6 +394,10 @@ class DeConf_Collection {
     }
   }
 
+  opResolve(fn) {
+    return [fn.replace(/[^\.]+$/, "op.webp"), fn.replace(/[^\.]+$/, "webp")];
+  }
+
   toJSON() {
     return Object.assign({ id: this.id }, this.data.index, this.data.sync);
   }
@@ -407,7 +416,9 @@ async function _imageOptimalizedWrite(src, dest, resize = null) {
   if (resize) {
     cmd.push(`-resize ${resize}`);
   }
-  await Deno.run({ cmd, stdout: "null", stderr: "null" });
+  const p = Deno.run({ cmd, stdout: "piped", stderr: "piped" });
+  await p.status();
+  console.log(new TextDecoder().decode(await p.stderrOutput()));
 }
 
 async function _fileCopy(from, to) {

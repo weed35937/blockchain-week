@@ -52,17 +52,17 @@ id = "pavol-luptak"
 [[speakers]]
 id = "lea-patras"
 name = "Lea Patras"
-photo = "photos/speakers/lea-patras.jpg"
+photo = "photos/speakers/lea-patras.jpeg"
 twitter = "LeaPetras"
 
 [[speakers]]
 id = "max-hillebrand"
 name = "Max Hillebrand"
-photo = "photos/speakers/max-hillebrand.jpg"
+photo = "photos/speakers/max-hillebrand.jpeg"
 twitter = "HillebrandMax"
 
 [[speakers]]
 id = "pavlenex"
 name = "Pavlenex"
-photo = "photos/speakers/pavlenex.jpg"
+photo = "photos/speakers/pavlenex.jpeg"
 twitter = "pavlenex"
