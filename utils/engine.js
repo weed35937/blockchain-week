@@ -363,12 +363,12 @@ class DeConf_Collection {
 
   async assetsWrite(outputDir, publicUrl) {
     for (const asset of this.assets) {
-      const item = this.data.sync
-        ? this.data.sync[asset]
-        : this.data.index[asset];
-      if (!item) continue;
-      const fnIn = item;
-      const fnOut = [this.id, item].join("/");
+      const x = { ...this.data.sync, ...this.data.index }
+      if (!x[asset]) continue;
+      const fnIn = x[asset];
+
+      console.log(fnIn, asset)
+      const fnOut = [this.id, x].join("/");
       await emptyDir([outputDir, this.id].join("/"));
       await emptyDir([outputDir, this.id, "photos"].join("/"));
       await _fileCopy([this.dir, fnIn].join("/"), [outputDir, fnOut].join("/"));
