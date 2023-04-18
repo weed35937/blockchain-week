@@ -154,7 +154,7 @@ class DeConf_Package {
       try {
         await ev.load([...specDir, type, ef.name]);
       } catch (e) {
-        throw new Error(`[item=${m[1]}]: ${e}`)
+        throw new Error(`[item=${m[1]}]: ${e}`);
       }
       arr.push(ev);
     }
@@ -274,7 +274,7 @@ class DeConf_Collection {
           if (!sp.photoUrl) continue;
           const ext = await posix.extname(sp.photoUrl);
           const dir = [photosDir, "speakers"].join("/");
-          const ffn = (sp.id ? sp.id : nameId) + ext.replace(/\?.+$/, "");
+          const ffn = (sp.id ? sp.id : nameId) + ".webp"; // ext.replace(/\?.+$/, "");
           const fn = [dir, ffn].join("/");
           if (await exists(fn)) {
             sp.photo = ["photos", "speakers", ffn].join("/");
@@ -283,12 +283,24 @@ class DeConf_Collection {
           await ensureDir(dir);
           const nameId = sp.id || sp.name.toLowerCase().replace(/ /g, "-");
           const photoFetch = await fetch(sp.photoUrl);
-          if (photoFetch.body) {
-            const file = await Deno.open(fn, { write: true, create: true });
-            await photoFetch.body.pipeTo(file.writable);
-            console.log(`${fn} writed`);
-            sp.photo = ["photos", "speakers", ffn].join("/");
+          if (!photoFetch.body) {
+            continue;
           }
+          const tmpfile = [
+            dir,
+            (sp.id ? sp.id : nameId) + "-original" + ext.replace(/\?.+$/, ""),
+          ].join("/");
+          const file = await Deno.open(tmpfile, { write: true, create: true });
+          await photoFetch.body.pipeTo(file.writable);
+          await _imageOptimalizedWrite(tmpfile, fn);
+          console.log(`${fn} writed`);
+
+          const sizes = [150, 300, 500];
+          for (const sz of sizes) {
+            console;
+          }
+
+          sp.photo = ["photos", "speakers", ffn].join("/");
         }
       }
       await _jsonWrite([this.dir, "data.json"].join("/"), data);
@@ -306,10 +318,14 @@ class DeConf_Collection {
       const url = [publicUrl, fnOut].join("/");
       this.data.index[asset] = url;
     }
-    if (this.data.sync && this.data.sync.speakers) {
+
+    const speakersCol = this.data.sync
+      ? this.data.sync.speakers
+      : this.data.index.speakers;
+    if (speakersCol) {
       const outDir = [outputDir, this.id, "photos", "speakers"].join("/");
       await ensureDir(outDir);
-      for (const sp of this.data.sync.speakers) {
+      for (const sp of speakersCol) {
         if (!sp.photo) continue;
         const srcFile = [this.dir, sp.photo].join("/");
         if (await exists(srcFile)) {
@@ -333,6 +349,22 @@ class DeConf_Collection {
   toJSON() {
     return Object.assign({ id: this.id }, this.data.index, this.data.sync);
   }
+}
+
+async function _imageOptimalizedWrite(src, dest, resize = null) {
+  const cmd = [
+    "cwebp",
+    ...[resize ? resize : null],
+    "-q",
+    "80",
+    src,
+    "-o",
+    dest,
+  ];
+  if (resize) {
+    cmd.push(`-resize ${resize}`);
+  }
+  await Deno.run({ cmd, stdout: "null", stderr: "null" });
 }
 
 async function _fileCopy(from, to) {
