@@ -22,3 +22,9 @@ logo = "logo.webp"
 web = "https://www.meetup.com/monerokon/events/291788952/"
 twitter = "https://twitter.com/MoneroKon"
 telegram = "https://t.me/monerokon"
+
+[registration]
+type = "signup"
+link = "https://www.meetup.com/monerokon/events/291788952/"
+status = "available"
+button = "Register for free!"

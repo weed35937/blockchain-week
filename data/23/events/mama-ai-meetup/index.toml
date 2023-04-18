@@ -1,5 +1,5 @@
 name = "Smart Contract Security - Sunset Meetup"
-#shortname = ""
+shortname = "Security Sunset Meetup"
 types = ["meetup"]
 status = "published"
 chains = []

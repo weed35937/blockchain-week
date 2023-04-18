@@ -1,5 +1,5 @@
 name = "Gwei.cz Meetup @ PBW23"
-shortname = ""
+shortname = "Gwei.cz Meetup"
 types = ["meetup"]
 status = "planning"
 chains = ["ethereum"]
