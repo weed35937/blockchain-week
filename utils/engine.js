@@ -344,13 +344,19 @@ class DeConf_Collection {
   async assetsWrite(outputDir, publicUrl) {
     const x = { ...this.data.sync, ...this.data.index };
     for (const asset of this.assets) {
-      
       if (!x[asset]) continue;
-      const fnIn = x[asset];
+      let fnIn = x[asset];
 
       //console.log(fnIn, asset);
-      const fnOut = [this.id, asset].join("/");
+      let fnOut = [this.id, asset].join("/");
       await emptyDir([outputDir, this.id].join("/"));
+      const opPath = fnIn.replace(/[^\.]+$/, "op.webp");
+      const opOutPath = fnIn.replace(/[^\.]+$/, "webp");
+      const opFn = [this.dir, opPath].join("/");
+      if (await exists(opFn)) {
+        fnIn = opPath;
+        fnOut = [this.id, opOutPath].join("/");
+      }
       await _fileCopy([this.dir, fnIn].join("/"), [outputDir, fnOut].join("/"));
       const url = [publicUrl, fnOut].join("/");
       this.data.index[asset] = url;
