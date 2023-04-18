@@ -329,8 +329,7 @@ class DeConf_Collection {
           if (!sp.photoUrl) continue;
           const ext = await posix.extname(sp.photoUrl);
           const dir = [photosDir, "speakers"].join("/");
-          const ffn = (sp.id ? sp.id : nameId) + "-original" +
-            ext.replace(/\?.+$/, "");
+          const ffn = (sp.id ? sp.id : nameId) + ext.replace(/\?.+$/, "");
           const fn = [dir, ffn].join("/");
           if (await exists(fn)) {
             sp.photo = ["photos", "speakers", ffn].join("/");

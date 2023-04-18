@@ -7,7 +7,7 @@
       "caption": "Osmosis Co-Founder",
       "twitter": "sunnya97",
       "country": "tw",
-      "photo": "photos/speakers/sunny-aggarwal-original.png"
+      "photo": "photos/speakers/sunny-aggarwal.png"
     },
     {
       "id": "zaki-manian",
@@ -16,7 +16,7 @@
       "caption": "Sommelier Co-Founder",
       "twitter": "zmanian",
       "country": "us",
-      "photo": "photos/speakers/zaki-manian-original.png"
+      "photo": "photos/speakers/zaki-manian.png"
     },
     {
       "id": "sergey-gorbunov",
@@ -25,7 +25,7 @@
       "caption": "Axelar Co-Founder",
       "twitter": "sergey_nog",
       "country": "us",
-      "photo": "photos/speakers/sergey-gorbunov-original.png"
+      "photo": "photos/speakers/sergey-gorbunov.png"
     },
     {
       "id": "dean-tribble",
@@ -34,7 +34,7 @@
       "caption": "Agoric Co-Founder",
       "twitter": "deantribble",
       "country": "us",
-      "photo": "photos/speakers/dean-tribble-original.png"
+      "photo": "photos/speakers/dean-tribble.png"
     },
     {
       "id": "federico-kunze-kullmer",
@@ -43,7 +43,7 @@
       "caption": "Evmos Co-Founder",
       "twitter": "fekunze",
       "country": "de",
-      "photo": "photos/speakers/federico-kunze-kullmer-original.png"
+      "photo": "photos/speakers/federico-kunze-kullmer.png"
     },
     {
       "id": "sean-braithwaite",
@@ -52,7 +52,7 @@
       "caption": "Mekatek Co-Founder & CEO",
       "twitter": "brapse",
       "country": "de",
-      "photo": "photos/speakers/sean-braithwaite-original.png"
+      "photo": "photos/speakers/sean-braithwaite.png"
     },
     {
       "id": "guy-zyskind",
@@ -60,7 +60,7 @@
       "photoUrl": "https://ik.imagekit.io/treevio/tr:w-500/https://s3.eu-central-1.wasabisys.com/rbf-gateway/rbf-gateway/speakersc-list-ylldpf-image.png?version=1681374163949",
       "caption": "Secret Founder",
       "twitter": "GuyZys",
-      "photo": "photos/speakers/guy-zyskind-original.png"
+      "photo": "photos/speakers/guy-zyskind.png"
     },
     {
       "id": "avril-dutheil",
@@ -68,7 +68,7 @@
       "photoUrl": "https://ik.imagekit.io/treevio/tr:w-500/https://s3.eu-central-1.wasabisys.com/rbf-gateway/rbf-gateway/speakersc-list-muxwg4-image.png?version=1681374163949",
       "caption": "Neutron General Manager",
       "twitter": "0xSpaydh",
-      "photo": "photos/speakers/avril-dutheil-original.png"
+      "photo": "photos/speakers/avril-dutheil.png"
     },
     {
       "id": "matthew-felice-pace",
@@ -76,7 +76,7 @@
       "photoUrl": "https://ik.imagekit.io/treevio/tr:w-500/https://s3.eu-central-1.wasabisys.com/rbf-gateway/rbf-gateway/speakersc-list-4-gmr0-image.png?version=1681374163949",
       "caption": "Simply Staking CEO",
       "twitter": "mfelicepace",
-      "photo": "photos/speakers/matthew-felice-pace-original.png"
+      "photo": "photos/speakers/matthew-felice-pace.png"
     },
     {
       "id": "ali-merchant",
@@ -84,7 +84,7 @@
       "photoUrl": "https://ik.imagekit.io/treevio/tr:w-500/https://s3.eu-central-1.wasabisys.com/rbf-gateway/rbf-gateway/speakersc-list-rs8ces-image.png?version=1681374163949",
       "caption": "Informal Systems Developer Relations Engineer",
       "twitter": "Ali_the_Curios",
-      "photo": "photos/speakers/ali-merchant-original.png"
+      "photo": "photos/speakers/ali-merchant.png"
     },
     {
       "id": "adi-serendischi",
@@ -92,7 +92,7 @@
       "photoUrl": "https://ik.imagekit.io/treevio/tr:w-500/https://s3.eu-central-1.wasabisys.com/rbf-gateway/rbf-gateway/speakersc-list-v5eumh-image.png?version=1681374163949",
       "caption": "Informal Systems Product Lead",
       "twitter": "AdiSeredinschi",
-      "photo": "photos/speakers/adi-serendischi-original.png"
+      "photo": "photos/speakers/adi-serendischi.png"
     },
     {
       "id": "igor-konnov",
@@ -100,7 +100,7 @@
       "photoUrl": "https://ik.imagekit.io/treevio/tr:w-500/https://s3.eu-central-1.wasabisys.com/rbf-gateway/rbf-gateway/speakersc-list-hwx8ws-image.png?version=1681374163949",
       "caption": "Informal Systems Principal scientist",
       "twitter": "k0nn0v",
-      "photo": "photos/speakers/igor-konnov-original.png"
+      "photo": "photos/speakers/igor-konnov.png"
     }
   ]
 }

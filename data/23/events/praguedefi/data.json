@@ -7,7 +7,7 @@
       "caption": "Stake Capital Group ",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2iBMPVY6qhcs1D4v4DpW73/98cda1ae2e55679820172b03cf8179ea/julien.jpeg",
       "country": "ch",
-      "photo": "photos/speakers/julien-bouteloup-original.jpeg"
+      "photo": "photos/speakers/julien-bouteloup.jpeg"
     },
     {
       "id": "radek-svarz",
@@ -16,7 +16,7 @@
       "caption": "AlzheimerChain",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6JENTjUwVwc5yK5CupfZTc/a6745d430226893ae44412f32c4781ae/2020_radek_profile_-_face_aReCqT8.jpg",
       "country": "cz",
-      "photo": "photos/speakers/radek-svarz-original.jpg"
+      "photo": "photos/speakers/radek-svarz.jpg"
     },
     {
       "id": "sasha-tanase",
@@ -25,7 +25,7 @@
       "caption": "web3UX",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2G0x2iQJtCP7aBfdDY1yJ0/0a70687805c116a6400309de5cae5f8f/sasha.jpg",
       "country": "ro",
-      "photo": "photos/speakers/sasha-tanase-original.jpg"
+      "photo": "photos/speakers/sasha-tanase.jpg"
     },
     {
       "id": "marc-zeller",
@@ -34,7 +34,7 @@
       "caption": "AAVE",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3LrJr2y42JL5NO7XcqP7xn/355bf0464ed6a98604089fe57c068959/MarcZeller.jpeg",
       "country": "fr",
-      "photo": "photos/speakers/marc-zeller-original.jpeg"
+      "photo": "photos/speakers/marc-zeller.jpeg"
     },
     {
       "id": "naim-ashhab",
@@ -43,7 +43,7 @@
       "caption": "PWN",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/88N0QDix2MbIljjxpzk9v/175995cdecad997e485e1fd99a7589e4/1616698822484.jpeg",
       "country": "cz",
-      "photo": "photos/speakers/naim-ashhab-original.jpeg"
+      "photo": "photos/speakers/naim-ashhab.jpeg"
     },
     {
       "id": "rosco-kalis",
@@ -52,7 +52,7 @@
       "caption": "Revoke Cash",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5wjHrhpbYShTSv34Rp4vca/1882ecd12c4f5526e0422002f58f4a4c/photo_2023-02-06_11.42.28.jpeg",
       "country": "nl",
-      "photo": "photos/speakers/rosco-kalis-original.jpeg"
+      "photo": "photos/speakers/rosco-kalis.jpeg"
     },
     {
       "id": "anna-george",
@@ -61,7 +61,7 @@
       "caption": "CoWSwap",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/7sNztyNmT7QSd43ml0FStd/0e382e06be6176f1edaa8613dfc82cd4/V__st__i__ek.JPG",
       "country": "pt",
-      "photo": "photos/speakers/anna-george-original.JPG"
+      "photo": "photos/speakers/anna-george.JPG"
     },
     {
       "id": "will-harborne",
@@ -70,7 +70,7 @@
       "caption": "Rhino Fi",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/7lHwPf9tIk1Y3anuGcVhrA/eba6131507e769002ae96efcb83406ba/photo_2023-02-06_11.25.04.jpeg",
       "country": "gb",
-      "photo": "photos/speakers/will-harborne.webp"
+      "photo": "photos/speakers/will-harborne.jpeg"
     }
   ]
 }

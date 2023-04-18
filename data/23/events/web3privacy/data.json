@@ -1,60 +1,4 @@
 {
-  "logo": {
-    "id": "web3privacy",
-    "hash": "b4202430c819bea43e7d1afffa6e632478b80d645488a38584f7703bbeb16142",
-    "name": "Web3Privacy Prague 2023",
-    "shortname": "Web3Privacy",
-    "types": [
-      "conference"
-    ],
-    "status": "planning",
-    "chains": [
-      "ethereum"
-    ],
-    "org": "[UTXO Foundation](https://utxo.foundation)",
-    "dri": "burningtree",
-    "poc": "[tree](https://t.me/treecz)",
-    "date": "2023-06-05",
-    "days": 1,
-    "venues": [
-      "x10"
-    ],
-    "languages": [
-      "english"
-    ],
-    "attendees": 300,
-    "tags": [
-      "lunarpunk",
-      "privacy",
-      "security"
-    ],
-    "description": "A one-day lunarpunk-style conference focused on privacy. First ever [Web3Privacy Summit](https://github.com/web3privacy/w3ps) #1.\n\n---\n\nIf privacy is a human right, then we need to protect it.\n  \nPrivacy advocates worldwide are coming together to discuss how to mainstream privacy within the Web3 industry. So it will become a cultural phenomenon embodying both decentralisation & anti-surveillance capitalism practices.\n  \nThe conference complements the research project [Web3Privacy Now](http://web3privacy.info/) and was created by joining forces with the production team of the privacy hackathon [ETHBrno](https://ethbrno.cz/).\n",
-    "logo": "logo.png",
-    "registration": {
-      "type": "tickets",
-      "price": "99 EUR"
-    },
-    "sponsors": {
-      "link": "https://prague.web3privacy.info/sponsors.pdf",
-      "range": "0.5-8k EUR"
-    },
-    "links": {
-      "web": "https://prague.web3privacy.info",
-      "twitter": "https://twitter.com/web3privacy",
-      "signal": "https://chat.web3privacy.info"
-    },
-    "segments": [
-      {
-        "date": "2023-06-05",
-        "times": "09:00-20:00",
-        "startTime": "2023-06-05T07:00:00.000Z",
-        "endTime": "2023-06-05T18:00:00.000Z"
-      },
-      {
-        "remote": "lunarpunk-party"
-      }
-    ]
-  },
   "speakers": [
     {
       "id": "guy-zyskind",
@@ -63,7 +7,7 @@
       "caption": "Founder of [Secret Network](https://scrt.network/), CEO [SCRT Labs](https://www.scrtlabs.com/)",
       "country": "is",
       "photoUrl": "https://prague.web3privacy.info/people/guy-zyskind.jpeg",
-      "photo": "photos/speakers/guy-zyskind-original.jpeg"
+      "photo": "photos/speakers/guy-zyskind.jpeg"
     },
     {
       "id": "manu-alzuru",
@@ -72,7 +16,7 @@
       "caption": "Humanist,  solarpunk, Founder of [DoinGud](https://doingud.com/) & [ETH Barcelona](https://ethbarcelona.com/)",
       "country": "es",
       "photoUrl": "https://prague.web3privacy.info/people/manu-alzuru.jpeg",
-      "photo": "photos/speakers/manu-alzuru-original.jpeg"
+      "photo": "photos/speakers/manu-alzuru.jpeg"
     },
     {
       "id": "juraj-bednar",
@@ -81,7 +25,7 @@
       "caption": "Educator, writer, cryptoanarchist & biohacker",
       "country": "sk",
       "photoUrl": "https://prague.web3privacy.info/people/juraj-bednar.jpeg",
-      "photo": "photos/speakers/juraj-bednar-original.jpeg"
+      "photo": "photos/speakers/juraj-bednar.jpeg"
     },
     {
       "id": "mario-havel",
@@ -90,7 +34,7 @@
       "caption": "Hacker, Co-Founder of [Bordel Hackerspace](https://bordel.paralelnipolis.cz/#/)",
       "country": "cz",
       "photoUrl": "https://prague.web3privacy.info/people/mario-havel.jpeg",
-      "photo": "photos/speakers/mario-havel-original.jpeg"
+      "photo": "photos/speakers/mario-havel.jpeg"
     }
   ]
 }

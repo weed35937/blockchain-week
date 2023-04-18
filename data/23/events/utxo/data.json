@@ -1,63 +1,4 @@
 {
-  "logo": {
-    "id": "utxo",
-    "hash": "3469750952218297ba8b2fda75e68e10ef566ef3116682f1baca559400cda89e",
-    "name": "UTXO.23",
-    "shortname": "UTXO",
-    "types": [
-      "conference"
-    ],
-    "status": "planning",
-    "org": "[UTXO Foundation](https://utxo.foundation)",
-    "dri": "burningtree",
-    "poc": "[Tereza Starostová](https://t.me/Terezastarostova)",
-    "date": "2023-06-03",
-    "days": 2,
-    "venues": [
-      "gabriel-loci"
-    ],
-    "languages": [
-      "czech",
-      "slovak"
-    ],
-    "attendees": 700,
-    "description": "Open community conference focused on cryptocurrencies and blockchain for a wide audience (mostly in Czech language).\n",
-    "logo": "logo.png",
-    "cfp": {
-      "link": "https://cfp.utxo.cz/23/cfp",
-      "deadline": "2023-04-01",
-      "text": "The conference is in Czech-Slovak language, aimed at a wide audience. English speakers are not accepted (exceptions possible)."
-    },
-    "registration": {
-      "type": "tickets",
-      "price": "690 CZK",
-      "link": "https://vstupenky.utxo.cz/23/",
-      "status": "available"
-    },
-    "links": {
-      "web": "https://utxo.cz/",
-      "docs": "https://docs.utxo.cz/udalosti/23",
-      "twitter": "https://twitter.com/utxoprague",
-      "telegram": "https://t.me/utxoprague",
-      "youtube": "https://www.youtube.com/c/UTXOPrague"
-    },
-    "segments": [
-      {
-        "date": "2023-06-03",
-        "times": "10:00-19:00",
-        "title": "Day 1",
-        "startTime": "2023-06-03T08:00:00.000Z",
-        "endTime": "2023-06-03T17:00:00.000Z"
-      },
-      {
-        "date": "2023-06-04",
-        "times": "10:00-18:00",
-        "title": "Day 2",
-        "startTime": "2023-06-04T08:00:00.000Z",
-        "endTime": "2023-06-04T16:00:00.000Z"
-      }
-    ]
-  },
   "speakers": [
     {
       "id": "adam-hrazdira",
@@ -74,7 +15,7 @@
         "web:jpg"
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/adam-hrazdira-web.jpg",
-      "photo": "photos/speakers/adam-hrazdira-original.jpg"
+      "photo": "photos/speakers/adam-hrazdira.jpg"
     },
     {
       "id": "adam-kracik",
@@ -96,7 +37,7 @@
         "twitter:jpg"
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/adam-kracik-web.jpg",
-      "photo": "photos/speakers/adam-kracik-original.jpg"
+      "photo": "photos/speakers/adam-kracik.jpg"
     },
     {
       "id": "adam-sobotka",
@@ -115,7 +56,7 @@
         "twitter:jpg"
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/adam-sobotka-web.jpg",
-      "photo": "photos/speakers/adam-sobotka-original.jpg"
+      "photo": "photos/speakers/adam-sobotka.jpg"
     },
     {
       "id": "david-stancel",
@@ -140,7 +81,7 @@
         "twitter:jpg"
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/david-stancel-web.jpg",
-      "photo": "photos/speakers/david-stancel-original.jpg"
+      "photo": "photos/speakers/david-stancel.jpg"
     },
     {
       "id": "dominika-v",
@@ -162,7 +103,7 @@
         "twitter:jpg"
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/dominika-v-web.jpg",
-      "photo": "photos/speakers/dominika-v-original.jpg"
+      "photo": "photos/speakers/dominika-v.jpg"
     },
     {
       "id": "frantisek-kudrna",
@@ -187,7 +128,7 @@
         "twitter:jpg"
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/frantisek-kudrna-web.jpg",
-      "photo": "photos/speakers/frantisek-kudrna-original.jpg"
+      "photo": "photos/speakers/frantisek-kudrna.jpg"
     },
     {
       "id": "huge",
@@ -210,7 +151,7 @@
         "web:jpg"
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/huge-web.jpg",
-      "photo": "photos/speakers/huge-original.jpg"
+      "photo": "photos/speakers/huge.jpg"
     },
     {
       "id": "hynek-jina",
@@ -230,7 +171,7 @@
         "twitter:jpg"
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/hynek-jina-web.jpg",
-      "photo": "photos/speakers/hynek-jina-original.jpg"
+      "photo": "photos/speakers/hynek-jina.jpg"
     },
     {
       "id": "ivo-cechman",
@@ -249,7 +190,7 @@
         "twitter:jpg"
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/ivo-cechman-web.jpg",
-      "photo": "photos/speakers/ivo-cechman-original.jpg"
+      "photo": "photos/speakers/ivo-cechman.jpg"
     },
     {
       "id": "jacob-jelen",
@@ -266,7 +207,7 @@
         "twitter:jpg"
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/jacob-jelen-twitter.jpg",
-      "photo": "photos/speakers/jacob-jelen-original.jpg"
+      "photo": "photos/speakers/jacob-jelen.jpg"
     },
     {
       "id": "jakub-jedlinsky",
@@ -286,7 +227,7 @@
         "twitter:jpg"
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/jakub-jedlinsky-web.jpg",
-      "photo": "photos/speakers/jakub-jedlinsky-original.jpg"
+      "photo": "photos/speakers/jakub-jedlinsky.jpg"
     },
     {
       "id": "jan-cerny",
@@ -305,7 +246,7 @@
         "twitter:jpg"
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/jan-cerny-web.jpg",
-      "photo": "photos/speakers/jan-cerny-original.jpg"
+      "photo": "photos/speakers/jan-cerny.jpg"
     },
     {
       "id": "jan-21m",
@@ -323,7 +264,7 @@
         "twitter:jpg"
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/jan-21m-twitter.jpg",
-      "photo": "photos/speakers/jan-21m-original.jpg"
+      "photo": "photos/speakers/jan-21m.jpg"
     },
     {
       "id": "jan-zibner",
@@ -342,7 +283,7 @@
         "twitter:jpg"
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/jan-zibner-web.jpg",
-      "photo": "photos/speakers/jan-zibner-original.jpg"
+      "photo": "photos/speakers/jan-zibner.jpg"
     },
     {
       "id": "jiri-cepelka",
@@ -366,7 +307,7 @@
         "twitter:jpg"
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/jiri-cepelka-web.jpg",
-      "photo": "photos/speakers/jiri-cepelka-original.jpg"
+      "photo": "photos/speakers/jiri-cepelka.jpg"
     },
     {
       "id": "jiri-skrivan",
@@ -383,7 +324,7 @@
         "web:jpg"
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/jiri-skrivan-web.jpg",
-      "photo": "photos/speakers/jiri-skrivan-original.jpg"
+      "photo": "photos/speakers/jiri-skrivan.jpg"
     },
     {
       "id": "josef-gattermayer",
@@ -403,7 +344,7 @@
         "twitter:jpg"
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/josef-gattermayer-web.jpg",
-      "photo": "photos/speakers/josef-gattermayer-original.jpg"
+      "photo": "photos/speakers/josef-gattermayer.jpg"
     },
     {
       "id": "julie-sislerova",
@@ -421,7 +362,7 @@
         "twitter:jpg"
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/julie-sislerova-twitter.jpg",
-      "photo": "photos/speakers/julie-sislerova-original.jpg"
+      "photo": "photos/speakers/julie-sislerova.jpg"
     },
     {
       "id": "juraj-bednar",
@@ -446,7 +387,7 @@
         "twitter:jpg"
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/juraj-bednar-web.jpg",
-      "photo": "photos/speakers/juraj-bednar-original.jpg"
+      "photo": "photos/speakers/juraj-bednar.jpg"
     },
     {
       "id": "kirill-juran",
@@ -469,7 +410,7 @@
         "twitter:jpg"
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/kirill-juran-twitter.jpg",
-      "photo": "photos/speakers/kirill-juran-original.jpg"
+      "photo": "photos/speakers/kirill-juran.jpg"
     },
     {
       "id": "libor-flossler",
@@ -491,7 +432,7 @@
         "twitter:jpg"
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/libor-flossler-web.jpg",
-      "photo": "photos/speakers/libor-flossler-original.jpg"
+      "photo": "photos/speakers/libor-flossler.jpg"
     },
     {
       "id": "lukas-kovanda",
@@ -513,7 +454,7 @@
         "twitter:jpg"
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/lukas-kovanda-web.jpg",
-      "photo": "photos/speakers/lukas-kovanda-original.jpg"
+      "photo": "photos/speakers/lukas-kovanda.jpg"
     },
     {
       "id": "mario-havel",
@@ -535,7 +476,7 @@
         "twitter:jpg"
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/mario-havel-web.jpg",
-      "photo": "photos/speakers/mario-havel-original.jpg"
+      "photo": "photos/speakers/mario-havel.jpg"
     },
     {
       "id": "martin-bok",
@@ -555,7 +496,7 @@
         "twitter:jpg"
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/martin-bok-web.jpg",
-      "photo": "photos/speakers/martin-bok-original.jpg"
+      "photo": "photos/speakers/martin-bok.jpg"
     },
     {
       "id": "martin-janik",
@@ -577,7 +518,7 @@
         "twitter:jpg"
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/martin-janik-web.jpg",
-      "photo": "photos/speakers/martin-janik-original.jpg"
+      "photo": "photos/speakers/martin-janik.jpg"
     },
     {
       "id": "sodomak",
@@ -603,7 +544,7 @@
         "twitter:jpg"
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/sodomak-web.jpg",
-      "photo": "photos/speakers/sodomak-original.jpg"
+      "photo": "photos/speakers/sodomak.jpg"
     },
     {
       "id": "ondrej-rehacek",
@@ -623,7 +564,7 @@
         "twitter:jpg"
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/ondrej-rehacek-web.jpg",
-      "photo": "photos/speakers/ondrej-rehacek-original.jpg"
+      "photo": "photos/speakers/ondrej-rehacek.jpg"
     },
     {
       "id": "pavol-luptak",
@@ -641,7 +582,7 @@
         "twitter:jpg"
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/pavol-luptak-twitter.jpg",
-      "photo": "photos/speakers/pavol-luptak-original.jpg"
+      "photo": "photos/speakers/pavol-luptak.jpg"
     },
     {
       "id": "petr-hotovec",
@@ -659,7 +600,7 @@
         "web:jpg"
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/petr-hotovec-web.jpg",
-      "photo": "photos/speakers/petr-hotovec-original.jpg"
+      "photo": "photos/speakers/petr-hotovec.jpg"
     },
     {
       "id": "petr-lukac",
@@ -678,7 +619,7 @@
         "twitter:jpg"
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/petr-lukac-web.jpg",
-      "photo": "photos/speakers/petr-lukac-original.jpg"
+      "photo": "photos/speakers/petr-lukac.jpg"
     },
     {
       "id": "petr-mensik",
@@ -701,7 +642,7 @@
         "twitter:jpg"
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/petr-mensik-web.jpg",
-      "photo": "photos/speakers/petr-mensik-original.jpg"
+      "photo": "photos/speakers/petr-mensik.jpg"
     },
     {
       "id": "petr-sanetrnik",
@@ -722,7 +663,7 @@
         "twitter:jpg"
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/petr-sanetrnik-web.jpg",
-      "photo": "photos/speakers/petr-sanetrnik-original.jpg"
+      "photo": "photos/speakers/petr-sanetrnik.jpg"
     },
     {
       "id": "radek-svarz",
@@ -744,7 +685,7 @@
         "twitter:jpg"
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/radek-svarz-web.jpg",
-      "photo": "photos/speakers/radek-svarz-original.jpg"
+      "photo": "photos/speakers/radek-svarz.jpg"
     },
     {
       "id": "radim-kozub",
@@ -765,7 +706,7 @@
         "twitter:jpg"
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/radim-kozub-web.jpg",
-      "photo": "photos/speakers/radim-kozub-original.jpg"
+      "photo": "photos/speakers/radim-kozub.jpg"
     },
     {
       "id": "stanislav-simek",
@@ -785,7 +726,7 @@
         "web:jpg"
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/stanislav-simek-web.jpg",
-      "photo": "photos/speakers/stanislav-simek-original.jpg"
+      "photo": "photos/speakers/stanislav-simek.jpg"
     },
     {
       "id": "tereza-starostova",
@@ -802,7 +743,7 @@
         "twitter:jpg"
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/tereza-starostova-twitter.jpg",
-      "photo": "photos/speakers/tereza-starostova-original.jpg"
+      "photo": "photos/speakers/tereza-starostova.jpg"
     },
     {
       "id": "fetyas",
@@ -821,7 +762,7 @@
         "twitter:jpg"
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/fetyas-web.jpg",
-      "photo": "photos/speakers/fetyas-original.jpg"
+      "photo": "photos/speakers/fetyas.jpg"
     },
     {
       "id": "urza",
@@ -853,7 +794,7 @@
         "twitter:jpg"
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/urza-web.jpg",
-      "photo": "photos/speakers/urza-original.jpg"
+      "photo": "photos/speakers/urza.jpg"
     },
     {
       "id": "vladimir-pinker",
@@ -878,7 +819,7 @@
         "twitter:jpg"
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/vladimir-pinker-web.jpg",
-      "photo": "photos/speakers/vladimir-pinker-original.jpg"
+      "photo": "photos/speakers/vladimir-pinker.jpg"
     },
     {
       "id": "vojtech-pour",
@@ -898,7 +839,7 @@
         "twitter:jpg"
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/vojtech-pour-web.jpg",
-      "photo": "photos/speakers/vojtech-pour-original.jpg"
+      "photo": "photos/speakers/vojtech-pour.jpg"
     }
   ],
   "tracks": [
