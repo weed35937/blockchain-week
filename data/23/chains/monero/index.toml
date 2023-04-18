@@ -1,0 +1,7 @@
+name = "Monero"
+symbol = "XMR"
+logo = "logo.svg"
+
+[links]
+web = "https://www.getmonero.org/"
+twitter = "https://twitter.com/monero"
