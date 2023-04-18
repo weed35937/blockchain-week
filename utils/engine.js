@@ -195,6 +195,7 @@ class DeConf_Collection {
     this.dir = null;
     this.assets = ["logo", "photo"];
     this.haveSync = false;
+    this.dataFile = null;
   }
 
   async load(path) {
@@ -205,6 +206,8 @@ class DeConf_Collection {
       this.dir = path.join("/");
       fn = [...path, "index.toml"];
     }
+
+    this.dataFile = [this.dir, "data.json"].join("/");
 
     const efIndex = await _tomlLoad(fn.join("/"));
     const hash = await _makeHash([this.type, this.id].join(":"));
@@ -256,6 +259,43 @@ class DeConf_Collection {
     this.data = data;
   }
 
+  async optimizeImages() {
+
+    let base = {}
+    for (const as of this.assets) {
+      if (this.data.index[as]) {
+        [this.data.index] = await this.optimizeCollection([this.data.index], as, ["photos"], true)
+        base = { [as]: this.data.index[as] }
+      }
+    }
+
+    if (this.data.index?.speakers) {
+      await this.optimizeCollection(this.data.index.speakers);
+      await _jsonWrite(this.dataFile, { ...base, speakers: this.data.index.speakers });
+    }
+    if (this.data.sync) {
+      await this.optimizeCollection(this.data.sync.speakers);
+      await _jsonWrite(this.dataFile, { ...base, ...this.data.sync });
+    }
+  }
+
+  async optimizeCollection(arr, col = "photo", dir = ["photos", "speakers"], single = false) {
+    for (const i of arr) {
+      if (i[col]) {
+        //console.log(i[col])
+        await ensureDir([ ...dir ].join("/"));
+        const newPhoto = [ ...dir, `${single ? col : i.id}.webp` ].join("/")
+        const src = [this.dir, i[col]].join("/")
+        const dest = [this.dir, newPhoto ].join("/");
+        //console.log({ src ,dest })
+        await _imageOptimalizedWrite(src, dest);
+        console.log(`${dest} writed`);
+        i[col] = newPhoto
+      }
+    }
+    return arr
+  }
+
   async sync() {
     if (!this.haveSync) return null;
     if (!_silentMode) console.log(`syncing ${this.id} ..`);
@@ -274,7 +314,8 @@ class DeConf_Collection {
           if (!sp.photoUrl) continue;
           const ext = await posix.extname(sp.photoUrl);
           const dir = [photosDir, "speakers"].join("/");
-          const ffn = (sp.id ? sp.id : nameId) + ".webp"; // ext.replace(/\?.+$/, "");
+          const ffn = (sp.id ? sp.id : nameId) + "-original" +
+            ext.replace(/\?.+$/, "");
           const fn = [dir, ffn].join("/");
           if (await exists(fn)) {
             sp.photo = ["photos", "speakers", ffn].join("/");
@@ -286,13 +327,10 @@ class DeConf_Collection {
           if (!photoFetch.body) {
             continue;
           }
-          const tmpfile = [
-            dir,
-            (sp.id ? sp.id : nameId) + "-original" + ext.replace(/\?.+$/, ""),
-          ].join("/");
+          const tmpfile = [dir, ffn].join("/");
           const file = await Deno.open(tmpfile, { write: true, create: true });
           await photoFetch.body.pipeTo(file.writable);
-          await _imageOptimalizedWrite(tmpfile, fn);
+          //await _imageOptimalizedWrite(tmpfile, fn);
           console.log(`${fn} writed`);
 
           const sizes = [150, 300, 500];
@@ -303,7 +341,7 @@ class DeConf_Collection {
           sp.photo = ["photos", "speakers", ffn].join("/");
         }
       }
-      await _jsonWrite([this.dir, "data.json"].join("/"), data);
+      await _jsonWrite(this.dataFile, data);
       this.data.sync = data;
     }
   }

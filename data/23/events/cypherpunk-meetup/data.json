@@ -1,0 +1,29 @@
+{
+  "logo": "photos/logo.webp",
+  "speakers": [
+    {
+      "id": "juraj-bednar"
+    },
+    {
+      "id": "pavol-luptak"
+    },
+    {
+      "id": "lea-patras",
+      "name": "Lea Patras",
+      "photo": "photos/speakers/lea-patras.webp",
+      "twitter": "LeaPetras"
+    },
+    {
+      "id": "max-hillebrand",
+      "name": "Max Hillebrand",
+      "photo": "photos/speakers/max-hillebrand.webp",
+      "twitter": "HillebrandMax"
+    },
+    {
+      "id": "pavlenex",
+      "name": "Pavlenex",
+      "photo": "photos/speakers/pavlenex.webp",
+      "twitter": "pavlenex"
+    }
+  ]
+}

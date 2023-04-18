@@ -24,6 +24,9 @@ build-mirror:
 sync:
 	deno run --unstable --allow-read --allow-write --allow-net utils/sync.js $(event)
 
+imgs:
+	deno run --unstable --allow-read --allow-write --allow-run utils/imgs.js $(event)
+
 tag:
 	deno run --unstable --allow-run utils/tag.js
 
