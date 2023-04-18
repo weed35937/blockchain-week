@@ -1,5 +1,67 @@
 {
-  "logo": "photos/logo.webp",
+  "logo": {
+    "id": "praguedefi",
+    "hash": "280d3ff5f0153388396f634d99c7042eb5cb4ce3df66697984faabad2d335968",
+    "name": "Prague DeFi Summit 2023",
+    "shortname": "Prague DeFi",
+    "types": [
+      "conference"
+    ],
+    "status": "published",
+    "chains": [
+      "ethereum"
+    ],
+    "org": "DuckTape/Paralelní Polis",
+    "dri": "",
+    "poc": "Steve Fau, Dan",
+    "date": "2023-06-08",
+    "days": 2,
+    "venues": [
+      "paralelni-polis",
+      "la-fabrika"
+    ],
+    "languages": [
+      "english"
+    ],
+    "attendees": 750,
+    "tags": [
+      "DeFi"
+    ],
+    "logo": "logo.jpg",
+    "description": "DeFi is under siege.\n\nThe industry has arrived at a point where it is no longer sufficient to just keep saying “let’s get back to building”. We risk losing a bankless future unless the community comes together and collaborates on an action plan. Does the plan involve collaborating with the legacy establishment, or is it centered around scorched-earth policy? What are the key pillars of the plan? The community needs to decide, the industry needs to take action. \n\nFor this purpose Prague DeFi Summit, and the event build-up, has been designed around community collaboration and idea iteration. The Summit, filled with presentations, panels, fireside chats and networking is going to culminate in a roundtable with elected DeFi representatives with the purpose of distilling the community feedback into a coherent action plan. Are we ready to seize the opportunity?\n",
+    "cfp": {
+      "link": "https://cfp.paralelnipolis.cz/defi-prague-2022/cfp"
+    },
+    "sponsors": {
+      "link": "https://assets.ctfassets.net/6j1me6tz5h39/1EhHviIDBaaglWrkUJMRqB/6afefea254fc320badd38b9aa72526ab/DeFi_Pitchdeck.pdf",
+      "range": "6k-96k EUR"
+    },
+    "registration": {
+      "type": "tickets",
+      "price": "222 EUR",
+      "link": "https://tickets.paralelnipolis.cz/dtp/PDFS23/"
+    },
+    "links": {
+      "web": "https://praguedefisummit.com/",
+      "twitter": "https://twitter.com/PragueDefi",
+      "telegram": "https://t.me/PragueDeFi",
+      "discord": "https://discord.gg/HTy4pfrDaw"
+    },
+    "segments": [
+      {
+        "date": "2023-06-08",
+        "times": "09:00-18:00",
+        "startTime": "2023-06-08T07:00:00.000Z",
+        "endTime": "2023-06-08T16:00:00.000Z"
+      },
+      {
+        "date": "2023-06-09",
+        "times": "09:00-18:00",
+        "startTime": "2023-06-09T07:00:00.000Z",
+        "endTime": "2023-06-09T16:00:00.000Z"
+      }
+    ]
+  },
   "speakers": [
     {
       "id": "julien-bouteloup",
@@ -8,7 +70,7 @@
       "caption": "Stake Capital Group ",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2iBMPVY6qhcs1D4v4DpW73/98cda1ae2e55679820172b03cf8179ea/julien.jpeg",
       "country": "ch",
-      "photo": "photos/speakers/julien-bouteloup.webp"
+      "photo": "photos/speakers/julien-bouteloup-original.jpeg"
     },
     {
       "id": "radek-svarz",
@@ -17,7 +79,7 @@
       "caption": "AlzheimerChain",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6JENTjUwVwc5yK5CupfZTc/a6745d430226893ae44412f32c4781ae/2020_radek_profile_-_face_aReCqT8.jpg",
       "country": "cz",
-      "photo": "photos/speakers/radek-svarz.webp"
+      "photo": "photos/speakers/radek-svarz-original.jpg"
     },
     {
       "id": "sasha-tanase",
@@ -26,7 +88,7 @@
       "caption": "web3UX",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2G0x2iQJtCP7aBfdDY1yJ0/0a70687805c116a6400309de5cae5f8f/sasha.jpg",
       "country": "ro",
-      "photo": "photos/speakers/sasha-tanase.webp"
+      "photo": "photos/speakers/sasha-tanase-original.jpg"
     },
     {
       "id": "marc-zeller",
@@ -35,7 +97,7 @@
       "caption": "AAVE",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3LrJr2y42JL5NO7XcqP7xn/355bf0464ed6a98604089fe57c068959/MarcZeller.jpeg",
       "country": "fr",
-      "photo": "photos/speakers/marc-zeller.webp"
+      "photo": "photos/speakers/marc-zeller-original.jpeg"
     },
     {
       "id": "naim-ashhab",
@@ -44,7 +106,7 @@
       "caption": "PWN",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/88N0QDix2MbIljjxpzk9v/175995cdecad997e485e1fd99a7589e4/1616698822484.jpeg",
       "country": "cz",
-      "photo": "photos/speakers/naim-ashhab.webp"
+      "photo": "photos/speakers/naim-ashhab-original.jpeg"
     },
     {
       "id": "rosco-kalis",
@@ -53,7 +115,7 @@
       "caption": "Revoke Cash",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5wjHrhpbYShTSv34Rp4vca/1882ecd12c4f5526e0422002f58f4a4c/photo_2023-02-06_11.42.28.jpeg",
       "country": "nl",
-      "photo": "photos/speakers/rosco-kalis.webp"
+      "photo": "photos/speakers/rosco-kalis-original.jpeg"
     },
     {
       "id": "anna-george",
@@ -62,7 +124,7 @@
       "caption": "CoWSwap",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/7sNztyNmT7QSd43ml0FStd/0e382e06be6176f1edaa8613dfc82cd4/V__st__i__ek.JPG",
       "country": "pt",
-      "photo": "photos/speakers/anna-george.webp"
+      "photo": "photos/speakers/anna-george-original.JPG"
     },
     {
       "id": "will-harborne",

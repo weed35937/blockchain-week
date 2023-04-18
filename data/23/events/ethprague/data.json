@@ -1,5 +1,123 @@
 {
-  "logo": "photos/logo.webp",
+  "logo": {
+    "id": "ethprague",
+    "hash": "f8e0f26e1df7e27cfa2a99fe303e78dee62bdf4abfdc97786859e604241058cd",
+    "name": "ETHPrague 2023",
+    "shortname": "ETHPrague",
+    "types": [
+      "hackathon",
+      "conference"
+    ],
+    "status": "published",
+    "org": "DuckTape/Paralelní Polis",
+    "dri": "",
+    "poc": "JosefJ, Vojta",
+    "date": "2023-06-09",
+    "days": 3,
+    "venues": [
+      "paralelni-polis",
+      "la-fabrika",
+      "vnitroblock"
+    ],
+    "languages": [
+      "english"
+    ],
+    "attendees": 750,
+    "chains": [
+      "ethereum"
+    ],
+    "difficulty": "All Welcome",
+    "tags": [
+      "solarpunk"
+    ],
+    "logo": "logo.jpg",
+    "description": "ETHPrague isn’t looking for the next get rich quickly scheme or groundbreaking DeFi apps, instead it’s an event focusing on the future potential of Ethereum and concepts or applications which don’t yet exist. We want to tackle challenges which will or might arise in the next decade and we believe Ethereum will play a major role in solving these. The future is in your hands, anon! You decide whether we end up living in a dark authoritarian dystopia or a bright solarpunk utopia.\n",
+    "cfp": {
+      "link": "https://cfp.paralelnipolis.cz/ethprague-2023/"
+    },
+    "sponsors": {
+      "link": "https://ethprague.com/deck",
+      "range": "5k-50k USD"
+    },
+    "registration": {
+      "type": "invites",
+      "link": "https://gmevents.typeform.com/to/jy3Mufeq",
+      "button": "Apply to hack"
+    },
+    "links": {
+      "web": "https://ethprague.com/",
+      "twitter": "https://twitter.com/EthPrague",
+      "telegram": "https://t.me/ethprague"
+    },
+    "segments": [
+      {
+        "date": "2023-06-09",
+        "times": "18:00-21:00",
+        "ecap": 250,
+        "venues": [
+          "paralelni-polis",
+          "la-fabrika"
+        ],
+        "startTime": "2023-06-09T16:00:00.000Z",
+        "endTime": "2023-06-09T19:00:00.000Z"
+      },
+      {
+        "date": "2023-06-09",
+        "times": "10:00-23:59",
+        "ecap": 500,
+        "title": "Hacker House",
+        "venues": [
+          "vnitroblock"
+        ],
+        "startTime": "2023-06-09T08:00:00.000Z",
+        "endTime": "2023-06-09T21:59:00.000Z"
+      },
+      {
+        "date": "2023-06-10",
+        "times": "09:00-19:00",
+        "ecap": 250,
+        "venues": [
+          "paralelni-polis",
+          "la-fabrika"
+        ],
+        "startTime": "2023-06-10T07:00:00.000Z",
+        "endTime": "2023-06-10T17:00:00.000Z"
+      },
+      {
+        "date": "2023-06-10",
+        "times": "00:00-23:59",
+        "ecap": 500,
+        "title": "Hacker House",
+        "venues": [
+          "vnitroblock"
+        ],
+        "startTime": "2023-06-09T22:00:00.000Z",
+        "endTime": "2023-06-10T21:59:00.000Z"
+      },
+      {
+        "date": "2023-06-11",
+        "times": "09:00-18:00",
+        "venues": [
+          "paralelni-polis",
+          "la-fabrika"
+        ],
+        "ecap": 250,
+        "startTime": "2023-06-11T07:00:00.000Z",
+        "endTime": "2023-06-11T16:00:00.000Z"
+      },
+      {
+        "date": "2023-06-11",
+        "times": "00:00-15:00",
+        "ecap": 500,
+        "title": "Hacker House",
+        "venues": [
+          "vnitroblock"
+        ],
+        "startTime": "2023-06-10T22:00:00.000Z",
+        "endTime": "2023-06-11T13:00:00.000Z"
+      }
+    ]
+  },
   "speakers": [
     {
       "id": "vitalik-buterin",
@@ -7,7 +125,7 @@
       "twitter": "VitalikButerin",
       "caption": "Ethereum Foundation",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2NqJAtibmXHGj6lV1lxWk8/190348f4e303add3ecdf5a3e415f88eb/signal-2023-04-13-172434_002.jpeg",
-      "photo": "photos/speakers/vitalik-buterin.webp"
+      "photo": "photos/speakers/vitalik-buterin-original.jpeg"
     },
     {
       "id": "tim-beiko",
@@ -16,7 +134,7 @@
       "caption": "Ethereum Foundation",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/E18FntUsLDbkexkDQU1tt/3a5c1ab0edde53fa60abfe0015399781/Tim_Small_Photo_K43SY5x.png",
       "country": "ca",
-      "photo": "photos/speakers/tim-beiko.webp"
+      "photo": "photos/speakers/tim-beiko-original.png"
     },
     {
       "id": "steffen-kux",
@@ -25,7 +143,7 @@
       "caption": "corpus.ventures ",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/UAnUnhBvoaCfDKJdleqrm/0e023b4d80a8d6239b141b9550e5daee/Q6qSm9qU_400x400_GAHpW5O.jpg",
       "country": "de",
-      "photo": "photos/speakers/steffen-kux.webp"
+      "photo": "photos/speakers/steffen-kux-original.jpg"
     },
     {
       "id": "stani-kulechov",
@@ -33,7 +151,7 @@
       "twitter": "StaniKulechov",
       "caption": "AAVE & LENS PROTOCOL",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/4ws5PA8vKt02JgVN3pK7Zh/bdbe2855fc12a3461cafa1d41a6ed2ad/stani1.png",
-      "photo": "photos/speakers/stani-kulechov.webp"
+      "photo": "photos/speakers/stani-kulechov-original.png"
     },
     {
       "id": "sahil-sen",
@@ -42,7 +160,7 @@
       "caption": "QuickNode",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/7vg1xoIO0SXkeCyhL9PZBq/1961b397049edf1f7b53530ed59f2aff/headshot_qg6hliN.png.jpeg",
       "country": "in",
-      "photo": "photos/speakers/sahil-sen.webp"
+      "photo": "photos/speakers/sahil-sen-original.jpeg"
     },
     {
       "id": "rhys-williams",
@@ -51,7 +169,7 @@
       "caption": "University of Glasgow",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6d30X3MZOajpdcK2IJ5t0J/1deb1bfbf73148a4233d57d888d822b2/Media_741938_smxx.jpg",
       "country": "gb",
-      "photo": "photos/speakers/rhys-williams.webp"
+      "photo": "photos/speakers/rhys-williams-original.jpg"
     },
     {
       "id": "puncar",
@@ -60,7 +178,7 @@
       "caption": "Peerwork.xyz",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/7IqmiO7YkGntiVjdwM9lBw/cedbb36bdead5e4cc8cf11da150157ba/Puncar_PFP_wn7dq1c.jpg",
       "country": "us",
-      "photo": "photos/speakers/puncar.webp"
+      "photo": "photos/speakers/puncar-original.jpg"
     },
     {
       "id": "nicolas-manea",
@@ -69,7 +187,7 @@
       "caption": "Cardiff University",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5HPNj2nmhLXDVv7o1CQ8Tf/9b3591c31b32f241e74ec510d5462543/Profile_E3Z8U9O.jpg",
       "country": "gb",
-      "photo": "photos/speakers/nicolas-manea.webp"
+      "photo": "photos/speakers/nicolas-manea-original.jpg"
     },
     {
       "id": "nicholas-paul-brysiewicz",
@@ -77,7 +195,7 @@
       "twitter": "nicholaspaul26",
       "caption": "LONG NOW",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6EDhzzzLUebx5XFue2bdfi/df6a6ca1e297de76d5c623397e03dbe6/PB9XWGLt_400x400.jpg",
-      "photo": "photos/speakers/nicholas-paul-brysiewicz.webp"
+      "photo": "photos/speakers/nicholas-paul-brysiewicz-original.jpg"
     },
     {
       "id": "miao-zhicheng",
@@ -86,7 +204,7 @@
       "caption": "Superfluid",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/JxxN1mJuM0Ds75UgI2Lbg/0c66ab5093d7b3b0df33fc6941f71739/miao-2023-sketch-plus-urbit_3XLDkFK.png",
       "country": "ee",
-      "photo": "photos/speakers/miao-zhicheng.webp"
+      "photo": "photos/speakers/miao-zhicheng-original.png"
     },
     {
       "id": "madalina-raicu",
@@ -94,7 +212,7 @@
       "twitter": "made_raicu",
       "caption": " Vega Protocol",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5Cv9lqWQlXFlSV85pdhuQw/5b0f1dc6918f68199c3e92d286b6e91a/mraicu_Nf46nYi.jpeg",
-      "photo": "photos/speakers/madalina-raicu.webp"
+      "photo": "photos/speakers/madalina-raicu-original.jpeg"
     },
     {
       "id": "luc-computer",
@@ -103,7 +221,7 @@
       "caption": "ens.eth / v3xlabs.eth",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2BG9dvrm9trs9BmOapUkBS/638df3c9a163d8dfb3d8ed7ab2f63502/react_live_1_by_1_1_PaNo1Cn.png",
       "country": "nl",
-      "photo": "photos/speakers/luc-computer.webp"
+      "photo": "photos/speakers/luc-computer-original.png"
     },
     {
       "id": "kirsten-pomales",
@@ -111,7 +229,7 @@
       "twitter": "kirstenrpomales",
       "caption": "TalentLayer",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5u9vwjRJIXTcxjiKyIW1nO/7fa0f11880ff886bd5191a6d6714acee/cool_r3Xkpx2.png",
-      "photo": "photos/speakers/kirsten-pomales.webp"
+      "photo": "photos/speakers/kirsten-pomales-original.png"
     },
     {
       "id": "ferit-tuncer",
@@ -120,7 +238,7 @@
       "caption": "Prove Us Wrong",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6YFxhGfXMDNtlx1Kqfqflc/e49fa727bc3ae58e7b914486891bee1c/ferit_bgTransparent_0Bqkvbp.png",
       "country": "pt",
-      "photo": "photos/speakers/ferit-tuncer.webp"
+      "photo": "photos/speakers/ferit-tuncer-original.png"
     },
     {
       "id": "dustin-jacobus",
@@ -129,7 +247,7 @@
       "caption": "dustinjacobus.com",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1BlmATxtPAM0Jf0tysNZnT/d2c8345908541ee33bf25a1ce733976f/mysc0ydA_400x400.jpeg",
       "country": "be",
-      "photo": "photos/speakers/dustin-jacobus.webp"
+      "photo": "photos/speakers/dustin-jacobus-original.jpeg"
     },
     {
       "id": "dcbuilder-eth",
@@ -138,7 +256,7 @@
       "caption": "Worldcoin",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5ckzIji6kfbucbd3qqoL2Z/06e8a00ef6ffb5e2cc09b70d38633185/r-mqtMjszyRcqDbIsDI0E.jpeg",
       "country": "cz",
-      "photo": "photos/speakers/dcbuilder-eth.webp"
+      "photo": "photos/speakers/dcbuilder-eth-original.jpeg"
     },
     {
       "id": "daniel-lumi",
@@ -146,7 +264,7 @@
       "twitter": "zkLumi",
       "caption": "",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/4CDpZ13I1MqmalsULotTFm/2645ff8b850f56b57866c0287701618f/FCE962F5-FF3B-4CE1-AC17-1E5184032B9A_9rSVeEL.jpeg",
-      "photo": "photos/speakers/daniel-lumi.webp"
+      "photo": "photos/speakers/daniel-lumi-original.jpeg"
     },
     {
       "id": "cryptowanderer",
@@ -155,7 +273,7 @@
       "caption": "Kernel.community",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/7n5BBm4XWdNxIG6PA2MQx/b6eb58e7c6c1988cd84e63d2cb6f60b7/name_redacted_as_a_zen_master_with_a_sprouting_seed_in_the_style_of_a_japanese__82PYqJ4.jpeg",
       "country": "za",
-      "photo": "photos/speakers/cryptowanderer.webp"
+      "photo": "photos/speakers/cryptowanderer-original.jpeg"
     },
     {
       "id": "abeer-sharma",
@@ -164,7 +282,7 @@
       "caption": "The university of Hong Kong",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/15qMac7cF5dXQ9bes6jpFP/44c357f0f51fc89ca4f251a01c036066/sharma-7f12b50e44da9442a7056164a6c21505.png",
       "country": "hk",
-      "photo": "photos/speakers/abeer-sharma.webp"
+      "photo": "photos/speakers/abeer-sharma-original.png"
     }
   ]
 }

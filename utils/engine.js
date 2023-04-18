@@ -260,40 +260,55 @@ class DeConf_Collection {
   }
 
   async optimizeImages() {
-
-    let base = {}
+    let base = {};
     for (const as of this.assets) {
       if (this.data.index[as]) {
-        [this.data.index] = await this.optimizeCollection([this.data.index], as, ["photos"], true)
-        base = { [as]: this.data.index[as] }
+        const [index] = await this.optimizeCollection([this.data.index], as, [
+          "photos",
+        ], true);
+        base = { [as]: index };
       }
     }
+    //console.log(base)
 
+    let append = {};
     if (this.data.index?.speakers) {
       await this.optimizeCollection(this.data.index.speakers);
-      await _jsonWrite(this.dataFile, { ...base, speakers: this.data.index.speakers });
+      append = { ...append, speakers: this.data.index.speakers };
     }
     if (this.data.sync) {
       await this.optimizeCollection(this.data.sync.speakers);
-      await _jsonWrite(this.dataFile, { ...base, ...this.data.sync });
+      append = { ...append, ...this.data.sync };
     }
+    await _jsonWrite(this.dataFile, { ...base, ...append });
   }
 
-  async optimizeCollection(arr, col = "photo", dir = ["photos", "speakers"], single = false) {
+  async optimizeCollection(
+    arr,
+    col = "photo",
+    dir = ["photos", "speakers"],
+    single = false,
+  ) {
+    if (!Array.isArray(arr)) {
+      return arr;
+    }
     for (const i of arr) {
       if (i[col]) {
         //console.log(i[col])
-        await ensureDir([ ...dir ].join("/"));
-        const newPhoto = [ ...dir, `${single ? col : i.id}.webp` ].join("/")
-        const src = [this.dir, i[col]].join("/")
-        const dest = [this.dir, newPhoto ].join("/");
+        await ensureDir([this.dir, ...dir].join("/"));
+        const newPhoto = [...dir, `${single ? col : i.id}.webp`].join("/");
+        const src = [this.dir, i[col]].join("/");
+        const dest = [this.dir, newPhoto].join("/");
+        if (await exists(dest)) {
+          continue;
+        }
         //console.log({ src ,dest })
         await _imageOptimalizedWrite(src, dest);
         console.log(`${dest} writed`);
-        i[col] = newPhoto
+        i[col] = newPhoto;
       }
     }
-    return arr
+    return arr;
   }
 
   async sync() {
@@ -348,10 +363,14 @@ class DeConf_Collection {
 
   async assetsWrite(outputDir, publicUrl) {
     for (const asset of this.assets) {
-      if (!this.data.index[asset]) continue;
-      const fnIn = this.data.index[asset];
-      const fnOut = [this.id, this.data.index[asset]].join("/");
+      const item = this.data.sync
+        ? this.data.sync[asset]
+        : this.data.index[asset];
+      if (!item) continue;
+      const fnIn = item;
+      const fnOut = [this.id, item].join("/");
       await emptyDir([outputDir, this.id].join("/"));
+      await emptyDir([outputDir, this.id, "photos"].join("/"));
       await _fileCopy([this.dir, fnIn].join("/"), [outputDir, fnOut].join("/"));
       const url = [publicUrl, fnOut].join("/");
       this.data.index[asset] = url;

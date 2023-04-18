@@ -15,7 +15,7 @@ format:
 
 fmt: format
 
-build: imgs
+build:
 	deno run --unstable --allow-read --allow-write utils/build.js tag=$(tag)
 
 build-mirror:

@@ -1,5 +1,48 @@
 {
-  "logo": "photos/logo.webp",
+  "logo": {
+    "id": "metaverse-festival",
+    "hash": "0dd7f6398a15dfa19b8e12c3f198f25f8e571746eaf526ec6e7143ecbf5b04fb",
+    "name": "Metaverse Festival Prague 2023",
+    "shortname": "Metaverse Festival",
+    "types": [
+      "conference"
+    ],
+    "status": "published",
+    "org": "[YORD](https://yordstudio.com/cs/)",
+    "dri": "",
+    "date": "2023-06-07",
+    "times": "09:00-00:00",
+    "days": 1,
+    "venueName": "TBA",
+    "languages": [
+      "english"
+    ],
+    "attendees": 300,
+    "tags": [
+      "metaverse",
+      "VR",
+      "NFT"
+    ],
+    "description": "Metaverse Festival 2023 is an event that brings together individuals and organizations interested in Metaverse, VR/AR, NFTs, gaming, and other forms of immersive technology. The festival will provide a space for attendees to inspire, connect, learn, and collaborate on the Metaverse's latest developments and future potential.\n\nA full day packed with exciting events and activities, including keynote speeches and panel discussions featuring industry leaders and experts. Networking sessions and workshops will also allow attendees to learn about specific topics and technologies related to the Metaverse. Moreover, interactive zones like a virtual reality showcase will let attendees try the latest VR/AR/Metaverse experiences and technology.\n\nThe main program will focus on topics such as:\n\n* How To Build Your Metaverse\n* Fashion in Metaverse\n* Investment in Metaverse\n* Market Trends and future of Metaverse\n* Advertisement/Marketing in the Metaverse\n* Events and Entertainment in Metaverse\n* NFTs and Metaverse\n* Web3 community and Metaverse\n* Legal and regulatory issues in Metaverse\n\n\nAll tickets include welcome drinks, finger food, and the DJ afterparty with networking.\n",
+    "logo": "logo.jpg",
+    "links": {
+      "web": "https://metaversefestivalprague.com/"
+    },
+    "registration": {
+      "type": "tickets",
+      "price": "25 EUR",
+      "link": "https://metaversefestivalprague.com/tickets/",
+      "status": "available"
+    },
+    "segments": [
+      {
+        "date": "2023-06-07",
+        "times": "09:00-00:00",
+        "startTime": "2023-06-07T07:00:00.000Z",
+        "endTime": "2023-06-07T22:00:00.000Z"
+      }
+    ]
+  },
   "speakers": [
     {
       "id": "adam-rajnoha",
@@ -7,7 +50,7 @@
       "caption": "Co-Founder & CEO of MOYA",
       "photoUrl": "https://metaversefestivalprague.com/wp-content/uploads/elementor/thumbs/1-q37tzwz6wixoc6obbnb16h8x2u42s02ouu4mal3s8o.png",
       "country": "cz",
-      "photo": "photos/speakers/adam-rajnoha.webp"
+      "photo": "photos/speakers/adam-rajnoha-original.png"
     },
     {
       "id": "julie-sislerova",
@@ -15,7 +58,7 @@
       "caption": "Founder of Holky v Metaverse",
       "photoUrl": "https://metaversefestivalprague.com/wp-content/uploads/elementor/thumbs/3-q37u00qjnv2tmmiupoxjggargdljmshm7cqk7oy7js.png",
       "country": "cz",
-      "photo": "photos/speakers/julie-sislerova.webp"
+      "photo": "photos/speakers/julie-sislerova-original.png"
     },
     {
       "id": "david-marak",
@@ -23,7 +66,7 @@
       "caption": "Co-Founder & CTO of Yord",
       "photoUrl": "https://metaversefestivalprague.com/wp-content/uploads/elementor/thumbs/metaverse-speakers-4-q3b5fwdth7ae5qpjfu794w5n621i95plps1vyvh5tk.png",
       "country": "cz",
-      "photo": "photos/speakers/david-marak.webp"
+      "photo": "photos/speakers/david-marak-original.png"
     },
     {
       "id": "honza-borysek",
@@ -31,7 +74,7 @@
       "caption": "Founder, Growth & Innovation",
       "photoUrl": "https://metaversefestivalprague.com/wp-content/uploads/elementor/thumbs/metaverse-speakers-18-q46gkdthdnfq113o9qwru245r3pr90jhgq9xz6bhdk.png",
       "country": "cz",
-      "photo": "photos/speakers/honza-borysek.webp"
+      "photo": "photos/speakers/honza-borysek-original.png"
     },
     {
       "id": "juraj-kovac",
@@ -39,7 +82,7 @@
       "caption": "Creative & Strategy Director, THIS IS LOCCO",
       "photoUrl": "https://metaversefestivalprague.com/wp-content/uploads/elementor/thumbs/metaverse-speakers-q39ne0tta7j3el7bzq14cxf8050pieps6l1kbcnauw.png",
       "country": "sk",
-      "photo": "photos/speakers/juraj-kovac.webp"
+      "photo": "photos/speakers/juraj-kovac-original.png"
     },
     {
       "id": "ondrej-t",
@@ -47,7 +90,7 @@
       "caption": "Metaverse & Web3 Advisor and Evangelist",
       "photoUrl": "https://metaversefestivalprague.com/wp-content/uploads/elementor/thumbs/metaverse-speakers-1-q39u99bkwfz7682vb3bgp1ewxofb4d84iae9kg2g8o.png",
       "country": "sk",
-      "photo": "photos/speakers/ondrej-t.webp"
+      "photo": "photos/speakers/ondrej-t-original.png"
     },
     {
       "id": "thomas-de-bruyne",
@@ -55,7 +98,7 @@
       "caption": "Xperience Lab Lead | Transformational Leadership",
       "photoUrl": "https://metaversefestivalprague.com/wp-content/uploads/elementor/thumbs/metaverse-speakers-2-q39nhc7be62id2dxmnmqnlarg2obnyvoyzw89hqawo.png",
       "country": "be",
-      "photo": "photos/speakers/thomas-de-bruyne.webp"
+      "photo": "photos/speakers/thomas-de-bruyne-original.png"
     },
     {
       "id": "olska-green",
@@ -63,7 +106,7 @@
       "caption": "Founder of Phygital Sustainable Fashion Brand ECOOLSKA",
       "photoUrl": "https://metaversefestivalprague.com/wp-content/uploads/2023/03/metaverse-speakers-10.png",
       "country": "pt",
-      "photo": "photos/speakers/olska-green.webp"
+      "photo": "photos/speakers/olska-green-original.png"
     },
     {
       "id": "filip-kollert",
@@ -71,7 +114,7 @@
       "caption": "Founder &  COO at Swipelux",
       "photoUrl": "https://metaversefestivalprague.com/wp-content/uploads/2023/03/metaverse-speakers-6.png",
       "country": "cz",
-      "photo": "photos/speakers/filip-kollert.webp"
+      "photo": "photos/speakers/filip-kollert-original.png"
     },
     {
       "id": "iraida-novruzova",
@@ -79,7 +122,7 @@
       "caption": "Metaverse FashionExpert",
       "photoUrl": "https://metaversefestivalprague.com/wp-content/uploads/2023/03/metaverse-speakers-11.png",
       "country": "az",
-      "photo": "photos/speakers/iraida-novruzova.webp"
+      "photo": "photos/speakers/iraida-novruzova-original.png"
     },
     {
       "id": "pavla-julia-kolarova",
@@ -87,7 +130,7 @@
       "caption": "Brand & Strategic Designer | Web3",
       "photoUrl": "https://metaversefestivalprague.com/wp-content/uploads/2023/03/metaverse-speakers-8.png",
       "country": "cz",
-      "photo": "photos/speakers/pavla-julia-kolarova.webp"
+      "photo": "photos/speakers/pavla-julia-kolarova-original.png"
     },
     {
       "id": "sara-polak",
@@ -95,7 +138,7 @@
       "caption": "Founder at CCHAOS Research",
       "photoUrl": "https://metaversefestivalprague.com/wp-content/uploads/2023/03/metaverse-speakers-13.png",
       "country": "cz",
-      "photo": "photos/speakers/sara-polak.webp"
+      "photo": "photos/speakers/sara-polak-original.png"
     },
     {
       "id": "martin-sokol",
@@ -103,7 +146,7 @@
       "caption": "Digital Marketing | Growth of Mobile Games",
       "photoUrl": "https://metaversefestivalprague.com/wp-content/uploads/elementor/thumbs/metaverse-speakers-12-q3zc8mkrnrc05oxlvzyklnfqk65jc8zirkorpkelyw.png",
       "country": "cz",
-      "photo": "photos/speakers/martin-sokol.webp"
+      "photo": "photos/speakers/martin-sokol-original.png"
     },
     {
       "id": "timmu-toke",
@@ -111,7 +154,7 @@
       "caption": "CEO atReady Player Me",
       "photoUrl": "https://metaversefestivalprague.com/wp-content/uploads/2023/03/metaverse-speakers-14.png",
       "country": "us",
-      "photo": "photos/speakers/timmu-toke.webp"
+      "photo": "photos/speakers/timmu-toke-original.png"
     },
     {
       "id": "natalia-rajnohova",
@@ -119,7 +162,7 @@
       "caption": "CMO at YORD, Co-founder at MOYA",
       "photoUrl": "https://metaversefestivalprague.com/wp-content/uploads/2023/03/metaverse-speakers-16.png",
       "country": "sk",
-      "photo": "photos/speakers/natalia-rajnohova.webp"
+      "photo": "photos/speakers/natalia-rajnohova-original.png"
     },
     {
       "id": "inna-fetissova",
@@ -127,7 +170,7 @@
       "caption": "Co-Founder and CMO at MOYA",
       "photoUrl": "https://metaversefestivalprague.com/wp-content/uploads/2023/04/metaverse-speakers-20.png",
       "country": "cz",
-      "photo": "photos/speakers/inna-fetissova.webp"
+      "photo": "photos/speakers/inna-fetissova-original.png"
     },
     {
       "id": "katerina-skarabelova",
@@ -135,14 +178,14 @@
       "caption": "Co-founder Studio Püree,3D designer",
       "photoUrl": "https://metaversefestivalprague.com/wp-content/uploads/2023/04/metaverse-speakers-19.png",
       "country": "cz",
-      "photo": "photos/speakers/katerina-skarabelova.webp"
+      "photo": "photos/speakers/katerina-skarabelova-original.png"
     },
     {
       "id": "luca-zicconi",
       "name": "Luca Zicconi",
       "caption": "Web3 Studio Lead at Škoda Auto",
       "photoUrl": "https://metaversefestivalprague.com/wp-content/uploads/2023/04/metaverse-speakers-24.png",
-      "photo": "photos/speakers/luca-zicconi.webp"
+      "photo": "photos/speakers/luca-zicconi-original.png"
     },
     {
       "id": "matej-curda",
@@ -150,7 +193,7 @@
       "caption": "Founder and advisor in the Web3 space",
       "photoUrl": "https://metaversefestivalprague.com/wp-content/uploads/elementor/thumbs/metaverse-speakers-23-q4v0qyzx3p41sle9zozz0py036spa7rqfiipfesdrs.png",
       "country": "cz",
-      "photo": "photos/speakers/matej-curda.webp"
+      "photo": "photos/speakers/matej-curda-original.png"
     }
   ]
 }
