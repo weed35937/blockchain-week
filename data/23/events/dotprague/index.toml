@@ -13,7 +13,7 @@ venues = ["jatka78"]
 languages = ["english"]
 attendees = 300
 #tags = []
-logo = "logo.png"
+logo = "logo.jpg"
 description = '''
 Experience the future of blockchain technology at this 2-day Polkadot Conference in Prague. Network, learn from industry leaders and explore the latest developments in the ecosystem.
 '''
