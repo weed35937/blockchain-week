@@ -1,0 +1,11 @@
+name = "Cleevio @ Mississippi House"
+eventTypes = ["other"]
+capacity = 100
+address = "Karolinská 706/3, 186 00 Karlín - Praha 8"
+mapUrl = "hhttps://goo.gl/maps/8HKnGejCiCrFkvMPA"
+description = '''
+'''
+photo = "photo.webp"
+
+[links]
+web = "https://www.cleevio.com/"

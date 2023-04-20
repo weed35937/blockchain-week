@@ -1,0 +1,34 @@
+name = "Founder's Night"
+#shortname = ""
+types = ["meetup", "party"]
+status = "published"
+chains = []
+org = "[Cleev.io](https://cleev.io/)"
+dri = ""
+poc = ""
+date = "2023-06-05"
+days = 1
+times = "19:00-23:00"
+venueName = "TBD"
+languages = ["english"]
+attendees = 100
+tags = ["Founders"]
+description = '''
+Join us for a night of networking and connection with founders, VCs and angel investors in the blockchain community. 
+
+This event is the perfect opportunity to meet other entrepreneurs and investors, share your ideas, and make meaningful connections.
+
+Please register here: 
+https://app.deform.cc/form/fabfcd79-aaa6-4705-9202-1b12ee2c33e5
+'''
+logo = "logo.png"
+
+[links]
+telegram = "https://t.me/+2Y8hi22Oesg0MjRk"
+#twitter = ""
+
+[registration]
+type = "signup"
+link = "https://app.deform.cc/form/fabfcd79-aaa6-4705-9202-1b12ee2c33e5"
+status = "available"
+button = "Register here"
