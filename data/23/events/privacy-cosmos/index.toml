@@ -1,0 +1,43 @@
+name = "Privacy in Cosmos. Live in Prague."
+shortname = "Privacy in Cosmos"
+types = ["conference"]
+status = "published"
+chains = ["cosmos"]
+org = "[ZK Validators](https://zkvalidator.com/), [ZK Podcast](https://www.zeroknowledge.fm/) & [RockawayX](https://rockawayx.com/)"
+dri = ""
+poc = ""
+date = "2023-06-07"
+days = 1
+times = "10:00-17:00"
+venueName = "ImpactHub Praha D10"
+venueAddress = "Drtinova 557/10, 150 00 Praha 5-Smíchov"
+venueUrl = "https://goo.gl/maps/z5L2vgC1UumixdQ1A"
+languages = ["english"]
+attendees = 200
+tags = ["privacy", "zk"]
+description = '''
+ZKV presents … Privacy in Cosmos: Live in Prague!
+
+Join us on June 7th in Prague, as we delve deeper into the Cosmos ecosystem and the role that privacy and zk tech is playing in pushing the network forward!
+
+In our 2nd live Privacy in Cosmos event, we once again aim to bring together the community for a day of talks and panels focused on the role of privacy within the Cosmos ecosystem.
+
+Delve deeper into the Cosmos ecosystem through this privacy focused event hosted by Zero Knowledge Validator with our media partner Zero Knowledge Podcast and presented in collaboration with RockawayX.
+
+We are doing paid tickets in order to get an accurate attendee count. If you need any financial support, please email us at and we will send you a discount code: [events@zkvalidator.com](mailto:events@zkvalidator.com).
+
+B﻿e sure to also check Gateway to Cosmos that happens 3-5th June.
+
+S﻿ee you in Prague!
+
+'''
+logo = "logo.jpeg"
+
+[registration]
+type = "tickets"
+price = "$15"
+link = "https://www.eventbrite.co.uk/e/privacy-in-cosmos-live-in-prague-tickets-621670712837"
+status = "available"
+
+[links]
+web = "https://www.eventbrite.co.uk/e/privacy-in-cosmos-live-in-prague-tickets-621670712837"
