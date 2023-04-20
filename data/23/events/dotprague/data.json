@@ -1,0 +1,70 @@
+{
+  "speakers": [
+    {
+      "id": "marcel-ebert",
+      "name": "Marcel Ebert",
+      "caption": "Pendulum",
+      "twitter": "ebmarcel",
+      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/04/taXu7kF_400x400-1.png",
+      "photo": "photos/speakers/marcel-ebert.png"
+    },
+    {
+      "id": "alice-und-bob",
+      "name": "Alice und Bob",
+      "caption": "Mangata",
+      "twitter": "alice_und_bob",
+      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/04/GETK4_gV_400x400-1.png",
+      "photo": "photos/speakers/alice-und-bob.png"
+    },
+    {
+      "id": "ben-greenberg",
+      "name": "Ben Greenberg",
+      "caption": "Parity",
+      "twitter": "rabbigreenberg",
+      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/04/v8cuLHIR_400x400-1.png",
+      "photo": "photos/speakers/ben-greenberg.png"
+    },
+    {
+      "id": "alexei-zamyatin",
+      "name": "Alexei Zamyatin",
+      "caption": "Interlay",
+      "twitter": "alexeiZamyatin",
+      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/04/fMzaiaJD_400x400-1.png",
+      "photo": "photos/speakers/alexei-zamyatin.png"
+    },
+    {
+      "id": "damsky",
+      "name": "damsky",
+      "caption": "Kodadot",
+      "twitter": "helloitsdamsky",
+      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/04/X6kLPyVf_400x400-1.png",
+      "country": "cz",
+      "photo": "photos/speakers/damsky.png"
+    },
+    {
+      "id": "vikiival",
+      "name": "vikiival",
+      "caption": "Kodadot",
+      "twitter": "vikiival",
+      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/04/Nepomenovany.png",
+      "country": "sk",
+      "photo": "photos/speakers/vikiival.png"
+    },
+    {
+      "id": "petr-mensik",
+      "name": "Petr Mensik",
+      "caption": "Polkadotters",
+      "twitter": "petr_mensik",
+      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/04/3AiH6zu0_400x400-1.png",
+      "country": "cz",
+      "photo": "photos/speakers/petr-mensik.png"
+    },
+    {
+      "id": "kasper-mai-jørgensen",
+      "name": "Kasper Mai Jørgensen",
+      "caption": "Polimec",
+      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/04/1537446395744-1.png",
+      "photo": "photos/speakers/kasper-mai-jørgensen.png"
+    }
+  ]
+}

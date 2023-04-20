@@ -9,7 +9,7 @@ poc = "Damsky"
 date = "2023-06-05"
 days = 2
 times = "10:00-18:00"
-venues = ["jatka78"]
+venues = ["gabriel-loci"]
 languages = ["english"]
 attendees = 300
 #tags = []
@@ -22,9 +22,11 @@ Experience the future of blockchain technology at this 2-day Polkadot Conference
 link = "https://form.dotprague.xyz/speaker"
 
 [registration]
-type = "invites"
-link = "https://form.dotprague.xyz/attendee"
-button = "Join waitlist"
+type = "tickets"
+link = "https://www.eventbrite.com/e/polkadot-prague-conference-tickets-616309487267"
+price = "Free!"
+status = "available"
+button = "Reserve a spot!"
 
 [links]
 web = "https://dotprague.xyz/"
