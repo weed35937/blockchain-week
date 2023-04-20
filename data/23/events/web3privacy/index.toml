@@ -27,9 +27,9 @@ logo = "logo.png"
 
 [registration]
 type = "tickets"
-price = "99 EUR"
-#link = ""
-#status = "available"
+price = "49 EUR"
+link = "https://prague.web3privacy.info/#ticket"
+status = "available"
 
 [sponsors]
 link = "https://prague.web3privacy.info/sponsors.pdf"
