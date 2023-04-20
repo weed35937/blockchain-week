@@ -13,6 +13,7 @@ const peopleMapper = {
   "Rhys Williams": { country: "gb" },
   "Sahil Sen": { country: "in" },
   "Steffen Kux": { country: "de" },
+  "Michal Převrátil": { country: "cz" },
 };
 
 export async function data($) {

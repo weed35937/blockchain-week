@@ -71,12 +71,29 @@
       "photo": "photos/speakers/nicolas-manea.jpg"
     },
     {
+      "id": "nicolas-consigny",
+      "name": "Nicolas Consigny",
+      "twitter": "ncsgy",
+      "caption": "ledger",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1N9vXj96ffaYzVNSuQ4rfm/501bac8cc13a4cf041c3aaf2015060c1/Nico_AA_pfp_GOyGsuJ.jpg",
+      "photo": "photos/speakers/nicolas-consigny.jpg"
+    },
+    {
       "id": "nicholas-paul-brysiewicz",
       "name": "Nicholas Paul Brysiewicz",
       "twitter": "nicholaspaul26",
       "caption": "LONG NOW",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6EDhzzzLUebx5XFue2bdfi/df6a6ca1e297de76d5c623397e03dbe6/PB9XWGLt_400x400.jpg",
       "photo": "photos/speakers/nicholas-paul-brysiewicz.jpg"
+    },
+    {
+      "id": "michal-prevratil",
+      "name": "Michal Převrátil",
+      "twitter": "michprev",
+      "caption": "Ackee Blockchain",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/L0ivlTcMiiScPPGGSEBB1/68e70e665915099272a883e301cf215f/1673510206362_6Ttl4yg.jpg",
+      "country": "cz",
+      "photo": "photos/speakers/michal-prevratil.jpg"
     },
     {
       "id": "miao-zhicheng",
@@ -99,7 +116,7 @@
       "id": "luc-computer",
       "name": "Luc.computer",
       "twitter": "lucemansnl",
-      "caption": "ens.eth / v3xlabs.eth",
+      "caption": "ENS/V3XLABS.ETH",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2BG9dvrm9trs9BmOapUkBS/638df3c9a163d8dfb3d8ed7ab2f63502/react_live_1_by_1_1_PaNo1Cn.png",
       "country": "nl",
       "photo": "photos/speakers/luc-computer.png"
@@ -111,6 +128,14 @@
       "caption": "TalentLayer",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5u9vwjRJIXTcxjiKyIW1nO/7fa0f11880ff886bd5191a6d6714acee/cool_r3Xkpx2.png",
       "photo": "photos/speakers/kirsten-pomales.png"
+    },
+    {
+      "id": "jan",
+      "name": "Jan",
+      "twitter": "jaczkal",
+      "caption": "Ackee Blockchain",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5Xi6UMwF3IVfll5mVxcRVv/15a16c9067d6be3b3d50fdde884fb372/SHmCxcI4_400x400_ffOgr8l.jpg",
+      "photo": "photos/speakers/jan.jpg"
     },
     {
       "id": "ferit-tuncer",
@@ -131,6 +156,14 @@
       "photo": "photos/speakers/dustin-jacobus.jpeg"
     },
     {
+      "id": "dr--marina-steinkirch",
+      "name": "Dr. Marina Steinkirch",
+      "twitter": "https://github.com/mvonsteinkirch",
+      "caption": "Ethereum Foundation",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1xbr4lx59nkEoJTiyKFnce/194b0a4d3f69b3c1b16840ffdda358dc/avatar_D8vLQu9.png.jpeg",
+      "photo": "photos/speakers/dr--marina-steinkirch.jpeg"
+    },
+    {
       "id": "dcbuilder-eth",
       "name": "Dcbuilder.eth",
       "twitter": "DCbuild3r",
@@ -138,6 +171,14 @@
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5ckzIji6kfbucbd3qqoL2Z/06e8a00ef6ffb5e2cc09b70d38633185/r-mqtMjszyRcqDbIsDI0E.jpeg",
       "country": "cz",
       "photo": "photos/speakers/dcbuilder-eth.jpeg"
+    },
+    {
+      "id": "danny-holland",
+      "name": "Danny Holland ",
+      "twitter": "icodeblockchain",
+      "caption": "",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6Tvxkd916H6ybzKobXYFYF/3eb28041a99473b056302c07401fdc04/pancakes_profile_pic_6xi3LBr.png.jpeg",
+      "photo": "photos/speakers/danny-holland.jpeg"
     },
     {
       "id": "daniel-lumi",
@@ -155,6 +196,22 @@
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/7n5BBm4XWdNxIG6PA2MQx/b6eb58e7c6c1988cd84e63d2cb6f60b7/name_redacted_as_a_zen_master_with_a_sprouting_seed_in_the_style_of_a_japanese__82PYqJ4.jpeg",
       "country": "za",
       "photo": "photos/speakers/cryptowanderer.jpeg"
+    },
+    {
+      "id": "avihu-mordechai-levy",
+      "name": "Avihu Mordechai Levy",
+      "twitter": "avihu28",
+      "caption": "StarkWare",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/4V4vXtN92xxVtUtQyw8epw/5132b725ca062c73677f7cd085d9d8ca/Avihu_1_YLcWwy1-2.jpg",
+      "photo": "photos/speakers/avihu-mordechai-levy.jpg"
+    },
+    {
+      "id": "atris",
+      "name": "Atris",
+      "twitter": "atris_eth",
+      "caption": "gitcoin",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6xQshaN9XXrqdwWgMmoifW/6669035c9fb0ace8d92a33dc8769c3e2/krtkus_github_b9ovFli.png.jpeg",
+      "photo": "photos/speakers/atris.jpeg"
     },
     {
       "id": "abeer-sharma",
