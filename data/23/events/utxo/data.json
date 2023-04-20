@@ -31,7 +31,6 @@
         "url": "https://www.facebook.com/knox.gunner"
       },
       "country": "cz",
-      "lead": true,
       "photos": [
         "web:jpg",
         "twitter:jpg"
@@ -57,6 +56,41 @@
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/adam-sobotka-web.jpg",
       "photo": "photos/speakers/adam-sobotka.jpg"
+    },
+    {
+      "id": "artur-sychov",
+      "name": "Artur Sychov",
+      "twitter": "ASychov",
+      "orgs": "Founder & CEO [Somnium Space](https://somniumspace.com/)\n",
+      "caption": "Founder & CEO [Somnium Space](https://somniumspace.com/)\n",
+      "tracks": [
+        "nft"
+      ],
+      "country": "cz",
+      "lead": true,
+      "photos": [
+        "web:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/artur-sychov-web.jpg",
+      "photo": "photos/speakers/artur-sychov.jpg"
+    },
+    {
+      "id": "bozena-rezab",
+      "name": "Bozena Rezab",
+      "twitter": "anestetica",
+      "orgs": "CEO a Spoluzakladatelka [GAMEE](https://www.gamee.com/)\n",
+      "caption": "CEO a Spoluzakladatelka [GAMEE](https://www.gamee.com/)\n",
+      "desc": "Bozena Rezab je generální ředitelkou a spoluzakladatelkou GAMEE, herní platformy s více než 40 miliony uživatelů spojující metaverse, hráče, značky a we3 komunity ve hře. Bozeny rolí je strategie GAMEE a představování práv na digitální vlastnictví a hodnotu blockchainu hernímu publiku. Před GAMEE byla zodpovědná za růst YouTube na evropských trzích.",
+      "tracks": [
+        "nft"
+      ],
+      "country": "cz",
+      "lead": true,
+      "photos": [
+        "web:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/bozena-rezab-web.jpg",
+      "photo": "photos/speakers/bozena-rezab.jpg"
     },
     {
       "id": "david-stancel",
@@ -97,7 +131,6 @@
       ],
       "country": "cz",
       "desc": "Že si Bitcoin koupí říkala svému šéfovi už někdy mezi 2015-2017 ještě předtím než vůbec věděla, jak na to. V Polis si pak kupovala první krypto a v rámci projektu Mytitle se zabývala blockchainovými záznamy potvrzující digitální vlastnictví. Strašně ji to chytlo a zaujalo, jak kryptoměny fungují. Na základě článku se jí ozvala Soňa a brzy po vzniku Holek v kryptu se stala jejich součástí. V HvK tvoří content, organizuje kryptobazary a spoluvede workshopy. Pomáhala organizovat UTXO a ETHBrno.\n",
-      "lead": true,
       "photos": [
         "web:jpg",
         "twitter:jpg"
