@@ -189,6 +189,14 @@
       "photo": "photos/speakers/daniel-lumi.jpeg"
     },
     {
+      "id": "daniel-hwang",
+      "name": "Daniel Hwang",
+      "twitter": "danhwang88",
+      "caption": " HanDAO/stakefish/F2Pool",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3H7qbmYgDewSqwraJOLcwR/ee435071640ec511a7d0169ee1f4441a/daniel_profile_01vyEq3.png",
+      "photo": "photos/speakers/daniel-hwang.png"
+    },
+    {
       "id": "cryptowanderer",
       "name": "Cryptowanderer",
       "twitter": "cryptowanderer",
