@@ -1,4 +1,4 @@
-name = "Monero Meetup @ Institute of Cryptoanarchy"
+name = "Monero Meetup | PBW23 Edition"
 shortname = "Monero Meetup"
 types = ["meetup"]
 status = "published"
@@ -14,7 +14,17 @@ languages = ["english"]
 attendees = 100
 tags = ["monero","privacy"]
 description = '''
-Informal social gathering of privacy advocates and organizers during Prague Blockchain Week 2023 to meet and talk about current trends in privacy enhancing tech in Bitcoin, Monero, and Ethereum. We also touch on the status of upcoming MoneroKon conference in the following weeks, 23-25 June 2023.
+Informal social gathering of privacy advocates and organizers during Prague Blockchain Week 2023 to meet and talk about current trends in privacy-enhancing tech in Bitcoin, Monero, and Ethereum. We also touch on reporting on status of the upcoming MoneroKon conference in the following weeks, 23-25 June 2023.
+
+----
+
+**Presenters**
+
+ajs and msvb lead the evening with a presentation, where each will inform about Monero’s history, culture, technology, and applications with personal stories.
+ 
+
+We hope to see you there!
+
 '''
 logo = "logo.webp"
 

@@ -14,7 +14,15 @@ languages = ["english"]
 attendees = 80
 #tags = [""]
 description = '''
-Save the date for the next DeFi meetup #7! We'll meet again on June 5th in Paralelní Polis. More info about the speakers soon.
+Save the date for the next DeFi meetup #7!
+
+More info about the speakers soon.
+
+Open doors: 18:00
+Start: 18:15
+
+PS: As usual, for the early-comers, there will be PWN merch waiting for you 🙂
+PS2: The will be a POAP, too.
 '''
 logo = "flyer.png"
 
