@@ -1,0 +1,35 @@
+name = "Welcome to Prague, Meet Paralelní Polis!"
+shortname = "Meet Paralelní Polis!"
+types = ["meetup", "party"]
+status = "published"
+#chains = [""]
+org = "Paralelní Polis"
+dri = ""
+poc = "kx"
+date = "2023-06-02"
+times = "18:00-23:59"
+days = 1
+venues = ["paralelni-polis"]
+languages = ["english"]
+attendees = 100
+tags = ["cryptoanarchy", "building", "tour"]
+description = '''
+Hello and welcome to Prague!
+
+Meet Paralelní Polis, home of the legendary Institute of Cryptoanarchy, Hackers Congress Paralelní Polis, Prague DeFi Summit, ETHPrague, and Pizza Day Prague!
+
+Your host for the night will be Mário Havel, a hacker, and researcher focused on making the crypto ecosystem more efficient and anonymous. Mário educates about tools of cryptoanarchy in local communities with a focus on onboarding via Lightning and p2p exchange. He is a vast enjoyer of FOSS, parallel economy, and trolling bitcoiners.
+
+Mário will tell you everything you need to know about the parallel polis concept, show you around our majestic 4 story building and showcase how the parties are done at the infamous Bordel Hackerspace.
+
+We are looking forward to meeting you all!
+
+If you are interested, please register on the [Paralelní Polis website](https://www.paralelnipolis.cz/#kalendar).
+'''
+logo = "flyer.webp"
+
+[links]
+web = "https://www.paralelnipolis.cz/#kalendar"
+
+[[speakers]]
+id = "mario-havel"
