@@ -1,5 +1,5 @@
-name = "PolkadotNFT in Prague 2023"
-shortname = "PolkadotNFT"
+name = "NFTs In Prague"
+#shortname = ""
 types = ["conference"]
 status = "published"
 chains = ["polkadot"]
