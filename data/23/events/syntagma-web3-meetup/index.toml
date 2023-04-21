@@ -1,0 +1,25 @@
+name = "Web3 MeetUp #7"
+shortname = ""
+types = ["meetup"]
+status = "planning"
+chains = []
+org = "Syntagma Labs"
+dri = ""
+poc = ""
+date = "2023-06-06"
+times = "18:00-20:00"
+days = 1
+venues = ["paralelni-polis"]
+languages = ["english"]
+attendees = 80
+tags = ["Web3"]
+description = '''
+TBD
+
+This event is organized in cooperation with Syntagma Labs.
+'''
+logo = "cover.webp"
+
+[links]
+#web = ""
+#twitter = ""
