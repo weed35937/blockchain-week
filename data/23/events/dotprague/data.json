@@ -5,16 +5,16 @@
       "name": "Ben Greenberg",
       "caption": "Parity",
       "twitter": "hummusonrails",
-      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/04/v8cuLHIR_400x400-1.png",
-      "photo": "photos/speakers/ben-greenberg.png"
+      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/04/Ben_Greenberg.jpeg",
+      "photo": "photos/speakers/ben-greenberg.jpeg"
     },
     {
       "id": "alexei-zamyatin",
       "name": "Alexei Zamyatin",
       "caption": "Interlay",
       "twitter": "alexeiZamyatin",
-      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/04/fMzaiaJD_400x400-1.png",
-      "photo": "photos/speakers/alexei-zamyatin.png"
+      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/04/Alexei_Zamyatin.jpeg",
+      "photo": "photos/speakers/alexei-zamyatin.jpeg"
     },
     {
       "id": "simon-harman",
@@ -29,16 +29,16 @@
       "name": "Alice und Bob",
       "caption": "Mangata",
       "twitter": "alice_und_bob",
-      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/04/GETK4_gV_400x400-1.png",
-      "photo": "photos/speakers/alice-und-bob.png"
+      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/04/Alice_und_Bob.jpg",
+      "photo": "photos/speakers/alice-und-bob.jpg"
     },
     {
       "id": "marcel-ebert",
       "name": "Marcel Ebert",
       "caption": "Pendulum",
       "twitter": "ebmarcel",
-      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/04/taXu7kF_400x400-1.png",
-      "photo": "photos/speakers/marcel-ebert.png"
+      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/04/Marcel_Ebert.jpeg",
+      "photo": "photos/speakers/marcel-ebert.jpeg"
     },
     {
       "id": "kasper-mai-jørgensen",
@@ -66,7 +66,7 @@
     },
     {
       "id": "susruth-nadimpalli",
-      "name": "Susruth Nadimpalli ",
+      "name": "Susruth Nadimpalli",
       "caption": "Catalog.fi",
       "twitter": "nsusruth",
       "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/04/gXQ3pL2B_400x400.jpg",
@@ -85,26 +85,26 @@
       "name": "Ekaterina Voronina",
       "caption": "Gear Foundation",
       "twitter": "Katie_Voronina",
-      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/04/Screenshot-2023-04-21-at-09.43.49-827x1024.png",
-      "photo": "photos/speakers/ekaterina-voronina.png"
+      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/04/katarina-min.jpg",
+      "photo": "photos/speakers/ekaterina-voronina.jpg"
     },
     {
       "id": "damsky",
       "name": "damsky",
       "caption": "Kodadot",
       "twitter": "helloitsdamsky",
-      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/04/X6kLPyVf_400x400-1.png",
+      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/04/damsky.jpeg",
       "country": "cz",
-      "photo": "photos/speakers/damsky.png"
+      "photo": "photos/speakers/damsky.jpeg"
     },
     {
       "id": "petr-mensik",
       "name": "Petr Mensik",
       "caption": "Polkadotters",
       "twitter": "petr_mensik",
-      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/04/3AiH6zu0_400x400-1.png",
+      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/04/3AiH6zu0_400x400.jpg",
       "country": "cz",
-      "photo": "photos/speakers/petr-mensik.png"
+      "photo": "photos/speakers/petr-mensik.jpg"
     }
   ]
 }
