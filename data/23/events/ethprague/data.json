@@ -138,6 +138,14 @@
       "photo": "photos/speakers/jan.jpg"
     },
     {
+      "id": "harry-bairstow",
+      "name": "Harry Bairstow ",
+      "twitter": "TheHarryET",
+      "caption": "WalletConnect",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3vKnJHKBXOlNGFxpf3IUxi/5e733a1a769e71e8c42c5db6af823b72/speaker_img_cropped_low_ryz4oZd.jpg",
+      "photo": "photos/speakers/harry-bairstow.jpg"
+    },
+    {
       "id": "ferit-tuncer",
       "name": "Ferit Tunçer",
       "twitter": "0xferit",
