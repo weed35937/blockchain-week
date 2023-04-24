@@ -1,11 +1,11 @@
 name = "DeSci Prague 2023"
 shortname = "DeSci Prague"
-types = ["conference"]
+types = ["meetup"]
 status = "idea"
 #chains = []
 org = ""
 dri = ""
-poc = "[Radek Švarz](https://t.me/r4deks)"
+poc = "[Telegram Group](https://t.me/desciprague)"
 date = "2023-06-06"
 days = 1
 venueName = "TBA"
