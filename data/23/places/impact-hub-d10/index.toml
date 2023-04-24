@@ -1,0 +1,12 @@
+name = "Impact Hub Praha D10"
+eventTypes = ["conference", "meetup"]
+capacity = 150
+address = "Drtinova 557/10, 150 00 Praha 5-Smíchov"
+mapUrl = "https://goo.gl/maps/sSN16Mdeh1qrkjp38"
+description = '''
+The building of the former printing house in Smíchov surprises with its diversity and articulation. On two floors you can look forward to a large open space, colourful meeting rooms with large windows to the courtyard, offices, quiet corners for concentrated work, a chillout zone for relaxation and a terrace for summer barbecues. Because details matter, the space is complemented by a self-service bar, Wiesner & Hager designer furniture, wooden log flooring or hanging kokedams.
+'''
+photo = "photo.jpg"
+
+[links]
+web = "https://www.hubpraha.cz/d10"
