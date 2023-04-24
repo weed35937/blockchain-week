@@ -1,7 +1,7 @@
-name = "Cleevio @ Mississippi House"
+name = "#PBW23 Press Center by Cleevio"
 eventTypes = ["other"]
 capacity = 100
-address = "Karolinská 706/3, 186 00 Karlín - Praha 8"
+address = "Karolinská 706/3 (Mississippi House), 186 00 Karlín - Praha 8"
 mapUrl = "hhttps://goo.gl/maps/8HKnGejCiCrFkvMPA"
 description = '''
 '''
