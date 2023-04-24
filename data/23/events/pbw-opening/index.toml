@@ -11,7 +11,7 @@ times = "18:00-02:00"
 days = 1
 venueName = "TBA"
 languages = ["english", "czech", "slovak"]
-attendees = 1000
+attendees = 500
 #tags = ["lunarpunk"]
 #description = '''
 #'''
