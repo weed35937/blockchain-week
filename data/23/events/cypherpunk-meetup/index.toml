@@ -54,6 +54,7 @@ id = "lea-patras"
 name = "Lea Patras"
 photo = "photos/speakers/lea-patras.jpeg"
 twitter = "LeaPetras"
+country = "cz"
 
 [[speakers]]
 id = "max-hillebrand"
@@ -66,3 +67,4 @@ id = "pavlenex"
 name = "Pavlenex"
 photo = "photos/speakers/pavlenex.jpeg"
 twitter = "pavlenex"
+country = "cz"

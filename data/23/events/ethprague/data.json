@@ -130,12 +130,13 @@
       "photo": "photos/speakers/kirsten-pomales.png"
     },
     {
-      "id": "jan",
+      "id": "jan-jaczkal",
       "name": "Jan",
       "twitter": "jaczkal",
       "caption": "Ackee Blockchain",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5Xi6UMwF3IVfll5mVxcRVv/15a16c9067d6be3b3d50fdde884fb372/SHmCxcI4_400x400_ffOgr8l.jpg",
-      "photo": "photos/speakers/jan.jpg"
+      "country": "cz",
+      "photo": "photos/speakers/jan-jaczkal.jpg"
     },
     {
       "id": "harry-bairstow",
