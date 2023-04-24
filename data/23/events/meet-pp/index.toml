@@ -28,8 +28,13 @@ If you are interested, please register on the [Paralelní Polis website](https:/
 '''
 logo = "flyer.webp"
 
+[registration]
+type = "signup"
+link = "https://www.meetup.com/paralelnipolis/events/292990533/"
+button = "Register for free!"
+
 [links]
-web = "https://www.paralelnipolis.cz/#kalendar"
+web = "https://www.meetup.com/paralelnipolis/events/292990533/"
 
 [[speakers]]
 id = "mario-havel"
