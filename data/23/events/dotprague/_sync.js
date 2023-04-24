@@ -11,14 +11,16 @@ export async function data(tools) {
   const out = { speakers: [] };
 
   for (const el of $("div.brxe-dmokxq.brxe-div").toArray()) {
-    
-    const name = $("h3", el).text()
+    const name = $("h3", el).text();
 
     const item = {
       id: tools.formatId(name),
       name,
       caption: $("a.brxe-text-basic", el).text(),
-      twitter: $('a[href^="https://twitter.com"]', el).attr("href")?.replace("https://twitter.com/", ""),
+      twitter: $('a[href^="https://twitter.com"]', el).attr("href")?.replace(
+        "https://twitter.com/",
+        "",
+      ),
       photoUrl: $("img.brxe-image", el).attr("data-src"),
     };
 

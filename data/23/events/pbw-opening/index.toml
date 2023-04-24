@@ -9,10 +9,10 @@ poc = "[tree](https://t.me/treecz)"
 date = "2023-06-02"
 times = "18:00-02:00"
 days = 1
-venues = ["gabriel-loci"]
+venueName = "TBA"
 languages = ["english", "czech", "slovak"]
 attendees = 1000
 #tags = ["lunarpunk"]
 #description = '''
 #'''
-logo = "logo.png"
+logo = "logo.webp"
