@@ -31,8 +31,9 @@ range = "2k-4k EUR"
 
 [registration]
 type = "tickets"
-#price = "XX EUR"
-#link = "https://"
+price = "38.53 EUR"
+link = "https://www.eventbrite.com/e/the-reg3-conference-the-prague-fork-tickets-599689857507"
+status = "available"
 
 [links]
 web = "https://prague.reg3.eu/"
