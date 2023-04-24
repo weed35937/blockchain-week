@@ -1,0 +1,15 @@
+name = "Loft BubNY"
+eventTypes = ["conference", "hackathon", "party", "meetup"]
+capacity = 200
+address = "U Papírny 100/2, 170 00 Praha 7-Holešovice"
+mapUrl = "https://goo.gl/maps/KjaunkqX33528jww7"
+description = '''
+We are a loft-style daylight photography studio. 
+We have 5 meters high ceilings, a total of about 400m2 of space in two separate studios, large windows with plenty of natural light and a good location in Prague's Holešovice. Possibility of parking in the courtyard of the building.
+
+BUB-NY studio is designed in the spirit of American lofts with industrial elements. It's a great place for shooting or filming your projects.
+'''
+photo = "photo.jpg"
+
+[links]
+web = "http://www.loftbubny.cz/"
