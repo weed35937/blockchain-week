@@ -1,0 +1,16 @@
+name = "Hotel Duo"
+eventTypes = ["conference", "meetup", "hackathon"]
+capacity = 1000
+address = "Teplická 492, 190 00 Praha 9"
+mapUrl = "https://goo.gl/maps/XDtuJ2Xkytrhjvxj9"
+description = '''
+Hotel Duo offers exceptional comfort and a wide range of quality conference services for your events at a reasonable price. Newly renovated flexible and modern hotel conference center has a spacious Congress hall and 10 smaller meeting rooms equipped with the modern technology. Total area of our Conference centre is more than 1000 m2. Our conference rooms are ideal for all types of events: conferences, meetings, or private parties.
+
+If you want to enjoy warm summer days outside, we can arrange for you a private event on our Terrace or in summer garden, also perfect for cocktail parties.
+
+You always come up with the best ideas outside the office. So plan your next event with us and find out how inspiring Hotel Duo can be!
+'''
+photo = "photo.jpg"
+
+[links]
+web = "https://www.hotelduo.cz/en"
