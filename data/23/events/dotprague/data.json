@@ -89,6 +89,22 @@
       "photo": "photos/speakers/ekaterina-voronina.jpg"
     },
     {
+      "id": "aleksandar-mitrovic",
+      "name": "Aleksandar Mitrovic",
+      "caption": "Unique Network",
+      "twitter": "AleksandaMitro1",
+      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/04/Aleksandar_Mitrovic.jpg",
+      "photo": "photos/speakers/aleksandar-mitrovic.jpg"
+    },
+    {
+      "id": "bg",
+      "name": "BG",
+      "caption": "SORA",
+      "twitter": "sora_xor",
+      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/04/BG_Devrel.jpeg",
+      "photo": "photos/speakers/bg.jpeg"
+    },
+    {
       "id": "damsky",
       "name": "damsky",
       "caption": "Kodadot",
