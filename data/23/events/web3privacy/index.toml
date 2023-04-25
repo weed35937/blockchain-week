@@ -23,7 +23,7 @@ Privacy advocates worldwide are coming together to discuss how to mainstream pri
   
 The conference complements the research project [Web3Privacy Now](http://web3privacy.info/) and was created by joining forces with the production team of the privacy hackathon [ETHBrno](https://ethbrno.cz/).
 '''
-logo = "logo.png"
+logo = "logo.webp"
 
 [registration]
 type = "tickets"
