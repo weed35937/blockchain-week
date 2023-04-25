@@ -9,6 +9,14 @@
       "photo": "photos/speakers/vitalik-buterin.jpeg"
     },
     {
+      "id": "toghrul-maharramov",
+      "name": "Toghrul Maharramov",
+      "twitter": "toghrulmaharram",
+      "caption": "Scroll",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/BoyESqD5CfEry6d4xo6Ls/2d2f9739d4174ef4a9feb3baf3f11001/t2ArKoW4_PRabQIh.jpg",
+      "photo": "photos/speakers/toghrul-maharramov.jpg"
+    },
+    {
       "id": "tim-beiko",
       "name": "Tim Beiko",
       "twitter": "TimBeiko",
@@ -16,6 +24,14 @@
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/E18FntUsLDbkexkDQU1tt/3a5c1ab0edde53fa60abfe0015399781/Tim_Small_Photo_K43SY5x.png",
       "country": "ca",
       "photo": "photos/speakers/tim-beiko.png"
+    },
+    {
+      "id": "tian-yuan-zhao",
+      "name": "Tian-Yuan Zhao",
+      "twitter": "TianysaurusRex",
+      "caption": "DeFiCurrent/ Raise.Africa",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6hPsPjf4baJReBeFVo4YJv/92aa8cb1c1d2e449d1c7b71c34191cdc/ReFi_Orb_46oKtUX.png",
+      "photo": "photos/speakers/tian-yuan-zhao.png"
     },
     {
       "id": "steffen-kux",
@@ -62,6 +78,14 @@
       "photo": "photos/speakers/puncar.jpg"
     },
     {
+      "id": "owen-barnes",
+      "name": "Owen Barnes ",
+      "twitter": "temporalwave",
+      "caption": "owenbarnes.com",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5tsXsqJCPFXTjmyAivjSoa/aeb2dda96e390bf3bb39574065c0af2b/me_Kw99m5f.jpg",
+      "photo": "photos/speakers/owen-barnes.jpg"
+    },
+    {
       "id": "nicolas-manea",
       "name": "Nicolas Manea",
       "twitter": "NicolasManea",
@@ -96,6 +120,14 @@
       "photo": "photos/speakers/michal-prevratil.jpg"
     },
     {
+      "id": "michael",
+      "name": "Michael",
+      "twitter": "mm319",
+      "caption": "Pillar Project/ Etherspot",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/4Txdp9184t4eayyCvU7ekB/66d800dc6c5610a9dda05dfe4fa4d157/Michael_Bngbthf.png.jpeg",
+      "photo": "photos/speakers/michael.jpeg"
+    },
+    {
       "id": "miao-zhicheng",
       "name": "Miao ZhiCheng",
       "twitter": "https://www.lensfrens.xyz/hellwolf.lens",
@@ -128,6 +160,22 @@
       "caption": "TalentLayer",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5u9vwjRJIXTcxjiKyIW1nO/7fa0f11880ff886bd5191a6d6714acee/cool_r3Xkpx2.png",
       "photo": "photos/speakers/kirsten-pomales.png"
+    },
+    {
+      "id": "jonathan-cubides",
+      "name": "Jonathan Cubides",
+      "twitter": "jonathan_heliax",
+      "caption": "Heliax",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1PiMcbk72G0MgzOcQeiwNg/77636da3121119dcebd1f68663987740/me_fC2aqrl.jpeg",
+      "photo": "photos/speakers/jonathan-cubides.jpeg"
+    },
+    {
+      "id": "jayaditya-gupta",
+      "name": "Jayaditya Gupta",
+      "twitter": "jayssj1",
+      "caption": "hackertron",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/mZ33oNY0yFkQF2BwrMBUc/1e53309776c343a15e5c2dcbdf1536b2/LDZMlHZu_400x400.png",
+      "photo": "photos/speakers/jayaditya-gupta.png"
     },
     {
       "id": "jan-jaczkal",
@@ -215,6 +263,14 @@
       "photo": "photos/speakers/cryptowanderer.jpeg"
     },
     {
+      "id": "christoph-jentzsch",
+      "name": "Christoph Jentzsch",
+      "twitter": "ChrJentzsch",
+      "caption": "slock.it/corpus",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/4bwxaznQugYUAIY0h5ndWa/5f2bfd92a1eda52268cad5fbf30f1aeb/Christoph4399_1_NoIjwUA.jpeg",
+      "photo": "photos/speakers/christoph-jentzsch.jpeg"
+    },
+    {
       "id": "avihu-mordechai-levy",
       "name": "Avihu Mordechai Levy",
       "twitter": "avihu28",
@@ -238,6 +294,14 @@
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/15qMac7cF5dXQ9bes6jpFP/44c357f0f51fc89ca4f251a01c036066/sharma-7f12b50e44da9442a7056164a6c21505.png",
       "country": "hk",
       "photo": "photos/speakers/abeer-sharma.png"
+    },
+    {
+      "id": "0xevolve",
+      "name": "0xevolve",
+      "twitter": "0xevolve",
+      "caption": "MakerDAO/ Pragmaoracle",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/59cmjr4Sb3JVEjzSwPDVpV/f6a82ca53669245a1681bec980d784a4/KGVLQ-4R_400x400.jpg",
+      "photo": "photos/speakers/0xevolve.jpg"
     }
   ]
 }
