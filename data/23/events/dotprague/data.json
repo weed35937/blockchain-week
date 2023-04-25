@@ -105,6 +105,14 @@
       "photo": "photos/speakers/bg.jpeg"
     },
     {
+      "id": "radhakrishna-dasari",
+      "name": "Radhakrishna Dasari",
+      "caption": "Web3 Foundation",
+      "twitter": "DrW3RK",
+      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/04/Radhakrishna_Dasari.jpg",
+      "photo": "photos/speakers/radhakrishna-dasari.jpg"
+    },
+    {
       "id": "damsky",
       "name": "damsky",
       "caption": "Kodadot",
