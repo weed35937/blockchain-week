@@ -7,7 +7,7 @@ const peopleMapper = {
 };
 
 export async function data(tools) {
-  const $ = await tools.loadHtmlUrl("https://dotprague.xyz/");
+  const $ = await tools.loadHtmlUrl("https://dotprague.xyz/speakers/");
   const out = { speakers: [] };
 
   for (const el of $("div.brxe-dmokxq.brxe-div").toArray()) {

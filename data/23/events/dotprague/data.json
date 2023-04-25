@@ -65,6 +65,14 @@
       "photo": "photos/speakers/vikiival.png"
     },
     {
+      "id": "radhakrishna-dasari",
+      "name": "Radhakrishna Dasari",
+      "caption": "Web3 Foundation",
+      "twitter": "DrW3RK",
+      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/04/Radhakrishna_Dasari.jpg",
+      "photo": "photos/speakers/radhakrishna-dasari.jpg"
+    },
+    {
       "id": "susruth-nadimpalli",
       "name": "Susruth Nadimpalli",
       "caption": "Catalog.fi",
@@ -103,14 +111,6 @@
       "twitter": "sora_xor",
       "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/04/BG_Devrel.jpeg",
       "photo": "photos/speakers/bg.jpeg"
-    },
-    {
-      "id": "radhakrishna-dasari",
-      "name": "Radhakrishna Dasari",
-      "caption": "Web3 Foundation",
-      "twitter": "DrW3RK",
-      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/04/Radhakrishna_Dasari.jpg",
-      "photo": "photos/speakers/radhakrishna-dasari.jpg"
     },
     {
       "id": "damsky",
