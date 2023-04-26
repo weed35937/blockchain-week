@@ -22,3 +22,9 @@ logo = "logo.webp"
 web = "https://www.refidao.com/community/local-/refi-prague/r/recvoIJK5U1Q78sPb"
 twitter = "https://twitter.com/refidaoist"
 telegram = "https://t.me/+Fmk6WqTa7eVjOGNk"
+
+[registration]
+type = "tickets"
+#price = ""
+#link = ""
+#status = "available"

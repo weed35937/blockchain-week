@@ -23,6 +23,6 @@ logo = "logo.jpg"
 
 [registration]
 type = "tickets"
-price = "15 EUR"
-#link = ""
-#status = "available"
+price = "10 EUR"
+link = "https://tickets.web3privacy.info/w3ps1/"
+status = "available"

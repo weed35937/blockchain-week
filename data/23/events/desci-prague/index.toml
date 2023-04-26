@@ -1,6 +1,6 @@
 name = "DeSci Prague 2023"
 shortname = "DeSci Prague"
-types = ["meetup"]
+types = ["conference"]
 status = "idea"
 #chains = []
 org = ""
@@ -15,7 +15,7 @@ languages = ["english", "czech", "slovak"]
 attendees = 150
 tags = ["DeSci", "science"]
 description = '''
-One-day conference focused on Decentralized Science (DeSci).
+Conference focused on Decentralized Science (DeSci).
 '''
 logo = "logo.png"
 
@@ -23,3 +23,9 @@ logo = "logo.png"
 #web = ""
 twitter = "https://twitter.com/DeSciPrague"
 telegram = "https://t.me/desciprague"
+
+[registration]
+type = "tickets"
+#price = ""
+#link = ""
+#status = "available"

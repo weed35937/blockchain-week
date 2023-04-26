@@ -21,6 +21,7 @@ logo = "logo.jpg"
 type = "tickets"
 price = "50 EUR"
 link = "https://gateway.events/#tickets"
+status = "available"
 
 [links]
 web = "https://gateway.events/"
