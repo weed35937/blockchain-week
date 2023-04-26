@@ -7,7 +7,7 @@
       "caption": "Executive Chairman of MicroStrategy",
       "twitter": "saylor",
       "tag": "Entrepreneur",
-      "desc": "Bitcoin expert at the biggest hodler among public companies with +130k BTC on their balance sheet. Michael stands behind free education initiatives saylor.org & hope.com.",
+      "desc": "Bitcoin expert at the biggest hodler among public companies with 140k BTC on their balance sheet. Michael stands behind free education initiatives saylor.org & hope.com.",
       "web": {
         "url": "https://michael.com"
       },
@@ -29,9 +29,23 @@
       "photo": "photos/speakers/adam-back.jpeg"
     },
     {
+      "id": "saifedean-ammous",
+      "name": "Saifedean Ammous",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/04/Saifedean-Ammous-3-e1681057747620-320x320.jpeg",
+      "caption": "Bitcoin author and economist",
+      "twitter": "saifedean",
+      "tag": "Economist",
+      "desc": "Saifedean is the author of “The Bitcoin Standard”, the best-selling book on bitcoin, published in 36 languages, and “The Fiat Standard”. He teaches courses on the economics of bitcoin, and economics in the Austrian school tradition, on his online learning platform Saifedean.com, and also hosts “The Bitcoin Standard Podcast”.",
+      "web": {
+        "url": "https://saifedean.com"
+      },
+      "link": "https://www.btcprague.com/speakers/saifedean-ammous/",
+      "photo": "photos/speakers/saifedean-ammous.jpeg"
+    },
+    {
       "id": "marek-palatinus",
       "name": "Marek Palatinus",
-      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/02/Marek-Palatinus-320x320.jpg",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/02/Marek-Palatinus-1-320x320.jpg",
       "caption": "Co-founder of SatoshiLabs",
       "twitter": "slush",
       "tag": "Entrepreneur",
@@ -69,18 +83,6 @@
       "photo": "photos/speakers/aleks-svetski.jpeg"
     },
     {
-      "id": "r0ckstar-dev",
-      "name": "R0ckstar Dev",
-      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/03/R0ckstar.jpg",
-      "caption": "Head of Bitcoin at Strike",
-      "twitter": "r0ckstardev",
-      "tag": "Developer",
-      "desc": "Rockstar Dev leads non-profit efforts at Strike and is a longtime core contributor for BTCPay Server, a self-hosted, free open-source bitcoin payment processor. He is also a practicing privacy advocate.",
-      "web": {},
-      "link": "https://www.btcprague.com/speakers/r0ckstar-dev/",
-      "photo": "photos/speakers/r0ckstar-dev.jpg"
-    },
-    {
       "id": "abubakar-nur-khalil",
       "name": "Abubakar Nur Khalil",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/03/Abubakar-Nur-Khalil-320x320.jpg",
@@ -105,6 +107,18 @@
       "web": {},
       "link": "https://www.btcprague.com/speakers/samantha-de-waal/",
       "photo": "photos/speakers/samantha-de-waal.jpeg"
+    },
+    {
+      "id": "giacomo-zucco",
+      "name": "Giacomo Zucco",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2022/11/btcprague-giacomozucco-320x320.jpg",
+      "caption": "Bitcoin entrepreneur & consultant",
+      "twitter": "giacomozucco",
+      "tag": "Entrepreneur",
+      "desc": "Did you think being a toxic maximalist and a very nice person were mutually exclusive? You definitely need to meet Giacomo and his cute Italian accent – his talks are always both deep and funny.",
+      "web": {},
+      "link": "https://www.btcprague.com/speakers/giacomo-zucco/",
+      "photo": "photos/speakers/giacomo-zucco.jpg"
     },
     {
       "id": "jameson-lopp",
@@ -136,18 +150,6 @@
       "photo": "photos/speakers/stephan-livera.jpg"
     },
     {
-      "id": "giacomo-zucco",
-      "name": "Giacomo Zucco",
-      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2022/11/btcprague-giacomozucco-320x320.jpg",
-      "caption": "Bitcoin entrepreneur & consultant",
-      "twitter": "giacomozucco",
-      "tag": "Entrepreneur",
-      "desc": "Did you think being a toxic maximalist and a very nice person were mutually exclusive? You definitely need to meet Giacomo and his cute Italian accent – his talks are always both deep and funny.",
-      "web": {},
-      "link": "https://www.btcprague.com/speakers/giacomo-zucco/",
-      "photo": "photos/speakers/giacomo-zucco.jpg"
-    },
-    {
       "id": "obi-nwosu",
       "name": "Obi Nwosu",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/01/Obi-Nwosu-320x320.jpeg",
@@ -177,6 +179,32 @@
       "photo": "photos/speakers/pavol-rusnak.png"
     },
     {
+      "id": "dennis-reimann",
+      "name": "Dennis Reimann",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/04/Dennis-Reimann-320x320.jpg",
+      "caption": "BTCPay Server Dev & Co-Host at Einundzwanzig",
+      "twitter": "_d11n_",
+      "tag": "Developer",
+      "desc": "Dennis is a freelance software developer and part of the Einundzwanzig crew. He has passed some corners and ends on their journey of building up the meetup scene in the German-speaking bitcoin community and wants to share his knowledge — after all not every mistake has to be made twice and fostering bitcoin communities is one of the next big steps.",
+      "web": {
+        "url": "https://einundzwanzig.space/"
+      },
+      "link": "https://www.btcprague.com/speakers/dennis-reimann/",
+      "photo": "photos/speakers/dennis-reimann.jpg"
+    },
+    {
+      "id": "r0ckstar-dev",
+      "name": "R0ckstar Dev",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/03/R0ckstar.jpg",
+      "caption": "Head of Bitcoin at Strike",
+      "twitter": "r0ckstardev",
+      "tag": "Developer",
+      "desc": "Rockstar Dev leads non-profit efforts at Strike and is a longtime core contributor for BTCPay Server, a self-hosted, free open-source bitcoin payment processor. He is also a practicing privacy advocate.",
+      "web": {},
+      "link": "https://www.btcprague.com/speakers/r0ckstar-dev/",
+      "photo": "photos/speakers/r0ckstar-dev.jpg"
+    },
+    {
       "id": "filip-karadjordjevic",
       "name": "Filip Karadjordjevic",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/03/Filip-Karadjordjevic-320x320.jpeg",
@@ -201,6 +229,31 @@
       },
       "link": "https://www.btcprague.com/speakers/peter-todd/",
       "photo": "photos/speakers/peter-todd.png"
+    },
+    {
+      "id": "lauren-prince",
+      "name": "Lauren Prince",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/04/Lauren-Prince-e1681830817571-320x320.jpeg",
+      "caption": "Co-host of “Once BITten” podcast",
+      "tag": "Author",
+      "desc": "Lauren is co-hosting “Once BITten” alongside her dad. She has been described as ‘The best interviewer in the space’ by Matt Odell, who secretly fears any of her questions. Lauren will be conducting a panel made up of some prominent bitcoiners and will be asking 12-year-old bitcoin questions! ",
+      "web": {},
+      "link": "https://www.btcprague.com/speakers/lauren-prince/",
+      "photo": "photos/speakers/lauren-prince.jpeg"
+    },
+    {
+      "id": "jan-capek",
+      "name": "Jan Čapek",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/03/Jan-Capek-320x320.png",
+      "caption": "Co-founder of Braiins",
+      "twitter": "janbraiins",
+      "tag": "Developer",
+      "desc": "Jan is an embedded devices engineer and father of the key component of the Braiins OS+, custom ASIC firmware to optimize mining machines. Braiins are the company behind Braiins Pool, the world’s first bitcoin mining pool still in operation.",
+      "web": {
+        "url": "https://braiins.com"
+      },
+      "link": "https://www.btcprague.com/speakers/jan-capek/",
+      "photo": "photos/speakers/jan-capek.png"
     },
     {
       "id": "roman-reher",
@@ -229,18 +282,18 @@
       "photo": "photos/speakers/eric-weiss.jpeg"
     },
     {
-      "id": "jan-capek",
-      "name": "Jan Čapek",
-      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/03/Jan-Capek-320x320.png",
-      "caption": "Co-founder of Braiins",
-      "twitter": "janbraiins",
-      "tag": "Developer",
-      "desc": "Jan is an embedded devices engineer and father of the key component of the Braiins OS+, custom ASIC firmware to optimize mining machines. Braiins are the company behind Braiins Pool, the world’s first bitcoin mining pool still in operation.",
+      "id": "anna-chekhovich",
+      "name": "Anna Chekhovich",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/04/Anna-Chekhovich-320x320.png",
+      "caption": "CFO at The Anti-Corruption Foundation",
+      "twitter": "AnyaChekhovich",
+      "tag": "Activist",
+      "desc": "Anna is Chief Financial Officer at Alexey Navalny’s Anti-Corruption Foundation (ACF). Targeted by Putin’s regime and officially labeled “extremist”, the foundation has gradually lost access to financial institutions. Struggling with Russia’s authorities, ACF has been using Bitcoin since 2016.",
       "web": {
-        "url": "https://braiins.com"
+        "url": "https://acf.international/"
       },
-      "link": "https://www.btcprague.com/speakers/jan-capek/",
-      "photo": "photos/speakers/jan-capek.png"
+      "link": "https://www.btcprague.com/speakers/anna-chekhovich/",
+      "photo": "photos/speakers/anna-chekhovich.png"
     },
     {
       "id": "ben-arc",
@@ -269,6 +322,20 @@
       "photo": "photos/speakers/anita-posch.png"
     },
     {
+      "id": "josef-tetek",
+      "name": "Josef Tětek",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/04/Josef-Tetek-2-1-320x320.jpeg",
+      "caption": "Bitcoin author & analyst at Trezor",
+      "twitter": "SatsJoseph",
+      "tag": "Author",
+      "desc": "Josef is a long-time bitcoiner with a background in Austrian economics and political philosophy. He founded the Czech and Slovak Ludwig von Mises Institute in 2010 and is the author of books on bitcoin and liberty. Josef believes that bitcoin is the next step in mankind’s monetary evolution. His passion is bitcoin education, both as a teacher and a student.",
+      "web": {
+        "url": "https://stackuj.cz/"
+      },
+      "link": "https://www.btcprague.com/speakers/josef-tetek/",
+      "photo": "photos/speakers/josef-tetek.jpeg"
+    },
+    {
       "id": "knut-svanholm",
       "name": "Knut Svanholm",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2022/11/btcprague-knutsvanholm-320x320.jpg",
@@ -280,6 +347,48 @@
       },
       "link": "https://www.btcprague.com/speakers/knut-svanholm/",
       "photo": "photos/speakers/knut-svanholm.jpg"
+    },
+    {
+      "id": "max-hillebrand",
+      "name": "Max Hillebrand",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/04/Max-Hillebrand-320x320.jpeg",
+      "caption": "CEO of zkSNACKs",
+      "twitter": "HillebrandMax",
+      "tag": "Developer",
+      "desc": "Max contributes to numerous open-source projects, including Wasabi Wallet, Bitcoin Core, BTCPay Server, JoinMarket, LND, and BISQ. His focus is to establish a second realm with a sound monetary economy, empowering sovereign individuals to engage in entrepreneurial pursuits.",
+      "web": {
+        "url": "https://WasabiWallet.io"
+      },
+      "link": "https://www.btcprague.com/speakers/max-hillebrand/",
+      "photo": "photos/speakers/max-hillebrand.jpeg"
+    },
+    {
+      "id": "hermann-vivier",
+      "name": "Hermann Vivier",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/04/Hermann-Vivier-e1681679842133-320x320.jpeg",
+      "caption": "Founder of Bitcoin Ekasi",
+      "twitter": "BitcoinEkasi",
+      "tag": "Community Leader",
+      "desc": "Hermann was first introduced to Bitcoin in 2013, amidst the banking crisis in Cyprus. In 2019 he came across Bitcoin Beach and was inspired to establish Bitcoin Ekasi, building a bitcoin circular economy in a South African township, Mossel Bay.",
+      "web": {
+        "url": "https://bitcoinekasi.com/"
+      },
+      "link": "https://www.btcprague.com/speakers/hermann-vivier/",
+      "photo": "photos/speakers/hermann-vivier.jpeg"
+    },
+    {
+      "id": "john-carvalho",
+      "name": "John Carvalho",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/04/John-Carvalho-2-320x320.png",
+      "caption": "CEO of Synonym",
+      "twitter": "bitcoinerrorlog",
+      "tag": "Entrepreneur",
+      "desc": "John is designing an ecosystem of products and protocols to unlock a new peer-to-peer economy. Through Synonym’s flagship, Bitkit, he aims to empower people to take control of the keys to their money and identity. John enjoys educating bitcoiners about the dynamics of bitcoin and squashing popular misconceptions and false narratives.",
+      "web": {
+        "url": "https://bitkit.to/"
+      },
+      "link": "https://www.btcprague.com/speakers/john-carvalho/",
+      "photo": "photos/speakers/john-carvalho.png"
     },
     {
       "id": "lunaticoin",
@@ -308,6 +417,62 @@
       "photo": "photos/speakers/pavlenex.jpg"
     },
     {
+      "id": "magdalena-gronowska",
+      "name": "Magdalena Gronowska",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/04/Magdalena-Gronowska-320x320.jpeg",
+      "caption": "Advisor to PRTI",
+      "twitter": "Crypto_Mags",
+      "linkedin": "mgronowska",
+      "tag": "Activist",
+      "desc": "Magdalena advises PRTI, a waste tire to energy mining company. She also helped launch the first Canadian bitcoin fund, is a Quadriga bankruptcy Inspector, and has a decade of experience in economic and low-carbon policy development.",
+      "web": {},
+      "link": "https://www.btcprague.com/speakers/magdalena-gronowska/",
+      "photo": "photos/speakers/magdalena-gronowska.jpeg"
+    },
+    {
+      "id": "niko-jilch",
+      "name": "Niko Jilch",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/04/Niko-Jilch-320x320.jpeg",
+      "caption": "Journalist and podcaster",
+      "twitter": "NikoJilch",
+      "linkedin": "nikojilch",
+      "tag": "Author",
+      "desc": "Niko is a Vienna-based journalist covering bitcoin, money, and geopolitics in German and English. He has been focused on monetary affairs for over a decade. Niko also advises companies and NGOs on bitcoin-related topics.",
+      "web": {
+        "url": "https://www.nikojilch.com"
+      },
+      "link": "https://www.btcprague.com/speakers/niko-jilch/",
+      "photo": "photos/speakers/niko-jilch.jpeg"
+    },
+    {
+      "id": "jan-prochazka",
+      "name": "Jan Procházka",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/04/Jan-Prochazka-3-1-320x320.jpg",
+      "caption": "Attorney at Law & Partner at Deloitte Legal",
+      "linkedin": "jan-proch%C3%A1zka-95b4028a",
+      "tag": "Economist",
+      "desc": "Jan leads the Banking & Finance team at Deloitte Legal, focusing on financial regulation. He deals with digital solutions for client onboarding, regulated outsourcing, AML, and online investment services. Together with other Deloitte teams, he also advises clients on crypto assets.",
+      "web": {
+        "url": "https://www.deloittelegal.cz"
+      },
+      "link": "https://www.btcprague.com/speakers/jan-prochazka/",
+      "photo": "photos/speakers/jan-prochazka.jpg"
+    },
+    {
+      "id": "nicolas-dorier",
+      "name": "Nicolas Dorier",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/04/Nicolas-Dorier.png",
+      "caption": "BTCPay Server Emperor",
+      "twitter": "NicolasDorier",
+      "tag": "Developer",
+      "desc": "Nicolas is a software developer who has been involved in the bitcoin community since 2014 and has made significant contributions to various bitcoin projects such as BTCPay Server. He is the creator of NBitcoin, a popular open-source bitcoin library in C# used by developers to build bitcoin applications.",
+      "web": {
+        "url": "https://chat.btcpayserver.org/"
+      },
+      "link": "https://www.btcprague.com/speakers/nicolas-dorier/",
+      "photo": "photos/speakers/nicolas-dorier.png"
+    },
+    {
       "id": "niko-laamanen",
       "name": "Niko Laamanen",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/02/Niko-Laamanen-320x320.jpg",
@@ -320,6 +485,20 @@
       },
       "link": "https://www.btcprague.com/speakers/niko-laamanen/",
       "photo": "photos/speakers/niko-laamanen.jpg"
+    },
+    {
+      "id": "btcxzelko",
+      "name": "BTCxZelko",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/04/Zelko-320x320.jpg",
+      "caption": "Co-founder & Dev Lead of RoninDojo",
+      "twitter": "BTCxZelko",
+      "tag": "Developer",
+      "desc": "Zelko began as a regular bitcoiner who stumbled upon Samourai Wallet and the privacy community. Without asking permission he started learning how to code and co-developed what is now RoninDojo. He is a FOSS, sovereignty, and privacy advocate.",
+      "web": {
+        "url": "https://ronindojo.io/"
+      },
+      "link": "https://www.btcprague.com/speakers/btcxzelko/",
+      "photo": "photos/speakers/btcxzelko.jpg"
     },
     {
       "id": "roya-mahboob",
@@ -335,6 +514,33 @@
       },
       "link": "https://www.btcprague.com/speakers/roya-mahboob/",
       "photo": "photos/speakers/roya-mahboob.jpg"
+    },
+    {
+      "id": "rogzy",
+      "name": "Rogzy",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/03/Rogzy-2.png",
+      "caption": "Founder of “DecouvreBitcoin”",
+      "twitter": "DecouvreBitcoin",
+      "tag": "Author",
+      "desc": "Rogzy is building education for the masses. His project DecouvreBitcoin aims to help a bottom-up worldwide adoption that can’t be stopped. He produces open-source high-quality educational content helping the local circular economy flourish and reducing the cost of bitcoin education to zero.",
+      "web": {
+        "url": "https://decouvrebitcoin.fr/"
+      },
+      "link": "https://www.btcprague.com/speakers/rogzy/",
+      "photo": "photos/speakers/rogzy.png"
+    },
+    {
+      "id": "douglas-bakkum",
+      "name": "Douglas Bakkum",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/03/Douglas-Bakkum-320x320.jpg",
+      "caption": "Co-founder & CEO of Shift Crypto",
+      "twitter": "douglasbakkum ",
+      "linkedin": "douglasbakkum",
+      "tag": "Entrepreneur",
+      "desc": "Douglas is the creator of the original BitBox02 hardware wallet. His diverse background spans neuro and mechanical engineering, with research in learning and memory in the brain, AI, cognitive science, robotics, and bioart. He is drawn to things and innovations with the potential to change the world.",
+      "web": {},
+      "link": "https://www.btcprague.com/speakers/douglas-bakkum/",
+      "photo": "photos/speakers/douglas-bakkum.jpg"
     },
     {
       "id": "rahim-taghizadegan",
@@ -400,6 +606,33 @@
       "photo": "photos/speakers/wolf-von-laer.jpg"
     },
     {
+      "id": "general-kenobi",
+      "name": "General Kenobi",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/04/General-Kenobi-320x320.png",
+      "caption": "Business Development at European Bitcoiners",
+      "twitter": "kenobinakamoto",
+      "tag": "Community Leader",
+      "desc": "General Kenobi has gone through years of Padawan training to become a true Jedi Maxi. With experience as a Bitcoin Mining Analyst, he has also helped fight the Sith at the local (Barcelona Bitcoin Only) and the European level (European Bitcoiners). Passionate for bitcoin, mining, and economics, he also aspires to unite the galaxy against the Sith-controlled Empire of WEF and ECB. May the Hash be with you.",
+      "web": {
+        "url": "https://europeanbitcoiners.com/"
+      },
+      "link": "https://www.btcprague.com/speakers/general-kenobi/",
+      "photo": "photos/speakers/general-kenobi.png"
+    },
+    {
+      "id": "matej-zak",
+      "name": "Matěj Žák",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/04/Matej-Zak-320x320.jpeg",
+      "caption": "CEO at Trezor",
+      "twitter": "matej_zak",
+      "linkedin": "matejzak",
+      "tag": "Entrepreneur",
+      "desc": "Matěj leads the vision and strategic direction at Trezor. He is strongly focused on his mission to make bitcoin more accessible to the masses while keeping a superior level of security and privacy for Trezor devices.",
+      "web": {},
+      "link": "https://www.btcprague.com/speakers/matej-zak/",
+      "photo": "photos/speakers/matej-zak.jpeg"
+    },
+    {
       "id": "lyudmyla-kozlovska",
       "name": "Lyudmyla Kozlovska",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/02/Lyudmyla-Kozlovska-320x320.png",
@@ -414,6 +647,21 @@
       "photo": "photos/speakers/lyudmyla-kozlovska.png"
     },
     {
+      "id": "julian-liniger",
+      "name": "Julian Liniger",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/02/julian-liniger-320x320.jpeg",
+      "caption": "Co-Founder & CEO at Relai",
+      "twitter": "julian_liniger",
+      "linkedin": "julianliniger",
+      "tag": "Entrepreneur",
+      "desc": "Julian is a young Swiss entrepreneur in the bitcoin and fintech industry. He has co-founded the popular bitcoin app Relai. With +200K app downloads and +60K active users, Relai is Europe’s biggest bitcoin onramp. Julian has been added to the Forbes 30 Under 30 list in 2022.",
+      "web": {
+        "url": "https://relai.app/"
+      },
+      "link": "https://www.btcprague.com/speakers/julian-liniger/",
+      "photo": "photos/speakers/julian-liniger.jpeg"
+    },
+    {
       "id": "ethan-rose",
       "name": "Ethan Rose",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/02/Ethan-Rose-320x320.jpg",
@@ -425,6 +673,42 @@
       "web": {},
       "link": "https://www.btcprague.com/speakers/ethan-rose/",
       "photo": "photos/speakers/ethan-rose.jpg"
+    },
+    {
+      "id": "carla",
+      "name": "Carla",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/03/Carla-1-320x320.jpg",
+      "caption": "Creator-in-Chief at The Crypto Couple",
+      "twitter": "thecryptoc0up1e",
+      "tag": "Author",
+      "desc": "Carla is an eccentric woman who combines her skills in theater, music, writing, and video production to create satirical and educational content around bitcoin and current events. She loves to make people laugh, cry and cringe. You’ll find her wearing orange. ",
+      "web": {},
+      "link": "https://www.btcprague.com/speakers/carla/",
+      "photo": "photos/speakers/carla.jpg"
+    },
+    {
+      "id": "walker",
+      "name": "Walker",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/03/Walker-320x320.png",
+      "caption": "Director of Satire at The Crypto Couple",
+      "twitter": "WalkerAmerica",
+      "tag": "Influencer",
+      "desc": "Walker is a bitcoin educator, writer, and satirist who leverages new mediums to inform and spark curiosity. His goal is to make people think, laugh, and question the world they think they know. In the fiat world, he runs a software company, SafeMobile.",
+      "web": {},
+      "link": "https://www.btcprague.com/speakers/walker/",
+      "photo": "photos/speakers/walker.png"
+    },
+    {
+      "id": "lawrence-nahum",
+      "name": "Lawrence Nahum",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/04/Lawrence-Nahum.png",
+      "caption": "Chief Architect at Blockstream",
+      "twitter": "LarryBitcoin",
+      "tag": "Entrepreneur",
+      "desc": "Lawrence is a technology entrepreneur, bitcoin expert and executive with a strong focus in bringing innovative and disruptive tech to market. He directs the software and hardware development of Blockstream’s products, including the security, design, and architecture.",
+      "web": {},
+      "link": "https://www.btcprague.com/speakers/lawrence-nahum/",
+      "photo": "photos/speakers/lawrence-nahum.png"
     },
     {
       "id": "peter-mccormack",
@@ -509,6 +793,18 @@
       "photo": "photos/speakers/kevin-loaec.jpg"
     },
     {
+      "id": "rikki",
+      "name": "Rikki",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/04/Riccardo-Giorgio-Frega-aka-Rikki-1-320x320.jpeg",
+      "caption": "Bitcoin podcaster & traveler",
+      "twitter": "Rikki6ixx",
+      "tag": "Author",
+      "desc": "Riccardo Giorgio Frega aka Rikki is an Italian libertarian activist who focuses his activity on bitcoin, which he considers a fundamental stronghold to protect civil rights and individual freedoms. He is the co-author and co-host of Bitcoin Explorers, a project that chronicles bitcoin adoption around the world, and of the Bitcoin Italia Podcast, the first and most popular podcast on bitcoin in Italy.",
+      "web": {},
+      "link": "https://www.btcprague.com/speakers/rikki/",
+      "photo": "photos/speakers/rikki.jpeg"
+    },
+    {
       "id": "yusuf-nessary",
       "name": "Yusuf Nessary",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/03/Yusuf-Nessary-1-320x320.jpg",
@@ -520,6 +816,31 @@
       "web": {},
       "link": "https://www.btcprague.com/speakers/yusuf-nessary/",
       "photo": "photos/speakers/yusuf-nessary.jpg"
+    },
+    {
+      "id": "tomas-susanka",
+      "name": "Tomáš Sušánka",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/04/Tomas-Susanka-320x320.png",
+      "caption": "CTO at Trezor",
+      "twitter": "tsusanka",
+      "linkedin": "tsusanka",
+      "tag": "Entrepreneur",
+      "desc": "Tomáš is responsible for overseeing Trezor’s technological strategy and direction. He is passionate about open-source security innovations, and he excels in technical problem-solving and simplifying complex topics for a wider audience.",
+      "web": {},
+      "link": "https://www.btcprague.com/speakers/tomas-susanka/",
+      "photo": "photos/speakers/tomas-susanka.png"
+    },
+    {
+      "id": "andrey-khavryuchenko",
+      "name": "Andrey Khavryuchenko",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/03/Andrey-Khavryuchenko-2-320x320.jpg",
+      "caption": "Developer & practicing anarchist",
+      "twitter": "akhavr",
+      "tag": "Developer",
+      "desc": "A chemist by education, Andrey joined open-source development in the late 1990s. He created the first fully distributed software company when it was considered impossible. The 2013 Cyprus crisis inspired Andrey to shift his focus to bitcoin.",
+      "web": {},
+      "link": "https://www.btcprague.com/speakers/andrey-khavryuchenko/",
+      "photo": "photos/speakers/andrey-khavryuchenko.jpg"
     },
     {
       "id": "joe-hall",
@@ -534,6 +855,33 @@
       },
       "link": "https://www.btcprague.com/speakers/joe-hall/",
       "photo": "photos/speakers/joe-hall.jpeg"
+    },
+    {
+      "id": "justin-moon",
+      "name": "Justin Moon",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/04/Justin-Moon-320x320.jpg",
+      "caption": "Fedi co-founder & Austin BitDevs creator",
+      "twitter": "_justinmoon_",
+      "tag": "Developer",
+      "desc": "Justin founded fintech startup Karmic, and Austin Bitdevs, ran the first online bitcoin programming course BUIDL Bootcamp, and received a Spiral grant for bitcoin custody R&D ",
+      "web": {},
+      "link": "https://www.btcprague.com/speakers/justin-moon/",
+      "photo": "photos/speakers/justin-moon.jpg"
+    },
+    {
+      "id": "riccardo-masutti",
+      "name": "Riccardo Masutti",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/04/Riccardo-Masutti-320x320.png",
+      "caption": "Cybersecurity & Privacy at Bitfinex",
+      "twitter": "RiccardoMasutti",
+      "linkedin": "riccardomasutti",
+      "tag": "Developer",
+      "desc": "Riccardo is bitcoin specialist, contributor, and educator. He’s currently responsible for InfoSec at Bitfinex, while previously he worked on the development of Wasabi Wallet. Riccardo also spends much of his time educating on security and privacy at universities, schools, conferences, and international events.",
+      "web": {
+        "url": "https://riccardomasutti.com/"
+      },
+      "link": "https://www.btcprague.com/speakers/riccardo-masutti/",
+      "photo": "photos/speakers/riccardo-masutti.png"
     },
     {
       "id": "jakub-vejmola",
@@ -579,6 +927,18 @@
       "photo": "photos/speakers/dusan-matuska.png"
     },
     {
+      "id": "domenico-gabriele",
+      "name": "Domenico Gabriele",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/04/Domenico-Gabriele-320x320.jpeg",
+      "caption": "Test Engineer at Blockstream",
+      "twitter": "domegabri",
+      "tag": "Developer",
+      "desc": "Domenico is building bitcoin wallets at Blockstream.",
+      "web": {},
+      "link": "https://www.btcprague.com/speakers/domenico-gabriele/",
+      "photo": "photos/speakers/domenico-gabriele.jpeg"
+    },
+    {
       "id": "mathew-mezinskis",
       "name": "Matthew Mežinskis",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/02/Matthew-Mezinskis-3-320x320.jpg",
@@ -619,6 +979,32 @@
       },
       "link": "https://www.btcprague.com/speakers/erik-dale/",
       "photo": "photos/speakers/erik-dale.jpg"
+    },
+    {
+      "id": "scott-millar",
+      "name": "Scott Millar",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/04/Scott-Millar.jpeg",
+      "caption": "Co-founder of SideSwap",
+      "linkedin": "scomil",
+      "tag": "Entrepreneur",
+      "desc": "Scott is focused on developing bitcoin-based financial markets. He specializes in applying clearing and settlement models to blockchain technologies. SideSwap offers an easy way to get started on the Liquid Network.",
+      "web": {},
+      "link": "https://www.btcprague.com/speakers/scott-millar/",
+      "photo": "photos/speakers/scott-millar.jpeg"
+    },
+    {
+      "id": "jiri-brada",
+      "name": "Jiří Brada",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/04/Jiri-Brada-320x320.jpeg",
+      "caption": "Co-founder of Invity",
+      "twitter": "invity_io",
+      "tag": "Entrepreneur",
+      "desc": "Jiří started his career in the private equity sector, and he draws on his background in finance and law to identify new business opportunities. He briefly served as CBO of SatoshiLabs in 2018 before co-founding Invity the following year.",
+      "web": {
+        "url": "https://invity.io"
+      },
+      "link": "https://www.btcprague.com/speakers/jiri-brada/",
+      "photo": "photos/speakers/jiri-brada.jpeg"
     }
   ]
 }
