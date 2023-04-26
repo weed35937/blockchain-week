@@ -1,0 +1,24 @@
+name = "ReFi Prague 2023"
+shortname = "ReFi Prague"
+types = ["conference"]
+status = "idea"
+#chains = []
+org = ""
+dri = ""
+poc = "[Telegram Group](https://t.me/+Fmk6WqTa7eVjOGNk)"
+date = "2023-06-09"
+days = 1
+times = "15:00-21:00"
+venues = ["ackee-blox"]
+languages = ["english", "czech", "slovak"]
+attendees = 100
+tags = ["ReFi", "solarpunk", "regeneration"]
+description = '''
+ReFi Prague will become a local node of the global ReFi DAO movement. ReFi stands for regenerative finance. Regenerative finance is a financial framework that aims to create a sustainable and equitable economy by focusing on regenerating natural and social capital rather than solely pursuing profit. It seeks to address the root causes of economic and environmental challenges. Overall, regenerative finance seeks to transform the financial system from one that extracts value from the natural world and communities to one that regenerates value back into them.
+'''
+logo = "logo.webp"
+
+[links]
+web = "https://www.refidao.com/community/local-/refi-prague/r/recvoIJK5U1Q78sPb"
+twitter = "https://twitter.com/refidaoist"
+telegram = "https://t.me/+Fmk6WqTa7eVjOGNk"
