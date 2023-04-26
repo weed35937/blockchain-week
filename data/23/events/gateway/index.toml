@@ -19,7 +19,7 @@ logo = "logo.jpg"
 
 [registration]
 type = "tickets"
-price = "50 EUR"
+price = "100 EUR"
 link = "https://gateway.events/#tickets"
 status = "available"
 
