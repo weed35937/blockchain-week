@@ -7,12 +7,11 @@ org = ""
 dri = ""
 poc = "[Telegram Group](https://t.me/desciprague)"
 date = "2023-06-06"
+times = "16:00-21:00"
 days = 1
-venueName = "TBA"
-#venueAddress = ""
-#venueUrl = ""
+venues = ["ackee-blox"]
 languages = ["english", "czech", "slovak"]
-attendees = 80
+attendees = 75
 tags = ["DeSci", "science"]
 description = '''
 Conference focused on Decentralized Science (DeSci).
