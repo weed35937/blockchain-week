@@ -12,7 +12,7 @@ venueName = "TBA"
 #venueAddress = ""
 #venueUrl = ""
 languages = ["english", "czech", "slovak"]
-attendees = 150
+attendees = 80
 tags = ["DeSci", "science"]
 description = '''
 Conference focused on Decentralized Science (DeSci).
