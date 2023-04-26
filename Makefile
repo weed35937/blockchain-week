@@ -16,6 +16,7 @@ format:
 fmt: format
 
 build:
+	deno --version
 	deno run --unstable --allow-read --allow-write utils/build.js tag=$(tag)
 
 build-mirror:
@@ -32,3 +33,7 @@ tag:
 
 inspect:
 	deno run --inspect-brk --unstable --allow-read utils/test.js
+
+fsync:
+	rm -rf cache
+	@make sync
