@@ -78,12 +78,28 @@
       "photo": "photos/speakers/puncar.jpg"
     },
     {
+      "id": "paul-gadi",
+      "name": "Paul Gadi ",
+      "twitter": "polats",
+      "caption": "OP Games",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/66Uc3diRkGgDw5h1N3Ghcy/fc67a05699362465c1b2bdf876a88949/paul_gadi_mxiSBit.jpg",
+      "photo": "photos/speakers/paul-gadi.jpg"
+    },
+    {
       "id": "owen-barnes",
       "name": "Owen Barnes ",
       "twitter": "temporalwave",
       "caption": "owenbarnes.com",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5tsXsqJCPFXTjmyAivjSoa/aeb2dda96e390bf3bb39574065c0af2b/me_Kw99m5f.jpg",
       "photo": "photos/speakers/owen-barnes.jpg"
+    },
+    {
+      "id": "osho-jha",
+      "name": "Osho Jha",
+      "twitter": "CryptoBroShoNYC",
+      "caption": "dClimate/Arbol",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1fkMUIHNjF5cPKRrm3qVk1/494958de1b350ff7b8d927de0f17a76b/Osho_headshot_BW_VjN7fkO.jpg",
+      "photo": "photos/speakers/osho-jha.jpg"
     },
     {
       "id": "nicolas-manea",
@@ -137,6 +153,14 @@
       "photo": "photos/speakers/miao-zhicheng.png"
     },
     {
+      "id": "marcus-aurelius",
+      "name": "Marcus Aurelius ",
+      "twitter": "0xKlimaurelius",
+      "caption": " KlimaDAO",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/olyBR7YaW41biilzTeGZg/a120ca4b0814c16005f69be9edc88deb/karen-aurelius_AWcdlNC.png",
+      "photo": "photos/speakers/marcus-aurelius.png"
+    },
+    {
       "id": "madalina-raicu",
       "name": "Madalina Raicu",
       "twitter": "made_raicu",
@@ -160,6 +184,22 @@
       "caption": "TalentLayer",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5u9vwjRJIXTcxjiKyIW1nO/7fa0f11880ff886bd5191a6d6714acee/cool_r3Xkpx2.png",
       "photo": "photos/speakers/kirsten-pomales.png"
+    },
+    {
+      "id": "juan-samitier",
+      "name": "Juan Samitier",
+      "twitter": "JuanSamitier",
+      "caption": "Kleros",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6iM51EaWWBNOo3VdwZ5Wpw/e8fdec897e8f9d000679dc4cf269800a/Selfie_Juan_4QOMGb0.jpeg",
+      "photo": "photos/speakers/juan-samitier.jpeg"
+    },
+    {
+      "id": "josef-gattermayer",
+      "name": "Josef Gattermayer ",
+      "twitter": "jgattermayer",
+      "caption": " Ackee Blockchain",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/31mQ6BlJbPKwt8fEytleew/35c4b1735ac73cd4379e71dffc6de3e1/ceo-cut_WYMKvyu.png",
+      "photo": "photos/speakers/josef-gattermayer.png"
     },
     {
       "id": "jonathan-cubides",
@@ -285,6 +325,14 @@
       "caption": "gitcoin",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6xQshaN9XXrqdwWgMmoifW/6669035c9fb0ace8d92a33dc8769c3e2/krtkus_github_b9ovFli.png.jpeg",
       "photo": "photos/speakers/atris.jpeg"
+    },
+    {
+      "id": "anett-rolikova",
+      "name": "Anett Rolikova",
+      "twitter": "AnettRolikova",
+      "caption": "Hyperlane",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/33xR2IBQfcwgfuov597SKQ/85b2693d65825ee0a7c1fceb3a478191/twheadshot_ZgkfQh1.jpeg",
+      "photo": "photos/speakers/anett-rolikova.jpeg"
     },
     {
       "id": "abeer-sharma",
