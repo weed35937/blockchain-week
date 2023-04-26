@@ -9,7 +9,6 @@ export async function loadJSONUrl(url, options) {
 }
 
 export async function loadHtmlUrl(url) {
-  const cacheTimeout = 3600;
   await ensureDir(CACHE_DIR);
   const hash = Array.from(
     new Uint8Array(

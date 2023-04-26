@@ -225,7 +225,7 @@ class DeConf_Collection {
           });
         }
       }
-      for (let sg of data.index.segments) {
+      for (const sg of data.index.segments) {
         if (sg.remote) {
           continue;
         }
@@ -260,7 +260,6 @@ class DeConf_Collection {
   }
 
   async optimizeImages() {
-    let base = {};
     for (const as of this.assets) {
       if (this.data.index[as]) {
         await this.optimizeImageFile(this.data.index[as]);
@@ -334,10 +333,10 @@ class DeConf_Collection {
           //await _imageOptimalizedWrite(tmpfile, fn);
           console.log(`${fn} writed`);
 
-          const sizes = [150, 300, 500];
+          /*const sizes = [150, 300, 500];
           for (const sz of sizes) {
             console;
-          }
+          }*/
 
           sp.photo = ["photos", "speakers", ffn].join("/");
         }
