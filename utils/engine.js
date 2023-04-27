@@ -12,6 +12,7 @@ import format from "https://deno.land/x/date_fns@v2.22.1/format/index.js";
 import addDays from "https://deno.land/x/date_fns@v2.22.1/addDays/index.ts";
 
 let _silentMode = false;
+const thumbSizes = [150, 300, 500];
 
 export class DeConfEngine {
   constructor(options = {}) {
@@ -293,19 +294,20 @@ class DeConf_Collection {
       await _imageOptimalizedWrite(src, dest);
       console.log(`${dest} writed`);
     }
-    const info = await _imageWebPInfo(dest)
+    const info = await _imageWebPInfo(dest);
     if (!info) {
-      return null
+      return null;
     }
-    const ratio = info.width/info.height
-    const sizes = [150, 300, 500];
-    for (const sz of sizes) {
-      const cheight = Math.round(sz / ratio)
+    const longer = info.width > info.height ? 'w' : 'h'
+    const ratio = longer === 'h' ? (info.width / info.height) : (info.height / info.width);
+    for (const sz of thumbSizes) {
+      const pxs = longer === 'h' ? [ sz, Math.round(sz / ratio) ] : [ Math.round(sz / ratio), sz];
+      //console.log(`size=${sz} px_orig=${[info.width, info.height]} px=${pxs}`)
       //console.log(info.width, info.height, ratio, sz, cheight)
-      continue
-      const szDest = [this.dir, fn.replace(/\.([^\.]+)$/, `-${sz}px.op.webp`)].join("/")
+      const szDest = [this.dir, fn.replace(/\.([^\.]+)$/, `-${sz}px.op.webp`)]
+        .join("/");
       if (!await exists(szDest)) {
-        await _imageOptimalizedWrite(dest, szDest, [sz, sz]);
+        await _imageOptimalizedWrite(dest, szDest, pxs);
         console.log(`${szDest} writed`);
       }
     }
@@ -357,20 +359,30 @@ class DeConf_Collection {
 
   async assetsWrite(outputDir, publicUrl) {
     const x = { ...this.data.sync, ...this.data.index };
+
+    const writeImage = async (fn, outDir, fnRename = null) => {
+      const srcFile = [this.dir, fn].join("/");
+      if (await exists(srcFile)) {
+        const outFile = [ outDir, fnRename || posix.basename(fn) ].join("/");
+        await _fileCopy(srcFile, outFile);
+      }
+    }
+    const writeImageBundle = async (src, outDir) => {
+      await ensureDir(outDir);
+      //await writeImage(src, outDir)
+      //await writeImage(src.replace(/\.(.+)$/, '.op.webp'), outDir, posix.basename(src).replace(/\.(.+)$/, `.webp`))
+      await writeImage(src.replace(/\.(.+)$/, '-500px.op.webp'), outDir, posix.basename(src).replace(/\.(.+)$/, `.webp`))
+      for (const sz of thumbSizes) {
+        await writeImage(src.replace(/\.(.+)$/, `-${sz}px.op.webp`), outDir, posix.basename(src).replace(/\.(.+)$/, `_${sz}px.webp`))
+      }
+    }
     for (const asset of this.assets) {
       if (!x[asset]) continue;
-      let fnIn = x[asset];
 
-      //console.log(fnIn, asset);
-      let fnOut = [this.id, asset].join("/");
-      await emptyDir([outputDir, this.id].join("/"));
-      const [opPath, opOutPath] = this.opResolve(fnIn);
-      const opFn = [this.dir, opPath].join("/");
-      if (await exists(opFn)) {
-        fnIn = opPath;
-        fnOut = [this.id, opOutPath].join("/");
-      }
-      await _fileCopy([this.dir, fnIn].join("/"), [outputDir, fnOut].join("/"));
+      const outDir = [outputDir, this.id].join("/")
+      await emptyDir(outDir)
+      await writeImageBundle(x[asset], outDir)
+      const fnOut = [this.id, x[asset].replace(/\.(.+)$/, '.webp')].join("/");
       const url = [publicUrl, fnOut].join("/");
       this.data.index[asset] = url;
     }
@@ -380,17 +392,11 @@ class DeConf_Collection {
       : this.data.index.speakers;
     if (speakersCol) {
       const outDir = [outputDir, this.id, "photos", "speakers"].join("/");
-      await ensureDir(outDir);
       for (const sp of speakersCol) {
         if (!sp.photo) continue;
-        const srcFile = [this.dir, sp.photo].join("/");
-        if (await exists(srcFile)) {
-          const outFile = [
-            outDir,
-            posix.basename(sp.photo),
-          ].join("/");
-          await _fileCopy(srcFile, outFile);
-          sp.photoUrl = [
+        await writeImageBundle(sp.photo, outDir)
+
+        sp.photoUrl = [
             publicUrl,
             this.id,
             "photos",
@@ -398,7 +404,6 @@ class DeConf_Collection {
             posix.basename(sp.photo),
           ].join("/");
         }
-      }
     }
   }
 
@@ -412,18 +417,22 @@ class DeConf_Collection {
 }
 
 async function _imageWebPInfo(src) {
-  const p = Deno.run({ cmd: ["webpinfo", src], stdout: "piped", stderr: "piped" })
+  const p = Deno.run({
+    cmd: ["webpinfo", src],
+    stdout: "piped",
+    stderr: "piped",
+  });
   await p.status();
-  const info = new TextDecoder().decode(await p.output())
+  const info = new TextDecoder().decode(await p.output());
   if (!info.trim()) {
-    console.log(src)
-    return null
+    console.log(src);
+    return null;
   }
   return {
     size: Number(info.match(/File size:\s+(\d+)/)[1]),
     width: Number(info.match(/Width: (\d+)/)[1]),
-    height: Number(info.match(/Height: (\d+)/)[1])
-  }
+    height: Number(info.match(/Height: (\d+)/)[1]),
+  };
 }
 
 async function _imageOptimalizedWrite(src, dest, resize = null) {
@@ -438,7 +447,8 @@ async function _imageOptimalizedWrite(src, dest, resize = null) {
   ];
   const p = Deno.run({ cmd, stdout: "piped", stderr: "piped" });
   await p.status();
-  console.log(new TextDecoder().decode(await p.stderrOutput()));
+  //const err = new TextDecoder().decode(await p.stderrOutput())
+  //console.log(err)
 }
 
 async function _fileCopy(from, to) {
