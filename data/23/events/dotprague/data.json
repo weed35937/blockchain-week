@@ -52,8 +52,16 @@
       "name": "Pascal Brun",
       "caption": "Acurast",
       "twitter": "IAmPascalB",
-      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/04/Wlnu4ARp_400x400.jpg",
+      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/04/Pascal_Brun.jpg",
       "photo": "photos/speakers/pascal-brun.jpg"
+    },
+    {
+      "id": "filippo-franchini",
+      "name": "Filippo Franchini",
+      "caption": "Web3 Foundation",
+      "twitter": "filippoweb3?s=21&t=SS1JzHCvaXLKVst54FMc7A",
+      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/04/i7W7N8Mt_400x400.jpg",
+      "photo": "photos/speakers/filippo-franchini.jpg"
     },
     {
       "id": "vikiival",
@@ -63,14 +71,6 @@
       "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/04/Nepomenovany.png",
       "country": "sk",
       "photo": "photos/speakers/vikiival.png"
-    },
-    {
-      "id": "radhakrishna-dasari",
-      "name": "Radhakrishna Dasari",
-      "caption": "Web3 Foundation",
-      "twitter": "DrW3RK",
-      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/04/Radhakrishna_Dasari.jpg",
-      "photo": "photos/speakers/radhakrishna-dasari.jpg"
     },
     {
       "id": "gautham-jayasankar",
