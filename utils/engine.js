@@ -382,7 +382,7 @@ class DeConf_Collection {
       const outDir = [outputDir, this.id].join("/")
       await emptyDir(outDir)
       await writeImageBundle(x[asset], outDir)
-      const fnOut = [this.id, x[asset].replace(/\.(.+)$/, '.webp')].join("/");
+      const fnOut = [this.id, x[asset].replace(/\.[^.]+$/, '.webp')].join("/");
       const url = [publicUrl, fnOut].join("/");
       this.data.index[asset] = url;
     }
@@ -401,7 +401,7 @@ class DeConf_Collection {
             this.id,
             "photos",
             "speakers",
-            posix.basename(sp.photo),
+            posix.basename(sp.photo).replace(/\.[^.]+$/, '.webp'),
           ].join("/");
         }
     }
