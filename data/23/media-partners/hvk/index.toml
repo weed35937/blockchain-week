@@ -1,6 +1,6 @@
 name = "Holky v kryptu"
 description = "Dívčí kryptokomunita"
-logo = "logo.svg"
+logo = "logo.webp"
 languages = ["czech"]
 
 [links]

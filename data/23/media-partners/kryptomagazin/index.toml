@@ -1,6 +1,6 @@
 name = "KryptomagazinCZ"
 description = "Zpravodajský portál o kryptoměnách"
-logo = "logo.jpg"
+logo = "logo.webp"
 languages = ["czech"]
 
 [links]

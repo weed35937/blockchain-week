@@ -1,7 +1,7 @@
 name = "NFT Space"
 description = "Novinky a vzdělávací články z NFT, Web3 a Metaverse"
 languages = ["czech"]
-logo = "logo.jpg"
+logo = "logo.webp"
 
 [links]
 web = "https://www.nftspace.cz/"

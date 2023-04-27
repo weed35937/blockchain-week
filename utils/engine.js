@@ -284,17 +284,31 @@ class DeConf_Collection {
     const src = [this.dir, fn].join("/");
     const extname = posix.extname(src);
     const dest = [this.dir, fn.replace(/\.([^\.]+)$/, ".op.webp")].join("/");
-    //console.log({src, dest})
-    if (await exists(dest)) {
-      return null;
+    if (!await exists(dest)) {
+      if (extname === ".webp") {
+        await _fileCopy(src, dest);
+        console.log(`${dest} copied`);
+        return true;
+      }
+      await _imageOptimalizedWrite(src, dest);
+      console.log(`${dest} writed`);
     }
-    if (extname === ".webp") {
-      await _fileCopy(src, dest);
-      console.log(`${dest} copied`);
-      return true;
+    const info = await _imageWebPInfo(dest)
+    if (!info) {
+      return null
     }
-    await _imageOptimalizedWrite(src, dest);
-    console.log(`${dest} writed`);
+    const ratio = info.width/info.height
+    const sizes = [150, 300, 500];
+    for (const sz of sizes) {
+      const cheight = Math.round(sz / ratio)
+      //console.log(info.width, info.height, ratio, sz, cheight)
+      continue
+      const szDest = [this.dir, fn.replace(/\.([^\.]+)$/, `-${sz}px.op.webp`)].join("/")
+      if (!await exists(szDest)) {
+        await _imageOptimalizedWrite(dest, szDest, [sz, sz]);
+        console.log(`${szDest} writed`);
+      }
+    }
   }
 
   async sync() {
@@ -332,11 +346,6 @@ class DeConf_Collection {
           await photoFetch.body.pipeTo(file.writable);
           //await _imageOptimalizedWrite(tmpfile, fn);
           console.log(`${fn} writed`);
-
-          /*const sizes = [150, 300, 500];
-          for (const sz of sizes) {
-            console;
-          }*/
 
           sp.photo = ["photos", "speakers", ffn].join("/");
         }
@@ -402,19 +411,31 @@ class DeConf_Collection {
   }
 }
 
+async function _imageWebPInfo(src) {
+  const p = Deno.run({ cmd: ["webpinfo", src], stdout: "piped", stderr: "piped" })
+  await p.status();
+  const info = new TextDecoder().decode(await p.output())
+  if (!info.trim()) {
+    console.log(src)
+    return null
+  }
+  return {
+    size: Number(info.match(/File size:\s+(\d+)/)[1]),
+    width: Number(info.match(/Width: (\d+)/)[1]),
+    height: Number(info.match(/Height: (\d+)/)[1])
+  }
+}
+
 async function _imageOptimalizedWrite(src, dest, resize = null) {
   const cmd = [
     "cwebp",
-    ...[resize ? resize : null],
+    ...(resize ? ["-resize", resize[0], resize[1]] : []),
     "-q",
     "80",
     src,
     "-o",
     dest,
   ];
-  if (resize) {
-    cmd.push(`-resize ${resize}`);
-  }
   const p = Deno.run({ cmd, stdout: "piped", stderr: "piped" });
   await p.status();
   console.log(new TextDecoder().decode(await p.stderrOutput()));

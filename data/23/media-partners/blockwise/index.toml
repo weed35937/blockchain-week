@@ -1,6 +1,6 @@
 name = "blockWise"
 description = "Newsletter a vzdelávanie o krypte, web3, metaverse, AR"
-logo = "logo.png"
+logo = "logo.webp"
 languages = ["slovak"]
 
 [links]

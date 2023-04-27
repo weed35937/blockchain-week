@@ -1,6 +1,6 @@
 name = "Crypto Nomads Club"
 description = "A community for crypto nomads"
-logo = "logo.png"
+logo = "logo.webp"
 languages = ["english"]
 
 [links]
