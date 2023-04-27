@@ -11,7 +11,7 @@ if (Deno.args[0]) {
   const ev = entry.data.events.find((e) => e.id === Deno.args[0]);
   await ev.optimizeImages();
 } else {
-  for (const type of ["events", "places", "benefits", "media-partners"]) {
+  for (const type of Object.keys(entry.colMapper)) {
     for (const item of entry.data[type]) {
       if (item.data.index.hidden) {
         continue;

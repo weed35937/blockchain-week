@@ -298,10 +298,14 @@ class DeConf_Collection {
     if (!info) {
       return null;
     }
-    const longer = info.width > info.height ? 'w' : 'h'
-    const ratio = longer === 'h' ? (info.width / info.height) : (info.height / info.width);
+    const longer = info.width > info.height ? "w" : "h";
+    const ratio = longer === "h"
+      ? (info.width / info.height)
+      : (info.height / info.width);
     for (const sz of thumbSizes) {
-      const pxs = longer === 'h' ? [ sz, Math.round(sz / ratio) ] : [ Math.round(sz / ratio), sz];
+      const pxs = longer === "h"
+        ? [sz, Math.round(sz / ratio)]
+        : [Math.round(sz / ratio), sz];
       //console.log(`size=${sz} px_orig=${[info.width, info.height]} px=${pxs}`)
       //console.log(info.width, info.height, ratio, sz, cheight)
       const szDest = [this.dir, fn.replace(/\.([^\.]+)$/, `-${sz}px.op.webp`)]
@@ -363,26 +367,34 @@ class DeConf_Collection {
     const writeImage = async (fn, outDir, fnRename = null) => {
       const srcFile = [this.dir, fn].join("/");
       if (await exists(srcFile)) {
-        const outFile = [ outDir, fnRename || posix.basename(fn) ].join("/");
+        const outFile = [outDir, fnRename || posix.basename(fn)].join("/");
         await _fileCopy(srcFile, outFile);
       }
-    }
+    };
     const writeImageBundle = async (src, outDir) => {
       await ensureDir(outDir);
       //await writeImage(src, outDir)
       //await writeImage(src.replace(/\.(.+)$/, '.op.webp'), outDir, posix.basename(src).replace(/\.(.+)$/, `.webp`))
-      await writeImage(src.replace(/\.(.+)$/, '-500px.op.webp'), outDir, posix.basename(src).replace(/\.(.+)$/, `.webp`))
+      await writeImage(
+        src.replace(/\.(.+)$/, "-500px.op.webp"),
+        outDir,
+        posix.basename(src).replace(/\.(.+)$/, `.webp`),
+      );
       for (const sz of thumbSizes) {
-        await writeImage(src.replace(/\.(.+)$/, `-${sz}px.op.webp`), outDir, posix.basename(src).replace(/\.(.+)$/, `_${sz}px.webp`))
+        await writeImage(
+          src.replace(/\.(.+)$/, `-${sz}px.op.webp`),
+          outDir,
+          posix.basename(src).replace(/\.(.+)$/, `_${sz}px.webp`),
+        );
       }
-    }
+    };
     for (const asset of this.assets) {
       if (!x[asset]) continue;
 
-      const outDir = [outputDir, this.id].join("/")
-      await emptyDir(outDir)
-      await writeImageBundle(x[asset], outDir)
-      const fnOut = [this.id, x[asset].replace(/\.[^.]+$/, '.webp')].join("/");
+      const outDir = [outputDir, this.id].join("/");
+      await emptyDir(outDir);
+      await writeImageBundle(x[asset], outDir);
+      const fnOut = [this.id, x[asset].replace(/\.[^.]+$/, ".webp")].join("/");
       const url = [publicUrl, fnOut].join("/");
       this.data.index[asset] = url;
     }
@@ -394,16 +406,16 @@ class DeConf_Collection {
       const outDir = [outputDir, this.id, "photos", "speakers"].join("/");
       for (const sp of speakersCol) {
         if (!sp.photo) continue;
-        await writeImageBundle(sp.photo, outDir)
+        await writeImageBundle(sp.photo, outDir);
 
         sp.photoUrl = [
-            publicUrl,
-            this.id,
-            "photos",
-            "speakers",
-            posix.basename(sp.photo).replace(/\.[^.]+$/, '.webp'),
-          ].join("/");
-        }
+          publicUrl,
+          this.id,
+          "photos",
+          "speakers",
+          posix.basename(sp.photo).replace(/\.[^.]+$/, ".webp"),
+        ].join("/");
+      }
     }
   }
 
