@@ -6,17 +6,17 @@
       "twitter": "GuyZys",
       "caption": "Founder of [Secret Network](https://scrt.network/), CEO [SCRT Labs](https://www.scrtlabs.com/)",
       "country": "is",
-      "photoUrl": "https://prague.web3privacy.info/people/guy-zyskind.jpeg",
-      "photo": "photos/speakers/guy-zyskind.jpeg"
+      "photoUrl": "https://prague.web3privacy.info/people/guy-zyskind.jpg",
+      "photo": "photos/speakers/guy-zyskind.jpg"
     },
     {
       "id": "manu-alzuru",
       "name": "Manu Alzuru",
       "twitter": "ManuAlzuru",
-      "caption": "Humanist,  solarpunk, Founder of [DoinGud](https://doingud.com/) & [ETH Barcelona](https://ethbarcelona.com/)",
+      "caption": "Humanist, solarpunk, Founder of [DoinGud](https://doingud.com/) & [ETH Barcelona](https://ethbarcelona.com/)",
       "country": "es",
-      "photoUrl": "https://prague.web3privacy.info/people/manu-alzuru.jpeg",
-      "photo": "photos/speakers/manu-alzuru.jpeg"
+      "photoUrl": "https://prague.web3privacy.info/people/manu-alzuru.jpg",
+      "photo": "photos/speakers/manu-alzuru.jpg"
     },
     {
       "id": "juraj-bednar",
@@ -24,8 +24,8 @@
       "twitter": "jurbed",
       "caption": "Educator, writer, cryptoanarchist & biohacker",
       "country": "sk",
-      "photoUrl": "https://prague.web3privacy.info/people/juraj-bednar.jpeg",
-      "photo": "photos/speakers/juraj-bednar.jpeg"
+      "photoUrl": "https://prague.web3privacy.info/people/juraj-bednar.jpg",
+      "photo": "photos/speakers/juraj-bednar.jpg"
     },
     {
       "id": "mario-havel",
@@ -33,8 +33,35 @@
       "twitter": "TMIYChao",
       "caption": "Hacker, Co-Founder of [Bordel Hackerspace](https://bordel.paralelnipolis.cz/#/)",
       "country": "cz",
-      "photoUrl": "https://prague.web3privacy.info/people/mario-havel.jpeg",
-      "photo": "photos/speakers/mario-havel.jpeg"
+      "photoUrl": "https://prague.web3privacy.info/people/mario-havel.jpg",
+      "photo": "photos/speakers/mario-havel.jpg"
+    },
+    {
+      "id": "max-hampshire",
+      "name": "Max Hampshire",
+      "twitter": "_wjth",
+      "caption": "Senior devrel of [Nym](https://nymtech.net/), Co-founder of [terra0](https://terra0.org/)",
+      "country": "at",
+      "photoUrl": "https://prague.web3privacy.info/people/max-hampshire.jpg",
+      "photo": "photos/speakers/max-hampshire.jpg"
+    },
+    {
+      "id": "nick-almond",
+      "name": "Nick Almond",
+      "twitter": "DrNickA",
+      "caption": "Building next gen DAOs with [FactoryDAO](https://www.factorydao.xyz/)",
+      "country": "gb",
+      "photoUrl": "https://prague.web3privacy.info/people/nick-almond.jpg",
+      "photo": "photos/speakers/nick-almond.jpg"
+    },
+    {
+      "id": "dcbuilder-eth",
+      "name": "dcbuilder.eth",
+      "twitter": "DCbuild3r",
+      "caption": "Research engineer of [Worldcoin](https://worldcoin.org/), ZKML & Rust enthusiast",
+      "country": "cz",
+      "photoUrl": "https://prague.web3privacy.info/people/dcbuilder.jpg",
+      "photo": "photos/speakers/dcbuilder-eth.jpg"
     }
   ]
 }

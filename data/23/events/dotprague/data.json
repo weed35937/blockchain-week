@@ -9,6 +9,14 @@
       "photo": "photos/speakers/ben-greenberg.jpeg"
     },
     {
+      "id": "filippo-franchini",
+      "name": "Filippo Franchini",
+      "caption": "Web3 Foundation",
+      "twitter": "filippoweb3?s=21&t=SS1JzHCvaXLKVst54FMc7A",
+      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/04/i7W7N8Mt_400x400.jpg",
+      "photo": "photos/speakers/filippo-franchini.jpg"
+    },
+    {
       "id": "alexei-zamyatin",
       "name": "Alexei Zamyatin",
       "caption": "Interlay",
@@ -56,14 +64,6 @@
       "photo": "photos/speakers/pascal-brun.jpg"
     },
     {
-      "id": "filippo-franchini",
-      "name": "Filippo Franchini",
-      "caption": "Web3 Foundation",
-      "twitter": "filippoweb3?s=21&t=SS1JzHCvaXLKVst54FMc7A",
-      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/04/i7W7N8Mt_400x400.jpg",
-      "photo": "photos/speakers/filippo-franchini.jpg"
-    },
-    {
       "id": "vikiival",
       "name": "vikiival",
       "caption": "Kodadot",
@@ -81,6 +81,22 @@
       "photo": "photos/speakers/gautham-jayasankar.jpg"
     },
     {
+      "id": "bg",
+      "name": "BG",
+      "caption": "SORA",
+      "twitter": "sora_xor",
+      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/04/BG_Devrel.jpeg",
+      "photo": "photos/speakers/bg.jpeg"
+    },
+    {
+      "id": "simon-leon",
+      "name": "Simon Leon",
+      "caption": "Polkadot Latam Day",
+      "twitter": "polkadotlatam",
+      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/04/8bLPkTul_400x400.jpg",
+      "photo": "photos/speakers/simon-leon.jpg"
+    },
+    {
       "id": "ekaterina-voronina",
       "name": "Ekaterina Voronina",
       "caption": "Gear Foundation",
@@ -95,14 +111,6 @@
       "twitter": "AleksandaMitro1",
       "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/04/Aleksandar_Mitrovic.jpg",
       "photo": "photos/speakers/aleksandar-mitrovic.jpg"
-    },
-    {
-      "id": "bg",
-      "name": "BG",
-      "caption": "SORA",
-      "twitter": "sora_xor",
-      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/04/BG_Devrel.jpeg",
-      "photo": "photos/speakers/bg.jpeg"
     },
     {
       "id": "damsky",
