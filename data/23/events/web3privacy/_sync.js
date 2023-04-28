@@ -7,7 +7,7 @@ export async function data($) {
     "https://prague.web3privacy.info/config.json",
   );
   return {
-    speakers: res.speakers.map((pid) => res.people.find((p) => p.id === pid))
+    speakers: res.people
       .map((s) =>
         Object.assign({
           id: $.formatId(s.name),

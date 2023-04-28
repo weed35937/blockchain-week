@@ -71,6 +71,23 @@
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/7lHwPf9tIk1Y3anuGcVhrA/eba6131507e769002ae96efcb83406ba/photo_2023-02-06_11.25.04.jpeg",
       "country": "gb",
       "photo": "photos/speakers/will-harborne.jpeg"
+    },
+    {
+      "id": "stanislav-simek",
+      "name": "Stanislav Šimek",
+      "twitter": "Stan_Simek",
+      "caption": "BADOKH",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5qB3riLMnmI1O7xVmop2GU/e96404c5713988e309e353666e687ac8/Stanislav___imek.jpg",
+      "country": "cz",
+      "photo": "photos/speakers/stanislav-simek.jpg"
+    },
+    {
+      "id": "alexei-zamyatin",
+      "name": "Alexei Zamyatin",
+      "twitter": "alexeiZamyatin",
+      "caption": "Interlay",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2KTejmlWgfbPN6UOwc3r8M/4b36a8c88f2456b938c3a86cde658125/alexei_1_lCziUzp.jpeg",
+      "photo": "photos/speakers/alexei-zamyatin.jpeg"
     }
   ]
 }
