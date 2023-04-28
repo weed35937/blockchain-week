@@ -22,7 +22,7 @@
       "id": "juraj-bednar",
       "name": "Juraj Bednar",
       "twitter": "jurbed",
-      "caption": "Educator, writer, cryptoanarchist & biohacker",
+      "caption": "Educator, writer, cryptoanarchist & biohacker ([blog](https://juraj.bednar.io/))",
       "country": "sk",
       "photoUrl": "https://prague.web3privacy.info/people/juraj-bednar.jpg",
       "photo": "photos/speakers/juraj-bednar.jpg"
@@ -62,6 +62,15 @@
       "country": "cz",
       "photoUrl": "https://prague.web3privacy.info/people/dcbuilder.jpg",
       "photo": "photos/speakers/dcbuilder-eth.jpg"
+    },
+    {
+      "id": "alona-shevchenko",
+      "name": "Alona Shevchenko",
+      "twitter": "cryptodrftng",
+      "caption": "Unapologetic Ukrainian behind [Ukraine DAO](https://ukrainedao.love/) & [Kyiv Tech Summit](https://www.kyivtechsummit.com/)",
+      "country": "ua",
+      "photoUrl": "https://prague.web3privacy.info/people/alona-shevchenko.jpg",
+      "photo": "photos/speakers/alona-shevchenko.jpg"
     }
   ]
 }
