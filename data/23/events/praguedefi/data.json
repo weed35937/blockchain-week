@@ -88,6 +88,54 @@
       "caption": "Interlay",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2KTejmlWgfbPN6UOwc3r8M/4b36a8c88f2456b938c3a86cde658125/alexei_1_lCziUzp.jpeg",
       "photo": "photos/speakers/alexei-zamyatin.jpeg"
+    },
+    {
+      "id": "avihu-mordechai-levy",
+      "name": "Avihu Mordechai Levy",
+      "twitter": "avihu28",
+      "caption": "StarkWare",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3OcAiHEyvxOESkY1Vz2bc4/79d4bd550c7d7dec2b70ca1682aa59bf/Avihu_Mordechai_Levy.jpg",
+      "photo": "photos/speakers/avihu-mordechai-levy.jpg"
+    },
+    {
+      "id": "lior-zaks",
+      "name": "Lior Zaks",
+      "twitter": "liorzaks",
+      "caption": "Stake Capital",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1O8L8aTGH6j2AJvYeMmr2R/d20c608206c3c4666c234b270be7eff2/Lior_Zaks.jpg",
+      "photo": "photos/speakers/lior-zaks.jpg"
+    },
+    {
+      "id": "jogundas-armaitis",
+      "name": "Jogundas Armaitis",
+      "twitter": "jogundas",
+      "caption": "Hoyu.io",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6mfqbVOtdXzZRxy5h5IP5d/3a1fdc1368237f2f8969abb4e0f56f57/Jogundas_Armaitis.jpg",
+      "photo": "photos/speakers/jogundas-armaitis.jpg"
+    },
+    {
+      "id": "arseneeth",
+      "name": "arseneeth",
+      "twitter": "arseneeth",
+      "caption": "Daoism Systems",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/MjzmNYDWxSeGqYwC3CRA2/88952a0b6da45ef9b85e62e95359f2e2/arseneeth.jpg",
+      "photo": "photos/speakers/arseneeth.jpg"
+    },
+    {
+      "id": "friederike-ernst",
+      "name": "Friederike Ernst",
+      "twitter": "tw_tter",
+      "caption": "Gnosis",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1AKGxFNa6WyV5YdFZvhin5/78d032aa8af179c99c81c753f73bdce1/Friederike_Ernst.jpeg",
+      "photo": "photos/speakers/friederike-ernst.jpeg"
+    },
+    {
+      "id": "gaspard-peduzzi",
+      "name": "Gaspard Peduzzi",
+      "twitter": "GaspardPeduzzi",
+      "caption": "APWine",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6RcO7FFJhyeTW2rmtFTx9m/e7bcb7071eb63dcb9d2dc25c29a3a2aa/Gaspard_Peduzzi.jpeg",
+      "photo": "photos/speakers/gaspard-peduzzi.jpeg"
     }
   ]
 }
