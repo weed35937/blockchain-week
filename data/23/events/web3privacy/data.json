@@ -23,6 +23,7 @@
       "name": "PG",
       "twitter": "PG_CDG",
       "caption": "Organizing [ETHRome](https://ethrome.org) w/ [SpaghettETH](https://linktr.ee/spaghetteth) & [urbe.eth](https://linktr.ee/urbe.eth), [w3pn](https://web3privacy.info) advocate",
+      "country": "it",
       "photoUrl": "https://prague.web3privacy.info/people/pg.jpg",
       "photo": "photos/speakers/pg.jpg"
     },
@@ -84,7 +85,7 @@
       "id": "dcbuilder-eth",
       "name": "dcbuilder.eth",
       "twitter": "DCbuild3r",
-      "caption": "Research engineer of [Worldcoin](https://worldcoin.org/), ZKML & Rust enthusiast",
+      "caption": "Research engineer at [Worldcoin](https://worldcoin.org/), ZKML & Rust enthusiast",
       "country": "cz",
       "photoUrl": "https://prague.web3privacy.info/people/dcbuilder.jpg",
       "photo": "photos/speakers/dcbuilder-eth.jpg"
