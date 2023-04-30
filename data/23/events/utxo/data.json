@@ -93,6 +93,25 @@
       "photo": "photos/speakers/bozena-rezab.jpg"
     },
     {
+      "id": "dalibor-cerny",
+      "name": "Dalibor Černý",
+      "twitter": "daliborcerny",
+      "orgs": "Legal mind at [sparring.io](https://sparring.io/)\n",
+      "caption": "Právník se zaměřením na web3, inovace a udržitelnost\n",
+      "desc": "I am an attorney with focus on web3, decentralization, innovation and regenerative solutions. I help both start-ups and mature companies setting up international structures and DAOs, I support with regulatory issues of new technologies, fintech, DeFi, Refi, circularity and sustainability.",
+      "tracks": [
+        "zaklady",
+        "dao",
+        "regulace"
+      ],
+      "country": "cz",
+      "photos": [
+        "web:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/dalibor-cerny-web.jpg",
+      "photo": "photos/speakers/dalibor-cerny.jpg"
+    },
+    {
       "id": "david-stancel",
       "name": "David Stancel",
       "twitter": "dave_stancel",
@@ -853,6 +872,24 @@
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/vladimir-pinker-web.jpg",
       "photo": "photos/speakers/vladimir-pinker.jpg"
+    },
+    {
+      "id": "vojtech-olbrech",
+      "name": "Vojtěch Olbrech",
+      "twitter": "vojtecholbrecht",
+      "orgs": "Blockchain Strategist [CostraLabs](https://www.costralabs.com/), Researcher [PRIGO university](https://www.vs-prigo.cz/)\n",
+      "caption": "Blockchain Strategist @CostraLabs, Researcher @PRIGO\n",
+      "desc": "Focusing on NFT communities, DAO governance and blockchain as an institutional technology as blockchain strategist @ CostraLabs and researcher @ PRIGO university.",
+      "tracks": [
+        "defi",
+        "dao"
+      ],
+      "country": "cz",
+      "photos": [
+        "web:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/vojtech-olbrech-web.jpg",
+      "photo": "photos/speakers/vojtech-olbrech.jpg"
     },
     {
       "id": "vojtech-pour",
