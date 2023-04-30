@@ -69,7 +69,8 @@
       "country": "cz",
       "lead": true,
       "photos": [
-        "web:jpg"
+        "web:jpg",
+        "twitter:jpg"
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/artur-sychov-web.jpg",
       "photo": "photos/speakers/artur-sychov.jpg"
@@ -87,7 +88,8 @@
       "country": "cz",
       "lead": true,
       "photos": [
-        "web:jpg"
+        "web:jpg",
+        "twitter:jpg"
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/bozena-rezab-web.jpg",
       "photo": "photos/speakers/bozena-rezab.jpg"
@@ -106,7 +108,8 @@
       ],
       "country": "cz",
       "photos": [
-        "web:jpg"
+        "web:jpg",
+        "twitter:jpg"
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/dalibor-cerny-web.jpg",
       "photo": "photos/speakers/dalibor-cerny.jpg"
@@ -886,7 +889,8 @@
       ],
       "country": "cz",
       "photos": [
-        "web:jpg"
+        "web:jpg",
+        "twitter:jpg"
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/vojtech-olbrech-web.jpg",
       "photo": "photos/speakers/vojtech-olbrech.jpg"
