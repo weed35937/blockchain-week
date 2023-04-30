@@ -136,6 +136,14 @@
       "caption": "APWine",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6RcO7FFJhyeTW2rmtFTx9m/e7bcb7071eb63dcb9d2dc25c29a3a2aa/Gaspard_Peduzzi.jpeg",
       "photo": "photos/speakers/gaspard-peduzzi.jpeg"
+    },
+    {
+      "id": "tom-mclean",
+      "name": "Tom McLean",
+      "twitter": "TomMcLn",
+      "caption": "Vega Protocol",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2ckBjpwl4OaiKy9aveVICm/3ff42a801f35ad85c790363361073ac7/Tom_McLean.jpg",
+      "photo": "photos/speakers/tom-mclean.jpg"
     }
   ]
 }
