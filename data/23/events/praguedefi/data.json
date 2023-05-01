@@ -144,6 +144,14 @@
       "caption": "Vega Protocol",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2ckBjpwl4OaiKy9aveVICm/3ff42a801f35ad85c790363361073ac7/Tom_McLean.jpg",
       "photo": "photos/speakers/tom-mclean.jpg"
+    },
+    {
+      "id": "james-glasscock",
+      "name": "James Glasscock",
+      "twitter": "0xJMG",
+      "caption": "Reserve",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/4wMGzz3ucZhE3SaM3OLFjQ/9e2fc753e7b2ee1d5791f695d2764409/James_Glasscock.png",
+      "photo": "photos/speakers/james-glasscock.png"
     }
   ]
 }
