@@ -98,6 +98,15 @@
       "country": "ua",
       "photoUrl": "https://prague.web3privacy.info/people/alona-shevchenko.jpg",
       "photo": "photos/speakers/alona-shevchenko.jpg"
+    },
+    {
+      "id": "ameen-soleimani",
+      "name": "Ameen Soleimani",
+      "twitter": "ameensol",
+      "caption": "Summoner of [IranUnchained](https://www.iranunchained.com/), [Privacy Pools](https://www.privacypools.com/), [MolochDAO](https://molochdao.com/)\n",
+      "country": "us",
+      "photoUrl": "https://prague.web3privacy.info/people/ameen-soleimani.jpg",
+      "photo": "photos/speakers/ameen-soleimani.jpg"
     }
   ]
 }

@@ -178,6 +178,14 @@
       "photo": "photos/speakers/luc-computer.png"
     },
     {
+      "id": "lorenzo-nardiello",
+      "name": "Lorenzo Nardiello ",
+      "twitter": "juventino448",
+      "caption": "AllianceBlock",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2fY59pAb4BUB7nM8Q07xAj/b872376e833e28e5e841848a16b4d7d8/IMG_2197_IXv8eFM.jpg",
+      "photo": "photos/speakers/lorenzo-nardiello.jpg"
+    },
+    {
       "id": "kirsten-pomales",
       "name": "Kirsten Pomales",
       "twitter": "kirstenrpomales",
@@ -234,6 +242,15 @@
       "caption": "WalletConnect",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3vKnJHKBXOlNGFxpf3IUxi/5e733a1a769e71e8c42c5db6af823b72/speaker_img_cropped_low_ryz4oZd.jpg",
       "photo": "photos/speakers/harry-bairstow.jpg"
+    },
+    {
+      "id": "filip-siroky",
+      "name": "Filip Siroky",
+      "twitter": "fisiroky",
+      "caption": "RockawayX ",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/7InO94fvl1zioUJOXE7ihV/9200b981a715d476cbc98866fa2b05b3/fsirokyphoto_djVGhnu.png",
+      "country": "cz",
+      "photo": "photos/speakers/filip-siroky.png"
     },
     {
       "id": "ferit-tuncer",
@@ -310,6 +327,14 @@
       "caption": "Tokenize.it/corpus",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/4bwxaznQugYUAIY0h5ndWa/5f2bfd92a1eda52268cad5fbf30f1aeb/Christoph4399_1_NoIjwUA.jpeg",
       "photo": "photos/speakers/christoph-jentzsch.jpeg"
+    },
+    {
+      "id": "carlo-modica",
+      "name": "Carlo Modica",
+      "twitter": "carlo_cretino50",
+      "caption": "anomanetwork",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3ttOHChDjJsJ5Yequ8sdw3/0c2f60e7a1c66a9bd1c46962e5aac509/J3g-Xl68_400x400.jpg",
+      "photo": "photos/speakers/carlo-modica.jpg"
     },
     {
       "id": "avihu-mordechai-levy",
