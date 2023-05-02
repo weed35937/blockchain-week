@@ -97,7 +97,7 @@
       "id": "osho-jha",
       "name": "Osho Jha",
       "twitter": "CryptoBroShoNYC",
-      "caption": "dClimate/Arbol",
+      "caption": "dClimate",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1fkMUIHNjF5cPKRrm3qVk1/494958de1b350ff7b8d927de0f17a76b/Osho_headshot_BW_VjN7fkO.jpg",
       "photo": "photos/speakers/osho-jha.jpg"
     },
@@ -184,6 +184,14 @@
       "caption": "AllianceBlock",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2fY59pAb4BUB7nM8Q07xAj/b872376e833e28e5e841848a16b4d7d8/IMG_2197_IXv8eFM.jpg",
       "photo": "photos/speakers/lorenzo-nardiello.jpg"
+    },
+    {
+      "id": "laurence-kirk",
+      "name": "Laurence Kirk ",
+      "twitter": "extropyLaurence",
+      "caption": " Extropy.io",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/4v90YQ1odZdJL7qvFvLK5u/2caf5e2b76d4e00d1fa87a82974aadf3/e5ecaf7b4fa490013bd899069491c5d2.jpeg",
+      "photo": "photos/speakers/laurence-kirk.jpeg"
     },
     {
       "id": "kirsten-pomales",

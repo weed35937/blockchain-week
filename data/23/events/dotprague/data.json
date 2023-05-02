@@ -77,7 +77,7 @@
       "name": "Gautham Jayasankar",
       "caption": "Polkadex",
       "twitter": "gauthamastro",
-      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/04/48EXEE_Y_400x400.jpg",
+      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/05/Gautham-Jayasankar.jpg",
       "photo": "photos/speakers/gautham-jayasankar.jpg"
     },
     {
@@ -129,6 +129,14 @@
       "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/04/3AiH6zu0_400x400.jpg",
       "country": "cz",
       "photo": "photos/speakers/petr-mensik.jpg"
+    },
+    {
+      "id": "dakota-barnett",
+      "name": "Dakota Barnett",
+      "caption": "InvArch Network",
+      "twitter": "xcastronaut",
+      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/05/Dakota_Barnett.jpg",
+      "photo": "photos/speakers/dakota-barnett.jpg"
     }
   ]
 }
