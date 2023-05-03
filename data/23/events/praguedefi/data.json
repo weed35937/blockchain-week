@@ -152,6 +152,38 @@
       "caption": "Reserve",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/4wMGzz3ucZhE3SaM3OLFjQ/9e2fc753e7b2ee1d5791f695d2764409/James_Glasscock.png",
       "photo": "photos/speakers/james-glasscock.png"
+    },
+    {
+      "id": "gabija-tuinaite",
+      "name": "Gabija Tuinaite",
+      "twitter": "sunshine_614",
+      "caption": "Mangrove",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/65sJXDM2nmGtYKwFPC2yiX/aca9f4fbd28d34f64aeb88738f97fdc9/Gabija_Tuinaite.jpg",
+      "photo": "photos/speakers/gabija-tuinaite.jpg"
+    },
+    {
+      "id": "zaki-manian",
+      "name": "Zaki Manian",
+      "twitter": "zmanian",
+      "caption": "",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/7ilSfTX6wT6nvpPQxTtMDY/e7c30cb96b6f62eab985850d9a82a3a6/Zaki_Manian.jpeg",
+      "photo": "photos/speakers/zaki-manian.jpeg"
+    },
+    {
+      "id": "marijo-radman",
+      "name": "Marijo Radman",
+      "twitter": "Marijo_Radman",
+      "caption": "Solity Network",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2CoQkdgsed7Aja7FqkVAGa/7aed1799255758776b3781342d79cd05/Marijo_Radman.jpg",
+      "photo": "photos/speakers/marijo-radman.jpg"
+    },
+    {
+      "id": "pavel-machalek",
+      "name": "Pavel Machalek",
+      "twitter": "twitter.com/microlea",
+      "caption": "Microlea",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/7Fnh6Bsq32kXewn2LfrtNK/f44b61116509f27ca1fc0f4e37940f2e/Pavel_Machalek.jpg",
+      "photo": "photos/speakers/pavel-machalek.jpg"
     }
   ]
 }

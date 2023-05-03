@@ -12,7 +12,7 @@
       "id": "filippo-franchini",
       "name": "Filippo Franchini",
       "caption": "Web3 Foundation",
-      "twitter": "filippoweb3?s=21&t=SS1JzHCvaXLKVst54FMc7A",
+      "twitter": "filippoweb3",
       "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/04/i7W7N8Mt_400x400.jpg",
       "photo": "photos/speakers/filippo-franchini.jpg"
     },
@@ -49,6 +49,14 @@
       "photo": "photos/speakers/marcel-ebert.jpeg"
     },
     {
+      "id": "dakota-barnett",
+      "name": "Dakota Barnett",
+      "caption": "InvArch Network",
+      "twitter": "xcastronaut",
+      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/05/Dakota_Barnett.jpg",
+      "photo": "photos/speakers/dakota-barnett.jpg"
+    },
+    {
       "id": "kasper-mai-jørgensen",
       "name": "Kasper Mai Jørgensen",
       "caption": "Polimec",
@@ -64,6 +72,14 @@
       "photo": "photos/speakers/pascal-brun.jpg"
     },
     {
+      "id": "gautham-jayasankar",
+      "name": "Gautham Jayasankar",
+      "caption": "Polkadex",
+      "twitter": "gauthamastro",
+      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/05/Gautham-Jayasankar.jpg",
+      "photo": "photos/speakers/gautham-jayasankar.jpg"
+    },
+    {
       "id": "vikiival",
       "name": "vikiival",
       "caption": "Kodadot",
@@ -71,14 +87,6 @@
       "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/04/Nepomenovany.png",
       "country": "sk",
       "photo": "photos/speakers/vikiival.png"
-    },
-    {
-      "id": "gautham-jayasankar",
-      "name": "Gautham Jayasankar",
-      "caption": "Polkadex",
-      "twitter": "gauthamastro",
-      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/05/Gautham-Jayasankar.jpg",
-      "photo": "photos/speakers/gautham-jayasankar.jpg"
     },
     {
       "id": "bg",
@@ -129,14 +137,6 @@
       "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/04/3AiH6zu0_400x400.jpg",
       "country": "cz",
       "photo": "photos/speakers/petr-mensik.jpg"
-    },
-    {
-      "id": "dakota-barnett",
-      "name": "Dakota Barnett",
-      "caption": "InvArch Network",
-      "twitter": "xcastronaut",
-      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/05/Dakota_Barnett.jpg",
-      "photo": "photos/speakers/dakota-barnett.jpg"
     }
   ]
 }
