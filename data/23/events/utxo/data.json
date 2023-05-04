@@ -58,6 +58,46 @@
       "photo": "photos/speakers/adam-sobotka.jpg"
     },
     {
+      "id": "anna-pichova",
+      "name": "Anna Píchová",
+      "twitter": "annapichova",
+      "bio": "Hlavní analytička",
+      "caption": "Hlavní analytička CYRRUS, a.s.\n",
+      "orgs": "[CYRRUS, a.s.](https://www.cyrrus.cz/)\n",
+      "tracks": [
+        "other"
+      ],
+      "web": {
+        "url": "https://www.linkedin.com/in/anna-p%C3%ADchov%C3%A1/"
+      },
+      "country": "cz",
+      "photos": [
+        "web:jpg",
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/anna-pichova-web.jpg",
+      "photo": "photos/speakers/anna-pichova.jpg"
+    },
+    {
+      "id": "antonin-jilek",
+      "name": "Antonín Jílek",
+      "nickname": "cryptonda",
+      "twitter": "cryptondacz",
+      "bio": "Web developer, podnikatel, nadšenec do krypta a NFT",
+      "orgs": "[Develit.io](https://develit.io/)\n",
+      "tracks": [
+        "nft"
+      ],
+      "country": "cz",
+      "desc": "Web developer, podnikatel, nadšenec do krypta a NFT. Podílí se na organizaci kryptoměnových konferencí (Cryptobyte, UTXO, Prague Blockchain Week) a je členem několika komunit (KryptoVláďa, Futureland...).\n",
+      "photos": [
+        "web:webp",
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/antonin-jilek-web.webp",
+      "photo": "photos/speakers/antonin-jilek.webp"
+    },
+    {
       "id": "artur-sychov",
       "name": "Artur Sychov",
       "twitter": "ASychov",
@@ -113,6 +153,27 @@
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/dalibor-cerny-web.jpg",
       "photo": "photos/speakers/dalibor-cerny.jpg"
+    },
+    {
+      "id": "damsky",
+      "name": "damsky",
+      "twitter": "helloitsdamsky",
+      "bio": "Chain-agnostic vizionář, community builder, Web3 Events COO",
+      "caption": "Progresivní web3 kouzelník\n",
+      "orgs": "Head of Operations v [KodaDotu](https://kodadot.xyz/) - NFTs na Polkadotu, COO v KodaConu - Web3 events\n",
+      "tracks": [
+        "zaklady",
+        "dao",
+        "spolecnost"
+      ],
+      "country": "cz",
+      "desc": "Chain-agnostic vizionář, community builder, Web3 Events COO. Progresivní web3 kouzelník.\n",
+      "photos": [
+        "web:png",
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/damsky-web.png",
+      "photo": "photos/speakers/damsky.png"
     },
     {
       "id": "david-stancel",
@@ -265,6 +326,29 @@
       "photo": "photos/speakers/jacob-jelen.jpg"
     },
     {
+      "id": "jakub-duhonsky",
+      "name": "Jakub Duhonský",
+      "twitter": "rebellingjake",
+      "bio": "Investor, liquidity provider, konzultant",
+      "caption": "Investor, liquidity provider, konzultant\n",
+      "orgs": "[Blockspace](https://blockspace.cz/)\n",
+      "tracks": [
+        "defi",
+        "regulace"
+      ],
+      "web": {
+        "url": "https://blockspace.cz/defi/"
+      },
+      "country": "cz",
+      "desc": "Investor, liqudity provider, konzultant.\n",
+      "photos": [
+        "web:png",
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/jakub-duhonsky-web.png",
+      "photo": "photos/speakers/jakub-duhonsky.png"
+    },
+    {
       "id": "jakub-jedlinsky",
       "name": "Jakub Jedlinský",
       "twitter": "Jakub_Jedlinsky",
@@ -283,6 +367,27 @@
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/jakub-jedlinsky-web.jpg",
       "photo": "photos/speakers/jakub-jedlinsky.jpg"
+    },
+    {
+      "id": "jakub-tesar",
+      "name": "Jakub Tesař",
+      "bio": "Innovation, Digital & Emerging Tech Lead ve společnosti EY",
+      "caption": "Innovation, Digital & Emerging Tech Lead v EY\n",
+      "orgs": "[EY](https://www.ey.com/en_gl)\n",
+      "tracks": [
+        "eth",
+        "defi",
+        "nft"
+      ],
+      "web": {
+        "url": "https://www.ey.com/en_gl"
+      },
+      "country": "cz",
+      "photos": [
+        "web:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/jakub-tesar-web.jpg",
+      "photo": "photos/speakers/jakub-tesar.jpg"
     },
     {
       "id": "jan-cerny",
@@ -339,6 +444,29 @@
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/jan-zibner-web.jpg",
       "photo": "photos/speakers/jan-zibner.jpg"
+    },
+    {
+      "id": "jana-kubatova",
+      "name": "Jana Kubátová",
+      "twitter": "DivergentsNFT",
+      "bio": "Iniciátorka vlastních NFT projektů, konzultantka externím NFT projektům",
+      "caption": "Iniciátorka a konzultantka NFT projektů\n",
+      "orgs": "[NFTense/DVRG](https://nftense.com/), [The Divergents](https://thedivergents.io/), [Here/After The Art](https://www.hereaftertheart.com/)\n",
+      "tracks": [
+        "nft",
+        "spolecnost"
+      ],
+      "web": {
+        "url": "https://thedivergents.io/"
+      },
+      "country": "cz",
+      "desc": "Jana vystudovala Arts management. V letech 2008 - 2015 realizovala na 50 solo a kolektivních výstav českých a slovenských umělců pod vlastní NGO Inter-Art. Šest let působila jako projektová manažerka a copywriterka v kreativních digitálních agenturách. Poslední dva roky se věnuje rozvoji web3 a uměleckým NFT projektům jako např. The Divergents a Here/After The Art, a své know-how předává firmám se zájmem vstoupit do světa NFT a web3.\n",
+      "photos": [
+        "web:jpg",
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/jana-kubatova-web.jpg",
+      "photo": "photos/speakers/jana-kubatova.jpg"
     },
     {
       "id": "jiri-cepelka",
@@ -468,6 +596,28 @@
       "photo": "photos/speakers/kirill-juran.jpg"
     },
     {
+      "id": "lc-young",
+      "name": "LC Young",
+      "twitter": "LichiehY",
+      "bio": "Founder of Alphalytics and Bshare",
+      "caption": "LC Young, Founder of Alphalytics and Bshare\n",
+      "orgs": "[Alphalytics.ai](https://alphalytics.ai/), [Bshare.io](https://bshare.io/)\n",
+      "tracks": [
+        "spolecnost"
+      ],
+      "web": {
+        "url": "https://thedivergents.io/"
+      },
+      "country": "en",
+      "desc": "LC, a serial entrepreneur and expert in digital marketing, data analytics, and product development. LC is the founder of Alphalytics and Bshare.Alphalytics is a data analytics platform that provides true market transparency through on-chain dynamic wallet tagging analysis. Bshare is a crypto education platform and the leading Mandarin Chinese on-chain data channel.\n",
+      "photos": [
+        "web:jpg",
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/lc-young-web.jpg",
+      "photo": "photos/speakers/lc-young.jpg"
+    },
+    {
       "id": "libor-flossler",
       "nickname": "Investocka",
       "name": "Libor Flössler",
@@ -576,6 +726,53 @@
       "photo": "photos/speakers/martin-janik.jpg"
     },
     {
+      "id": "martin-matejka",
+      "name": "Martin Matejka",
+      "twitter": "MatejkaMar",
+      "bio": "Founder a vývojář platformy",
+      "caption": "Founder a vývojář platformy Firefish.io\n",
+      "orgs": "[firefish.io](https://firefish.io/)\n",
+      "tracks": [
+        "btc",
+        "defi",
+        "spolecnost"
+      ],
+      "web": {
+        "url": "https://firefish.io/"
+      },
+      "country": "sk",
+      "desc": "Martin se celý život pohybuje na finančních trzích. V rámci tradičních financí dlouhé roky vedl úspěšný tradingový tým obchodující s energetickými komoditami. Od roku 2021 se plně věnuje Bitcoinu. Nejdříve spoluzaložil hedge fond Stratosphere a od loňského roku pak vyvíjí platformu Firefish.io, která umožňuje využití Bitcoinu jako finančního kolaterálu.\n",
+      "photos": [
+        "web:png",
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/martin-matejka-web.png",
+      "photo": "photos/speakers/martin-matejka.png"
+    },
+    {
+      "id": "milan-marcak",
+      "name": "Milan Marcak",
+      "twitter": "milan_marcak",
+      "bio": "Grafik, gaming expert",
+      "caption": "Grafik, gaming expert @Altlift\n",
+      "orgs": "[Altlift](https://www.altlift.cz/)\n",
+      "tracks": [
+        "dao",
+        "nft"
+      ],
+      "web": {
+        "url": "https://www.mailn.cz/"
+      },
+      "country": "cz",
+      "desc": "Milan je součástí marketingového oddělení a v jeho gesci je tvorba veškerých vizuálů spojených se společností Altlift. Kromě toho se soustředí na analýzy herních NFT projektů.\n",
+      "photos": [
+        "web:jpg",
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/milan-marcak-web.jpg",
+      "photo": "photos/speakers/milan-marcak.jpg"
+    },
+    {
       "id": "sodomak",
       "name": "Milan Půlkrábek",
       "nickname": "Sodomák",
@@ -593,13 +790,57 @@
         "spolecnost"
       ],
       "country": "cz",
-      "lead": true,
       "photos": [
         "web:jpg",
         "twitter:jpg"
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/sodomak-web.jpg",
       "photo": "photos/speakers/sodomak.jpg"
+    },
+    {
+      "id": "nikola",
+      "name": "Nikola",
+      "nickname": "Bihanojko",
+      "twitter": "bihanojko",
+      "bio": "Data scientist, crypto & web3 nadšenec",
+      "orgs": "[Futureland DAO](https://futureland.io/)\n",
+      "caption": "Data scientist, crypto & web3 nadšenec\n",
+      "tracks": [
+        "eth",
+        "dao",
+        "nft"
+      ],
+      "country": "cz",
+      "desc": "Data scientist @ Gen, člen Futureland DAO  \n",
+      "photos": [
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/nikola-twitter.jpg",
+      "photo": "photos/speakers/nikola.jpg"
+    },
+    {
+      "id": "ondrej-pilny",
+      "name": "Ondřej Pilný",
+      "twitter": "Ondrej_Pilny",
+      "bio": "Crypto analytik, investor, spoluzakladatel baserank.io",
+      "orgs": "[baserank.io](https://baserank.io/)\n",
+      "caption": "Crypto analytik, investor, spoluzakladatel baserank.io\n",
+      "tracks": [
+        "zaklady",
+        "defi",
+        "alty"
+      ],
+      "web": {
+        "url": "https://baserank.io/"
+      },
+      "country": "cz",
+      "desc": "Crypto analytik, investor, spoluzakladatel baserank.io.\n",
+      "photos": [
+        "web:jpg",
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/ondrej-pilny-web.jpg",
+      "photo": "photos/speakers/ondrej-pilny.jpg"
     },
     {
       "id": "ondrej-rehacek",
@@ -620,6 +861,26 @@
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/ondrej-rehacek-web.jpg",
       "photo": "photos/speakers/ondrej-rehacek.jpg"
+    },
+    {
+      "id": "pablo-cz",
+      "name": "PabloCZ",
+      "twitter": "PabloCzeth",
+      "bio": "30 let v TELCO, 2 roky zájem o web3, DI, DAO, VR/AR",
+      "orgs": "Obchodní ředitel v [MOLKI VISION](https://molki.vision/#1), moderátor ve [Futureland DAO](https://futureland.io/)\n",
+      "caption": "30 let v TELCO, 2 roky zájem o web3, DI, DAO, VR/AR\n",
+      "tracks": [
+        "dao",
+        "nft"
+      ],
+      "country": "cz",
+      "desc": "30 let v TELCO sféře ve vlastní firmě. Nyní obchodní ředitel v MOLKI VISION. Zájem o WEB3, AR/VR, ale hlavně jsem NETWORKER, rád spojuji lidi, kteří by se měli poznat... \n",
+      "photos": [
+        "web:png",
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/pablo-cz-web.png",
+      "photo": "photos/speakers/pablo-cz.png"
     },
     {
       "id": "pavol-luptak",
@@ -675,6 +936,29 @@
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/petr-lukac-web.jpg",
       "photo": "photos/speakers/petr-lukac.jpg"
+    },
+    {
+      "id": "petr-mara",
+      "name": "Petr Mára",
+      "twitter": "petrmara",
+      "bio": "Tech Optimist. Creating content on the Internet. Digital Art Collector.",
+      "caption": "Tech Optimist. Creating content on the Internet.\n",
+      "tracks": [
+        "zaklady",
+        "defi",
+        "nft"
+      ],
+      "web": {
+        "url": "https://linktr.ee/petrmara"
+      },
+      "country": "cz",
+      "lead": true,
+      "photos": [
+        "web:jpg",
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/petr-mara-web.jpg",
+      "photo": "photos/speakers/petr-mara.jpg"
     },
     {
       "id": "petr-mensik",
@@ -764,6 +1048,54 @@
       "photo": "photos/speakers/radim-kozub.jpg"
     },
     {
+      "id": "roman-valihrach",
+      "name": "Roman Valihrach",
+      "twitter": "RValihrach",
+      "bio": "Zakladatel a CEO Coinmate",
+      "orgs": "[Coinmate](https://coinmate.io/cs)\n",
+      "caption": "Crypto analytik, investor, spoluzakladatel baserank.io\n",
+      "tracks": [
+        "zaklady",
+        "btc",
+        "regulace",
+        "spolecnost"
+      ],
+      "web": {
+        "url": "https://coinmate.io/cs"
+      },
+      "country": "cz",
+      "lead": true,
+      "desc": "O Bitcoinu jsem se dozvěděl ve 2011 a od té doby mě nepřestal fascinovat. Posouvat jeho myšlenky dále ale není jednoduché. Vysvětli \"proč Bitcoin?\" během pár minut, fakticky není možné. Abych podpořil adopci kryptoměn, rozhodl jsem se v roce 2013 budovat Coinmate coby bezpečnou a férovou kryptoburzu. Bitcoin může v budoucnu fungovat jako kotva ve světě nekontrolovatelně rostoucího množství peněz a dluhů. Technologie blockchainu má potenciál změnit finanční trhy a internet.\n",
+      "photos": [
+        "web:png",
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/roman-valihrach-web.png",
+      "photo": "photos/speakers/roman-valihrach.png"
+    },
+    {
+      "id": "samuela-davidova",
+      "name": "Samuela Davidová",
+      "twitter": "samremotegirl",
+      "bio": "Thinker | Doer | Rethinking Life",
+      "orgs": "[The Freeist](https://thefreeist.com/)\n",
+      "caption": "Thinker | Doer | Rethinking Life\n",
+      "tracks": [
+        "spolecnost"
+      ],
+      "web": {
+        "url": "https://thefreeist.com/"
+      },
+      "country": "cz",
+      "desc": "Samuela je zástupcem Liberlandu pro Gruzii, kde žije. Přednáší po světě o individuální svobodě nebo aplikovatelné praktické individuální filosofii. Díky svému non-konformnímu myšlení poukazuje na nevšední perspektivy možností života i práce - na téma potenciálu práce na dálku ji sledují tisíce lidí z celého světa hlavně na LinkedInu. V tomto roce vydá Samuela knihu s jejím projektem The Freeist, který ukazuje, jak můžeme prakticky rozšířit své možnosti pro větší svobodu, stejně tak jako to, co nás od toho drží zpět.\n",
+      "photos": [
+        "web:png",
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/samuela-davidova-web.png",
+      "photo": "photos/speakers/samuela-davidova.png"
+    },
+    {
       "id": "stanislav-simek",
       "name": "Stanislav Šimek",
       "web": {
@@ -782,6 +1114,31 @@
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/stanislav-simek-web.jpg",
       "photo": "photos/speakers/stanislav-simek.jpg"
+    },
+    {
+      "id": "tereza-etheri",
+      "name": "Tereza",
+      "nickname": "eTheri",
+      "twitter": "teri_eth",
+      "bio": "Content creator and social media manager, NFT nadšenec",
+      "orgs": "[Futureland](https://futureland.io/)\n",
+      "caption": "Content creator and social media manager, NFT nadšenec\n",
+      "tracks": [
+        "zaklady",
+        "dao",
+        "nft"
+      ],
+      "web": {
+        "url": "https://futureland.io/"
+      },
+      "country": "cz",
+      "desc": "Content creator and social media manager, NFT nadšenec.\n",
+      "photos": [
+        "web:jpg",
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/tereza-etheri-web.jpg",
+      "photo": "photos/speakers/tereza-etheri.jpg"
     },
     {
       "id": "tereza-starostova",
