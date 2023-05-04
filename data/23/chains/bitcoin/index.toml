@@ -1,6 +1,6 @@
 name = "Bitcoin"
 symbol = "BTC"
-logo = "logo.svg"
+logo = "logo.webp"
 
 [links]
 web = "https://bitcoin.org/"

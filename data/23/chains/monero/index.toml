@@ -1,6 +1,6 @@
 name = "Monero"
 symbol = "XMR"
-logo = "logo.svg"
+logo = "logo.webp"
 
 [links]
 web = "https://www.getmonero.org/"
