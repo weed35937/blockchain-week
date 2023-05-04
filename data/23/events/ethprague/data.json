@@ -104,7 +104,8 @@
     {
       "id": "paul-graham-raven",
       "name": "Paul Graham Raven",
-      "caption": "Lund University",
+      "twitter": "https://paulgrahamraven.com/",
+      "caption": "velcro-city.co.uk",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/4YoVeXmas3gVS2txjsJyuf/ce55b93fd088608cb4a519f7d65779f9/cropped-headshot-in-lift_3gF6D6C.jpg",
       "photo": "photos/speakers/paul-graham-raven.jpg"
     },
