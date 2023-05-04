@@ -165,7 +165,7 @@
       "id": "zaki-manian",
       "name": "Zaki Manian",
       "twitter": "zmanian",
-      "caption": "",
+      "caption": "Sommelier / Iqlusion",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/7ilSfTX6wT6nvpPQxTtMDY/e7c30cb96b6f62eab985850d9a82a3a6/Zaki_Manian.jpeg",
       "photo": "photos/speakers/zaki-manian.jpeg"
     },
@@ -193,6 +193,30 @@
       "caption": "Tellor",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/71kKJMqZ1NfmQdw0rQx1k2/c1cdd2970cffe9a525a9b9b6bf77c751/Nicholas_Fett_-_CTO_-_Tellor_-_thefett.jpeg",
       "photo": "photos/speakers/thefett.jpeg"
+    },
+    {
+      "id": "matteo",
+      "name": "Matteo",
+      "twitter": "0xmattegoat",
+      "caption": "Pragma Oracle",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3iSl7arCHYC2jLoh7UPt7Q/c05a17e172cb3f0d450b9ec097be5768/Matteo.jpeg",
+      "photo": "photos/speakers/matteo.jpeg"
+    },
+    {
+      "id": "cyrille-pastour",
+      "name": "Cyrille Pastour",
+      "twitter": "CyrillePastour",
+      "caption": "Swap Finance",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/70I2euMhP3NZ64ZiMI4i5R/c0d35e77ac6d1ee0b381620bb2a96709/Cyrille_Pastour.png",
+      "photo": "photos/speakers/cyrille-pastour.png"
+    },
+    {
+      "id": "yaron-velner",
+      "name": "Yaron Velner",
+      "twitter": "yaron_velner",
+      "caption": "B.Protocol",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3QnwljRkHiO0AK0gVtmSxo/23451de5a9892027851dc3d57ab3084f/Yaron_Velner.jpeg",
+      "photo": "photos/speakers/yaron-velner.jpeg"
     }
   ]
 }
