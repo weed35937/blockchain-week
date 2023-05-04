@@ -1,0 +1,36 @@
+name = "Chain3"
+#shortname = ""
+types = ["conference"]
+status = "planning"
+chains = []
+org = "[blockWise](https://blockwise.sk/) x [Sparring](https://sparring.io/) x Crypto Hub Slovakia"
+dri = ""
+poc = ""
+date = "2023-06-06"
+days = 1
+times = "14:00-22:00"
+venues = ["pragovka-hub"]
+languages = ["czech", "slovak"]
+attendees = 120
+#tags = [""]
+description = '''
+Vítame ťa na Chain3, podujatí blockchain a web3 komunity, ktoré je otvorené pre všetkých! 
+
+Či už si expert na blockchain alebo zvedavý nováčik, pozývame ťa, aby si sa k nám pripojil a strávil s nami deň plný inšpirácie, vzdelávania a nadväzovania kontaktov. Naši odborní rečníci a pútavé panelové diskusie vás vybavia znalosťami a poznatkami, ktoré vám pomôžu zorientovať sa v tomto rýchlo sa rozvíjajúcom odvetví a objaviť nové príležitosti.
+
+Okrem informatívnych panelových diskusií pre teba chystáme aj niekoľko zábavných a interaktívnych aktivít, ktoré ti pomôžu nadviazať kontakt s ostatnými účastníkmi a zabaviť sa. Budeš tak mať možnosť nadviazať kontakty so zaujímavými ľudmi z webu3 a dozvedieť sa o najnovších inováciách v oblasti blockchainu.
+
+A čo je najlepšie, konferencia Chain3 je úplne zadarmo a otvorená pre každého. Príď sa teda zoznámiť s ďalšími nadšencami krypta a webu3, objav najnovšie novinky v tomto odvetví a staň sa členom našej web3 komunity.
+
+Nenechaj si ujsť túto jedinečnú príležitosť byť súčasťou budúcnosti webu3. Pridaj sa k nám na Chain3 už 6. júna a staň sa súčasťou tohto výnimočného podujatia!
+'''
+logo = "logo.png"
+
+[links]
+twitter = "https://twitter.com/chain3events"
+telegram = "https://t.me/chain3event"
+
+#[registration]
+#type = "tickets"
+#link = ""
+#status = "available"

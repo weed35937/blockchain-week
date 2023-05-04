@@ -1,0 +1,12 @@
+name = "Pragovka HUB"
+eventTypes = ["conference", "hackathon", "party", "meetup"]
+capacity = 120
+address = "Kolbenova 923/34a 190 00, Praha 9-Vysočany"
+mapUrl = "https://goo.gl/maps/AomTsLzjsRxYacRKA"
+description = '''
+Smaller industrial space which suits for various types of events. You can find here vintage furniture, table windows and iconic columns.
+'''
+photo = "photo.jpg"
+
+[links]
+web = "https://pragovka.com/en/space/hub-cs-16"
