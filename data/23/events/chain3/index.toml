@@ -12,7 +12,7 @@ times = "14:00-22:00"
 venues = ["pragovka-hub"]
 languages = ["czech", "slovak"]
 attendees = 120
-#tags = [""]
+tags = ["web3", "crypto", "metaverse", "nft"]
 description = '''
 Vítame ťa na Chain3, podujatí blockchain a web3 komunity, ktoré je otvorené pre všetkých! 
 
