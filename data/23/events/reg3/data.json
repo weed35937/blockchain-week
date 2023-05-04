@@ -1,0 +1,13 @@
+{
+  "speakers": [
+    {
+      "id": "ondrej-kovarik",
+      "name": "Ondřej Kovařík",
+      "caption": "Member of the Committee on Economic and Monetary Affairs at European Parliament",
+      "twitter": "OKovarikMEP",
+      "photoUrl": "https://uploads-ssl.webflow.com/6419d553c89ebe398c7c8116/64525cfb49d6f9332c5181fd_1609757832596.jpg",
+      "country": "cz",
+      "photo": "photos/speakers/ondrej-kovarik.jpg"
+    }
+  ]
+}
