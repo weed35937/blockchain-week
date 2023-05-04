@@ -1,0 +1,54 @@
+{
+  "speakers": [
+    {
+      "id": "alexander-mitrovich",
+      "name": "Alexander Mitrovich",
+      "caption": "CEO",
+      "twitter": "AleksandaMitro1",
+      "photoUrl": "https://polkadotnft.xyz/wp-content/uploads/2023/05/Aleksandar_Mitrovic-300x300-1.jpg",
+      "photo": "photos/speakers/alexander-mitrovich.jpg"
+    },
+    {
+      "id": "daniel-vaculik",
+      "name": "Daniel Vaculík",
+      "caption": "Project and community managerMember of the leading Council",
+      "twitter": "FrodolBohemian",
+      "photoUrl": "https://polkadotnft.xyz/wp-content/uploads/2023/05/Daniel_Vaculik.jpg",
+      "country": "cz",
+      "photo": "photos/speakers/daniel-vaculik.jpg"
+    },
+    {
+      "id": "marta-adamczyk",
+      "name": "Marta Adamczyk",
+      "caption": "Technology Evangelist",
+      "twitter": "madamczyk0",
+      "photoUrl": "https://polkadotnft.xyz/wp-content/uploads/2023/05/Marta_Adamczyk.jpg",
+      "country": "nz",
+      "photo": "photos/speakers/marta-adamczyk.jpg"
+    },
+    {
+      "id": "ekaterina-voronina",
+      "name": "Ekaterina Voronina",
+      "caption": "Growth Development Lead - EMEA",
+      "twitter": "VaraNetwork",
+      "photoUrl": "https://polkadotnft.xyz/wp-content/uploads/2023/05/katarina-min-300x300-1.jpg",
+      "photo": "photos/speakers/ekaterina-voronina.jpg"
+    },
+    {
+      "id": "dakota-barnett",
+      "name": "Dakota Barnett",
+      "caption": "FounderCEO",
+      "twitter": "InvArchNetwork",
+      "photoUrl": "https://polkadotnft.xyz/wp-content/uploads/2023/05/Dakota_Barnett-300x300-1.jpg",
+      "photo": "photos/speakers/dakota-barnett.jpg"
+    },
+    {
+      "id": "nicholas-douzinas",
+      "name": "Nicholas Douzinas",
+      "caption": "Co-Founder",
+      "twitter": "AjunaNetwork",
+      "photoUrl": "https://polkadotnft.xyz/wp-content/uploads/2023/05/RZX4CLU_400x400-300x300-1.jpg",
+      "photo": "photos/speakers/nicholas-douzinas.jpg"
+    }
+  ]
+}

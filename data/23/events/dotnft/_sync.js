@@ -1,20 +1,19 @@
 const peopleMapper = {
-  "damsky": { country: "cz" },
-  "Petr Mensik": { country: "cz" },
-  "vikiival": { country: "sk" },
+  "Daniel Vaculík": { country: "cz" },
+  "Marta Adamczyk": { country: "nz" },
 };
 
 export async function data(tools) {
-  const $ = await tools.loadHtmlUrl("https://dotprague.xyz/speakers/");
+  const $ = await tools.loadHtmlUrl("https://polkadotnft.xyz/");
   const out = { speakers: [] };
 
-  for (const el of $("div.brxe-dmokxq.brxe-div").toArray()) {
+  for (const el of $("div.speakers-slide").toArray()) {
     const name = $("h3", el).text();
 
     const item = {
       id: tools.formatId(name),
       name,
-      caption: $("a.brxe-text-basic", el).text(),
+      caption: $("p.brxe-text-basic", el).text(),
       twitter: $('a[href^="https://twitter.com"]', el).attr("href")?.replace(
         "https://twitter.com/",
         "",
