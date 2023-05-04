@@ -19,6 +19,7 @@ const peopleMapper = {
   "Julie Šislerová": { country: "cz" },
   "Kateřina Škarabelová": { country: "cz" },
   "Matej Curda": { country: "cz" },
+  "Žil J Vostalová": { country: "cz" },
 };
 
 export async function data(tools) {

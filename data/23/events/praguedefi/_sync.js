@@ -8,6 +8,7 @@ const peopleMapper = {
   "Anna George": { country: "pt" },
   "Julien Bouteloup": { country: "ch" },
   "Stanislav Šimek": { country: "cz" },
+  "Pavel Machalek": { country: "cz" },
 };
 
 export async function data($) {
