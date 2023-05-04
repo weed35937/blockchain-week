@@ -150,7 +150,7 @@
       "name": "James Glasscock",
       "twitter": "0xJMG",
       "caption": "Reserve",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/4wMGzz3ucZhE3SaM3OLFjQ/9e2fc753e7b2ee1d5791f695d2764409/James_Glasscock.png",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/4wMGzz3ucZhE3SaM3OLFjQ/e806110522cb65775e82c3606d51f001/James_Glasscock.png",
       "photo": "photos/speakers/james-glasscock.png"
     },
     {
@@ -184,6 +184,14 @@
       "caption": "Microlea",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/7Fnh6Bsq32kXewn2LfrtNK/f44b61116509f27ca1fc0f4e37940f2e/Pavel_Machalek.jpg",
       "photo": "photos/speakers/pavel-machalek.jpg"
+    },
+    {
+      "id": "thefett",
+      "name": "thefett",
+      "twitter": "themandalore9",
+      "caption": "Tellor",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/71kKJMqZ1NfmQdw0rQx1k2/e5a969644234bfd92b88a024c43f7ae9/Nicholas_Fett_-_CTO_-_Tellor_-_thefett.jpg",
+      "photo": "photos/speakers/thefett.jpg"
     }
   ]
 }

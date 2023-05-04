@@ -1,6 +1,14 @@
 {
   "speakers": [
     {
+      "id": "wlodek-gogloza",
+      "name": "Wlodek Gogloza",
+      "twitter": "wgogloza",
+      "caption": " Golem Foundation ",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1wQqEVRsXJDQANFhmhZT2f/7702edcb01e53bae0358641dbcace5db/wlodekgogloza_8HHBoFc.jpg",
+      "photo": "photos/speakers/wlodek-gogloza.jpg"
+    },
+    {
       "id": "vitalik-buterin",
       "name": "Vitalik Buterin",
       "twitter": "VitalikButerin",
@@ -51,6 +59,13 @@
       "photo": "photos/speakers/stani-kulechov.png"
     },
     {
+      "id": "saul-martin",
+      "name": "Saul Martin",
+      "caption": "Nethermind",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1XzbVlMlPfJaRgen4HdAI6/ad544bd662525e5d1a499aaa05c41efc/PIC_O8fwdfS.jpg",
+      "photo": "photos/speakers/saul-martin.jpg"
+    },
+    {
       "id": "sahil-sen",
       "name": "Sahil Sen",
       "twitter": "sensahil",
@@ -69,6 +84,14 @@
       "photo": "photos/speakers/rhys-williams.jpg"
     },
     {
+      "id": "radek-svarz",
+      "name": "Radek Svarz",
+      "twitter": "radk",
+      "caption": "",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/LIGdLTirbq6omYlC9dG0X/3933f16fa7335d1eb0e1d8764ef633fd/2020_radek_profile_-_face_aReCqT8.jpg",
+      "photo": "photos/speakers/radek-svarz.jpg"
+    },
+    {
       "id": "puncar",
       "name": "Puncar",
       "twitter": "Puncar_DeFi",
@@ -76,6 +99,13 @@
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/7IqmiO7YkGntiVjdwM9lBw/cedbb36bdead5e4cc8cf11da150157ba/Puncar_PFP_wn7dq1c.jpg",
       "country": "us",
       "photo": "photos/speakers/puncar.jpg"
+    },
+    {
+      "id": "paul-graham-raven",
+      "name": "Paul Graham Raven",
+      "caption": "Lund University",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/4YoVeXmas3gVS2txjsJyuf/ce55b93fd088608cb4a519f7d65779f9/cropped-headshot-in-lift_3gF6D6C.jpg",
+      "photo": "photos/speakers/paul-graham-raven.jpg"
     },
     {
       "id": "paul-gadi",
@@ -161,6 +191,14 @@
       "photo": "photos/speakers/marcus-aurelius.png"
     },
     {
+      "id": "maksim-izmaylov",
+      "name": "Maksim Izmaylov ",
+      "twitter": "https://Twitter.com/kvakes",
+      "caption": "kvakes.com",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1J0G2MNohOurDI1iBOXUQ4/40b282db2b73375c6e1edc20693df56e/userpic-new-square_NX26Zit.jpg",
+      "photo": "photos/speakers/maksim-izmaylov.jpg"
+    },
+    {
       "id": "madalina-raicu",
       "name": "Madalina Raicu",
       "twitter": "made_raicu",
@@ -224,6 +262,14 @@
       "twitter": "jonathan_heliax",
       "caption": "Heliax",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1PiMcbk72G0MgzOcQeiwNg/77636da3121119dcebd1f68663987740/me_fC2aqrl.jpeg",
+      "photo": "photos/speakers/jonathan-cubides.jpeg"
+    },
+    {
+      "id": "jonathan-cubides",
+      "name": "Jonathan Cubides",
+      "twitter": "jonathan_heliax",
+      "caption": "Heliax",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/4ugSd9XYDTlrfXRhdVgpLT/73ddb93d16fce3e1363f1fb00b57fe60/me_fC2aqrl-2.jpeg",
       "photo": "photos/speakers/jonathan-cubides.jpeg"
     },
     {
@@ -368,6 +414,14 @@
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/33xR2IBQfcwgfuov597SKQ/85b2693d65825ee0a7c1fceb3a478191/twheadshot_ZgkfQh1.jpeg",
       "country": "sk",
       "photo": "photos/speakers/anett-rolikova.jpeg"
+    },
+    {
+      "id": "aless",
+      "name": "Aless",
+      "twitter": "O_Romano_",
+      "caption": "re-des.org",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5BtKtf8lwuy2A6aGeUcvjh/f83b60cf4fa79d19f8be46a241a81bce/Green_Man_wto6RNn.jpeg",
+      "photo": "photos/speakers/aless.jpeg"
     },
     {
       "id": "abeer-sharma",

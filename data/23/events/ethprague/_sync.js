@@ -66,7 +66,7 @@ export async function data($) {
         Object.assign({
           id: $.formatId(s.name),
           name: s.name,
-          twitter: s.twitter.replace("https://twitter.com/", ""),
+          twitter: s.twitter?.replace("https://twitter.com/", ""),
           caption: s.company || "",
           photoUrl: s.profileImage?.url,
         }, peopleMapper[s.name] || {})
