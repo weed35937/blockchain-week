@@ -35,3 +35,12 @@ type = "signup"
 link = "https://www.meetup.com/prague-ethereum-meetup/events/292551212/"
 status = "available"
 button = "Register for free!"
+
+[[speakers]]
+id = "michal-hanych"
+name = "Michal Hanych"
+photo = "photos/speakers/michal-hanych.jpeg"
+caption = "Tax Advisor & Attorney at [SMPL.cz](https://smpl.cz)"
+country = "cz"
+twitter = "michalhanych"
+linkedid = "michalhanych"
