@@ -1,10 +1,18 @@
 {
   "speakers": [
     {
+      "id": "zaki-manian",
+      "name": "Zaki Manian",
+      "twitter": "zmanian",
+      "caption": "Sommelier/Iqlusion",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/7b0teIsv03dQG4WFW5eJl9/1c8e1b4fc4ea3c89755a597350abc91a/zaki_headshot_1_rrjclOQ.png.jpeg",
+      "photo": "photos/speakers/zaki-manian.jpeg"
+    },
+    {
       "id": "wlodek-gogloza",
       "name": "Wlodek Gogloza",
       "twitter": "wgogloza",
-      "caption": " Golem Foundation ",
+      "caption": "Octant",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1wQqEVRsXJDQANFhmhZT2f/7702edcb01e53bae0358641dbcace5db/wlodekgogloza_8HHBoFc.jpg",
       "photo": "photos/speakers/wlodek-gogloza.jpg"
     },
@@ -84,6 +92,14 @@
       "photo": "photos/speakers/rhys-williams.jpg"
     },
     {
+      "id": "rasim-muftiev",
+      "name": "Rasim Muftiev",
+      "twitter": "RasNode",
+      "caption": "Gamium",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3gndQtWbkzqMhGqtD1XO5J/6c76a6710ca1511cd10d4254c1db3fb5/RasimMuftiev_XDDCmb0.jpg",
+      "photo": "photos/speakers/rasim-muftiev.jpg"
+    },
+    {
       "id": "radek-svarz",
       "name": "Radek Svarz",
       "twitter": "radk",
@@ -132,6 +148,14 @@
       "caption": "dClimate",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1fkMUIHNjF5cPKRrm3qVk1/494958de1b350ff7b8d927de0f17a76b/Osho_headshot_BW_VjN7fkO.jpg",
       "photo": "photos/speakers/osho-jha.jpg"
+    },
+    {
+      "id": "nissa-szabo",
+      "name": "Nissa Szabo",
+      "twitter": "nissaszabo",
+      "caption": "Vega Protocol",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1jsfOg2IgswiEXrxliB3FF/e97d7c1aa7ec86b483148d6ee7e2d751/pfptwitter_2Y2zhS3.jpg",
+      "photo": "photos/speakers/nissa-szabo.jpg"
     },
     {
       "id": "nicolas-manea",
@@ -183,6 +207,14 @@
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/JxxN1mJuM0Ds75UgI2Lbg/0c66ab5093d7b3b0df33fc6941f71739/miao-2023-sketch-plus-urbit_3XLDkFK.png",
       "country": "ee",
       "photo": "photos/speakers/miao-zhicheng.png"
+    },
+    {
+      "id": "mathieu-saugier",
+      "name": "Mathieu Saugier",
+      "twitter": "eniwhere_",
+      "caption": "Nethermind",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2JPQqRPcKhT7bYa0QdTAbP/44c6722cd4431581b531d3e044822f2f/photo_perso_fREib4X.jpg",
+      "photo": "photos/speakers/mathieu-saugier.jpg"
     },
     {
       "id": "marcus-aurelius",
@@ -240,6 +272,14 @@
       "caption": "TalentLayer",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5u9vwjRJIXTcxjiKyIW1nO/7fa0f11880ff886bd5191a6d6714acee/cool_r3Xkpx2.png",
       "photo": "photos/speakers/kirsten-pomales.png"
+    },
+    {
+      "id": "karl-floersch",
+      "name": "Karl Floersch",
+      "twitter": "karl_dot_tech",
+      "caption": "OP Labs",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3Tmh6Ytwg6uCxLwCJGmWm0/1793eca480aa01fdd791cbba91f65070/1517268137181.jpeg",
+      "photo": "photos/speakers/karl-floersch.jpeg"
     },
     {
       "id": "juan-samitier",
@@ -407,6 +447,14 @@
       "caption": "gitcoin",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6xQshaN9XXrqdwWgMmoifW/6669035c9fb0ace8d92a33dc8769c3e2/krtkus_github_b9ovFli.png.jpeg",
       "photo": "photos/speakers/atris.jpeg"
+    },
+    {
+      "id": "anjali-young",
+      "name": "Anjali Young ",
+      "twitter": "damaderoca",
+      "caption": "Abridged/ Collab.Land",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3Hll8HFHDj7DX7VfogZkwZ/45f18ba6ac79e5d8871a8a2fee45292a/Anjali_Young_Collabland_aJUCcUU.png.jpeg",
+      "photo": "photos/speakers/anjali-young.jpeg"
     },
     {
       "id": "anett-rolikova",
