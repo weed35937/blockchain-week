@@ -136,6 +136,14 @@
       "photo": "photos/speakers/simon-leon.jpg"
     },
     {
+      "id": "matjaz",
+      "name": "Matjaz",
+      "caption": "Apillon",
+      "twitter": "Matjazs",
+      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/05/FJmtH8Qx_400x400.jpg",
+      "photo": "photos/speakers/matjaz.jpg"
+    },
+    {
       "id": "vikiival",
       "name": "vikiival",
       "caption": "Kodadot",
