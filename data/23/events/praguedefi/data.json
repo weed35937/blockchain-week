@@ -55,15 +55,6 @@
       "photo": "photos/speakers/rosco-kalis.jpeg"
     },
     {
-      "id": "anna-george",
-      "name": "Anna George",
-      "twitter": "AnnaMSGeorge",
-      "caption": "CoWSwap",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/7sNztyNmT7QSd43ml0FStd/0e382e06be6176f1edaa8613dfc82cd4/V__st__i__ek.JPG",
-      "country": "pt",
-      "photo": "photos/speakers/anna-george.JPG"
-    },
-    {
       "id": "will-harborne",
       "name": "Will Harborne",
       "twitter": "will_harborne",
@@ -217,6 +208,14 @@
       "caption": "B.Protocol",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3QnwljRkHiO0AK0gVtmSxo/23451de5a9892027851dc3d57ab3084f/Yaron_Velner.jpeg",
       "photo": "photos/speakers/yaron-velner.jpeg"
+    },
+    {
+      "id": "alex",
+      "name": "Alex",
+      "twitter": "VinyasAlex",
+      "caption": "CowSwap",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3IJ7nIUU6pP5nErdTyYp6C/9956372ec506c58e49e9a2a96aeffc01/Alex.jpeg",
+      "photo": "photos/speakers/alex.jpeg"
     }
   ]
 }
