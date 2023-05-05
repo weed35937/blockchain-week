@@ -14,9 +14,11 @@ languages = ["english"]
 attendees = 100
 tags = ["ethereum", "starknet", "scaling", "L2", "cairo"]
 description = '''
-We're happy to host the second Starknet Prague meetup, this time with a special guest (TBD) directly from StarkWare, the creators of Starknet.
+Join us for the second edition of Starknet Prauge, this time held at the L2 Loft as part of Prague Blockchain Week. The meetup will host some of the brightest minds in the ecosystem, with 3 talks on the agenda. There will also be plenty of time to socialize, meet new people and have fun. Whether you're new to Starknet or already a seasoned Starknet enjoyooor, you definitely don't want to miss this.
 
-Come and learn about validity rollups, L2s, L3s, Cairo lang and mingle with the local Starknet community.
+Doors open 18.00 (6 PM), talks start around 18.30 (6.30 PM).
+
+Stay tuned for more updates and join [our TG group](https://t.me/StarknetPrague) to get real time info.
 '''
 logo = "logo.jpg"
 
@@ -25,8 +27,18 @@ logo = "logo.jpg"
 #twitter = ""
 telegram = "https://t.me/StarknetPrague"
 
-#[registration]
-#type = "signup"
-#link = ""
-#status = "available"
-#button = "Register for free!"
+[registration]
+type = "signup"
+link = "https://www.meetup.com/starknet-prague/events/293345349/"
+status = "available"
+button = "Register for free!"
+
+[[speakers]]
+id = "avihu-mordechai-levy"
+
+[[speakers]]
+id = "rohit-goyal"
+name = "Rohit Goyal"
+twitter = "imrgoyal"
+caption = "Founder of [JediSwap](https://www.jediswap.xyz/)"
+photo = "photos/speakers/rohit-goyal.jpeg"
