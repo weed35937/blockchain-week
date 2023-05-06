@@ -8,14 +8,15 @@ dri = "burningtree"
 poc = "[tree](https://t.me/treecz)"
 date = "2023-06-08"
 days = 1
-times = "18:00-21:00"
-venueName = "TBA"
-#venueAddress = ""
-#venueUrl = ""
+times = "16:00-20:00"
+venues = ["loft-bubny"]
 languages = ["czech", "slovak"]
 attendees = 50
 tags = ["DeFi", "Web3"]
 description = '''
+Více detailů brzy.
+
+Koná se v rámci [L2Loft](https://explore.prgblockweek.com/23/event/l2loft).
 '''
 logo = "logo.png"
 

@@ -4,7 +4,7 @@ types = ["conference"]
 status = "planning"
 chains = ["ethereum"]
 org = "[Gwei.cz](https://gwei.cz)"
-dri = ""
+dri = "burningtree"
 poc = "[tree](https://t.me/treecz)"
 date = "2023-06-08"
 days = 1
@@ -15,13 +15,13 @@ attendees = 250
 tags = ["layer2", "scaling", "collaborative-day"]
 logo = "logo.png"
 description = '''
-A day full of community gatherings around Layer2 and related topics. Our Holešovice Loft will be open for free for all visitors. Stop by!
+​A day full of community gatherings around Layer2 and related topics. Our 400m² Holešovice Loft will be open for free for all visitors. Stop by!
 
 Opening hours: 10:00 - 22:00
 
-Participating projects: Starknet (18:00-22:00)
+Participating projects: [Starknet](https://explore.prgblockweek.com/23/event/starknet-prague) (18:00-22:00), [Gwei.cz](https://explore.prgblockweek.com/23/event/gweicz-meetup) (16:00-20:00)
 
-If you are interested in participating as a project or speaker, please contact [Tree](https://t.me/treecz).
+If you are interested in participating as a project or community, please contact [Tree](https://t.me/treecz).
 '''
 
 [links]
@@ -39,6 +39,9 @@ date = "2023-06-08"
 times = "10:00-22:00"
 title = "Opening hours"
 hidden = true
+
+[[segments]]
+remote = "gweicz-meetup"
 
 [[segments]]
 remote = "starknet-prague"
