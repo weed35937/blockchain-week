@@ -25,6 +25,14 @@
       "photo": "photos/speakers/alexei-zamyatin.jpeg"
     },
     {
+      "id": "naomi-oba",
+      "name": "Naomi Oba",
+      "caption": "Astar",
+      "twitter": "Naomi_fromhh",
+      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/05/naomi_oba.jpg",
+      "photo": "photos/speakers/naomi-oba.jpg"
+    },
+    {
       "id": "william-johs",
       "name": "William Johs",
       "caption": "Chainflip",
