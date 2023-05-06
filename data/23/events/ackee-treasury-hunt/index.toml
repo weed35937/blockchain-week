@@ -15,15 +15,23 @@ languages = ["english"]
 attendees = 200
 tags = ["security", "ethereum", "game"]
 description = '''
-​Join us for Cross-Chain Fuzzing Treasury Hunt Game, an exciting IRL side event organized by cybersecurity company Ackee Blockchain, based in Prague.
+​Join us for Cross-Chain Fuzzing Treasury Hunt Game, an exciting IRL side event organized by cybersecurity company [Ackee Blockchain](https://ackeeblockchain.com/), based in Prague.
+
+​​The event takes place in the beautiful surroundings of Park Stromovka, a popular destination for locals. We welcome all web3 natives interested in blockchain technology, cybersecurity, and decentralized finance.
+
+​​18:00-19:00
 
 ​You will experience the tricky stuff of cross-chain communication in a real-life scenario. You will engage in a treasury hunt game that involves solving tasks such as crossing a bridge with a dry foot, an attack by a tofu sandwich, an MEV attack in a local mine, or a defense against homeless flash loans. The game is designed to challenge players’ understanding of blockchain and demonstrate the potential vulnerabilities of decentralized finance in real life.
 
-​You will be rewarded with beer tokens for completing each challenge, and the event concludes with a gathering in a nearby bar where you can exchange your tokens for beer and network with other players.
+​You will be rewarded with beer tokens for completing each challenge.
 
-​The event takes place in the beautiful surroundings of Park Stromovka, a popular destination for locals. We welcome all Web3 natives interested in blockchain technology, cybersecurity, and decentralized finance.
+​19:00-23:00
 
-​See you there!
+​Grab your tokens come with us to a nearby bar where you can exchange them for beer and network with other players.
+
+​​See you there!
+
+​Follow us on [Twitter](https://twitter.com/AckeeBlockchain)
 '''
 logo = "poster.webp"
 
@@ -36,3 +44,6 @@ type = "signup"
 link = "https://lu.ma/w77al03l"
 status = "available"
 button = "Register for free!"
+
+[[speakers]]
+id = "josef-gattermayer"
