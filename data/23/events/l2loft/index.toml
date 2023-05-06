@@ -24,6 +24,16 @@ Participating projects: Starknet (18:00-22:00)
 If you are interested in participating as a project or speaker, please contact [Tree](https://t.me/treecz).
 '''
 
+[links]
+website = "https://l2loft.com"
+twitter = "https://twitter.com/L2Loft"
+
+[registration]
+type = "signup"
+link = "https://lu.ma/l2loft"
+status = "available"
+button = "Register for free!"
+
 [[segments]]
 date = "2023-06-08"
 times = "10:00-22:00"
@@ -32,7 +42,3 @@ hidden = true
 
 [[segments]]
 remote = "starknet-prague"
-
-[links]
-website = "https://l2loft.com"
-twitter = "https://twitter.com/L2Loft"
