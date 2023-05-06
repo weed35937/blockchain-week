@@ -202,6 +202,8 @@ properties:
               type: number
             title:
               type: string
+            hidden:
+              type: boolean
             venues:
               type: array
               items:

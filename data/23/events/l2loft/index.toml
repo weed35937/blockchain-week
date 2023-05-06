@@ -17,6 +17,8 @@ logo = "logo.png"
 description = '''
 A day full of community gatherings around Layer2 and related topics. Our Holešovice Loft will be open for free for all visitors. Stop by!
 
+Opening hours: 10:00 - 22:00
+
 Participating projects: Starknet (18:00-22:00)
 
 If you are interested in participating as a project or speaker, please contact [Tree](https://t.me/treecz).
@@ -26,6 +28,7 @@ If you are interested in participating as a project or speaker, please contact [
 date = "2023-06-08"
 times = "10:00-22:00"
 title = "Opening hours"
+hidden = true
 
 [[segments]]
 remote = "starknet-prague"
