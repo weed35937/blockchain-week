@@ -29,3 +29,6 @@ title = "Opening hours"
 
 [[segments]]
 remote = "starknet-prague"
+
+[links]
+twitter = "https://twitter.com/L2Loft"
