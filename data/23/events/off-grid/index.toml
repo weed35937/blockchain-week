@@ -1,0 +1,29 @@
+name = "Off Grid 2023"
+shortname = "Off Grid"
+types = ["hackathon"]
+status = "planning"
+#chains = [""]
+org = "[FactoryDAO](https://www.factorydao.xyz/) & Gwei.cz"
+dri = ""
+poc = ""
+date = "2023-06-07"
+days = 1
+times = "09:00-02:00"
+venues = ["loft-bubny"]
+languages = ["english"]
+attendees = 150
+tags = ["dao", "hackday"]
+logo = "logo.jpeg"
+description = '''
+TBD
+'''
+
+#[registration]
+#type = "signup"
+#link = "https://"
+#status = "available"
+
+#[links]
+#web = "https://"
+#twitter = "https://twitter.com/"
+#telegram = "https://t.me/"
