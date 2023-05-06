@@ -1,6 +1,6 @@
 name = "Loft BubNY"
 eventTypes = ["conference", "hackathon", "party", "meetup"]
-capacity = 200
+capacity = 250
 address = "U Papírny 100/2, 170 00 Praha 7-Holešovice"
 mapUrl = "https://goo.gl/maps/KjaunkqX33528jww7"
 description = '''

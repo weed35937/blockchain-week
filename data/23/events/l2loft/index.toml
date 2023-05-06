@@ -1,0 +1,31 @@
+name = "L2Loft Prague 2023"
+shortname = "L2Loft"
+types = ["conference"]
+status = "planning"
+chains = ["ethereum"]
+org = "PBW"
+dri = ""
+poc = "[tree](https://t.me/treecz)"
+date = "2023-06-08"
+days = 1
+times = "10:00-22:00"
+venues = ["loft-bubny"]
+languages = ["english"]
+attendees = 250
+tags = ["layer2", "scaling", "collaborative-day"]
+logo = "logo.png"
+description = '''
+A day full of community gatherings around Layer2 and related topics. Our Holešovice Loft will be open for free for all visitors. Stop by!
+
+Participating projects: Starknet (18:00-22:00)
+
+If you are interested in participating as a project or speaker, please contact [Tree](https://t.me/treecz).
+'''
+
+[[segments]]
+date = "2023-06-08"
+times = "10:00-22:00"
+title = "Opening hours"
+
+[[segments]]
+remote = "starknet-prague"
