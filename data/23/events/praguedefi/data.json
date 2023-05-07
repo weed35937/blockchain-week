@@ -1,6 +1,14 @@
 {
   "speakers": [
     {
+      "id": "mona-el-isa",
+      "name": "Mona El Isa",
+      "twitter": "Mona_El_Isa",
+      "caption": "Enzyme",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/36IIT38mBxUkYcZjqX9o8t/a923bdc23beda8eec02d05a5e39e378f/Mona_El_Isa.jpeg",
+      "photo": "photos/speakers/mona-el-isa.jpeg"
+    },
+    {
       "id": "julien-bouteloup",
       "name": "Julien Bouteloup",
       "twitter": "bneiluj",
@@ -129,20 +137,20 @@
       "photo": "photos/speakers/gaspard-peduzzi.jpeg"
     },
     {
-      "id": "tom-mclean",
-      "name": "Tom McLean",
-      "twitter": "TomMcLn",
-      "caption": "Vega Protocol",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2ckBjpwl4OaiKy9aveVICm/3ff42a801f35ad85c790363361073ac7/Tom_McLean.jpg",
-      "photo": "photos/speakers/tom-mclean.jpg"
-    },
-    {
       "id": "james-glasscock",
       "name": "James Glasscock",
       "twitter": "0xJMG",
       "caption": "Reserve",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/4wMGzz3ucZhE3SaM3OLFjQ/e806110522cb65775e82c3606d51f001/James_Glasscock.png",
       "photo": "photos/speakers/james-glasscock.png"
+    },
+    {
+      "id": "tom-mclean",
+      "name": "Tom McLean",
+      "twitter": "TomMcLn",
+      "caption": "Vega Protocol",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2ckBjpwl4OaiKy9aveVICm/3ff42a801f35ad85c790363361073ac7/Tom_McLean.jpg",
+      "photo": "photos/speakers/tom-mclean.jpg"
     },
     {
       "id": "gabija-tuinaite",
@@ -171,7 +179,7 @@
     {
       "id": "pavel-machalek",
       "name": "Pavel Machalek",
-      "twitter": "twitter.com/microlea",
+      "twitter": "microlea",
       "caption": "Microlea",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/7Fnh6Bsq32kXewn2LfrtNK/f44b61116509f27ca1fc0f4e37940f2e/Pavel_Machalek.jpg",
       "country": "cz",
@@ -216,6 +224,15 @@
       "caption": "CowSwap",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3IJ7nIUU6pP5nErdTyYp6C/9956372ec506c58e49e9a2a96aeffc01/Alex.jpeg",
       "photo": "photos/speakers/alex.jpeg"
+    },
+    {
+      "id": "david-rbx",
+      "name": "David",
+      "twitter": "Daviderbx",
+      "caption": "RBX",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6xcmCIhx6QzhZy38CbC0Q7/f7a256a527d5797ffa56357e18959184/David_RBX_Prague_summit.jpg",
+      "country": "cz",
+      "photo": "photos/speakers/david-rbx.jpg"
     }
   ]
 }

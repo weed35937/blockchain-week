@@ -9,6 +9,7 @@ const peopleMapper = {
   "Julien Bouteloup": { country: "ch" },
   "Stanislav Šimek": { country: "cz" },
   "Pavel Machalek": { country: "cz" },
+  "David": { id: "david-rbx", country: "cz" },
 };
 
 export async function data($) {
