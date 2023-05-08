@@ -67,6 +67,14 @@
       "photo": "photos/speakers/stani-kulechov.png"
     },
     {
+      "id": "schmiddominik",
+      "name": "Dominik",
+      "twitter": "schmiddominik1",
+      "caption": "Polygon Miden",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1IpzXhtWmf5SFmhtWt2UXT/59728acfb40e821b43786d5be3eb2395/ofe3s9UI_400x400.jpg",
+      "photo": "photos/speakers/schmiddominik.jpg"
+    },
+    {
       "id": "saul-martin",
       "name": "Saul Martin",
       "caption": "Nethermind",
@@ -258,12 +266,28 @@
       "photo": "photos/speakers/lorenzo-nardiello.jpg"
     },
     {
+      "id": "lefteris-karapetsas",
+      "name": "Lefteris Karapetsas",
+      "twitter": "LefterisJP",
+      "caption": "Rotki",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5Bv5eN7Pn8gG8wO8gEflGU/4ccf048720c5a75185ed28c60af1056e/profile2_v5wbUj6.png.jpeg",
+      "photo": "photos/speakers/lefteris-karapetsas.jpeg"
+    },
+    {
       "id": "laurence-kirk",
       "name": "Laurence Kirk ",
       "twitter": "extropyLaurence",
       "caption": " Extropy.io",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/4v90YQ1odZdJL7qvFvLK5u/2caf5e2b76d4e00d1fa87a82974aadf3/e5ecaf7b4fa490013bd899069491c5d2.jpeg",
       "photo": "photos/speakers/laurence-kirk.jpeg"
+    },
+    {
+      "id": "konstantinos-paparas",
+      "name": "Konstantinos Paparas",
+      "twitter": "kelsos86",
+      "caption": "Rotki",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6I87V6fYayvIF5RvZciIiE/f991d75329d99adda12c85a3e5afed8c/c3efa1bb30bd70bdd48002c1b6a2d587.jpeg",
+      "photo": "photos/speakers/konstantinos-paparas.jpeg"
     },
     {
       "id": "kirsten-pomales",
@@ -338,6 +362,14 @@
       "caption": "WalletConnect",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3vKnJHKBXOlNGFxpf3IUxi/5e733a1a769e71e8c42c5db6af823b72/speaker_img_cropped_low_ryz4oZd.jpg",
       "photo": "photos/speakers/harry-bairstow.jpg"
+    },
+    {
+      "id": "frisco-d-anconia",
+      "name": "Frisco d Anconia",
+      "twitter": "CryptoTraveler1",
+      "caption": "Africa Blockchain University",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3rS0tQvliy8oIIlcE5saHK/c4970c57f8860dfbdf8e8a01ab05a259/Profile_Pic_2Wla6pT.jpeg",
+      "photo": "photos/speakers/frisco-d-anconia.jpeg"
     },
     {
       "id": "filip-siroky",
@@ -464,6 +496,14 @@
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/33xR2IBQfcwgfuov597SKQ/85b2693d65825ee0a7c1fceb3a478191/twheadshot_ZgkfQh1.jpeg",
       "country": "sk",
       "photo": "photos/speakers/anett-rolikova.jpeg"
+    },
+    {
+      "id": "alex-gluchowski",
+      "name": "Alex Gluchowski ",
+      "twitter": "gluk64",
+      "caption": "Matter Labs/ zkSync",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1Ayf5oiCWR8aAOEAB3eq43/afaf2f3191159cc74b6f36c0a0eceebd/Copy_of__8643_sw_1_USq3edI.jpg",
+      "photo": "photos/speakers/alex-gluchowski.jpg"
     },
     {
       "id": "aless",
