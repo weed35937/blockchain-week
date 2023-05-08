@@ -128,6 +128,14 @@
       "photo": "photos/speakers/bg.jpeg"
     },
     {
+      "id": "six",
+      "name": "Six",
+      "caption": "CCTF",
+      "twitter": "sixTheDave",
+      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/05/six.jpg",
+      "photo": "photos/speakers/six.jpg"
+    },
+    {
       "id": "nicholas-douzinas",
       "name": "Nicholas Douzinas",
       "caption": "Ajuna Network",
