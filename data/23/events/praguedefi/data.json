@@ -45,6 +45,14 @@
       "photo": "photos/speakers/marc-zeller.jpeg"
     },
     {
+      "id": "arnaud-castillo",
+      "name": "Arnaud Castillo",
+      "twitter": "CrunchDAO",
+      "caption": "CrunchDAO",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/38guUHCN8AQNsmXZ6Ql1Ui/4556b1bbd73b1e3f91c20bede2f6694d/Arnaud_Castillo.jpeg",
+      "photo": "photos/speakers/arnaud-castillo.jpeg"
+    },
+    {
       "id": "naim-ashhab",
       "name": "Naim Ashhab",
       "twitter": "ashhanai",
@@ -113,14 +121,6 @@
       "photo": "photos/speakers/jogundas-armaitis.JPG"
     },
     {
-      "id": "arseneeth",
-      "name": "arseneeth",
-      "twitter": "arseneeth",
-      "caption": "Daoism Systems",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/MjzmNYDWxSeGqYwC3CRA2/88952a0b6da45ef9b85e62e95359f2e2/arseneeth.jpg",
-      "photo": "photos/speakers/arseneeth.jpg"
-    },
-    {
       "id": "friederike-ernst",
       "name": "Friederike Ernst",
       "twitter": "tw_tter",
@@ -129,12 +129,12 @@
       "photo": "photos/speakers/friederike-ernst.jpeg"
     },
     {
-      "id": "gaspard-peduzzi",
-      "name": "Gaspard Peduzzi",
-      "twitter": "GaspardPeduzzi",
-      "caption": "APWine",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6RcO7FFJhyeTW2rmtFTx9m/e7bcb7071eb63dcb9d2dc25c29a3a2aa/Gaspard_Peduzzi.jpeg",
-      "photo": "photos/speakers/gaspard-peduzzi.jpeg"
+      "id": "arseneeth",
+      "name": "arseneeth",
+      "twitter": "arseneeth",
+      "caption": "Daoism Systems",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/MjzmNYDWxSeGqYwC3CRA2/88952a0b6da45ef9b85e62e95359f2e2/arseneeth.jpg",
+      "photo": "photos/speakers/arseneeth.jpg"
     },
     {
       "id": "james-glasscock",
@@ -143,6 +143,14 @@
       "caption": "Reserve",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/4wMGzz3ucZhE3SaM3OLFjQ/e806110522cb65775e82c3606d51f001/James_Glasscock.png",
       "photo": "photos/speakers/james-glasscock.png"
+    },
+    {
+      "id": "gaspard-peduzzi",
+      "name": "Gaspard Peduzzi",
+      "twitter": "GaspardPeduzzi",
+      "caption": "APWine",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6RcO7FFJhyeTW2rmtFTx9m/e7bcb7071eb63dcb9d2dc25c29a3a2aa/Gaspard_Peduzzi.jpeg",
+      "photo": "photos/speakers/gaspard-peduzzi.jpeg"
     },
     {
       "id": "tom-mclean",
