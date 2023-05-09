@@ -9,6 +9,10 @@ export async function data(tools) {
     "Sergey Gorbunov": { country: "us" },
     "Dean Tribble": { country: "us" },
     "Sean Braithwaite": { country: "de" },
+    "Viktor Fischer": { country: "cz" },
+    "Marek Sandrik": { country: "cz" },
+    "Filip Siroky": { country: "cz" },
+    "Adam Bilko": { country: "cz" },
   };
 
   for (const el of $("#speakers div.w-full.relative").toArray()) {
