@@ -222,6 +222,25 @@
       "photo": "photos/speakers/dominika-v.jpg"
     },
     {
+      "id": "fetyas",
+      "name": "Tomáš Kalabis",
+      "nickname": "Fetyas",
+      "twitter": "hernakrypto",
+      "orgs": "YouTube kanál [KryptoHerna](https://www.youtube.com/channel/UCOgYjFqYfUnXo5DK9HceAMw)\n",
+      "caption": "YouTube channel [\"KryptoHerna\"](https://www.youtube.com/channel/UCOgYjFqYfUnXo5DK9HceAMw)\n",
+      "tracks": [
+        "nft"
+      ],
+      "country": "cz",
+      "desc": "Jsem zakladatel YouTube kanálu na téma blockchain gaming [KryptoHerna](https://twitter.com/hernakrypto), vystudovaný ekonom, nadšenec do videoher a souvisejících technologií, zapálený sportovec. Současně se podílím na vývoji Thrive-to-Earn hry.\n",
+      "photos": [
+        "web:jpg",
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/fetyas-web.jpg",
+      "photo": "photos/speakers/fetyas.jpg"
+    },
+    {
       "id": "frantisek-kudrna",
       "name": "František Kudrna",
       "twitter": "FrantisekKudrna",
@@ -390,6 +409,24 @@
       "photo": "photos/speakers/jakub-tesar.jpg"
     },
     {
+      "id": "jan-21m",
+      "name": "Jan Kohout",
+      "nickname": "JohnnyThe₿itcoiner",
+      "twitter": "jan_21m",
+      "bio": "#bitcoin pleb, POW maxi, fyzioterapeut",
+      "orgs": "Autor pořadu [\"Kryptoplebs\"](https://www.youtube.com/channel/UCzg8Lo2-zxu2yTWU4-I3ORA)\n",
+      "caption": "Author of the [\"Kryptoplebs\"](https://www.youtube.com/channel/UCzg8Lo2-zxu2yTWU4-I3ORA), physiotherapist\n",
+      "tracks": [
+        "btc"
+      ],
+      "country": "cz",
+      "photos": [
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/jan-21m-twitter.jpg",
+      "photo": "photos/speakers/jan-21m.jpg"
+    },
+    {
       "id": "jan-cerny",
       "name": "Jan Černý",
       "twitter": "JanCerny",
@@ -407,24 +444,6 @@
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/jan-cerny-web.jpg",
       "photo": "photos/speakers/jan-cerny.jpg"
-    },
-    {
-      "id": "jan-21m",
-      "name": "Jan Kohout",
-      "nickname": "JohnnyThe₿itcoiner",
-      "twitter": "jan_21m",
-      "bio": "#bitcoin pleb, POW maxi, fyzioterapeut",
-      "orgs": "Autor pořadu [\"Kryptoplebs\"](https://www.youtube.com/channel/UCzg8Lo2-zxu2yTWU4-I3ORA)\n",
-      "caption": "Author of the [\"Kryptoplebs\"](https://www.youtube.com/channel/UCzg8Lo2-zxu2yTWU4-I3ORA), physiotherapist\n",
-      "tracks": [
-        "btc"
-      ],
-      "country": "cz",
-      "photos": [
-        "twitter:jpg"
-      ],
-      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/jan-21m-twitter.jpg",
-      "photo": "photos/speakers/jan-21m.jpg"
     },
     {
       "id": "jan-zibner",
@@ -773,31 +792,6 @@
       "photo": "photos/speakers/milan-marcak.jpg"
     },
     {
-      "id": "sodomak",
-      "name": "Milan Půlkrábek",
-      "nickname": "Sodomák",
-      "twitter": "Sodomak",
-      "linkedin": "milanpulkrabek",
-      "bio": "Lektor a konzultant digitální sebeobrany",
-      "orgs": "Autor projektu CryptoLAB, člen [Paralelní Polis](https://www.paralelnipolis.cz/)",
-      "caption": "Lecturer and consultant in digital self-defence\n",
-      "web": {
-        "url": "https://www.digitalni-sebeobrana.cz/"
-      },
-      "tracks": [
-        "zaklady",
-        "btc",
-        "spolecnost"
-      ],
-      "country": "cz",
-      "photos": [
-        "web:jpg",
-        "twitter:jpg"
-      ],
-      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/sodomak-web.jpg",
-      "photo": "photos/speakers/sodomak.jpg"
-    },
-    {
       "id": "nikola",
       "name": "Nikola",
       "nickname": "Bihanojko",
@@ -1073,6 +1067,31 @@
       "photo": "photos/speakers/samuela-davidova.png"
     },
     {
+      "id": "sodomak",
+      "name": "Milan Půlkrábek",
+      "nickname": "Sodomák",
+      "twitter": "Sodomak",
+      "linkedin": "milanpulkrabek",
+      "bio": "Lektor a konzultant digitální sebeobrany",
+      "orgs": "Autor projektu CryptoLAB, člen [Paralelní Polis](https://www.paralelnipolis.cz/)",
+      "caption": "Lecturer and consultant in digital self-defence\n",
+      "web": {
+        "url": "https://www.digitalni-sebeobrana.cz/"
+      },
+      "tracks": [
+        "zaklady",
+        "btc",
+        "spolecnost"
+      ],
+      "country": "cz",
+      "photos": [
+        "web:jpg",
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/sodomak-web.jpg",
+      "photo": "photos/speakers/sodomak.jpg"
+    },
+    {
       "id": "stanislav-simek",
       "name": "Stanislav Šimek",
       "web": {
@@ -1133,25 +1152,6 @@
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/tereza-starostova-twitter.jpg",
       "photo": "photos/speakers/tereza-starostova.jpg"
-    },
-    {
-      "id": "fetyas",
-      "name": "Tomáš Kalabis",
-      "nickname": "Fetyas",
-      "twitter": "hernakrypto",
-      "orgs": "YouTube kanál [KryptoHerna](https://www.youtube.com/channel/UCOgYjFqYfUnXo5DK9HceAMw)\n",
-      "caption": "YouTube channel [\"KryptoHerna\"](https://www.youtube.com/channel/UCOgYjFqYfUnXo5DK9HceAMw)\n",
-      "tracks": [
-        "nft"
-      ],
-      "country": "cz",
-      "desc": "Jsem zakladatel YouTube kanálu na téma blockchain gaming [KryptoHerna](https://twitter.com/hernakrypto), vystudovaný ekonom, nadšenec do videoher a souvisejících technologií, zapálený sportovec. Současně se podílím na vývoji Thrive-to-Earn hry.\n",
-      "photos": [
-        "web:jpg",
-        "twitter:jpg"
-      ],
-      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/fetyas-web.jpg",
-      "photo": "photos/speakers/fetyas.jpg"
     },
     {
       "id": "urza",

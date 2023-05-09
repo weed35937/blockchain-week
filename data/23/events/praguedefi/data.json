@@ -1,12 +1,101 @@
 {
   "speakers": [
     {
-      "id": "mona-el-isa",
-      "name": "Mona El Isa",
-      "twitter": "Mona_El_Isa",
-      "caption": "Enzyme",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/36IIT38mBxUkYcZjqX9o8t/a923bdc23beda8eec02d05a5e39e378f/Mona_El_Isa.jpeg",
-      "photo": "photos/speakers/mona-el-isa.jpeg"
+      "id": "alex",
+      "name": "Alex",
+      "twitter": "VinyasAlex",
+      "caption": "CowSwap",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3IJ7nIUU6pP5nErdTyYp6C/9956372ec506c58e49e9a2a96aeffc01/Alex.jpeg",
+      "photo": "photos/speakers/alex.jpeg"
+    },
+    {
+      "id": "alexei-zamyatin",
+      "name": "Alexei Zamyatin",
+      "twitter": "alexeiZamyatin",
+      "caption": "Interlay",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2KTejmlWgfbPN6UOwc3r8M/4b36a8c88f2456b938c3a86cde658125/alexei_1_lCziUzp.jpeg",
+      "photo": "photos/speakers/alexei-zamyatin.jpeg"
+    },
+    {
+      "id": "arnaud-castillo",
+      "name": "Arnaud Castillo",
+      "twitter": "CrunchDAO",
+      "caption": "CrunchDAO",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/38guUHCN8AQNsmXZ6Ql1Ui/4556b1bbd73b1e3f91c20bede2f6694d/Arnaud_Castillo.jpeg",
+      "photo": "photos/speakers/arnaud-castillo.jpeg"
+    },
+    {
+      "id": "arseneeth",
+      "name": "arseneeth",
+      "twitter": "arseneeth",
+      "caption": "Daoism Systems",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/MjzmNYDWxSeGqYwC3CRA2/88952a0b6da45ef9b85e62e95359f2e2/arseneeth.jpg",
+      "photo": "photos/speakers/arseneeth.jpg"
+    },
+    {
+      "id": "avihu-mordechai-levy",
+      "name": "Avihu Mordechai Levy",
+      "twitter": "avihu28",
+      "caption": "StarkWare",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3OcAiHEyvxOESkY1Vz2bc4/79d4bd550c7d7dec2b70ca1682aa59bf/Avihu_Mordechai_Levy.jpg",
+      "photo": "photos/speakers/avihu-mordechai-levy.jpg"
+    },
+    {
+      "id": "cyrille-pastour",
+      "name": "Cyrille Pastour",
+      "twitter": "CyrillePastour",
+      "caption": "Swap Finance",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/70I2euMhP3NZ64ZiMI4i5R/c0d35e77ac6d1ee0b381620bb2a96709/Cyrille_Pastour.png",
+      "photo": "photos/speakers/cyrille-pastour.png"
+    },
+    {
+      "id": "david-rbx",
+      "name": "David",
+      "twitter": "Daviderbx",
+      "caption": "RBX",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6xcmCIhx6QzhZy38CbC0Q7/f7a256a527d5797ffa56357e18959184/David_RBX_Prague_summit.jpg",
+      "country": "cz",
+      "photo": "photos/speakers/david-rbx.jpg"
+    },
+    {
+      "id": "friederike-ernst",
+      "name": "Friederike Ernst",
+      "twitter": "tw_tter",
+      "caption": "Gnosis",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1AKGxFNa6WyV5YdFZvhin5/78d032aa8af179c99c81c753f73bdce1/Friederike_Ernst.jpeg",
+      "photo": "photos/speakers/friederike-ernst.jpeg"
+    },
+    {
+      "id": "gabija-tuinaite",
+      "name": "Gabija Tuinaite",
+      "twitter": "sunshine_614",
+      "caption": "Mangrove",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/65sJXDM2nmGtYKwFPC2yiX/aca9f4fbd28d34f64aeb88738f97fdc9/Gabija_Tuinaite.jpg",
+      "photo": "photos/speakers/gabija-tuinaite.jpg"
+    },
+    {
+      "id": "gaspard-peduzzi",
+      "name": "Gaspard Peduzzi",
+      "twitter": "GaspardPeduzzi",
+      "caption": "APWine",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6RcO7FFJhyeTW2rmtFTx9m/e7bcb7071eb63dcb9d2dc25c29a3a2aa/Gaspard_Peduzzi.jpeg",
+      "photo": "photos/speakers/gaspard-peduzzi.jpeg"
+    },
+    {
+      "id": "james-glasscock",
+      "name": "James Glasscock",
+      "twitter": "0xJMG",
+      "caption": "Reserve",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/4wMGzz3ucZhE3SaM3OLFjQ/e806110522cb65775e82c3606d51f001/James_Glasscock.png",
+      "photo": "photos/speakers/james-glasscock.png"
+    },
+    {
+      "id": "jogundas-armaitis",
+      "name": "Jogundas Armaitis",
+      "twitter": "jogundas",
+      "caption": "Hoyu.io",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6mfqbVOtdXzZRxy5h5IP5d/3c926bfd85c7e0c1e72b644514fd53c4/Jogundas_Armaitis.JPG",
+      "photo": "photos/speakers/jogundas-armaitis.JPG"
     },
     {
       "id": "julien-bouteloup",
@@ -18,22 +107,12 @@
       "photo": "photos/speakers/julien-bouteloup.jpeg"
     },
     {
-      "id": "radek-svarz",
-      "name": "Radek Svarz",
-      "twitter": "radk",
-      "caption": "AlzheimerChain",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6JENTjUwVwc5yK5CupfZTc/a6745d430226893ae44412f32c4781ae/2020_radek_profile_-_face_aReCqT8.jpg",
-      "country": "cz",
-      "photo": "photos/speakers/radek-svarz.jpg"
-    },
-    {
-      "id": "sasha-tanase",
-      "name": "Sasha Tanase",
-      "twitter": "sasha_tanase",
-      "caption": "web3UX",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2G0x2iQJtCP7aBfdDY1yJ0/0a70687805c116a6400309de5cae5f8f/sasha.jpg",
-      "country": "ro",
-      "photo": "photos/speakers/sasha-tanase.jpg"
+      "id": "lior-zaks",
+      "name": "Lior Zaks",
+      "twitter": "liorzaks",
+      "caption": "Stake Capital",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1O8L8aTGH6j2AJvYeMmr2R/d20c608206c3c4666c234b270be7eff2/Lior_Zaks.jpg",
+      "photo": "photos/speakers/lior-zaks.jpg"
     },
     {
       "id": "marc-zeller",
@@ -45,12 +124,28 @@
       "photo": "photos/speakers/marc-zeller.jpeg"
     },
     {
-      "id": "arnaud-castillo",
-      "name": "Arnaud Castillo",
-      "twitter": "CrunchDAO",
-      "caption": "CrunchDAO",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/38guUHCN8AQNsmXZ6Ql1Ui/4556b1bbd73b1e3f91c20bede2f6694d/Arnaud_Castillo.jpeg",
-      "photo": "photos/speakers/arnaud-castillo.jpeg"
+      "id": "marijo-radman",
+      "name": "Marijo Radman",
+      "twitter": "Marijo_Radman",
+      "caption": "Solity Network",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2CoQkdgsed7Aja7FqkVAGa/7aed1799255758776b3781342d79cd05/Marijo_Radman.jpg",
+      "photo": "photos/speakers/marijo-radman.jpg"
+    },
+    {
+      "id": "matteo",
+      "name": "Matteo",
+      "twitter": "0xmattegoat",
+      "caption": "Pragma Oracle",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3iSl7arCHYC2jLoh7UPt7Q/c05a17e172cb3f0d450b9ec097be5768/Matteo.jpeg",
+      "photo": "photos/speakers/matteo.jpeg"
+    },
+    {
+      "id": "mona-el-isa",
+      "name": "Mona El Isa",
+      "twitter": "Mona_El_Isa",
+      "caption": "Enzyme",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/36IIT38mBxUkYcZjqX9o8t/a923bdc23beda8eec02d05a5e39e378f/Mona_El_Isa.jpeg",
+      "photo": "photos/speakers/mona-el-isa.jpeg"
     },
     {
       "id": "naim-ashhab",
@@ -62,6 +157,24 @@
       "photo": "photos/speakers/naim-ashhab.jpeg"
     },
     {
+      "id": "pavel-machalek",
+      "name": "Pavel Machalek",
+      "twitter": "microlea",
+      "caption": "Microlea",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/7Fnh6Bsq32kXewn2LfrtNK/f44b61116509f27ca1fc0f4e37940f2e/Pavel_Machalek.jpg",
+      "country": "cz",
+      "photo": "photos/speakers/pavel-machalek.jpg"
+    },
+    {
+      "id": "radek-svarz",
+      "name": "Radek Svarz",
+      "twitter": "radk",
+      "caption": "AlzheimerChain",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6JENTjUwVwc5yK5CupfZTc/a6745d430226893ae44412f32c4781ae/2020_radek_profile_-_face_aReCqT8.jpg",
+      "country": "cz",
+      "photo": "photos/speakers/radek-svarz.jpg"
+    },
+    {
       "id": "rosco-kalis",
       "name": "Rosco Kalis",
       "twitter": "RoscoKalis ",
@@ -71,13 +184,13 @@
       "photo": "photos/speakers/rosco-kalis.jpeg"
     },
     {
-      "id": "will-harborne",
-      "name": "Will Harborne",
-      "twitter": "will_harborne",
-      "caption": "Rhino Fi",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/7lHwPf9tIk1Y3anuGcVhrA/eba6131507e769002ae96efcb83406ba/photo_2023-02-06_11.25.04.jpeg",
-      "country": "gb",
-      "photo": "photos/speakers/will-harborne.jpeg"
+      "id": "sasha-tanase",
+      "name": "Sasha Tanase",
+      "twitter": "sasha_tanase",
+      "caption": "web3UX",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2G0x2iQJtCP7aBfdDY1yJ0/0a70687805c116a6400309de5cae5f8f/sasha.jpg",
+      "country": "ro",
+      "photo": "photos/speakers/sasha-tanase.jpg"
     },
     {
       "id": "stanislav-simek",
@@ -89,68 +202,12 @@
       "photo": "photos/speakers/stanislav-simek.jpg"
     },
     {
-      "id": "alexei-zamyatin",
-      "name": "Alexei Zamyatin",
-      "twitter": "alexeiZamyatin",
-      "caption": "Interlay",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2KTejmlWgfbPN6UOwc3r8M/4b36a8c88f2456b938c3a86cde658125/alexei_1_lCziUzp.jpeg",
-      "photo": "photos/speakers/alexei-zamyatin.jpeg"
-    },
-    {
-      "id": "avihu-mordechai-levy",
-      "name": "Avihu Mordechai Levy",
-      "twitter": "avihu28",
-      "caption": "StarkWare",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3OcAiHEyvxOESkY1Vz2bc4/79d4bd550c7d7dec2b70ca1682aa59bf/Avihu_Mordechai_Levy.jpg",
-      "photo": "photos/speakers/avihu-mordechai-levy.jpg"
-    },
-    {
-      "id": "lior-zaks",
-      "name": "Lior Zaks",
-      "twitter": "liorzaks",
-      "caption": "Stake Capital",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1O8L8aTGH6j2AJvYeMmr2R/d20c608206c3c4666c234b270be7eff2/Lior_Zaks.jpg",
-      "photo": "photos/speakers/lior-zaks.jpg"
-    },
-    {
-      "id": "jogundas-armaitis",
-      "name": "Jogundas Armaitis",
-      "twitter": "jogundas",
-      "caption": "Hoyu.io",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6mfqbVOtdXzZRxy5h5IP5d/3c926bfd85c7e0c1e72b644514fd53c4/Jogundas_Armaitis.JPG",
-      "photo": "photos/speakers/jogundas-armaitis.JPG"
-    },
-    {
-      "id": "friederike-ernst",
-      "name": "Friederike Ernst",
-      "twitter": "tw_tter",
-      "caption": "Gnosis",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1AKGxFNa6WyV5YdFZvhin5/78d032aa8af179c99c81c753f73bdce1/Friederike_Ernst.jpeg",
-      "photo": "photos/speakers/friederike-ernst.jpeg"
-    },
-    {
-      "id": "arseneeth",
-      "name": "arseneeth",
-      "twitter": "arseneeth",
-      "caption": "Daoism Systems",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/MjzmNYDWxSeGqYwC3CRA2/88952a0b6da45ef9b85e62e95359f2e2/arseneeth.jpg",
-      "photo": "photos/speakers/arseneeth.jpg"
-    },
-    {
-      "id": "james-glasscock",
-      "name": "James Glasscock",
-      "twitter": "0xJMG",
-      "caption": "Reserve",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/4wMGzz3ucZhE3SaM3OLFjQ/e806110522cb65775e82c3606d51f001/James_Glasscock.png",
-      "photo": "photos/speakers/james-glasscock.png"
-    },
-    {
-      "id": "gaspard-peduzzi",
-      "name": "Gaspard Peduzzi",
-      "twitter": "GaspardPeduzzi",
-      "caption": "APWine",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6RcO7FFJhyeTW2rmtFTx9m/e7bcb7071eb63dcb9d2dc25c29a3a2aa/Gaspard_Peduzzi.jpeg",
-      "photo": "photos/speakers/gaspard-peduzzi.jpeg"
+      "id": "thefett",
+      "name": "thefett",
+      "twitter": "themandalore9",
+      "caption": "Tellor",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/71kKJMqZ1NfmQdw0rQx1k2/c1cdd2970cffe9a525a9b9b6bf77c751/Nicholas_Fett_-_CTO_-_Tellor_-_thefett.jpeg",
+      "photo": "photos/speakers/thefett.jpeg"
     },
     {
       "id": "tom-mclean",
@@ -161,61 +218,13 @@
       "photo": "photos/speakers/tom-mclean.jpg"
     },
     {
-      "id": "gabija-tuinaite",
-      "name": "Gabija Tuinaite",
-      "twitter": "sunshine_614",
-      "caption": "Mangrove",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/65sJXDM2nmGtYKwFPC2yiX/aca9f4fbd28d34f64aeb88738f97fdc9/Gabija_Tuinaite.jpg",
-      "photo": "photos/speakers/gabija-tuinaite.jpg"
-    },
-    {
-      "id": "zaki-manian",
-      "name": "Zaki Manian",
-      "twitter": "zmanian",
-      "caption": "Sommelier / Iqlusion",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/7ilSfTX6wT6nvpPQxTtMDY/e7c30cb96b6f62eab985850d9a82a3a6/Zaki_Manian.jpeg",
-      "photo": "photos/speakers/zaki-manian.jpeg"
-    },
-    {
-      "id": "marijo-radman",
-      "name": "Marijo Radman",
-      "twitter": "Marijo_Radman",
-      "caption": "Solity Network",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2CoQkdgsed7Aja7FqkVAGa/7aed1799255758776b3781342d79cd05/Marijo_Radman.jpg",
-      "photo": "photos/speakers/marijo-radman.jpg"
-    },
-    {
-      "id": "pavel-machalek",
-      "name": "Pavel Machalek",
-      "twitter": "microlea",
-      "caption": "Microlea",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/7Fnh6Bsq32kXewn2LfrtNK/f44b61116509f27ca1fc0f4e37940f2e/Pavel_Machalek.jpg",
-      "country": "cz",
-      "photo": "photos/speakers/pavel-machalek.jpg"
-    },
-    {
-      "id": "thefett",
-      "name": "thefett",
-      "twitter": "themandalore9",
-      "caption": "Tellor",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/71kKJMqZ1NfmQdw0rQx1k2/c1cdd2970cffe9a525a9b9b6bf77c751/Nicholas_Fett_-_CTO_-_Tellor_-_thefett.jpeg",
-      "photo": "photos/speakers/thefett.jpeg"
-    },
-    {
-      "id": "matteo",
-      "name": "Matteo",
-      "twitter": "0xmattegoat",
-      "caption": "Pragma Oracle",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3iSl7arCHYC2jLoh7UPt7Q/c05a17e172cb3f0d450b9ec097be5768/Matteo.jpeg",
-      "photo": "photos/speakers/matteo.jpeg"
-    },
-    {
-      "id": "cyrille-pastour",
-      "name": "Cyrille Pastour",
-      "twitter": "CyrillePastour",
-      "caption": "Swap Finance",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/70I2euMhP3NZ64ZiMI4i5R/c0d35e77ac6d1ee0b381620bb2a96709/Cyrille_Pastour.png",
-      "photo": "photos/speakers/cyrille-pastour.png"
+      "id": "will-harborne",
+      "name": "Will Harborne",
+      "twitter": "will_harborne",
+      "caption": "Rhino Fi",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/7lHwPf9tIk1Y3anuGcVhrA/eba6131507e769002ae96efcb83406ba/photo_2023-02-06_11.25.04.jpeg",
+      "country": "gb",
+      "photo": "photos/speakers/will-harborne.jpeg"
     },
     {
       "id": "yaron-velner",
@@ -226,21 +235,12 @@
       "photo": "photos/speakers/yaron-velner.jpeg"
     },
     {
-      "id": "alex",
-      "name": "Alex",
-      "twitter": "VinyasAlex",
-      "caption": "CowSwap",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3IJ7nIUU6pP5nErdTyYp6C/9956372ec506c58e49e9a2a96aeffc01/Alex.jpeg",
-      "photo": "photos/speakers/alex.jpeg"
-    },
-    {
-      "id": "david-rbx",
-      "name": "David",
-      "twitter": "Daviderbx",
-      "caption": "RBX",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6xcmCIhx6QzhZy38CbC0Q7/f7a256a527d5797ffa56357e18959184/David_RBX_Prague_summit.jpg",
-      "country": "cz",
-      "photo": "photos/speakers/david-rbx.jpg"
+      "id": "zaki-manian",
+      "name": "Zaki Manian",
+      "twitter": "zmanian",
+      "caption": "Sommelier / Iqlusion",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/7ilSfTX6wT6nvpPQxTtMDY/e7c30cb96b6f62eab985850d9a82a3a6/Zaki_Manian.jpeg",
+      "photo": "photos/speakers/zaki-manian.jpeg"
     }
   ]
 }

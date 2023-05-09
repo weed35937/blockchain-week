@@ -329,6 +329,7 @@ class DeConf_Collection {
       }
 
       if (data.speakers) {
+        data.speakers = data.speakers.sort((x, y) => x.id > y.id ? 1 : -1);
         const photosDir = [this.dir, "photos"].join("/");
         await ensureDir(photosDir);
         for (const sp of data.speakers) {

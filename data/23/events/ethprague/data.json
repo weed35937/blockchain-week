@@ -1,525 +1,12 @@
 {
   "speakers": [
     {
-      "id": "zeynep-ecenaz-altınok",
-      "name": "Zeynep Ecenaz Altınok",
-      "twitter": "zecenazaltinok",
-      "caption": "CoinTR/ SheFi ",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5fcBu1QuRXiIeVIQDD4LTx/4f60e083fd5ce52317d4d5fd9f18c584/Screenshot_2023-05-09_at_11.11.43.png",
-      "photo": "photos/speakers/zeynep-ecenaz-altınok.png"
-    },
-    {
-      "id": "zaki-manian",
-      "name": "Zaki Manian",
-      "twitter": "zmanian",
-      "caption": "Sommelier/Iqlusion",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/7b0teIsv03dQG4WFW5eJl9/1c8e1b4fc4ea3c89755a597350abc91a/zaki_headshot_1_rrjclOQ.png.jpeg",
-      "photo": "photos/speakers/zaki-manian.jpeg"
-    },
-    {
-      "id": "wlodek-gogloza",
-      "name": "Wlodek Gogloza",
-      "twitter": "wgogloza",
-      "caption": "Octant",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1wQqEVRsXJDQANFhmhZT2f/7702edcb01e53bae0358641dbcace5db/wlodekgogloza_8HHBoFc.jpg",
-      "photo": "photos/speakers/wlodek-gogloza.jpg"
-    },
-    {
-      "id": "vitalik-buterin",
-      "name": "Vitalik Buterin",
-      "twitter": "VitalikButerin",
-      "caption": "Ethereum Foundation",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2NqJAtibmXHGj6lV1lxWk8/190348f4e303add3ecdf5a3e415f88eb/signal-2023-04-13-172434_002.jpeg",
-      "photo": "photos/speakers/vitalik-buterin.jpeg"
-    },
-    {
-      "id": "toghrul-maharramov",
-      "name": "Toghrul Maharramov",
-      "twitter": "toghrulmaharram",
-      "caption": "Scroll",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/BoyESqD5CfEry6d4xo6Ls/2d2f9739d4174ef4a9feb3baf3f11001/t2ArKoW4_PRabQIh.jpg",
-      "photo": "photos/speakers/toghrul-maharramov.jpg"
-    },
-    {
-      "id": "tim-beiko",
-      "name": "Tim Beiko",
-      "twitter": "TimBeiko",
-      "caption": "Ethereum Foundation",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/E18FntUsLDbkexkDQU1tt/3a5c1ab0edde53fa60abfe0015399781/Tim_Small_Photo_K43SY5x.png",
-      "country": "ca",
-      "photo": "photos/speakers/tim-beiko.png"
-    },
-    {
-      "id": "tian-yuan-zhao",
-      "name": "Tian-Yuan Zhao",
-      "twitter": "TianysaurusRex",
-      "caption": "Circonomy",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6hPsPjf4baJReBeFVo4YJv/92aa8cb1c1d2e449d1c7b71c34191cdc/ReFi_Orb_46oKtUX.png",
-      "photo": "photos/speakers/tian-yuan-zhao.png"
-    },
-    {
-      "id": "steffen-kux",
-      "name": "Steffen Kux",
-      "twitter": "SteffenKux",
-      "caption": "corpus.ventures ",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/UAnUnhBvoaCfDKJdleqrm/0e023b4d80a8d6239b141b9550e5daee/Q6qSm9qU_400x400_GAHpW5O.jpg",
-      "country": "de",
-      "photo": "photos/speakers/steffen-kux.jpg"
-    },
-    {
-      "id": "stani-kulechov",
-      "name": "Stani Kulechov",
-      "twitter": "StaniKulechov",
-      "caption": "AAVE & LENS PROTOCOL",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/4ws5PA8vKt02JgVN3pK7Zh/bdbe2855fc12a3461cafa1d41a6ed2ad/stani1.png",
-      "photo": "photos/speakers/stani-kulechov.png"
-    },
-    {
-      "id": "schmiddominik",
-      "name": "Dominik",
-      "twitter": "schmiddominik1",
-      "caption": "Polygon Miden",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1IpzXhtWmf5SFmhtWt2UXT/59728acfb40e821b43786d5be3eb2395/ofe3s9UI_400x400.jpg",
-      "photo": "photos/speakers/schmiddominik.jpg"
-    },
-    {
-      "id": "saul-martin",
-      "name": "Saul Martin",
-      "caption": "Nethermind",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1XzbVlMlPfJaRgen4HdAI6/ad544bd662525e5d1a499aaa05c41efc/PIC_O8fwdfS.jpg",
-      "photo": "photos/speakers/saul-martin.jpg"
-    },
-    {
-      "id": "sahil-sen",
-      "name": "Sahil Sen",
-      "twitter": "sensahil",
-      "caption": "QuickNode",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/7vg1xoIO0SXkeCyhL9PZBq/1961b397049edf1f7b53530ed59f2aff/headshot_qg6hliN.png.jpeg",
-      "country": "in",
-      "photo": "photos/speakers/sahil-sen.jpeg"
-    },
-    {
-      "id": "rhys-williams",
-      "name": "Rhys Williams",
-      "twitter": "rhysistweets",
-      "caption": "University of Glasgow",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6d30X3MZOajpdcK2IJ5t0J/1deb1bfbf73148a4233d57d888d822b2/Media_741938_smxx.jpg",
-      "country": "gb",
-      "photo": "photos/speakers/rhys-williams.jpg"
-    },
-    {
-      "id": "rasim-muftiev",
-      "name": "Rasim Muftiev",
-      "twitter": "RasNode",
-      "caption": "Gamium",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3gndQtWbkzqMhGqtD1XO5J/6c76a6710ca1511cd10d4254c1db3fb5/RasimMuftiev_XDDCmb0.jpg",
-      "photo": "photos/speakers/rasim-muftiev.jpg"
-    },
-    {
-      "id": "radek-svarz",
-      "name": "Radek Svarz",
-      "twitter": "radk",
-      "caption": "",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/LIGdLTirbq6omYlC9dG0X/3933f16fa7335d1eb0e1d8764ef633fd/2020_radek_profile_-_face_aReCqT8.jpg",
-      "country": "cz",
-      "photo": "photos/speakers/radek-svarz.jpg"
-    },
-    {
-      "id": "puncar",
-      "name": "Puncar",
-      "twitter": "Puncar_DeFi",
-      "caption": "Peerwork.xyz",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/7IqmiO7YkGntiVjdwM9lBw/cedbb36bdead5e4cc8cf11da150157ba/Puncar_PFP_wn7dq1c.jpg",
-      "country": "us",
-      "photo": "photos/speakers/puncar.jpg"
-    },
-    {
-      "id": "paul-graham-raven",
-      "name": "Paul Graham Raven",
-      "twitter": "https://paulgrahamraven.com/",
-      "caption": "velcro-city.co.uk",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/4YoVeXmas3gVS2txjsJyuf/ce55b93fd088608cb4a519f7d65779f9/cropped-headshot-in-lift_3gF6D6C.jpg",
-      "photo": "photos/speakers/paul-graham-raven.jpg"
-    },
-    {
-      "id": "paul-gadi",
-      "name": "Paul Gadi ",
-      "twitter": "polats",
-      "caption": "OP Games",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/66Uc3diRkGgDw5h1N3Ghcy/fc67a05699362465c1b2bdf876a88949/paul_gadi_mxiSBit.jpg",
-      "photo": "photos/speakers/paul-gadi.jpg"
-    },
-    {
-      "id": "owen-barnes",
-      "name": "Owen Barnes ",
-      "twitter": "temporalwave",
-      "caption": "owenbarnes.com",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5tsXsqJCPFXTjmyAivjSoa/aeb2dda96e390bf3bb39574065c0af2b/me_Kw99m5f.jpg",
-      "photo": "photos/speakers/owen-barnes.jpg"
-    },
-    {
-      "id": "osho-jha",
-      "name": "Osho Jha",
-      "twitter": "CryptoBroShoNYC",
-      "caption": "dClimate",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1fkMUIHNjF5cPKRrm3qVk1/494958de1b350ff7b8d927de0f17a76b/Osho_headshot_BW_VjN7fkO.jpg",
-      "photo": "photos/speakers/osho-jha.jpg"
-    },
-    {
-      "id": "nissa-szabo",
-      "name": "Nissa Szabo",
-      "twitter": "nissaszabo",
-      "caption": "Vega Protocol",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1jsfOg2IgswiEXrxliB3FF/e97d7c1aa7ec86b483148d6ee7e2d751/pfptwitter_2Y2zhS3.jpg",
-      "photo": "photos/speakers/nissa-szabo.jpg"
-    },
-    {
-      "id": "nicolas-manea",
-      "name": "Nicolas Manea",
-      "twitter": "NicolasManea",
-      "caption": "Cardiff University",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5HPNj2nmhLXDVv7o1CQ8Tf/9b3591c31b32f241e74ec510d5462543/Profile_E3Z8U9O.jpg",
-      "country": "gb",
-      "photo": "photos/speakers/nicolas-manea.jpg"
-    },
-    {
-      "id": "nicolas-consigny",
-      "name": "Nicolas Consigny",
-      "twitter": "ncsgy",
-      "caption": "ledger",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1N9vXj96ffaYzVNSuQ4rfm/501bac8cc13a4cf041c3aaf2015060c1/Nico_AA_pfp_GOyGsuJ.jpg",
-      "photo": "photos/speakers/nicolas-consigny.jpg"
-    },
-    {
-      "id": "nicholas-paul-brysiewicz",
-      "name": "Nicholas Paul Brysiewicz",
-      "twitter": "nicholaspaul26",
-      "caption": "LONG NOW",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6EDhzzzLUebx5XFue2bdfi/df6a6ca1e297de76d5c623397e03dbe6/PB9XWGLt_400x400.jpg",
-      "photo": "photos/speakers/nicholas-paul-brysiewicz.jpg"
-    },
-    {
-      "id": "michal-prevratil",
-      "name": "Michal Převrátil",
-      "twitter": "michprev",
-      "caption": "Ackee Blockchain",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/L0ivlTcMiiScPPGGSEBB1/68e70e665915099272a883e301cf215f/1673510206362_6Ttl4yg.jpg",
-      "country": "cz",
-      "photo": "photos/speakers/michal-prevratil.jpg"
-    },
-    {
-      "id": "michael",
-      "name": "Michael",
-      "twitter": "mm319",
-      "caption": "Pillar Project/ Etherspot",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/4Txdp9184t4eayyCvU7ekB/66d800dc6c5610a9dda05dfe4fa4d157/Michael_Bngbthf.png.jpeg",
-      "photo": "photos/speakers/michael.jpeg"
-    },
-    {
-      "id": "miao-zhicheng",
-      "name": "Miao ZhiCheng",
-      "twitter": "https://www.lensfrens.xyz/hellwolf.lens",
-      "caption": "Superfluid",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/JxxN1mJuM0Ds75UgI2Lbg/0c66ab5093d7b3b0df33fc6941f71739/miao-2023-sketch-plus-urbit_3XLDkFK.png",
-      "country": "ee",
-      "photo": "photos/speakers/miao-zhicheng.png"
-    },
-    {
-      "id": "mathieu-saugier",
-      "name": "Mathieu Saugier",
-      "twitter": "eniwhere_",
-      "caption": "Nethermind",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2JPQqRPcKhT7bYa0QdTAbP/44c6722cd4431581b531d3e044822f2f/photo_perso_fREib4X.jpg",
-      "photo": "photos/speakers/mathieu-saugier.jpg"
-    },
-    {
-      "id": "marcus-aurelius",
-      "name": "Marcus Aurelius ",
-      "twitter": "0xKlimaurelius",
-      "caption": " KlimaDAO",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/olyBR7YaW41biilzTeGZg/a120ca4b0814c16005f69be9edc88deb/karen-aurelius_AWcdlNC.png",
-      "photo": "photos/speakers/marcus-aurelius.png"
-    },
-    {
-      "id": "maksim-izmaylov",
-      "name": "Maksim Izmaylov ",
-      "twitter": "https://Twitter.com/kvakes",
-      "caption": "kvakes.com",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1J0G2MNohOurDI1iBOXUQ4/40b282db2b73375c6e1edc20693df56e/userpic-new-square_NX26Zit.jpg",
-      "photo": "photos/speakers/maksim-izmaylov.jpg"
-    },
-    {
-      "id": "madalina-raicu",
-      "name": "Madalina Raicu",
-      "twitter": "made_raicu",
-      "caption": " Vega Protocol",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5Cv9lqWQlXFlSV85pdhuQw/5b0f1dc6918f68199c3e92d286b6e91a/mraicu_Nf46nYi.jpeg",
-      "photo": "photos/speakers/madalina-raicu.jpeg"
-    },
-    {
-      "id": "luc-computer",
-      "name": "Luc.computer",
-      "twitter": "lucemansnl",
-      "caption": "ENS/V3XLABS.ETH",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2BG9dvrm9trs9BmOapUkBS/638df3c9a163d8dfb3d8ed7ab2f63502/react_live_1_by_1_1_PaNo1Cn.png",
-      "country": "nl",
-      "photo": "photos/speakers/luc-computer.png"
-    },
-    {
-      "id": "lorenzo-nardiello",
-      "name": "Lorenzo Nardiello ",
-      "twitter": "juventino448",
-      "caption": "AllianceBlock",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2fY59pAb4BUB7nM8Q07xAj/b872376e833e28e5e841848a16b4d7d8/IMG_2197_IXv8eFM.jpg",
-      "photo": "photos/speakers/lorenzo-nardiello.jpg"
-    },
-    {
-      "id": "lefteris-karapetsas",
-      "name": "Lefteris Karapetsas",
-      "twitter": "LefterisJP",
-      "caption": "Rotki",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5Bv5eN7Pn8gG8wO8gEflGU/4ccf048720c5a75185ed28c60af1056e/profile2_v5wbUj6.png.jpeg",
-      "photo": "photos/speakers/lefteris-karapetsas.jpeg"
-    },
-    {
-      "id": "laurence-kirk",
-      "name": "Laurence Kirk ",
-      "twitter": "extropyLaurence",
-      "caption": " Extropy.io",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/4v90YQ1odZdJL7qvFvLK5u/2caf5e2b76d4e00d1fa87a82974aadf3/e5ecaf7b4fa490013bd899069491c5d2.jpeg",
-      "photo": "photos/speakers/laurence-kirk.jpeg"
-    },
-    {
-      "id": "konstantinos-paparas",
-      "name": "Konstantinos Paparas",
-      "twitter": "kelsos86",
-      "caption": "Rotki",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6I87V6fYayvIF5RvZciIiE/f991d75329d99adda12c85a3e5afed8c/c3efa1bb30bd70bdd48002c1b6a2d587.jpeg",
-      "photo": "photos/speakers/konstantinos-paparas.jpeg"
-    },
-    {
-      "id": "kirsten-pomales",
-      "name": "Kirsten Pomales",
-      "twitter": "kirstenrpomales",
-      "caption": "TalentLayer",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5u9vwjRJIXTcxjiKyIW1nO/7fa0f11880ff886bd5191a6d6714acee/cool_r3Xkpx2.png",
-      "photo": "photos/speakers/kirsten-pomales.png"
-    },
-    {
-      "id": "karl-floersch",
-      "name": "Karl Floersch",
-      "twitter": "karl_dot_tech",
-      "caption": "OP Labs",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3Tmh6Ytwg6uCxLwCJGmWm0/1793eca480aa01fdd791cbba91f65070/1517268137181.jpeg",
-      "photo": "photos/speakers/karl-floersch.jpeg"
-    },
-    {
-      "id": "juan-samitier",
-      "name": "Juan Samitier",
-      "twitter": "JuanSamitier",
-      "caption": "Kleros",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6iM51EaWWBNOo3VdwZ5Wpw/e8fdec897e8f9d000679dc4cf269800a/Selfie_Juan_4QOMGb0.jpeg",
-      "photo": "photos/speakers/juan-samitier.jpeg"
-    },
-    {
-      "id": "josef-gattermayer",
-      "name": "Josef Gattermayer ",
-      "twitter": "jgattermayer",
-      "caption": " Ackee Blockchain",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/31mQ6BlJbPKwt8fEytleew/35c4b1735ac73cd4379e71dffc6de3e1/ceo-cut_WYMKvyu.png",
-      "country": "cz",
-      "photo": "photos/speakers/josef-gattermayer.png"
-    },
-    {
-      "id": "jonathan-cubides",
-      "name": "Jonathan Cubides",
-      "twitter": "jonathan_heliax",
-      "caption": "Heliax",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1PiMcbk72G0MgzOcQeiwNg/77636da3121119dcebd1f68663987740/me_fC2aqrl.jpeg",
-      "photo": "photos/speakers/jonathan-cubides.jpeg"
-    },
-    {
-      "id": "jonathan-cubides",
-      "name": "Jonathan Cubides",
-      "twitter": "jonathan_heliax",
-      "caption": "Heliax",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/4ugSd9XYDTlrfXRhdVgpLT/73ddb93d16fce3e1363f1fb00b57fe60/me_fC2aqrl-2.jpeg",
-      "photo": "photos/speakers/jonathan-cubides.jpeg"
-    },
-    {
-      "id": "jayaditya-gupta",
-      "name": "Jayaditya Gupta",
-      "twitter": "jayssj1",
-      "caption": "hackertron",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/mZ33oNY0yFkQF2BwrMBUc/1e53309776c343a15e5c2dcbdf1536b2/LDZMlHZu_400x400.png",
-      "photo": "photos/speakers/jayaditya-gupta.png"
-    },
-    {
-      "id": "jan-jaczkal",
-      "name": "Jan",
-      "twitter": "jaczkal",
-      "caption": "Ackee Blockchain",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5Xi6UMwF3IVfll5mVxcRVv/15a16c9067d6be3b3d50fdde884fb372/SHmCxcI4_400x400_ffOgr8l.jpg",
-      "country": "cz",
-      "photo": "photos/speakers/jan-jaczkal.jpg"
-    },
-    {
-      "id": "harry-bairstow",
-      "name": "Harry Bairstow ",
-      "twitter": "TheHarryET",
-      "caption": "WalletConnect",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3vKnJHKBXOlNGFxpf3IUxi/5e733a1a769e71e8c42c5db6af823b72/speaker_img_cropped_low_ryz4oZd.jpg",
-      "photo": "photos/speakers/harry-bairstow.jpg"
-    },
-    {
-      "id": "frisco-d-anconia",
-      "name": "Frisco d Anconia",
-      "twitter": "CryptoTraveler1",
-      "caption": "Africa Blockchain University",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3rS0tQvliy8oIIlcE5saHK/c4970c57f8860dfbdf8e8a01ab05a259/Profile_Pic_2Wla6pT.jpeg",
-      "photo": "photos/speakers/frisco-d-anconia.jpeg"
-    },
-    {
-      "id": "filip-siroky",
-      "name": "Filip Siroky",
-      "twitter": "fisiroky",
-      "caption": "RockawayX ",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/7InO94fvl1zioUJOXE7ihV/9200b981a715d476cbc98866fa2b05b3/fsirokyphoto_djVGhnu.png",
-      "country": "cz",
-      "photo": "photos/speakers/filip-siroky.png"
-    },
-    {
-      "id": "ferit-tuncer",
-      "name": "Ferit Tunçer",
-      "twitter": "0xferit",
-      "caption": "Prove Us Wrong",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6YFxhGfXMDNtlx1Kqfqflc/e49fa727bc3ae58e7b914486891bee1c/ferit_bgTransparent_0Bqkvbp.png",
-      "country": "pt",
-      "photo": "photos/speakers/ferit-tuncer.png"
-    },
-    {
-      "id": "dustin-jacobus",
-      "name": "Dustin Jacobus",
-      "twitter": "DustinJacobus",
-      "caption": "dustinjacobus.com",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1BlmATxtPAM0Jf0tysNZnT/d2c8345908541ee33bf25a1ce733976f/mysc0ydA_400x400.jpeg",
-      "country": "be",
-      "photo": "photos/speakers/dustin-jacobus.jpeg"
-    },
-    {
-      "id": "dr--marina-steinkirch",
-      "name": "Dr. Marina Steinkirch",
-      "twitter": "https://github.com/mvonsteinkirch",
-      "caption": "Ethereum Foundation",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1xbr4lx59nkEoJTiyKFnce/194b0a4d3f69b3c1b16840ffdda358dc/avatar_D8vLQu9.png.jpeg",
-      "photo": "photos/speakers/dr--marina-steinkirch.jpeg"
-    },
-    {
-      "id": "dcbuilder-eth",
-      "name": "Dcbuilder.eth",
-      "twitter": "DCbuild3r",
-      "caption": "Worldcoin",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5ckzIji6kfbucbd3qqoL2Z/06e8a00ef6ffb5e2cc09b70d38633185/r-mqtMjszyRcqDbIsDI0E.jpeg",
-      "country": "cz",
-      "photo": "photos/speakers/dcbuilder-eth.jpeg"
-    },
-    {
-      "id": "danny-holland",
-      "name": "Danny Holland ",
-      "twitter": "icodeblockchain",
-      "caption": "",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6Tvxkd916H6ybzKobXYFYF/3eb28041a99473b056302c07401fdc04/pancakes_profile_pic_6xi3LBr.png.jpeg",
-      "photo": "photos/speakers/danny-holland.jpeg"
-    },
-    {
-      "id": "daniel-lumi",
-      "name": "Daniel Lumi",
-      "twitter": "zkLumi",
-      "caption": "",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/4CDpZ13I1MqmalsULotTFm/2645ff8b850f56b57866c0287701618f/FCE962F5-FF3B-4CE1-AC17-1E5184032B9A_9rSVeEL.jpeg",
-      "photo": "photos/speakers/daniel-lumi.jpeg"
-    },
-    {
-      "id": "daniel-hwang",
-      "name": "Daniel Hwang",
-      "twitter": "danhwang88",
-      "caption": " HanDAO/Kintsugi Tech",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3H7qbmYgDewSqwraJOLcwR/ee435071640ec511a7d0169ee1f4441a/daniel_profile_01vyEq3.png",
-      "photo": "photos/speakers/daniel-hwang.png"
-    },
-    {
-      "id": "cryptowanderer",
-      "name": "Cryptowanderer",
-      "twitter": "cryptowanderer",
-      "caption": "Kernel.community",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/7n5BBm4XWdNxIG6PA2MQx/b6eb58e7c6c1988cd84e63d2cb6f60b7/name_redacted_as_a_zen_master_with_a_sprouting_seed_in_the_style_of_a_japanese__82PYqJ4.jpeg",
-      "country": "za",
-      "photo": "photos/speakers/cryptowanderer.jpeg"
-    },
-    {
-      "id": "christoph-jentzsch",
-      "name": "Christoph Jentzsch",
-      "twitter": "ChrJentzsch",
-      "caption": "Tokenize.it/corpus",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/4bwxaznQugYUAIY0h5ndWa/5f2bfd92a1eda52268cad5fbf30f1aeb/Christoph4399_1_NoIjwUA.jpeg",
-      "photo": "photos/speakers/christoph-jentzsch.jpeg"
-    },
-    {
-      "id": "carlo-modica",
-      "name": "Carlo Modica",
-      "twitter": "carlo_cretino50",
-      "caption": "anoma",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3ttOHChDjJsJ5Yequ8sdw3/0c2f60e7a1c66a9bd1c46962e5aac509/J3g-Xl68_400x400.jpg",
-      "photo": "photos/speakers/carlo-modica.jpg"
-    },
-    {
-      "id": "avihu-mordechai-levy",
-      "name": "Avihu Mordechai Levy",
-      "twitter": "avihu28",
-      "caption": "StarkWare",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/4V4vXtN92xxVtUtQyw8epw/5132b725ca062c73677f7cd085d9d8ca/Avihu_1_YLcWwy1-2.jpg",
-      "photo": "photos/speakers/avihu-mordechai-levy.jpg"
-    },
-    {
-      "id": "atris",
-      "name": "Atris",
-      "twitter": "atris_eth",
-      "caption": "gitcoin",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6xQshaN9XXrqdwWgMmoifW/6669035c9fb0ace8d92a33dc8769c3e2/krtkus_github_b9ovFli.png.jpeg",
-      "photo": "photos/speakers/atris.jpeg"
-    },
-    {
-      "id": "anjali-young",
-      "name": "Anjali Young ",
-      "twitter": "damaderoca",
-      "caption": "Abridged/ Collab.Land",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3Hll8HFHDj7DX7VfogZkwZ/45f18ba6ac79e5d8871a8a2fee45292a/Anjali_Young_Collabland_aJUCcUU.png.jpeg",
-      "photo": "photos/speakers/anjali-young.jpeg"
-    },
-    {
-      "id": "anett-rolikova",
-      "name": "Anett Rolikova",
-      "twitter": "AnettRolikova",
-      "caption": "Hyperlane",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/33xR2IBQfcwgfuov597SKQ/85b2693d65825ee0a7c1fceb3a478191/twheadshot_ZgkfQh1.jpeg",
-      "country": "sk",
-      "photo": "photos/speakers/anett-rolikova.jpeg"
-    },
-    {
-      "id": "alex-gluchowski",
-      "name": "Alex Gluchowski ",
-      "twitter": "gluk64",
-      "caption": "Matter Labs/ zkSync",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1Ayf5oiCWR8aAOEAB3eq43/48d3c1a14cd6fd43546a216697d79f14/Copy_of__8643_sw_1_USq3edI.jpg",
-      "photo": "photos/speakers/alex-gluchowski.jpg"
-    },
-    {
-      "id": "aless",
-      "name": "Aless",
-      "twitter": "O_Romano_",
-      "caption": "re-des.org",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5BtKtf8lwuy2A6aGeUcvjh/f83b60cf4fa79d19f8be46a241a81bce/Green_Man_wto6RNn.jpeg",
-      "photo": "photos/speakers/aless.jpeg"
+      "id": "0xevolve",
+      "name": "0xevolve",
+      "twitter": "0xevolve",
+      "caption": "MakerDAO/ Pragmaoracle",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/59cmjr4Sb3JVEjzSwPDVpV/f6a82ca53669245a1681bec980d784a4/KGVLQ-4R_400x400.jpg",
+      "photo": "photos/speakers/0xevolve.jpg"
     },
     {
       "id": "abeer-sharma",
@@ -531,12 +18,525 @@
       "photo": "photos/speakers/abeer-sharma.png"
     },
     {
-      "id": "0xevolve",
-      "name": "0xevolve",
-      "twitter": "0xevolve",
-      "caption": "MakerDAO/ Pragmaoracle",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/59cmjr4Sb3JVEjzSwPDVpV/f6a82ca53669245a1681bec980d784a4/KGVLQ-4R_400x400.jpg",
-      "photo": "photos/speakers/0xevolve.jpg"
+      "id": "aless",
+      "name": "Aless",
+      "twitter": "O_Romano_",
+      "caption": "re-des.org",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5BtKtf8lwuy2A6aGeUcvjh/f83b60cf4fa79d19f8be46a241a81bce/Green_Man_wto6RNn.jpeg",
+      "photo": "photos/speakers/aless.jpeg"
+    },
+    {
+      "id": "alex-gluchowski",
+      "name": "Alex Gluchowski ",
+      "twitter": "gluk64",
+      "caption": "Matter Labs/ zkSync",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1Ayf5oiCWR8aAOEAB3eq43/48d3c1a14cd6fd43546a216697d79f14/Copy_of__8643_sw_1_USq3edI.jpg",
+      "photo": "photos/speakers/alex-gluchowski.jpg"
+    },
+    {
+      "id": "anett-rolikova",
+      "name": "Anett Rolikova",
+      "twitter": "AnettRolikova",
+      "caption": "Hyperlane",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/33xR2IBQfcwgfuov597SKQ/85b2693d65825ee0a7c1fceb3a478191/twheadshot_ZgkfQh1.jpeg",
+      "country": "sk",
+      "photo": "photos/speakers/anett-rolikova.jpeg"
+    },
+    {
+      "id": "anjali-young",
+      "name": "Anjali Young ",
+      "twitter": "damaderoca",
+      "caption": "Abridged/ Collab.Land",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3Hll8HFHDj7DX7VfogZkwZ/45f18ba6ac79e5d8871a8a2fee45292a/Anjali_Young_Collabland_aJUCcUU.png.jpeg",
+      "photo": "photos/speakers/anjali-young.jpeg"
+    },
+    {
+      "id": "atris",
+      "name": "Atris",
+      "twitter": "atris_eth",
+      "caption": "gitcoin",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6xQshaN9XXrqdwWgMmoifW/6669035c9fb0ace8d92a33dc8769c3e2/krtkus_github_b9ovFli.png.jpeg",
+      "photo": "photos/speakers/atris.jpeg"
+    },
+    {
+      "id": "avihu-mordechai-levy",
+      "name": "Avihu Mordechai Levy",
+      "twitter": "avihu28",
+      "caption": "StarkWare",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/4V4vXtN92xxVtUtQyw8epw/5132b725ca062c73677f7cd085d9d8ca/Avihu_1_YLcWwy1-2.jpg",
+      "photo": "photos/speakers/avihu-mordechai-levy.jpg"
+    },
+    {
+      "id": "carlo-modica",
+      "name": "Carlo Modica",
+      "twitter": "carlo_cretino50",
+      "caption": "anoma",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3ttOHChDjJsJ5Yequ8sdw3/0c2f60e7a1c66a9bd1c46962e5aac509/J3g-Xl68_400x400.jpg",
+      "photo": "photos/speakers/carlo-modica.jpg"
+    },
+    {
+      "id": "christoph-jentzsch",
+      "name": "Christoph Jentzsch",
+      "twitter": "ChrJentzsch",
+      "caption": "Tokenize.it/corpus",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/4bwxaznQugYUAIY0h5ndWa/5f2bfd92a1eda52268cad5fbf30f1aeb/Christoph4399_1_NoIjwUA.jpeg",
+      "photo": "photos/speakers/christoph-jentzsch.jpeg"
+    },
+    {
+      "id": "cryptowanderer",
+      "name": "Cryptowanderer",
+      "twitter": "cryptowanderer",
+      "caption": "Kernel.community",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/7n5BBm4XWdNxIG6PA2MQx/b6eb58e7c6c1988cd84e63d2cb6f60b7/name_redacted_as_a_zen_master_with_a_sprouting_seed_in_the_style_of_a_japanese__82PYqJ4.jpeg",
+      "country": "za",
+      "photo": "photos/speakers/cryptowanderer.jpeg"
+    },
+    {
+      "id": "daniel-hwang",
+      "name": "Daniel Hwang",
+      "twitter": "danhwang88",
+      "caption": " HanDAO/Kintsugi Tech",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3H7qbmYgDewSqwraJOLcwR/ee435071640ec511a7d0169ee1f4441a/daniel_profile_01vyEq3.png",
+      "photo": "photos/speakers/daniel-hwang.png"
+    },
+    {
+      "id": "daniel-lumi",
+      "name": "Daniel Lumi",
+      "twitter": "zkLumi",
+      "caption": "",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/4CDpZ13I1MqmalsULotTFm/2645ff8b850f56b57866c0287701618f/FCE962F5-FF3B-4CE1-AC17-1E5184032B9A_9rSVeEL.jpeg",
+      "photo": "photos/speakers/daniel-lumi.jpeg"
+    },
+    {
+      "id": "danny-holland",
+      "name": "Danny Holland ",
+      "twitter": "icodeblockchain",
+      "caption": "",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6Tvxkd916H6ybzKobXYFYF/3eb28041a99473b056302c07401fdc04/pancakes_profile_pic_6xi3LBr.png.jpeg",
+      "photo": "photos/speakers/danny-holland.jpeg"
+    },
+    {
+      "id": "dcbuilder-eth",
+      "name": "Dcbuilder.eth",
+      "twitter": "DCbuild3r",
+      "caption": "Worldcoin",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5ckzIji6kfbucbd3qqoL2Z/06e8a00ef6ffb5e2cc09b70d38633185/r-mqtMjszyRcqDbIsDI0E.jpeg",
+      "country": "cz",
+      "photo": "photos/speakers/dcbuilder-eth.jpeg"
+    },
+    {
+      "id": "dr--marina-steinkirch",
+      "name": "Dr. Marina Steinkirch",
+      "twitter": "https://github.com/mvonsteinkirch",
+      "caption": "Ethereum Foundation",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1xbr4lx59nkEoJTiyKFnce/194b0a4d3f69b3c1b16840ffdda358dc/avatar_D8vLQu9.png.jpeg",
+      "photo": "photos/speakers/dr--marina-steinkirch.jpeg"
+    },
+    {
+      "id": "dustin-jacobus",
+      "name": "Dustin Jacobus",
+      "twitter": "DustinJacobus",
+      "caption": "dustinjacobus.com",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1BlmATxtPAM0Jf0tysNZnT/d2c8345908541ee33bf25a1ce733976f/mysc0ydA_400x400.jpeg",
+      "country": "be",
+      "photo": "photos/speakers/dustin-jacobus.jpeg"
+    },
+    {
+      "id": "ferit-tuncer",
+      "name": "Ferit Tunçer",
+      "twitter": "0xferit",
+      "caption": "Prove Us Wrong",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6YFxhGfXMDNtlx1Kqfqflc/e49fa727bc3ae58e7b914486891bee1c/ferit_bgTransparent_0Bqkvbp.png",
+      "country": "pt",
+      "photo": "photos/speakers/ferit-tuncer.png"
+    },
+    {
+      "id": "filip-siroky",
+      "name": "Filip Siroky",
+      "twitter": "fisiroky",
+      "caption": "RockawayX ",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/7InO94fvl1zioUJOXE7ihV/9200b981a715d476cbc98866fa2b05b3/fsirokyphoto_djVGhnu.png",
+      "country": "cz",
+      "photo": "photos/speakers/filip-siroky.png"
+    },
+    {
+      "id": "frisco-d-anconia",
+      "name": "Frisco d Anconia",
+      "twitter": "CryptoTraveler1",
+      "caption": "Africa Blockchain University",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3rS0tQvliy8oIIlcE5saHK/c4970c57f8860dfbdf8e8a01ab05a259/Profile_Pic_2Wla6pT.jpeg",
+      "photo": "photos/speakers/frisco-d-anconia.jpeg"
+    },
+    {
+      "id": "harry-bairstow",
+      "name": "Harry Bairstow ",
+      "twitter": "TheHarryET",
+      "caption": "WalletConnect",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3vKnJHKBXOlNGFxpf3IUxi/5e733a1a769e71e8c42c5db6af823b72/speaker_img_cropped_low_ryz4oZd.jpg",
+      "photo": "photos/speakers/harry-bairstow.jpg"
+    },
+    {
+      "id": "jan-jaczkal",
+      "name": "Jan",
+      "twitter": "jaczkal",
+      "caption": "Ackee Blockchain",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5Xi6UMwF3IVfll5mVxcRVv/15a16c9067d6be3b3d50fdde884fb372/SHmCxcI4_400x400_ffOgr8l.jpg",
+      "country": "cz",
+      "photo": "photos/speakers/jan-jaczkal.jpg"
+    },
+    {
+      "id": "jayaditya-gupta",
+      "name": "Jayaditya Gupta",
+      "twitter": "jayssj1",
+      "caption": "hackertron",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/mZ33oNY0yFkQF2BwrMBUc/1e53309776c343a15e5c2dcbdf1536b2/LDZMlHZu_400x400.png",
+      "photo": "photos/speakers/jayaditya-gupta.png"
+    },
+    {
+      "id": "jonathan-cubides",
+      "name": "Jonathan Cubides",
+      "twitter": "jonathan_heliax",
+      "caption": "Heliax",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/4ugSd9XYDTlrfXRhdVgpLT/73ddb93d16fce3e1363f1fb00b57fe60/me_fC2aqrl-2.jpeg",
+      "photo": "photos/speakers/jonathan-cubides.jpeg"
+    },
+    {
+      "id": "jonathan-cubides",
+      "name": "Jonathan Cubides",
+      "twitter": "jonathan_heliax",
+      "caption": "Heliax",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1PiMcbk72G0MgzOcQeiwNg/77636da3121119dcebd1f68663987740/me_fC2aqrl.jpeg",
+      "photo": "photos/speakers/jonathan-cubides.jpeg"
+    },
+    {
+      "id": "josef-gattermayer",
+      "name": "Josef Gattermayer ",
+      "twitter": "jgattermayer",
+      "caption": " Ackee Blockchain",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/31mQ6BlJbPKwt8fEytleew/35c4b1735ac73cd4379e71dffc6de3e1/ceo-cut_WYMKvyu.png",
+      "country": "cz",
+      "photo": "photos/speakers/josef-gattermayer.png"
+    },
+    {
+      "id": "juan-samitier",
+      "name": "Juan Samitier",
+      "twitter": "JuanSamitier",
+      "caption": "Kleros",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6iM51EaWWBNOo3VdwZ5Wpw/e8fdec897e8f9d000679dc4cf269800a/Selfie_Juan_4QOMGb0.jpeg",
+      "photo": "photos/speakers/juan-samitier.jpeg"
+    },
+    {
+      "id": "karl-floersch",
+      "name": "Karl Floersch",
+      "twitter": "karl_dot_tech",
+      "caption": "OP Labs",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3Tmh6Ytwg6uCxLwCJGmWm0/1793eca480aa01fdd791cbba91f65070/1517268137181.jpeg",
+      "photo": "photos/speakers/karl-floersch.jpeg"
+    },
+    {
+      "id": "kirsten-pomales",
+      "name": "Kirsten Pomales",
+      "twitter": "kirstenrpomales",
+      "caption": "TalentLayer",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5u9vwjRJIXTcxjiKyIW1nO/7fa0f11880ff886bd5191a6d6714acee/cool_r3Xkpx2.png",
+      "photo": "photos/speakers/kirsten-pomales.png"
+    },
+    {
+      "id": "konstantinos-paparas",
+      "name": "Konstantinos Paparas",
+      "twitter": "kelsos86",
+      "caption": "Rotki",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6I87V6fYayvIF5RvZciIiE/f991d75329d99adda12c85a3e5afed8c/c3efa1bb30bd70bdd48002c1b6a2d587.jpeg",
+      "photo": "photos/speakers/konstantinos-paparas.jpeg"
+    },
+    {
+      "id": "laurence-kirk",
+      "name": "Laurence Kirk ",
+      "twitter": "extropyLaurence",
+      "caption": " Extropy.io",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/4v90YQ1odZdJL7qvFvLK5u/2caf5e2b76d4e00d1fa87a82974aadf3/e5ecaf7b4fa490013bd899069491c5d2.jpeg",
+      "photo": "photos/speakers/laurence-kirk.jpeg"
+    },
+    {
+      "id": "lefteris-karapetsas",
+      "name": "Lefteris Karapetsas",
+      "twitter": "LefterisJP",
+      "caption": "Rotki",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5Bv5eN7Pn8gG8wO8gEflGU/4ccf048720c5a75185ed28c60af1056e/profile2_v5wbUj6.png.jpeg",
+      "photo": "photos/speakers/lefteris-karapetsas.jpeg"
+    },
+    {
+      "id": "lorenzo-nardiello",
+      "name": "Lorenzo Nardiello ",
+      "twitter": "juventino448",
+      "caption": "AllianceBlock",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2fY59pAb4BUB7nM8Q07xAj/b872376e833e28e5e841848a16b4d7d8/IMG_2197_IXv8eFM.jpg",
+      "photo": "photos/speakers/lorenzo-nardiello.jpg"
+    },
+    {
+      "id": "luc-computer",
+      "name": "Luc.computer",
+      "twitter": "lucemansnl",
+      "caption": "ENS/V3XLABS.ETH",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2BG9dvrm9trs9BmOapUkBS/638df3c9a163d8dfb3d8ed7ab2f63502/react_live_1_by_1_1_PaNo1Cn.png",
+      "country": "nl",
+      "photo": "photos/speakers/luc-computer.png"
+    },
+    {
+      "id": "madalina-raicu",
+      "name": "Madalina Raicu",
+      "twitter": "made_raicu",
+      "caption": " Vega Protocol",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5Cv9lqWQlXFlSV85pdhuQw/5b0f1dc6918f68199c3e92d286b6e91a/mraicu_Nf46nYi.jpeg",
+      "photo": "photos/speakers/madalina-raicu.jpeg"
+    },
+    {
+      "id": "maksim-izmaylov",
+      "name": "Maksim Izmaylov ",
+      "twitter": "https://Twitter.com/kvakes",
+      "caption": "kvakes.com",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1J0G2MNohOurDI1iBOXUQ4/40b282db2b73375c6e1edc20693df56e/userpic-new-square_NX26Zit.jpg",
+      "photo": "photos/speakers/maksim-izmaylov.jpg"
+    },
+    {
+      "id": "marcus-aurelius",
+      "name": "Marcus Aurelius ",
+      "twitter": "0xKlimaurelius",
+      "caption": " KlimaDAO",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/olyBR7YaW41biilzTeGZg/a120ca4b0814c16005f69be9edc88deb/karen-aurelius_AWcdlNC.png",
+      "photo": "photos/speakers/marcus-aurelius.png"
+    },
+    {
+      "id": "mathieu-saugier",
+      "name": "Mathieu Saugier",
+      "twitter": "eniwhere_",
+      "caption": "Nethermind",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2JPQqRPcKhT7bYa0QdTAbP/44c6722cd4431581b531d3e044822f2f/photo_perso_fREib4X.jpg",
+      "photo": "photos/speakers/mathieu-saugier.jpg"
+    },
+    {
+      "id": "miao-zhicheng",
+      "name": "Miao ZhiCheng",
+      "twitter": "https://www.lensfrens.xyz/hellwolf.lens",
+      "caption": "Superfluid",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/JxxN1mJuM0Ds75UgI2Lbg/0c66ab5093d7b3b0df33fc6941f71739/miao-2023-sketch-plus-urbit_3XLDkFK.png",
+      "country": "ee",
+      "photo": "photos/speakers/miao-zhicheng.png"
+    },
+    {
+      "id": "michael",
+      "name": "Michael",
+      "twitter": "mm319",
+      "caption": "Pillar Project/ Etherspot",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/4Txdp9184t4eayyCvU7ekB/66d800dc6c5610a9dda05dfe4fa4d157/Michael_Bngbthf.png.jpeg",
+      "photo": "photos/speakers/michael.jpeg"
+    },
+    {
+      "id": "michal-prevratil",
+      "name": "Michal Převrátil",
+      "twitter": "michprev",
+      "caption": "Ackee Blockchain",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/L0ivlTcMiiScPPGGSEBB1/68e70e665915099272a883e301cf215f/1673510206362_6Ttl4yg.jpg",
+      "country": "cz",
+      "photo": "photos/speakers/michal-prevratil.jpg"
+    },
+    {
+      "id": "nicholas-paul-brysiewicz",
+      "name": "Nicholas Paul Brysiewicz",
+      "twitter": "nicholaspaul26",
+      "caption": "LONG NOW",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6EDhzzzLUebx5XFue2bdfi/df6a6ca1e297de76d5c623397e03dbe6/PB9XWGLt_400x400.jpg",
+      "photo": "photos/speakers/nicholas-paul-brysiewicz.jpg"
+    },
+    {
+      "id": "nicolas-consigny",
+      "name": "Nicolas Consigny",
+      "twitter": "ncsgy",
+      "caption": "ledger",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1N9vXj96ffaYzVNSuQ4rfm/501bac8cc13a4cf041c3aaf2015060c1/Nico_AA_pfp_GOyGsuJ.jpg",
+      "photo": "photos/speakers/nicolas-consigny.jpg"
+    },
+    {
+      "id": "nicolas-manea",
+      "name": "Nicolas Manea",
+      "twitter": "NicolasManea",
+      "caption": "Cardiff University",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5HPNj2nmhLXDVv7o1CQ8Tf/9b3591c31b32f241e74ec510d5462543/Profile_E3Z8U9O.jpg",
+      "country": "gb",
+      "photo": "photos/speakers/nicolas-manea.jpg"
+    },
+    {
+      "id": "nissa-szabo",
+      "name": "Nissa Szabo",
+      "twitter": "nissaszabo",
+      "caption": "Vega Protocol",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1jsfOg2IgswiEXrxliB3FF/e97d7c1aa7ec86b483148d6ee7e2d751/pfptwitter_2Y2zhS3.jpg",
+      "photo": "photos/speakers/nissa-szabo.jpg"
+    },
+    {
+      "id": "osho-jha",
+      "name": "Osho Jha",
+      "twitter": "CryptoBroShoNYC",
+      "caption": "dClimate",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1fkMUIHNjF5cPKRrm3qVk1/494958de1b350ff7b8d927de0f17a76b/Osho_headshot_BW_VjN7fkO.jpg",
+      "photo": "photos/speakers/osho-jha.jpg"
+    },
+    {
+      "id": "owen-barnes",
+      "name": "Owen Barnes ",
+      "twitter": "temporalwave",
+      "caption": "owenbarnes.com",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5tsXsqJCPFXTjmyAivjSoa/aeb2dda96e390bf3bb39574065c0af2b/me_Kw99m5f.jpg",
+      "photo": "photos/speakers/owen-barnes.jpg"
+    },
+    {
+      "id": "paul-gadi",
+      "name": "Paul Gadi ",
+      "twitter": "polats",
+      "caption": "OP Games",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/66Uc3diRkGgDw5h1N3Ghcy/fc67a05699362465c1b2bdf876a88949/paul_gadi_mxiSBit.jpg",
+      "photo": "photos/speakers/paul-gadi.jpg"
+    },
+    {
+      "id": "paul-graham-raven",
+      "name": "Paul Graham Raven",
+      "twitter": "https://paulgrahamraven.com/",
+      "caption": "velcro-city.co.uk",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/4YoVeXmas3gVS2txjsJyuf/ce55b93fd088608cb4a519f7d65779f9/cropped-headshot-in-lift_3gF6D6C.jpg",
+      "photo": "photos/speakers/paul-graham-raven.jpg"
+    },
+    {
+      "id": "puncar",
+      "name": "Puncar",
+      "twitter": "Puncar_DeFi",
+      "caption": "Peerwork.xyz",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/7IqmiO7YkGntiVjdwM9lBw/cedbb36bdead5e4cc8cf11da150157ba/Puncar_PFP_wn7dq1c.jpg",
+      "country": "us",
+      "photo": "photos/speakers/puncar.jpg"
+    },
+    {
+      "id": "radek-svarz",
+      "name": "Radek Svarz",
+      "twitter": "radk",
+      "caption": "",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/LIGdLTirbq6omYlC9dG0X/3933f16fa7335d1eb0e1d8764ef633fd/2020_radek_profile_-_face_aReCqT8.jpg",
+      "country": "cz",
+      "photo": "photos/speakers/radek-svarz.jpg"
+    },
+    {
+      "id": "rasim-muftiev",
+      "name": "Rasim Muftiev",
+      "twitter": "RasNode",
+      "caption": "Gamium",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3gndQtWbkzqMhGqtD1XO5J/6c76a6710ca1511cd10d4254c1db3fb5/RasimMuftiev_XDDCmb0.jpg",
+      "photo": "photos/speakers/rasim-muftiev.jpg"
+    },
+    {
+      "id": "rhys-williams",
+      "name": "Rhys Williams",
+      "twitter": "rhysistweets",
+      "caption": "University of Glasgow",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6d30X3MZOajpdcK2IJ5t0J/1deb1bfbf73148a4233d57d888d822b2/Media_741938_smxx.jpg",
+      "country": "gb",
+      "photo": "photos/speakers/rhys-williams.jpg"
+    },
+    {
+      "id": "sahil-sen",
+      "name": "Sahil Sen",
+      "twitter": "sensahil",
+      "caption": "QuickNode",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/7vg1xoIO0SXkeCyhL9PZBq/1961b397049edf1f7b53530ed59f2aff/headshot_qg6hliN.png.jpeg",
+      "country": "in",
+      "photo": "photos/speakers/sahil-sen.jpeg"
+    },
+    {
+      "id": "saul-martin",
+      "name": "Saul Martin",
+      "caption": "Nethermind",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1XzbVlMlPfJaRgen4HdAI6/ad544bd662525e5d1a499aaa05c41efc/PIC_O8fwdfS.jpg",
+      "photo": "photos/speakers/saul-martin.jpg"
+    },
+    {
+      "id": "schmiddominik",
+      "name": "Dominik",
+      "twitter": "schmiddominik1",
+      "caption": "Polygon Miden",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1IpzXhtWmf5SFmhtWt2UXT/59728acfb40e821b43786d5be3eb2395/ofe3s9UI_400x400.jpg",
+      "photo": "photos/speakers/schmiddominik.jpg"
+    },
+    {
+      "id": "stani-kulechov",
+      "name": "Stani Kulechov",
+      "twitter": "StaniKulechov",
+      "caption": "AAVE & LENS PROTOCOL",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/4ws5PA8vKt02JgVN3pK7Zh/bdbe2855fc12a3461cafa1d41a6ed2ad/stani1.png",
+      "photo": "photos/speakers/stani-kulechov.png"
+    },
+    {
+      "id": "steffen-kux",
+      "name": "Steffen Kux",
+      "twitter": "SteffenKux",
+      "caption": "corpus.ventures ",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/UAnUnhBvoaCfDKJdleqrm/0e023b4d80a8d6239b141b9550e5daee/Q6qSm9qU_400x400_GAHpW5O.jpg",
+      "country": "de",
+      "photo": "photos/speakers/steffen-kux.jpg"
+    },
+    {
+      "id": "tian-yuan-zhao",
+      "name": "Tian-Yuan Zhao",
+      "twitter": "TianysaurusRex",
+      "caption": "Circonomy",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6hPsPjf4baJReBeFVo4YJv/92aa8cb1c1d2e449d1c7b71c34191cdc/ReFi_Orb_46oKtUX.png",
+      "photo": "photos/speakers/tian-yuan-zhao.png"
+    },
+    {
+      "id": "tim-beiko",
+      "name": "Tim Beiko",
+      "twitter": "TimBeiko",
+      "caption": "Ethereum Foundation",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/E18FntUsLDbkexkDQU1tt/3a5c1ab0edde53fa60abfe0015399781/Tim_Small_Photo_K43SY5x.png",
+      "country": "ca",
+      "photo": "photos/speakers/tim-beiko.png"
+    },
+    {
+      "id": "toghrul-maharramov",
+      "name": "Toghrul Maharramov",
+      "twitter": "toghrulmaharram",
+      "caption": "Scroll",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/BoyESqD5CfEry6d4xo6Ls/2d2f9739d4174ef4a9feb3baf3f11001/t2ArKoW4_PRabQIh.jpg",
+      "photo": "photos/speakers/toghrul-maharramov.jpg"
+    },
+    {
+      "id": "vitalik-buterin",
+      "name": "Vitalik Buterin",
+      "twitter": "VitalikButerin",
+      "caption": "Ethereum Foundation",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2NqJAtibmXHGj6lV1lxWk8/190348f4e303add3ecdf5a3e415f88eb/signal-2023-04-13-172434_002.jpeg",
+      "photo": "photos/speakers/vitalik-buterin.jpeg"
+    },
+    {
+      "id": "wlodek-gogloza",
+      "name": "Wlodek Gogloza",
+      "twitter": "wgogloza",
+      "caption": "Octant",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1wQqEVRsXJDQANFhmhZT2f/7702edcb01e53bae0358641dbcace5db/wlodekgogloza_8HHBoFc.jpg",
+      "photo": "photos/speakers/wlodek-gogloza.jpg"
+    },
+    {
+      "id": "zaki-manian",
+      "name": "Zaki Manian",
+      "twitter": "zmanian",
+      "caption": "Sommelier/Iqlusion",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/7b0teIsv03dQG4WFW5eJl9/1c8e1b4fc4ea3c89755a597350abc91a/zaki_headshot_1_rrjclOQ.png.jpeg",
+      "photo": "photos/speakers/zaki-manian.jpeg"
+    },
+    {
+      "id": "zeynep-ecenaz-altınok",
+      "name": "Zeynep Ecenaz Altınok",
+      "twitter": "zecenazaltinok",
+      "caption": "CoinTR/ SheFi ",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5fcBu1QuRXiIeVIQDD4LTx/4f60e083fd5ce52317d4d5fd9f18c584/Screenshot_2023-05-09_at_11.11.43.png",
+      "photo": "photos/speakers/zeynep-ecenaz-altınok.png"
     }
   ]
 }
