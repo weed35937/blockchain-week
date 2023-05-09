@@ -1,6 +1,14 @@
 {
   "speakers": [
     {
+      "id": "zeynep-ecenaz-altınok",
+      "name": "Zeynep Ecenaz Altınok",
+      "twitter": "zecenazaltinok",
+      "caption": "CoinTR/ SheFi ",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5fcBu1QuRXiIeVIQDD4LTx/4f60e083fd5ce52317d4d5fd9f18c584/Screenshot_2023-05-09_at_11.11.43.png",
+      "photo": "photos/speakers/zeynep-ecenaz-altınok.png"
+    },
+    {
       "id": "zaki-manian",
       "name": "Zaki Manian",
       "twitter": "zmanian",
