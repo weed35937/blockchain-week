@@ -13,6 +13,7 @@ export async function data(tools) {
     "Marek Sandrik": { country: "cz" },
     "Filip Siroky": { country: "cz" },
     "Adam Bilko": { country: "cz" },
+    "Juraj Petro": { country: "sk" },
   };
 
   for (const el of $("#speakers div.w-full.relative").toArray()) {
