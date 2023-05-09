@@ -41,6 +41,7 @@ export async function loadHtmlLocal(fn) {
 
 export function formatId(str) {
   return str
+    .trim()
     .normalize("NFD")
     .toLowerCase()
     .replace(/[\u0300-\u036F]/g, "")

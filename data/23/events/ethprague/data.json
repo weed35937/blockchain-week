@@ -92,6 +92,13 @@
       "photo": "photos/speakers/cryptowanderer.jpeg"
     },
     {
+      "id": "csaba-kiraly",
+      "name": "Csaba Kiraly ",
+      "caption": "status.im",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2s8D1OYaxMPLTHWvkme83o/20ebe70db8a6c73185bfda92e4aa7c6c/self_bOMmCTf.jpeg",
+      "photo": "photos/speakers/csaba-kiraly.jpeg"
+    },
+    {
       "id": "daniel-hwang",
       "name": "Daniel Hwang",
       "twitter": "danhwang88",
@@ -168,6 +175,14 @@
       "photo": "photos/speakers/frisco-d-anconia.jpeg"
     },
     {
+      "id": "guillaume-ballet",
+      "name": "Guillaume Ballet",
+      "twitter": "gballet",
+      "caption": " Go Ethereum",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6SQKKWgb36eUw4RzxYBGo7/d5100b4693e84e8ac45d91ec82303ae0/-1LUYnWJ_400x400_3w5t4Rd.jpg",
+      "photo": "photos/speakers/guillaume-ballet.jpg"
+    },
+    {
       "id": "harry-bairstow",
       "name": "Harry Bairstow ",
       "twitter": "TheHarryET",
@@ -242,6 +257,14 @@
       "photo": "photos/speakers/kirsten-pomales.png"
     },
     {
+      "id": "klaus-kursawe",
+      "name": "Klaus Kursawe",
+      "twitter": "chezklaus",
+      "caption": " VEGA protocol",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/Kc9xNrINS6TQawIGHPltI/7b7c2fca336d4c76a1e849df4b82f441/Klaus-Kursawe150-239x300_4TPUuFf.jpeg",
+      "photo": "photos/speakers/klaus-kursawe.jpeg"
+    },
+    {
       "id": "konstantinos-paparas",
       "name": "Konstantinos Paparas",
       "twitter": "kelsos86",
@@ -264,6 +287,14 @@
       "caption": "Rotki",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5Bv5eN7Pn8gG8wO8gEflGU/4ccf048720c5a75185ed28c60af1056e/profile2_v5wbUj6.png.jpeg",
       "photo": "photos/speakers/lefteris-karapetsas.jpeg"
+    },
+    {
+      "id": "leonardo-bautista-gomez",
+      "name": "Leonardo Bautista-Gomez",
+      "twitter": "codexstorage",
+      "caption": "Codex",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2NlnXtccwyl5CP5bWMIYRK/042b5124bf8abc385db21b1c2d6c56c9/leo_NfA7gDv.png.jpeg",
+      "photo": "photos/speakers/leonardo-bautista-gomez.jpeg"
     },
     {
       "id": "lorenzo-nardiello",
@@ -463,6 +494,14 @@
       "caption": "Polygon Miden",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1IpzXhtWmf5SFmhtWt2UXT/59728acfb40e821b43786d5be3eb2395/ofe3s9UI_400x400.jpg",
       "photo": "photos/speakers/schmiddominik.jpg"
+    },
+    {
+      "id": "shayan-eskandari",
+      "name": " Shayan Eskandari",
+      "twitter": "sbetamc",
+      "caption": " Concordia University",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1jAvvEFNeWAYkxphCujTaw/2b9ebce7fe9658a1965c2c07448128a8/photo1648902174_A8WCo3U.jpeg",
+      "photo": "photos/speakers/shayan-eskandari.jpeg"
     },
     {
       "id": "stani-kulechov",
