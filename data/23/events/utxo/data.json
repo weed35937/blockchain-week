@@ -938,29 +938,6 @@
       "photo": "photos/speakers/petr-lukac.jpg"
     },
     {
-      "id": "petr-mara",
-      "name": "Petr Mára",
-      "twitter": "petrmara",
-      "bio": "Tech Optimist. Creating content on the Internet. Digital Art Collector.",
-      "caption": "Tech Optimist. Creating content on the Internet.\n",
-      "tracks": [
-        "zaklady",
-        "defi",
-        "nft"
-      ],
-      "web": {
-        "url": "https://linktr.ee/petrmara"
-      },
-      "country": "cz",
-      "lead": true,
-      "photos": [
-        "web:jpg",
-        "twitter:jpg"
-      ],
-      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/petr-mara-web.jpg",
-      "photo": "photos/speakers/petr-mara.jpg"
-    },
-    {
       "id": "petr-mensik",
       "name": "Petr Menšík",
       "twitter": "polkadotterss",
