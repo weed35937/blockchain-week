@@ -17,6 +17,14 @@
       "photo": "photos/speakers/frantisek-vinopal.jpg"
     },
     {
+      "id": "ondrej-dusilek",
+      "name": "Ondřej Dusílek",
+      "caption": "CEO at Central Securities Depository Prague",
+      "twitter": "OndrejDusilek",
+      "photoUrl": "https://uploads-ssl.webflow.com/6419d553c89ebe398c7c8116/645b5ecd5702b7f59d632947_PSE04209.jpg",
+      "photo": "photos/speakers/ondrej-dusilek.jpg"
+    },
+    {
       "id": "ondrej-kovarik",
       "name": "Ondřej Kovařík",
       "caption": "Member of the Committee on Economic and Monetary Affairs at European Parliament",
