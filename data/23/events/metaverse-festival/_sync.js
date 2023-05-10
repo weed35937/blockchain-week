@@ -35,7 +35,7 @@ export async function data(tools) {
     const item = {
       id: tools.formatId(name),
       name,
-      caption: $("p.elementor-icon-box-description", el).text().trim(),
+      caption: cleanupCaption($("p.elementor-icon-box-description", el).html()),
       photoUrl: $("div.elementor-widget-container img", el).attr("src"),
     };
 
@@ -46,6 +46,10 @@ export async function data(tools) {
   }
 
   return out;
+}
+
+function cleanupCaption(str) {
+  return Html5Entities.decode(str.replace(/\s*<br>\s*/, " ").trim());
 }
 
 function cleanupName(str) {

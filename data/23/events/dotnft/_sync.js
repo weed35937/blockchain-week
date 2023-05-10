@@ -13,7 +13,8 @@ export async function data(tools) {
     const item = {
       id: tools.formatId(name),
       name,
-      caption: $("p.brxe-text-basic", el).text(),
+      caption: $("p.brxe-text-basic", el).toArray().map((e) => $(e).text())
+        .join(", "),
       twitter: $('a[href^="https://twitter.com"]', el).attr("href")?.replace(
         "https://twitter.com/",
         "",
