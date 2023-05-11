@@ -521,6 +521,14 @@
       "photo": "photos/speakers/steffen-kux.jpg"
     },
     {
+      "id": "tadeo",
+      "name": "Tadeo",
+      "twitter": "tadeongmi",
+      "caption": "Phoenix Labs",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3ZHit9kiYcnqVfNisZuwTg/9e441701c5d06d9532b94a1c7fb747ef/tadeo_maker.jpeg",
+      "photo": "photos/speakers/tadeo.jpeg"
+    },
+    {
       "id": "tian-yuan-zhao",
       "name": "Tian-Yuan Zhao",
       "twitter": "TianysaurusRex",

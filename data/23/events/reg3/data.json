@@ -32,6 +32,13 @@
       "photoUrl": "https://uploads-ssl.webflow.com/6419d553c89ebe398c7c8116/6458bdbebc41e9510d1f896f_64525cfb49d6f9332c5181fd_1609757832596.jpg",
       "country": "cz",
       "photo": "photos/speakers/ondrej-kovarik.jpg"
+    },
+    {
+      "id": "tomas-olexa",
+      "name": "Tomáš Olexa",
+      "caption": "Head of the FinTech Team at Czech National Bank",
+      "photoUrl": "https://uploads-ssl.webflow.com/6419d553c89ebe398c7c8116/645cb5fd57d3c885b24152ff_OLEXA%20Tom%C3%A1%C5%A1%20Foto.jpg",
+      "photo": "photos/speakers/tomas-olexa.jpg"
     }
   ]
 }
