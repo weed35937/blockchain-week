@@ -132,6 +132,14 @@
       "photo": "photos/speakers/marijo-radman.jpg"
     },
     {
+      "id": "marina-steinkirch,-phd",
+      "name": "Marina Steinkirch, PhD",
+      "twitter": "https://github.com/mvonsteinkirch",
+      "caption": "Ethereum Foundation",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1BPdtIsgsnlZivTxSjtzou/35be8cca1eacd8815383d24898598526/Marina_Steinkirch_PhD.jpeg",
+      "photo": "photos/speakers/marina-steinkirch,-phd.jpeg"
+    },
+    {
       "id": "matteo",
       "name": "Matteo",
       "twitter": "0xmattegoat",
@@ -177,7 +185,7 @@
     {
       "id": "rosco-kalis",
       "name": "Rosco Kalis",
-      "twitter": "RoscoKalis ",
+      "twitter": "RoscoKalis",
       "caption": "Revoke Cash",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5wjHrhpbYShTSv34Rp4vca/1882ecd12c4f5526e0422002f58f4a4c/photo_2023-02-06_11.42.28.jpeg",
       "country": "nl",

@@ -107,6 +107,14 @@
       "photo": "photos/speakers/daniel-hwang.png"
     },
     {
+      "id": "daniel-keszey",
+      "name": "Daniel Keszey",
+      "twitter": "dani_who_daniel",
+      "caption": "Taiko",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/4z15k910j1FRGRXQNieXCc/46349c37c694bdd2c704a59f6e30c3de/Dani_KfoUdqb.png",
+      "photo": "photos/speakers/daniel-keszey.png"
+    },
+    {
       "id": "daniel-lumi",
       "name": "Daniel Lumi",
       "twitter": "zkLumi",
@@ -123,6 +131,14 @@
       "photo": "photos/speakers/danny-holland.jpeg"
     },
     {
+      "id": "david-scheidl",
+      "name": "David Scheidl",
+      "twitter": "DaGscheid",
+      "caption": "Stereum",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/s5hy7gRJCYy920Y4lSHRD/876ccfed9c03d5dc8c85a441fe3d9825/m4K9pA_h_400x400.jpg",
+      "photo": "photos/speakers/david-scheidl.jpg"
+    },
+    {
       "id": "dcbuilder-eth",
       "name": "Dcbuilder.eth",
       "twitter": "DCbuild3r",
@@ -130,6 +146,14 @@
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5ckzIji6kfbucbd3qqoL2Z/06e8a00ef6ffb5e2cc09b70d38633185/r-mqtMjszyRcqDbIsDI0E.jpeg",
       "country": "cz",
       "photo": "photos/speakers/dcbuilder-eth.jpeg"
+    },
+    {
+      "id": "dominik-teiml",
+      "name": "Dominik Teiml",
+      "twitter": "www.twitter.com/__hackerdom__",
+      "caption": "",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/0dNcykKVCr3YBgGnTP3Rj/f00f192b912433c565f530fa3510f9bc/ac9c41dacdc26f0e64f7154675dfe85f.jpeg",
+      "photo": "photos/speakers/dominik-teiml.jpeg"
     },
     {
       "id": "dr--marina-steinkirch",
@@ -147,6 +171,14 @@
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1BlmATxtPAM0Jf0tysNZnT/d2c8345908541ee33bf25a1ce733976f/mysc0ydA_400x400.jpeg",
       "country": "be",
       "photo": "photos/speakers/dustin-jacobus.jpeg"
+    },
+    {
+      "id": "eleonore-blanc",
+      "name": "Eleonore Blanc",
+      "twitter": "blockblanc",
+      "caption": "CryptoCanal",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3e1nugPP0xDD5iGT7vUDgG/ac49d5b876781ce40668274b2392016a/photo_2023-01-16_12-27-11_Z3KK1Vu.jpg",
+      "photo": "photos/speakers/eleonore-blanc.jpg"
     },
     {
       "id": "ferit-tuncer",
@@ -338,6 +370,14 @@
       "photo": "photos/speakers/marcus-aurelius.png"
     },
     {
+      "id": "mario-havel",
+      "name": "Mário Havel",
+      "twitter": "TMIYChao",
+      "caption": "ETHEREUM FOUNDATION",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/7qkSw5hgEHZHfz47IOoPb5/b41c4fc2c6c2db93c629207c81f7d5b6/3FeDe54c_400x400_iyV3h1o.jpg",
+      "photo": "photos/speakers/mario-havel.jpg"
+    },
+    {
       "id": "mathieu-saugier",
       "name": "Mathieu Saugier",
       "twitter": "eniwhere_",
@@ -479,6 +519,14 @@
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/7vg1xoIO0SXkeCyhL9PZBq/1961b397049edf1f7b53530ed59f2aff/headshot_qg6hliN.png.jpeg",
       "country": "in",
       "photo": "photos/speakers/sahil-sen.jpeg"
+    },
+    {
+      "id": "sam-macpherson",
+      "name": "Sam MacPherson",
+      "twitter": "hexonaut",
+      "caption": "Phoenix Labs",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2otnD6Vy1qUTJJZ71syhII/b5524fb56deb6e59c427c583a883b86a/2023-05-03_17.47.00_0lA8rEJ.jpg",
+      "photo": "photos/speakers/sam-macpherson.jpg"
     },
     {
       "id": "saul-martin",
