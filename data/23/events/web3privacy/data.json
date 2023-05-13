@@ -1,6 +1,14 @@
 {
   "speakers": [
     {
+      "id": "alex-kampa",
+      "name": "Alex Kampa",
+      "caption": "Director at [Aragon ZK Research](https://research.aragon.org/)\n",
+      "country": "lu",
+      "photoUrl": "https://prague.web3privacy.info/people/alex-kampa.jpg",
+      "photo": "photos/speakers/alex-kampa.jpg"
+    },
+    {
       "id": "alona-shevchenko",
       "name": "Alona Shevchenko",
       "twitter": "cryptodrftng",
@@ -17,6 +25,15 @@
       "country": "us",
       "photoUrl": "https://prague.web3privacy.info/people/ameen-soleimani.jpg",
       "photo": "photos/speakers/ameen-soleimani.jpg"
+    },
+    {
+      "id": "antoni-zolciak",
+      "name": "Antoni Zolciak",
+      "twitter": "AntoniZolciak",
+      "caption": "Co-founder of [Aleph Zero](https://alephzero.org/) & [Cardinal](https://cardinal.co/)\n",
+      "country": "pl",
+      "photoUrl": "https://prague.web3privacy.info/people/antoni-zolciak.jpg",
+      "photo": "photos/speakers/antoni-zolciak.jpg"
     },
     {
       "id": "dcbuilder-eth",
@@ -98,6 +115,14 @@
       "country": "it",
       "photoUrl": "https://prague.web3privacy.info/people/pg.jpg",
       "photo": "photos/speakers/pg.jpg"
+    },
+    {
+      "id": "tree",
+      "name": "Tree",
+      "caption": "Orchestrating lunarpunk events [ETHBrno](https://ethbrno.cz) & [w3ps](https://github.com/web3privacy/w3ps) w/ [gwei.cz](https://gwei.cz)",
+      "country": "cz",
+      "photoUrl": "https://prague.web3privacy.info/people/tree.jpg",
+      "photo": "photos/speakers/tree.jpg"
     }
   ]
 }

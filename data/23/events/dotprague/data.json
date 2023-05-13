@@ -90,6 +90,14 @@
       "photo": "photos/speakers/gautham-jayasankar.jpg"
     },
     {
+      "id": "gustav-hemmelmayr",
+      "name": "Gustav Hemmelmayr",
+      "caption": "Kilt",
+      "twitter": "goosetough",
+      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/05/w1mYBG-_400x400.jpg",
+      "photo": "photos/speakers/gustav-hemmelmayr.jpg"
+    },
+    {
       "id": "harald-heckmann",
       "name": "Harald Heckmann",
       "caption": "Zeitgeist",
@@ -111,6 +119,14 @@
       "twitter": "ebmarcel",
       "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/04/Marcel_Ebert.jpeg",
       "photo": "photos/speakers/marcel-ebert.jpeg"
+    },
+    {
+      "id": "matej-yangwao",
+      "name": "Matej Yangwao",
+      "caption": "Kodadot",
+      "twitter": "yangWao",
+      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/05/tSwfKNH_400x400.jpg",
+      "photo": "photos/speakers/matej-yangwao.jpg"
     },
     {
       "id": "matjaz",
