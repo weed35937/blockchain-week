@@ -1,5 +1,5 @@
-name = "Off Grid 2023"
-shortname = "Off Grid"
+name = "OFF/GRID 2023 by FactoryDAO"
+shortname = "OFF/GRID"
 types = ["hackathon"]
 status = "planning"
 #chains = [""]
@@ -13,7 +13,7 @@ venues = ["loft-bubny"]
 languages = ["english"]
 attendees = 150
 tags = ["dao", "hackday"]
-logo = "logo.jpeg"
+logo = "logo.webp"
 description = '''
 TBD
 '''
