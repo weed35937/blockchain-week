@@ -1,6 +1,19 @@
 {
   "speakers": [
     {
+      "id": "8408",
+      "name": "Micah Anderson",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/05/Micah-Anderson-320x320.jpeg",
+      "caption": "Director of Engineering at the Tor Project",
+      "tag": "Developer",
+      "desc": "Micah is the Director of Engineering at the Tor Project, a board member of the Calyx Institute, and a Debian developer. He operates at the intersection of free software, non-profit leadership, and deep technical background. Micah has spent the last twenty years building secure, private communications infrastructure to protect activists worldwide.",
+      "web": {
+        "url": "https://torproject.org/"
+      },
+      "link": "https://www.btcprague.com/speakers/8408/",
+      "photo": "photos/speakers/8408.jpeg"
+    },
+    {
       "id": "abubakar-nur-khalil",
       "name": "Abubakar Nur Khalil",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/03/Abubakar-Nur-Khalil-320x320.jpg",
@@ -133,6 +146,21 @@
       "photo": "photos/speakers/arsh-molu.jpeg"
     },
     {
+      "id": "autumn-domingo",
+      "name": "Autumn Domingo",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/05/Autumn-Domingo-320x320.jpeg",
+      "caption": "Co-Founder of Generation Bitcoin & Head Designer of Bitcoin Bytes.",
+      "twitter": "autumndomingo_",
+      "linkedin": "autumn-domingo-19151921b",
+      "tag": "Developer",
+      "desc": "Autumn is a UX designer working on projects with Ladies in Bitcoin and Bitcoin Bytes. She is the co-founder of Generation Bitcoin, a community of teens working to educate and inspire teens to take up careers in development and design, as well as realizing the impact bitcoin has on human rights. Autumn recently graduated high school.",
+      "web": {
+        "url": "https://www.autumndomingo.com/"
+      },
+      "link": "https://www.btcprague.com/speakers/autumn-domingo/",
+      "photo": "photos/speakers/autumn-domingo.jpeg"
+    },
+    {
       "id": "ben-arc",
       "name": "Ben Arc",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/03/Ben-Arc.jpg",
@@ -169,6 +197,19 @@
       "web": {},
       "link": "https://www.btcprague.com/speakers/benjamin-de-waal/",
       "photo": "photos/speakers/benjamin-de-waal.jpg"
+    },
+    {
+      "id": "benjamin-usinger",
+      "name": "Benjamin Usinger",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/05/Ben-Usinger-320x320.jpeg",
+      "caption": "CMO at BitMEX",
+      "twitter": "bitmex",
+      "linkedin": "https://www.linkedin.com/company/bitmex",
+      "tag": "Entrepreneur",
+      "desc": "Ben has been infected with cryptocurrencies in 2015 as a technology consultant in Hong Kong. He has since worked in consulting and leadership roles for and with various cryptocurrency exchanges. Ben leads the marketing and community engagement teams at BitMEX.",
+      "web": {},
+      "link": "https://www.btcprague.com/speakers/benjamin-usinger/",
+      "photo": "photos/speakers/benjamin-usinger.jpeg"
     },
     {
       "id": "bill-wirtz",
@@ -432,6 +473,18 @@
       "photo": "photos/speakers/gleb-naumenko.jpg"
     },
     {
+      "id": "haley-berkoe",
+      "name": "Haley Berkoe",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/05/Haley-Berkoe-320x320.jpeg",
+      "caption": "Program Manager at Spiral",
+      "twitter": "HBerkoe",
+      "tag": "Entrepreneur",
+      "desc": "Haley is a Program Manager at Spiral. Her responsibilities include contributing to various bitcoin FOSS projects, encouraging less-technical people to join the ecosystem, managing Spiral-specific initiatives, and cultivating new ways to bring more women into the space.",
+      "web": {},
+      "link": "https://www.btcprague.com/speakers/haley-berkoe/",
+      "photo": "photos/speakers/haley-berkoe.jpeg"
+    },
+    {
       "id": "hermann-vivier",
       "name": "Hermann Vivier",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/04/Hermann-Vivier-e1681679842133-320x320.jpeg",
@@ -502,6 +555,32 @@
       "photo": "photos/speakers/jan-capek.png"
     },
     {
+      "id": "jan-dvorak",
+      "name": "Jan Dvořák",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/05/Jan-Dvorak.png",
+      "caption": "Lightning and bitcoin enthusiast, minimalist",
+      "twitter": "_Honza_Dvorak",
+      "tag": "Developer",
+      "desc": "Gorrdy is a developer, but he tries to understand bitcoin comprehensively – economically and, especially, in terms of its use in practice. With his project BtcPlatby.cz, Honza is helping people to accept bitcoin in their business so that they can hold their own private keys.",
+      "web": {
+        "url": "https://btcplatby.cz/"
+      },
+      "link": "https://www.btcprague.com/speakers/jan-dvorak/",
+      "photo": "photos/speakers/jan-dvorak.png"
+    },
+    {
+      "id": "jan-mosovsky",
+      "name": "Jan Mošovský",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/05/Jan-Mosovsky-320x320.jpeg",
+      "caption": "Programs Manager at European Students for Liberty",
+      "twitter": "JanMosovsky",
+      "tag": "Activist",
+      "desc": "Jan is in SFL since 2017 and he is also Director for Research at Liberální institut, the oldest Czech liberal think tank. As a rationally optimistic libertarian, he is always interested in discussing how new technologies and innovation can bring liberation outside the established structures and improve the lives of as many individuals around the world as possible.",
+      "web": {},
+      "link": "https://www.btcprague.com/speakers/jan-mosovsky/",
+      "photo": "photos/speakers/jan-mosovsky.jpeg"
+    },
+    {
       "id": "jan-prochazka",
       "name": "Jan Procházka",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/04/Jan-Prochazka-3-1-320x320.jpg",
@@ -514,6 +593,18 @@
       },
       "link": "https://www.btcprague.com/speakers/jan-prochazka/",
       "photo": "photos/speakers/jan-prochazka.jpg"
+    },
+    {
+      "id": "jan-skapa",
+      "name": "Jan Škapa",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/05/Jan-Skapa-320x320.jpeg",
+      "caption": "Senior Director of Systems at Students for Liberty",
+      "twitter": "janskapa",
+      "tag": "Activist",
+      "desc": "Jan started as a web developer and IT project manager. He currently runs his own IT services business called Maintask. Always eager to learn, he’s passionate about IT, tech, economics, business, law, and bitcoin. In 2013, Jan co-founded the fast-growing Students for Liberty Czech Republic, to later move on to senior roles in the international organization.",
+      "web": {},
+      "link": "https://www.btcprague.com/speakers/jan-skapa/",
+      "photo": "photos/speakers/jan-skapa.jpeg"
     },
     {
       "id": "jiri-brada",
@@ -572,6 +663,19 @@
       "photo": "photos/speakers/johns-beharry.jpeg"
     },
     {
+      "id": "jose-a-p",
+      "name": "José A.P.",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/05/Jose-Antonio-320x320.jpeg",
+      "caption": "Lightning Engineer at Clovr Labs",
+      "twitter": "Jossec101",
+      "linkedin": "jos%C3%A9-antonio-p-144821ba",
+      "tag": "Developer",
+      "desc": "José is a committed software engineer, one of the key contributors to the development of Elenpay.tech and NodeGuard – an open-source treasury management solution for lightning nodes. He’s an Infosec enthusiast, a strong advocate for bitcoin and the separation of money and state.",
+      "web": {},
+      "link": "https://www.btcprague.com/speakers/jose-a-p/",
+      "photo": "photos/speakers/jose-a-p.jpeg"
+    },
+    {
       "id": "josef-tetek",
       "name": "Josef Tětek",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/04/Josef-Tetek-2-1-320x320.jpeg",
@@ -599,6 +703,20 @@
       },
       "link": "https://www.btcprague.com/speakers/julian-liniger/",
       "photo": "photos/speakers/julian-liniger.jpeg"
+    },
+    {
+      "id": "juraj-bednar",
+      "name": "Juraj Bednár",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/05/Juraj-Bednar-3-320x320.jpeg",
+      "caption": "Cypherpunk author & entrepreneur",
+      "twitter": "jurbed",
+      "tag": "Entrepreneur",
+      "desc": "Juraj is an OG cypherpunk, co-founder of Paralelní Polis in Prague and Bratislava. He started various companies focused on IT security and individual liberty, and he offers online courses on the same topics. Juraj is also a podcaster and author of several books. His last book is titled “Cryptocurrencies – Hack Your Way to a Better Life”.",
+      "web": {
+        "url": "https://hackyourself.io/product/cryptocurrencies-hack-your-way-to-a-better-life/"
+      },
+      "link": "https://www.btcprague.com/speakers/juraj-bednar/",
+      "photo": "photos/speakers/juraj-bednar.jpeg"
     },
     {
       "id": "justin-moon",
@@ -677,6 +795,33 @@
       "photo": "photos/speakers/lea-petrasova.jpeg"
     },
     {
+      "id": "luca-infeld",
+      "name": "Luca Infeld",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/05/Luca-Infeld-320x320.jpeg",
+      "caption": "Co-Founder & BD at MIM",
+      "twitter": "MiningMunich",
+      "linkedin": "luca-infeld",
+      "tag": "Entrepreneur",
+      "desc": "Luca is a testament to the power of hard work, dedication, and a relentless pursuit of one’s passion – bitcoin mining. He is always on the lookout for new opportunities and ways to expand his mining operation. Luca’s travels have taken him around the world, where he has forged valuable partnerships with other like-minded individuals and organizations.",
+      "web": {
+        "url": "https://mim.farm"
+      },
+      "link": "https://www.btcprague.com/speakers/luca-infeld/",
+      "photo": "photos/speakers/luca-infeld.jpeg"
+    },
+    {
+      "id": "lucie-komarkova",
+      "name": "Lucie Komárková",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/05/Lucie-Komarkova-320x320.jpeg",
+      "caption": "Local Coordinator at Students for Liberty",
+      "twitter": "LucieKomrkov6",
+      "tag": "Activist",
+      "desc": "Lucie is a member of Students for Liberty CZ. She is interested in a Talebian view of the world, decentralized systems, biohacking, MMA, horse riding and exponential technologies led by bitcoin, which she also lectures about together with Austrian economics.",
+      "web": {},
+      "link": "https://www.btcprague.com/speakers/lucie-komarkova/",
+      "photo": "photos/speakers/lucie-komarkova.jpeg"
+    },
+    {
       "id": "lunaticoin",
       "name": "Lunaticoin",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/01/Luna-1.png",
@@ -740,6 +885,20 @@
       "photo": "photos/speakers/marek-palatinus.jpg"
     },
     {
+      "id": "martin-kuchar",
+      "name": "Martin Kuchař",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/05/Martin-320x320.png",
+      "caption": "Co-founder of BTC Prague",
+      "twitter": "owletek",
+      "tag": "Entrepreneur",
+      "desc": "",
+      "web": {
+        "url": "https://BTCPrague.com"
+      },
+      "link": "https://www.btcprague.com/speakers/martin-kuchar/",
+      "photo": "photos/speakers/martin-kuchar.png"
+    },
+    {
       "id": "matej-zak",
       "name": "Matěj Žák",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/04/Matej-Zak-320x320.jpeg",
@@ -765,6 +924,20 @@
       },
       "link": "https://www.btcprague.com/speakers/mathew-mezinskis/",
       "photo": "photos/speakers/mathew-mezinskis.jpg"
+    },
+    {
+      "id": "matyas-kuchar",
+      "name": "Matyáš Kuchař",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/05/Matyas-320x320.webp",
+      "caption": "Co-founder of BTC Prague",
+      "twitter": "Matyas44Cook",
+      "tag": "Community Leader",
+      "desc": "",
+      "web": {
+        "url": "https://BTCPrague.com"
+      },
+      "link": "https://www.btcprague.com/speakers/matyas-kuchar/",
+      "photo": "photos/speakers/matyas-kuchar.webp"
     },
     {
       "id": "max-hillebrand",
@@ -809,6 +982,32 @@
       "photo": "photos/speakers/michael-saylor.jpg"
     },
     {
+      "id": "michal-novak",
+      "name": "Michal Novák",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/05/Michal-Novak-320x320.jpeg",
+      "caption": "Author of ”Lightning Network: Future Payments”",
+      "twitter": "PBudoucnosti",
+      "tag": "Author",
+      "desc": "Michal is a bitcoiner who is interested in the technical, fundamental, and economic aspects of bitcoin. He is also the author of the book ”Lightning Network: Future Payments”.",
+      "web": {
+        "url": "https://platbybudoucnosti.cz"
+      },
+      "link": "https://www.btcprague.com/speakers/michal-novak/",
+      "photo": "photos/speakers/michal-novak.jpeg"
+    },
+    {
+      "id": "mir-liponi",
+      "name": "Mir Liponi",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/05/Mir-Liponi.jpeg",
+      "caption": "Co-founder of Satoshi Design",
+      "twitter": "mir_btc",
+      "tag": "Entrepreneur",
+      "desc": "Mir has always been a tech enthusiast since she was a child. As she discovered bitcoin around 2014, she understood its disruptive potential and became an active supporter, while teaching vocal technique and public speaking for almost 10 years. From 2016 she has been connecting the best international bitcoin experts and the most promising startups. She is currently one of the organizers of the monthly Bitcoin Milan Meetup and co-founder of Satoshi Design.",
+      "web": {},
+      "link": "https://www.btcprague.com/speakers/mir-liponi/",
+      "photo": "photos/speakers/mir-liponi.jpeg"
+    },
+    {
       "id": "nicolas-dorier",
       "name": "Nicolas Dorier",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/04/Nicolas-Dorier.png",
@@ -821,6 +1020,20 @@
       },
       "link": "https://www.btcprague.com/speakers/nicolas-dorier/",
       "photo": "photos/speakers/nicolas-dorier.png"
+    },
+    {
+      "id": "niftynei",
+      "name": "niftynei",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/05/Lisa-Neigut-320x320.jpeg",
+      "caption": "Founder of Base58 & core-lightning contributor",
+      "twitter": "niftynei",
+      "tag": "Developer",
+      "desc": "niftynei is a core-lightning contributor, spec author, and educator. She heads up the bitcoin++ technical conference series and runs Base58, the bitcoin (+ lightning, soon!) protocol school. You can find her sharing unhinged posts daily on Twitter, and running the Austin Lightning Developers meetup once a month.",
+      "web": {
+        "url": "https://base58.info"
+      },
+      "link": "https://www.btcprague.com/speakers/niftynei/",
+      "photo": "photos/speakers/niftynei.jpeg"
     },
     {
       "id": "niko-jilch",
@@ -1116,6 +1329,33 @@
       "photo": "photos/speakers/stephan-livera.jpg"
     },
     {
+      "id": "stephan-vuylsteke",
+      "name": "Stephan Vuylsteke",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/05/Stephan-Vuylsteke-320x320.jpeg",
+      "caption": "Bitcoin Core contributor & developer educator",
+      "twitter": "Stphnvlstk",
+      "tag": "Developer",
+      "desc": "Stephan is a Bitcoin Core contributor. In addition to his development and review work, he has been mentoring students at Qala, a program designed to train African developers to become bitcoin & lightning developers. Supported by a Brink grant.",
+      "web": {},
+      "link": "https://www.btcprague.com/speakers/stephan-vuylsteke/",
+      "photo": "photos/speakers/stephan-vuylsteke.jpeg"
+    },
+    {
+      "id": "timo-steipe",
+      "name": "Timo Steipe",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/05/Timo-Steipe-320x320.jpeg",
+      "caption": "Co-Founder & CTO at MIM",
+      "twitter": "TimoThisis",
+      "linkedin": "timo-steipe-%E2%9A%A1%EF%B8%8F-595b98212",
+      "tag": "Entrepreneur",
+      "desc": "In 2016, Timo established what is alleged to be the first professional bitcoin mining farm in Africa, and has since expanded his operations to include mining farms around the world. His mission is to break down the barriers that have historically limited access to bitcoin mining. With his expertise and entrepreneurial spirit, Timo is helping to drive innovation and change in the bitcoin mining space.",
+      "web": {
+        "url": "https://mim.farm"
+      },
+      "link": "https://www.btcprague.com/speakers/timo-steipe/",
+      "photo": "photos/speakers/timo-steipe.jpeg"
+    },
+    {
       "id": "tomas-susanka",
       "name": "Tomáš Sušánka",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/04/Tomas-Susanka-320x320.png",
@@ -1127,6 +1367,18 @@
       "web": {},
       "link": "https://www.btcprague.com/speakers/tomas-susanka/",
       "photo": "photos/speakers/tomas-susanka.png"
+    },
+    {
+      "id": "tomek-kolodziejczuk",
+      "name": "Tomek Kołodziejczuk",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/05/Tomek-Kolodziejczuk-320x320.jpeg",
+      "caption": "Organizer of “Weekend of Capitalism” and “Bitcoin FilmFest”",
+      "twitter": "itsTomekK",
+      "tag": "Activist",
+      "desc": "Tomek, Students for Liberty Alumnus from Poland, is the visionary force behind numerous freedom-oriented projects: the “Weekend of Capitalism” conference, the summer festival “Laissez Fest”, the Laissez Faire United soccer team, Freedom Lounge – a cozy bar in Warsaw’s centre, and the brand new “Bitcoin FilmFest”. A travel enthusiast, bitcoin evangelist, and chess hobbyist, Tomek finds intrigue in pop culture, game theory, and prediction markets.",
+      "web": {},
+      "link": "https://www.btcprague.com/speakers/tomek-kolodziejczuk/",
+      "photo": "photos/speakers/tomek-kolodziejczuk.jpeg"
     },
     {
       "id": "tristan-thoma",
@@ -1141,6 +1393,18 @@
       "photo": "photos/speakers/tristan-thoma.jpeg"
     },
     {
+      "id": "val-wallace",
+      "name": "Val Wallace",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/05/Val-Wallace-320x320.jpeg",
+      "caption": "Lightning developer at Spiral",
+      "twitter": "vallywal",
+      "tag": "Developer",
+      "desc": "Valentine works on the Lightning Dev Kit at Spiral, with a focus on payment protocols. Currently working on BOLT 12 offers, route blinding, and asynchronous payments.",
+      "web": {},
+      "link": "https://www.btcprague.com/speakers/val-wallace/",
+      "photo": "photos/speakers/val-wallace.jpeg"
+    },
+    {
       "id": "vlad-costea",
       "name": "Vlad Costea",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/05/Vlad-Costea-320x320.jpeg",
@@ -1153,6 +1417,19 @@
       },
       "link": "https://www.btcprague.com/speakers/vlad-costea/",
       "photo": "photos/speakers/vlad-costea.jpeg"
+    },
+    {
+      "id": "vojpot",
+      "name": "Vojpot",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/05/Vojpot-320x320.jpg",
+      "caption": "The Inventor of Cryptosteel",
+      "tag": "Entrepreneur",
+      "desc": "Vojpot has devoted his project to simplifying cryptocurrency storage. Cryptosteel stands for the robust stainless steel backup tools that safeguard private keys and recovery phrases, establishing a new standard in secure digital asset storage.",
+      "web": {
+        "url": "https://cryptosteel.com"
+      },
+      "link": "https://www.btcprague.com/speakers/vojpot/",
+      "photo": "photos/speakers/vojpot.jpg"
     },
     {
       "id": "walker",
