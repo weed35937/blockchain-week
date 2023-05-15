@@ -35,7 +35,7 @@ inspect:
 	deno run --inspect-brk --unstable --allow-read utils/test.js
 
 fsync:
-	rm -rf cache
+	rm -rf cache/sync
 	@make sync
 
 twitter-stats:

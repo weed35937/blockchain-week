@@ -1,7 +1,7 @@
 import cheerio from "https://esm.sh/cheerio@1.0.0-rc.12";
 import { ensureDir, exists } from "https://deno.land/std@0.173.0/fs/mod.ts";
 
-const CACHE_DIR = "./cache";
+const CACHE_DIR = "./cache/sync";
 
 export async function loadJSONUrl(url, options) {
   const resp = await fetch(url, options);

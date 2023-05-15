@@ -4,7 +4,7 @@ import { Table } from "https://deno.land/x/cliffy@v0.20.1/table/mod.ts";
 
 import { ensureDir, exists } from "https://deno.land/std@0.173.0/fs/mod.ts";
 
-const CACHE_DIR = "./cache";
+const CACHE_DIR = "./cache/twitter-stats";
 
 import { DeConfEngine } from "./engine.js";
 
