@@ -14,6 +14,7 @@ export async function data(tools) {
     "Filip Siroky": { country: "cz" },
     "Adam Bilko": { country: "cz" },
     "Juraj Petro": { country: "sk" },
+    "Marta Adamczyk": { country: "nz" },
   };
 
   for (const el of $("#speakers div.w-full.relative").toArray()) {
