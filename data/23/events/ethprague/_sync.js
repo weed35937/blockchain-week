@@ -22,6 +22,7 @@ const peopleMapper = {
   "Dominik": { id: "schmiddominik" },
   "Wlodek Gogloza": { country: "pl" },
   "Zeynep Ecenaz Altınok": { country: "tr" },
+  "Mário Havel": { country: "cz" },
 };
 
 export async function data($) {

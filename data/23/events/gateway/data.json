@@ -232,6 +232,7 @@
       "photoUrl": "https://ik.imagekit.io/treevio/tr:w-500/https://s3.eu-central-1.wasabisys.com/rbf-gateway/rbf-gateway/speakersc-list-hnezwk-image.png?version=1684145269595",
       "caption": "SubQuery Technology Evangelist",
       "twitter": "madamczyk0",
+      "country": "nz",
       "photo": "photos/speakers/marta-adamczyk.png"
     },
     {
@@ -240,6 +241,7 @@
       "photoUrl": "https://ik.imagekit.io/treevio/tr:w-500/https://s3.eu-central-1.wasabisys.com/rbf-gateway/rbf-gateway/speakersc-list-hsfgav-image.png?version=1684145269595",
       "caption": "Rockaway X Labs CTO",
       "twitter": "shipthecode",
+      "country": "cz",
       "photo": "photos/speakers/martin-vejmelka.png"
     },
     {
