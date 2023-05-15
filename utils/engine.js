@@ -151,7 +151,7 @@ class DeConf_Package {
       if (ef.name.match(/^_/)) continue;
       const m = ef.name.match(/^([\w\d\-]+)(\.toml|)$/);
       if (!m) continue;
-      const ev = new DeConf_Collection(type, m[1]);
+      const ev = new DeConf_Collection(type, m[1], this.engine);
       try {
         await ev.load([...specDir, type, ef.name]);
       } catch (e) {
@@ -189,7 +189,7 @@ class DeConf_Package {
 }
 
 class DeConf_Collection {
-  constructor(type, id) {
+  constructor(type, id, engine) {
     this.type = type;
     this.id = id;
     this.data = null;
@@ -197,6 +197,7 @@ class DeConf_Collection {
     this.assets = ["logo", "photo"];
     this.haveSync = false;
     this.dataFile = null;
+    this.engine = engine;
   }
 
   async load(path) {
@@ -238,7 +239,12 @@ class DeConf_Collection {
         sg.endTime = (new Date(`${endDate}T${send}`)).toISOString();
       }
     }
-    if (this.dir && !data.index.hidden) {
+    if (
+      this.dir &&
+      (!data.index.hidden ||
+        this.engine.options.hiddenAllowed &&
+          this.engine.options.hiddenAllowed.includes("bitcoin-prague"))
+    ) {
       const syncDataFn = [this.dir, "data.json"].join("/");
       if (await exists(syncDataFn)) {
         data.sync = await _jsonLoad(syncDataFn);

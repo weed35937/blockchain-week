@@ -37,3 +37,6 @@ inspect:
 fsync:
 	rm -rf cache
 	@make sync
+
+twitter-stats:
+	deno run --unstable --allow-read --allow-write --allow-env --allow-net utils/twitter-stats.js $(complete)
