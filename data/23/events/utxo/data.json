@@ -222,25 +222,6 @@
       "photo": "photos/speakers/dominika-v.jpg"
     },
     {
-      "id": "fetyas",
-      "name": "Tomáš Kalabis",
-      "nickname": "Fetyas",
-      "twitter": "hernakrypto",
-      "orgs": "YouTube kanál [KryptoHerna](https://www.youtube.com/channel/UCOgYjFqYfUnXo5DK9HceAMw)\n",
-      "caption": "YouTube channel [\"KryptoHerna\"](https://www.youtube.com/channel/UCOgYjFqYfUnXo5DK9HceAMw)\n",
-      "tracks": [
-        "nft"
-      ],
-      "country": "cz",
-      "desc": "Jsem zakladatel YouTube kanálu na téma blockchain gaming [KryptoHerna](https://twitter.com/hernakrypto), vystudovaný ekonom, nadšenec do videoher a souvisejících technologií, zapálený sportovec. Současně se podílím na vývoji Thrive-to-Earn hry.\n",
-      "photos": [
-        "web:jpg",
-        "twitter:jpg"
-      ],
-      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/fetyas-web.jpg",
-      "photo": "photos/speakers/fetyas.jpg"
-    },
-    {
       "id": "frantisek-kudrna",
       "name": "František Kudrna",
       "twitter": "FrantisekKudrna",

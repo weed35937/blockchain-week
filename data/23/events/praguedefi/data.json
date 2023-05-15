@@ -41,6 +41,14 @@
       "photo": "photos/speakers/avihu-mordechai-levy.jpg"
     },
     {
+      "id": "conor-gilmore",
+      "name": "Conor Gilmore",
+      "twitter": "TheKidCG",
+      "caption": "Avantgarde / Enzyme",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/37MxptIkWOQcUoNYJ5bbh3/d9895f2b56937d45c09d29e44f7484bf/Conor_Gilmore.jpg",
+      "photo": "photos/speakers/conor-gilmore.jpg"
+    },
+    {
       "id": "cyrille-pastour",
       "name": "Cyrille Pastour",
       "twitter": "CyrillePastour",
