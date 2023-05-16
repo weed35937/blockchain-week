@@ -8,29 +8,34 @@ dri = ""
 poc = ""
 date = "2023-06-06"
 days = 1
-times = "14:00-22:00"
+times = "15:00-22:00"
 venues = ["pragovka-hub"]
 languages = ["czech", "slovak"]
 attendees = 120
 tags = ["web3", "crypto", "metaverse", "nft"]
 description = '''
-Vítame ťa na Chain3, podujatí blockchain a web3 komunity, ktoré je otvorené pre všetkých! 
+Vítame ťa na Chain3! 👋
 
-Či už si expert na blockchain alebo zvedavý nováčik, pozývame ťa, aby si sa k nám pripojil a strávil s nami deň plný inšpirácie, vzdelávania a nadväzovania kontaktov. Naši odborní rečníci a pútavé panelové diskusie vás vybavia znalosťami a poznatkami, ktoré vám pomôžu zorientovať sa v tomto rýchlo sa rozvíjajúcom odvetví a objaviť nové príležitosti.
+Či už si expert na blockchain alebo zvedavý nováčik, príď sa pozrieť na našu free konferenciu nabitú prednáškami zameranými na web3, metaverse a krypto! 👾
 
-Okrem informatívnych panelových diskusií pre teba chystáme aj niekoľko zábavných a interaktívnych aktivít, ktoré ti pomôžu nadviazať kontakt s ostatnými účastníkmi a zabaviť sa. Budeš tak mať možnosť nadviazať kontakty so zaujímavými ľudmi z webu3 a dozvedieť sa o najnovších inováciách v oblasti blockchainu.
+Naši odborní rečníci a pútavé panelové diskusie ťa vybavia znalosťami a poznatkami, ktoré ti pomôžu zorientovať sa v tomto rýchlo sa rozvíjajúcom odvetví a objaviť nové príležitosti. 
 
-A čo je najlepšie, konferencia Chain3 je úplne zadarmo a otvorená pre každého. Príď sa teda zoznámiť s ďalšími nadšencami krypta a webu3, objav najnovšie novinky v tomto odvetví a staň sa členom našej web3 komunity.
+Okrem toho máme pre teba pripravených aj niekoľko zábavných a interaktívnych aktivít, ktoré ti pomôžu nadviazať kontakt s ostatnými účastníkmi a zabaviť sa. Zoznámiš sa tak so  zaujímavými ľuďmi z prostredia webu3 a dozvieš sa o najhorúcejších novinkách z odvetvia.
+A čo je najlepšie, vstup je úplne zadarmo! Avšak počet miest je obmedzený, tak si nezabudni zarezervovať svoj lístok.
 
-Nenechaj si ujsť túto jedinečnú príležitosť byť súčasťou budúcnosti webu3. Pridaj sa k nám na Chain3 už 6. júna a staň sa súčasťou tohto výnimočného podujatia!
+Tešíme sa na teba! 🤩
 '''
 logo = "logo.png"
 
 [links]
+web = "https://www.chain3events.xyz"
 twitter = "https://twitter.com/chain3events"
 telegram = "https://t.me/chain3event"
+instagram = "https://www.instagram.com/chain3events/"
 
-#[registration]
-#type = "tickets"
-#link = ""
-#status = "available"
+[registration]
+type = "tickets"
+link = "https://www.eventbrite.com/e/chain3-meet-up-l-prague-blockchain-week-tickets-635899511557"
+status = "available"
+price = "Free!"
+button = "Register for free!"

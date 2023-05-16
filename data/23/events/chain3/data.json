@@ -1,0 +1,100 @@
+{
+  "speakers": [
+    {
+      "id": "andrej-kieszling",
+      "name": "Andrej Kieszling",
+      "caption": "Droplove.xyz",
+      "photoUrl": "https://images.squarespace-cdn.com/content/v1/64551b69aaee1d2ba684b0af/5a826d1f-2c31-48c0-8504-c36c11a0162f/Andrej+Kiszling.jpeg",
+      "country": "sk",
+      "photo": "photos/speakers/andrej-kieszling.jpeg"
+    },
+    {
+      "id": "daniel-fekete",
+      "name": "Daniel Fekete",
+      "caption": "Binance SK",
+      "photoUrl": "https://images.squarespace-cdn.com/content/v1/64551b69aaee1d2ba684b0af/ced53bef-9c72-4687-8174-d2a89dfbd0d5/Daniel+Fekete_2.jpeg",
+      "country": "sk",
+      "photo": "photos/speakers/daniel-fekete.jpeg"
+    },
+    {
+      "id": "david-achberger",
+      "name": "Dávid Achberger",
+      "caption": "QORPO",
+      "photoUrl": "https://images.squarespace-cdn.com/content/v1/64551b69aaee1d2ba684b0af/ed2d19b5-5d8b-4783-9233-cd69a3ca6038/David+Achberger_2.jpeg",
+      "country": "sk",
+      "photo": "photos/speakers/david-achberger.jpeg"
+    },
+    {
+      "id": "julie-sislerova",
+      "name": "Julie Šislerová",
+      "caption": "Holky v Metaverze",
+      "photoUrl": "https://images.squarespace-cdn.com/content/v1/64551b69aaee1d2ba684b0af/38109753-5e9f-4a16-baf1-16645e0f5d04/Julie+S%CC%8Cislerova%CC%81.jpeg",
+      "country": "cz",
+      "photo": "photos/speakers/julie-sislerova.jpeg"
+    },
+    {
+      "id": "juraj-kovac",
+      "name": "Juraj Kováč",
+      "caption": "This is Locco",
+      "photoUrl": "https://images.squarespace-cdn.com/content/v1/64551b69aaee1d2ba684b0af/4d5c0ddd-3afe-46f0-a76f-843118f2e942/Juraj+Kovac_THIS+IS+LOCCO.jpg",
+      "country": "sk",
+      "photo": "photos/speakers/juraj-kovac.jpg"
+    },
+    {
+      "id": "marek-mocik",
+      "name": "Marek Môcik",
+      "caption": "Blockchain Slovakia",
+      "photoUrl": "https://images.squarespace-cdn.com/content/v1/64551b69aaee1d2ba684b0af/6ee8ced5-21e3-421b-a263-9c65582547dd/Marek+Mocik_2.jpeg",
+      "country": "sk",
+      "photo": "photos/speakers/marek-mocik.jpeg"
+    },
+    {
+      "id": "martin-bittara",
+      "name": "Martin Bittara",
+      "caption": "Okazio",
+      "photoUrl": "https://images.squarespace-cdn.com/content/v1/64551b69aaee1d2ba684b0af/ac3ce72f-f2cd-48fa-902f-5ec30ae71abe/Martin+Bittara_Okazio.jpg",
+      "country": "sk",
+      "photo": "photos/speakers/martin-bittara.jpg"
+    },
+    {
+      "id": "martin-hergovic",
+      "name": "Martin Hergovič",
+      "caption": "BlockWise / Sparring",
+      "photoUrl": "https://images.squarespace-cdn.com/content/v1/64551b69aaee1d2ba684b0af/193d3eaa-69aa-4bea-a51d-a5f1df95ee53/Martin+Hergovic%CC%8C.jpeg",
+      "country": "sk",
+      "photo": "photos/speakers/martin-hergovic.jpeg"
+    },
+    {
+      "id": "michaela-adamcova",
+      "name": "Michaela Adamcová",
+      "caption": "BlockWise",
+      "photoUrl": "https://images.squarespace-cdn.com/content/v1/64551b69aaee1d2ba684b0af/6184b5a9-6fae-48b5-a7e6-9a4e0f5815a1/IMG_5727.JPG",
+      "country": "sk",
+      "photo": "photos/speakers/michaela-adamcova.JPG"
+    },
+    {
+      "id": "milan-peschl",
+      "name": "Milan Peschl",
+      "caption": "Degenheim",
+      "photoUrl": "https://images.squarespace-cdn.com/content/v1/64551b69aaee1d2ba684b0af/3cf939d0-a22d-4c8d-8495-a7ba00891226/Milan+Peschl_Degenheim.jpeg",
+      "country": "sk",
+      "photo": "photos/speakers/milan-peschl.jpeg"
+    },
+    {
+      "id": "peter-laubert",
+      "name": "Peter Laubert",
+      "caption": "Blockmate",
+      "photoUrl": "https://images.squarespace-cdn.com/content/v1/64551b69aaee1d2ba684b0af/957d16f1-efee-44fb-81c7-df9c4fadadf3/Peter+Lauber_Blockmate.jpeg",
+      "country": "sk",
+      "photo": "photos/speakers/peter-laubert.jpeg"
+    },
+    {
+      "id": "tomas-urban",
+      "name": "Tomáš Urban",
+      "caption": "Sparring",
+      "photoUrl": "https://images.squarespace-cdn.com/content/v1/64551b69aaee1d2ba684b0af/c2172de9-dea0-42d2-8839-a33e3043f42a/Tomas+Richter+Urban+2.jpg",
+      "country": "cz",
+      "photo": "photos/speakers/tomas-urban.jpg"
+    }
+  ]
+}
