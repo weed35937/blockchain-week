@@ -2,7 +2,7 @@ name = "OFF/GRID 2023 by FactoryDAO"
 shortname = "OFF/GRID"
 types = ["hackathon"]
 status = "planning"
-#chains = [""]
+chains = ["ethereum"]
 org = "[FactoryDAO](https://www.factorydao.xyz/) & Gwei.cz"
 dri = ""
 poc = ""
@@ -15,15 +15,24 @@ attendees = 150
 tags = ["dao", "hackday"]
 logo = "logo.webp"
 description = '''
-TBD
+OFF/GRID is an experiment in autonomy & collective intelligence. We will converge in one of the most exciting spaces in Prague for a day and night of DAO shenanigans. Our goal is to learn & share our ideas and practices from across the DAO and cryptospace & engage in deep critical discussion & collaboration on how to drive the DAO space forward.
+
+Dr. Nick / FactoryDAO Protocol Leader
 '''
 
-#[registration]
-#type = "signup"
-#link = "https://"
-#status = "available"
+[registration]
+type = "signup"
+link = "https://www.eventbrite.co.uk/e/factorydao-offgrid-conference-hackathon-tickets-634985076457"
+status = "available"
+button = "Register"
 
-#[links]
-#web = "https://"
-#twitter = "https://twitter.com/"
-#telegram = "https://t.me/"
+[links]
+web = "https://www.offgrid.international/"
+twitter = "https://twitter.com/FactDAO"
+telegram = "https://t.me/factdao"
+
+[[speakers]]
+id = "nick-almond"
+
+[[speakers]]
+id = "naomi-oba"
