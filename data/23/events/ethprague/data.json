@@ -151,7 +151,7 @@
       "id": "dominik-teiml",
       "name": "Dominik Teiml",
       "twitter": "__hackerdom__",
-      "caption": "",
+      "caption": "Ackee Blockchain Security",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/0dNcykKVCr3YBgGnTP3Rj/f00f192b912433c565f530fa3510f9bc/ac9c41dacdc26f0e64f7154675dfe85f.jpeg",
       "photo": "photos/speakers/dominik-teiml.jpeg"
     },
@@ -446,6 +446,13 @@
       "photo": "photos/speakers/nissa-szabo.jpg"
     },
     {
+      "id": "oleersson",
+      "name": "OleErsson",
+      "caption": " Kailash Ecovillage",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2rpJH86k7DA7Se42QbU13R/7fc1cfe5cd76671ac6f6e89a881dba4d/IMG_20190308_110924_lESkR3X.jpg",
+      "photo": "photos/speakers/oleersson.jpg"
+    },
+    {
       "id": "osho-jha",
       "name": "Osho Jha",
       "twitter": "CryptoBroShoNYC",
@@ -513,6 +520,14 @@
       "photo": "photos/speakers/rhys-williams.jpg"
     },
     {
+      "id": "ryan-mcclure",
+      "name": "Ryan McClure",
+      "twitter": "__ryanmcclure",
+      "caption": " Wateraware Collective",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2cm8ffIuYqOpKIBrQrQh8o/209c23abf6dc6f61420420e6ee9ae367/image.png",
+      "photo": "photos/speakers/ryan-mcclure.png"
+    },
+    {
       "id": "sahil-sen",
       "name": "Sahil Sen",
       "twitter": "sensahil",
@@ -528,6 +543,14 @@
       "caption": "Phoenix Labs",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2otnD6Vy1qUTJJZ71syhII/b5524fb56deb6e59c427c583a883b86a/2023-05-03_17.47.00_0lA8rEJ.jpg",
       "photo": "photos/speakers/sam-macpherson.jpg"
+    },
+    {
+      "id": "saskia-sassen",
+      "name": "Saskia Sassen",
+      "twitter": "saskiasassen?lang=en",
+      "caption": "Columbia University",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6ahFmgmsINn3tEuj8NcIG2/101bf272fc4c0252a376b254e77b71e0/saskia_sassen.jpg",
+      "photo": "photos/speakers/saskia-sassen.jpg"
     },
     {
       "id": "saul-martin",
@@ -618,14 +641,6 @@
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1wQqEVRsXJDQANFhmhZT2f/7702edcb01e53bae0358641dbcace5db/wlodekgogloza_8HHBoFc.jpg",
       "country": "pl",
       "photo": "photos/speakers/wlodek-gogloza.jpg"
-    },
-    {
-      "id": "zaki-manian",
-      "name": "Zaki Manian",
-      "twitter": "zmanian",
-      "caption": "Sommelier/Iqlusion",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/7b0teIsv03dQG4WFW5eJl9/1c8e1b4fc4ea3c89755a597350abc91a/zaki_headshot_1_rrjclOQ.png.jpeg",
-      "photo": "photos/speakers/zaki-manian.jpeg"
     },
     {
       "id": "zeynep-ecenaz-altınok",
