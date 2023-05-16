@@ -3,6 +3,9 @@ const peopleMapper = {
   "František Vinopal": { country: "cz" },
   "Tomáš Olexa": { country: "cz" },
   "Ondřej Dusílek": { country: "cz" },
+  "Dalibor Černý": { country: "cz" },
+  "Michal Matějka": { country: "cz" },
+  "Jakub Tesař": { country: "cz" },
 };
 
 export async function data(tools) {

@@ -9,6 +9,14 @@
       "photo": "photos/speakers/aleksandar-mitrovic.jpg"
     },
     {
+      "id": "alex-muller",
+      "name": "Alex Müller",
+      "caption": "ChainSafe",
+      "twitter": "alexmattm",
+      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/05/Screenshot-2023-05-16-at-07.30-1.jpg",
+      "photo": "photos/speakers/alex-muller.jpg"
+    },
+    {
       "id": "alex-siman",
       "name": "Alex Siman",
       "caption": "Subsocial",
@@ -166,7 +174,7 @@
       "name": "Petr Mensik",
       "caption": "Polkadotters",
       "twitter": "petr_mensik",
-      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/04/3AiH6zu0_400x400.jpg",
+      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/05/238314290-36fc4af2-703d-4e16-b0af-7e381f335a00-1.jpg",
       "country": "cz",
       "photo": "photos/speakers/petr-mensik.jpg"
     },

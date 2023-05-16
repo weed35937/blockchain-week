@@ -1,6 +1,15 @@
 {
   "speakers": [
     {
+      "id": "dalibor-cerny",
+      "name": "Dalibor Černý",
+      "caption": "Legal Mind at Sparring",
+      "twitter": "daliborcerny",
+      "photoUrl": "https://uploads-ssl.webflow.com/6419d553c89ebe398c7c8116/64633aaf2a42dfa5c9a98df9_Mask%20group.png",
+      "country": "cz",
+      "photo": "photos/speakers/dalibor-cerny.png"
+    },
+    {
       "id": "francesco-paolo-patti",
       "name": "Francesco Paolo Patti",
       "caption": "Law Professor at the University Bocconi Co-Founder at Blockchain Lawyers Group",
@@ -15,6 +24,22 @@
       "photoUrl": "https://uploads-ssl.webflow.com/6419d553c89ebe398c7c8116/6458b36aeb6a13f07e874f15_F.Vinopal.jpg",
       "country": "cz",
       "photo": "photos/speakers/frantisek-vinopal.jpg"
+    },
+    {
+      "id": "jakub-tesar",
+      "name": "Jakub Tesař",
+      "caption": "Innovation, Digital & Emerging Tech Lead  at EY",
+      "photoUrl": "https://uploads-ssl.webflow.com/6419d553c89ebe398c7c8116/646338b96c3ec1b9c54ff016_Profile.jpg",
+      "country": "cz",
+      "photo": "photos/speakers/jakub-tesar.jpg"
+    },
+    {
+      "id": "michal-matejka",
+      "name": "Michal Matějka",
+      "caption": "Partner at PRK Partners, attorneys at law",
+      "photoUrl": "https://uploads-ssl.webflow.com/6419d553c89ebe398c7c8116/6463382859799e255ce68d5e_Zme%C5%A1eno_Mat%C4%9Bjka%20Michal_portr%C3%A9t_clr_web_1.jpg",
+      "country": "cz",
+      "photo": "photos/speakers/michal-matejka.jpg"
     },
     {
       "id": "ondrej-dusilek",
@@ -38,7 +63,7 @@
       "id": "tomas-olexa",
       "name": "Tomáš Olexa",
       "caption": "Head of the FinTech Team at Czech National Bank",
-      "photoUrl": "https://uploads-ssl.webflow.com/6419d553c89ebe398c7c8116/645cb5fd57d3c885b24152ff_OLEXA%20Tom%C3%A1%C5%A1%20Foto.jpg",
+      "photoUrl": "https://uploads-ssl.webflow.com/6419d553c89ebe398c7c8116/646337994e797d41e6a93898_OLEXA%20Tom%C3%A1%C5%A1%20Foto_1.jpg",
       "country": "cz",
       "photo": "photos/speakers/tomas-olexa.jpg"
     }
