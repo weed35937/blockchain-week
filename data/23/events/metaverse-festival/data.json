@@ -27,7 +27,7 @@
     {
       "id": "honza-borysek",
       "name": "Honza Borýsek",
-      "caption": "Founder, Growth & Innovation",
+      "caption": "Founder of Advertia Digital",
       "photoUrl": "https://metaversefestivalprague.com/wp-content/uploads/elementor/thumbs/metaverse-speakers-18-q46gkdthdnfq113o9qwru245r3pr90jhgq9xz6bhdk.png",
       "country": "cz",
       "photo": "photos/speakers/honza-borysek.png"
@@ -53,6 +53,7 @@
       "name": "Jakub Hrdina",
       "caption": "Immersive Service Manager, Deloitte",
       "photoUrl": "https://metaversefestivalprague.com/wp-content/uploads/2023/05/Diseno-sin-titulo-10-1.png",
+      "country": "cz",
       "photo": "photos/speakers/jakub-hrdina.png"
     },
     {
@@ -70,6 +71,14 @@
       "photoUrl": "https://metaversefestivalprague.com/wp-content/uploads/elementor/thumbs/metaverse-speakers-q39ne0tta7j3el7bzq14cxf8050pieps6l1kbcnauw.png",
       "country": "sk",
       "photo": "photos/speakers/juraj-kovac.png"
+    },
+    {
+      "id": "katerina-lesch",
+      "name": "Kateřina Lesch",
+      "caption": "Senior Manager – AI & Data, Deloitte",
+      "photoUrl": "https://metaversefestivalprague.com/wp-content/uploads/2023/05/Diseno-sin-titulo-13-1.png",
+      "country": "cz",
+      "photo": "photos/speakers/katerina-lesch.png"
     },
     {
       "id": "katerina-skarabelova",
@@ -103,6 +112,14 @@
       "photo": "photos/speakers/matej-curda.png"
     },
     {
+      "id": "michaela-malatin",
+      "name": "Michaela Malatín",
+      "caption": "Co-Founder NFT Insights | OpenSource Lead",
+      "photoUrl": "https://metaversefestivalprague.com/wp-content/uploads/2023/05/Diseno-sin-titulo-12-1.png",
+      "country": "cz",
+      "photo": "photos/speakers/michaela-malatin.png"
+    },
+    {
       "id": "natalia-rajnohova",
       "name": "Natália Rajnohová",
       "caption": "CMO at YORD, Co-founder at MOYA",
@@ -133,6 +150,14 @@
       "photoUrl": "https://metaversefestivalprague.com/wp-content/uploads/2023/03/metaverse-speakers-8.png",
       "country": "cz",
       "photo": "photos/speakers/pavla-julia-kolarova.png"
+    },
+    {
+      "id": "roman-novacek",
+      "name": "Roman Nováček",
+      "caption": "VC Investor at Presto Ventures",
+      "photoUrl": "https://metaversefestivalprague.com/wp-content/uploads/2023/05/Diseno-sin-titulo-11-1.png",
+      "country": "cz",
+      "photo": "photos/speakers/roman-novacek.png"
     },
     {
       "id": "sara-polak",

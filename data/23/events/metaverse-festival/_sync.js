@@ -20,6 +20,10 @@ const peopleMapper = {
   "Kateřina Škarabelová": { country: "cz" },
   "Matej Curda": { country: "cz" },
   "Žil J Vostalová": { country: "cz" },
+  "Michaela Malatín": { country: "cz" },
+  "Roman Nováček": { country: "cz" },
+  "Kateřina Lesch": { country: "cz" },
+  "Jakub Hrdina": { country: "cz" },
 };
 
 export async function data(tools) {
