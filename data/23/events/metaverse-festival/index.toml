@@ -42,6 +42,6 @@ web = "https://metaversefestivalprague.com/"
 
 [registration]
 type = "tickets"
-price = "25 EUR"
+price = "35 EUR"
 link = "https://metaversefestivalprague.com/tickets/"
 status = "available"
