@@ -207,6 +207,14 @@
       "photo": "photos/speakers/frisco-d-anconia.jpeg"
     },
     {
+      "id": "gene-kogan",
+      "name": "Gene Kogan",
+      "twitter": "genekogan",
+      "caption": "genekogan.com",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3aCQLOVSGlqmUx8fnncYUb/7db4816c45496501b70ee107455c68f6/IMG_5970a_smaller.png.preset.square.jpeg",
+      "photo": "photos/speakers/gene-kogan.jpeg"
+    },
+    {
       "id": "guillaume-ballet",
       "name": "Guillaume Ballet",
       "twitter": "gballet",
