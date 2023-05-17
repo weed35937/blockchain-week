@@ -1171,8 +1171,8 @@
       "photo": "photos/speakers/vladimir-pinker.jpg"
     },
     {
-      "id": "vojtech-olbrech",
-      "name": "Vojtěch Olbrech",
+      "id": "vojtech-olbrecht",
+      "name": "Vojtěch Olbrecht",
       "twitter": "vojtecholbrecht",
       "orgs": "Blockchain Strategist [CostraLabs](https://www.costralabs.com/), Researcher [PRIGO university](https://www.vs-prigo.cz/)\n",
       "caption": "Blockchain Strategist @CostraLabs, Researcher @PRIGO\n",
@@ -1186,8 +1186,8 @@
         "web:jpg",
         "twitter:jpg"
       ],
-      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/vojtech-olbrech-web.jpg",
-      "photo": "photos/speakers/vojtech-olbrech.jpg"
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/vojtech-olbrecht-web.jpg",
+      "photo": "photos/speakers/vojtech-olbrecht.jpg"
     },
     {
       "id": "vojtech-pour",
