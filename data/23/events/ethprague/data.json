@@ -67,6 +67,14 @@
       "photo": "photos/speakers/avihu-mordechai-levy.jpg"
     },
     {
+      "id": "burak-arikan",
+      "name": "Burak Arikan",
+      "twitter": "arikan?s=21&t=8M0MwOz1dPFeY2ErOIjDzA",
+      "caption": "graphcommons  ",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/70uBS5DKFFpVKpyXCKL8Pz/f5ef55a43cf55c6811b063b93f26b0d2/PPjcoiD4_400x400.jpg",
+      "photo": "photos/speakers/burak-arikan.jpg"
+    },
+    {
       "id": "carlo-modica",
       "name": "Carlo Modica",
       "twitter": "carlo_cretino50",
@@ -229,6 +237,14 @@
       "caption": "WalletConnect",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3vKnJHKBXOlNGFxpf3IUxi/5e733a1a769e71e8c42c5db6af823b72/speaker_img_cropped_low_ryz4oZd.jpg",
       "photo": "photos/speakers/harry-bairstow.jpg"
+    },
+    {
+      "id": "ivan-manchev",
+      "name": "Ivan Manchev",
+      "twitter": "Ivshti",
+      "caption": "Ambire",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2UIFhzfRqC9vk677uUgTwV/cce51d9bfa8c8c490c8744abbdbca709/1657612341975.jpeg",
+      "photo": "photos/speakers/ivan-manchev.jpeg"
     },
     {
       "id": "jan-jaczkal",
@@ -632,6 +648,14 @@
       "caption": "Scroll",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/BoyESqD5CfEry6d4xo6Ls/2d2f9739d4174ef4a9feb3baf3f11001/t2ArKoW4_PRabQIh.jpg",
       "photo": "photos/speakers/toghrul-maharramov.jpg"
+    },
+    {
+      "id": "tom-teman",
+      "name": "Tom Teman",
+      "twitter": "tomteman",
+      "caption": "Account Abstraction",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/kJiKJKU8p09a6PxOD0ui6/a5b1afe9bfeb9aff9db8b7922c7fa24e/tom-profile-square-new_2_xYmep7p.jpg",
+      "photo": "photos/speakers/tom-teman.jpg"
     },
     {
       "id": "vitalik-buterin",

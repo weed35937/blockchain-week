@@ -1,6 +1,6 @@
 const CZ_PEOPLE = [
-    "Tomáš Urban",
-    "Julie Šislerová"
+  "Tomáš Urban",
+  "Julie Šislerová",
 ];
 
 const peopleMapper = {};

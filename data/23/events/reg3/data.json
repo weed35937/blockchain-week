@@ -10,6 +10,13 @@
       "photo": "photos/speakers/dalibor-cerny.png"
     },
     {
+      "id": "fabio-alves-moura",
+      "name": "Fabio Alves Moura",
+      "caption": "Managing Partner at AMX Law",
+      "photoUrl": "https://uploads-ssl.webflow.com/6419d553c89ebe398c7c8116/6466763882fcedd10f5fa536_Mask%20group.png",
+      "photo": "photos/speakers/fabio-alves-moura.png"
+    },
+    {
       "id": "francesco-paolo-patti",
       "name": "Francesco Paolo Patti",
       "caption": "Law Professor at the University Bocconi Co-Founder at Blockchain Lawyers Group",
@@ -28,7 +35,7 @@
     {
       "id": "jakub-tesar",
       "name": "Jakub Tesař",
-      "caption": "Innovation, Digital & Emerging Tech Lead  at EY",
+      "caption": "Innovation & Emerging Tech Lead  at EY",
       "photoUrl": "https://uploads-ssl.webflow.com/6419d553c89ebe398c7c8116/646338b96c3ec1b9c54ff016_Profile.jpg",
       "country": "cz",
       "photo": "photos/speakers/jakub-tesar.jpg"
@@ -58,6 +65,30 @@
       "photoUrl": "https://uploads-ssl.webflow.com/6419d553c89ebe398c7c8116/6458bdbebc41e9510d1f896f_64525cfb49d6f9332c5181fd_1609757832596.jpg",
       "country": "cz",
       "photo": "photos/speakers/ondrej-kovarik.jpg"
+    },
+    {
+      "id": "peter-kris",
+      "name": "Peter Kris",
+      "caption": "CEO at Mangata Finance",
+      "twitter": "upeterkris",
+      "photoUrl": "https://uploads-ssl.webflow.com/6419d553c89ebe398c7c8116/646675165c53b820bbbbfdad_web_DSD_2285_kris_peter_2022%20(1).jpg",
+      "photo": "photos/speakers/peter-kris.jpg"
+    },
+    {
+      "id": "peter-laubert",
+      "name": "Peter Laubert",
+      "caption": "Co-Founder at Blockmate",
+      "photoUrl": "https://uploads-ssl.webflow.com/6419d553c89ebe398c7c8116/6466869ca5fc47954e887e0e_1633446302366.jpg",
+      "photo": "photos/speakers/peter-laubert.jpg"
+    },
+    {
+      "id": "stepan-kouba",
+      "name": "Štěpán Kouba",
+      "caption": "Open Banking Leader at Česká Spořitelna",
+      "twitter": "stepan_kouba",
+      "photoUrl": "https://uploads-ssl.webflow.com/6419d553c89ebe398c7c8116/6466778f6e98e0fd2318d189_1517754053123.jpg.jpg",
+      "country": "cz",
+      "photo": "photos/speakers/stepan-kouba.jpg"
     },
     {
       "id": "tomas-olexa",
