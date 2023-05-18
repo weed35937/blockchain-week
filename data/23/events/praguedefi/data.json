@@ -82,6 +82,14 @@
       "photo": "photos/speakers/gabija-tuinaite.jpg"
     },
     {
+      "id": "garry-krugljakow",
+      "name": "Garry Krugljakow",
+      "twitter": "GarryKrug",
+      "caption": "0VIX / GOGOcoin",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6jgrFrGmTCge5vZuiFpwYU/2df8e65b7fe02bc3d9ec28580670096d/Garry_Krugljakow.jpg",
+      "photo": "photos/speakers/garry-krugljakow.jpg"
+    },
+    {
       "id": "gaspard-peduzzi",
       "name": "Gaspard Peduzzi",
       "twitter": "GaspardPeduzzi",
@@ -104,6 +112,14 @@
       "caption": "Hoyu.io",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6mfqbVOtdXzZRxy5h5IP5d/3c926bfd85c7e0c1e72b644514fd53c4/Jogundas_Armaitis.JPG",
       "photo": "photos/speakers/jogundas-armaitis.JPG"
+    },
+    {
+      "id": "jordan-sutcliffe",
+      "name": "Jordan Sutcliffe",
+      "twitter": "JstarCS",
+      "caption": "StakeWise",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/46TKd7125IpsmpqBxgUk5f/f6289e34ff37cc66dcae6dff8784f019/Jordan_Sutcliffe.jpg",
+      "photo": "photos/speakers/jordan-sutcliffe.jpg"
     },
     {
       "id": "julien-bouteloup",

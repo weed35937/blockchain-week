@@ -114,6 +114,23 @@
       "photo": "photos/speakers/harald-heckmann.jpg"
     },
     {
+      "id": "jafar-azam",
+      "name": "Jafar Azam",
+      "caption": "Composable Finance",
+      "twitter": "composableintrn",
+      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/05/composable.jpeg",
+      "photo": "photos/speakers/jafar-azam.jpeg"
+    },
+    {
+      "id": "jakub-hydra",
+      "name": "Jakub Hydra",
+      "caption": "HydraDX",
+      "twitter": "GregusJakub",
+      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/05/jakub_hydra.jpeg",
+      "country": "cz",
+      "photo": "photos/speakers/jakub-hydra.jpeg"
+    },
+    {
       "id": "kasper-mai-jørgensen",
       "name": "Kasper Mai Jørgensen",
       "caption": "Polimec",
