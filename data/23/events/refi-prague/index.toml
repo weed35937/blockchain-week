@@ -1,7 +1,7 @@
 name = "ReFi Prague 2023"
 shortname = "ReFi Prague"
 types = ["conference"]
-status = "idea"
+status = "published"
 #chains = []
 org = ""
 dri = ""
@@ -25,6 +25,6 @@ telegram = "https://t.me/+Fmk6WqTa7eVjOGNk"
 
 [registration]
 type = "tickets"
-#price = ""
-#link = ""
-#status = "available"
+price = "15 EUR"
+link = "https://app.moongate.id/events/refi-prague-2023"
+status = "available"
