@@ -14,14 +14,13 @@ const peopleMapper = {
 export async function data(tools) {
   const $ = await tools.loadHtmlUrl("https://prague.reg3.eu/speakers");
   const out = { speakers: [] };
-
-  for (const el of $('div.team-card').toArray()) {
-    const name = $("h6", el).text();
+  for (const el of $('div.section.speakers div[role="listitem"]').toArray()) {
+    const name = $("h2", el).text();
 
     const item = {
       id: tools.formatId(name),
       name,
-      caption: $("p.team-member-position", el).toArray().map((x, i) => {
+      caption: $("h3", el).toArray().map((x, i) => {
           let t = $(x).text().trim()
           if (!t.match(/^at /) && i !== 0) {
             t = (', ' + t)
@@ -38,7 +37,7 @@ export async function data(tools) {
         "https://www.linkedin.com/in/",
         "",
       ).replace(/\/$/, ''),
-      photoUrl: $("img.team-card-image", el).attr("src"),
+      photoUrl: $('img[loading="lazy"]', el).attr("src"),
     };
 
     if (peopleMapper[name]) {
