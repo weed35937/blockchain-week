@@ -3,7 +3,7 @@
     {
       "id": "alex-kampa",
       "name": "Alex Kampa",
-      "caption": "Director at [Aragon ZK Research](https://research.aragon.org/)\n",
+      "caption": "Director at [Aragon ZK Research](https://research.aragon.org/)",
       "country": "lu",
       "photoUrl": "https://prague.web3privacy.info/people/alex-kampa.jpg",
       "photo": "photos/speakers/alex-kampa.jpg"
@@ -21,7 +21,7 @@
       "id": "ameen-soleimani",
       "name": "Ameen Soleimani",
       "twitter": "ameensol",
-      "caption": "Summoner of [IranUnchained](https://www.iranunchained.com/), [Privacy Pools](https://www.privacypools.com/), [MolochDAO](https://molochdao.com/)\n",
+      "caption": "Summoner of [IranUnchained](https://www.iranunchained.com/), [Privacy Pools](https://www.privacypools.com/), [MolochDAO](https://molochdao.com/)",
       "country": "us",
       "photoUrl": "https://prague.web3privacy.info/people/ameen-soleimani.jpg",
       "photo": "photos/speakers/ameen-soleimani.jpg"
@@ -30,7 +30,7 @@
       "id": "antoni-zolciak",
       "name": "Antoni Zolciak",
       "twitter": "AntoniZolciak",
-      "caption": "Co-founder of [Aleph Zero](https://alephzero.org/) & [Cardinal](https://cardinal.co/)\n",
+      "caption": "Co-founder of [Aleph Zero](https://alephzero.org/) & [Cardinal](https://cardinal.co/)",
       "country": "pl",
       "photoUrl": "https://prague.web3privacy.info/people/antoni-zolciak.jpg",
       "photo": "photos/speakers/antoni-zolciak.jpg"
@@ -106,6 +106,14 @@
       "country": "gb",
       "photoUrl": "https://prague.web3privacy.info/people/nick-almond.jpg",
       "photo": "photos/speakers/nick-almond.jpg"
+    },
+    {
+      "id": "oliver-gale",
+      "name": "Oliver Gale",
+      "twitter": "OriginalOlii",
+      "caption": "CEO of [Panther Protocol](https://www.pantherprotocol.io/)",
+      "photoUrl": "https://prague.web3privacy.info/people/oliver-gale.jpeg",
+      "photo": "photos/speakers/oliver-gale.jpeg"
     },
     {
       "id": "pg",
