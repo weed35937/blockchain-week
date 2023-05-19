@@ -33,7 +33,7 @@ export async function data(tools) {
 
   for (const el of $("div.elementor-col-16").toArray()) {
     const name = cleanupName($("h3 span", el).html());
-    if (name === "Reveal Soon") {
+    if (name === "Reveal Soon" || name === "Revealed Soon") {
       continue;
     }
 
