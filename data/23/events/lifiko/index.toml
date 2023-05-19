@@ -7,9 +7,10 @@ dri = ""
 poc = ""
 date = "2023-06-06"
 days = 1
+times = "13:00-18:00"
 venueName = "WBTCB"
 venueAddress = "Národní 973/41, Praha 1, 110 00 Staré Město"
-venueUrl = "https://www.wbtcb.com/"
+venueUrl = "https://goo.gl/maps/1qPPLWBxqKkJQ9aAA"
 languages = ["czech", "slovak"]
 attendees = 25
 tags = ["taxes", "daně"]
@@ -22,7 +23,3 @@ logo = "logo.png"
 
 [links]
 web = "https://lifiko.cz"
-
-[[segments]]
-date = "2023-06-06"
-times = "13:00-18:00"
