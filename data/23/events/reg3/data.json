@@ -12,6 +12,7 @@
       "name": "Dalibor Černý",
       "caption": "Legal Mind at Sparring",
       "twitter": "daliborcerny",
+      "linkedin": "cernydalibor",
       "photoUrl": "https://uploads-ssl.webflow.com/6419d553c89ebe398c7c8116/64633aaf2a42dfa5c9a98df9_Mask%20group.png",
       "country": "cz",
       "photo": "photos/speakers/dalibor-cerny.png"
@@ -21,6 +22,7 @@
       "name": "David Stancel",
       "caption": "Co-Founder at Blockchain Slovakia",
       "twitter": "dave_stancel",
+      "linkedin": "davidstancel",
       "photoUrl": "https://uploads-ssl.webflow.com/6419d553c89ebe398c7c8116/646729bdab8af9324504c23f_C3F3siHA_1.jpeg",
       "country": "sk",
       "photo": "photos/speakers/david-stancel.jpeg"
@@ -29,21 +31,24 @@
       "id": "fabio-alves-moura",
       "name": "Fabio Alves Moura",
       "caption": "Managing Partner at AMX Law",
+      "linkedin": "fabio-alves-moura",
       "photoUrl": "https://uploads-ssl.webflow.com/6419d553c89ebe398c7c8116/6466763882fcedd10f5fa536_Mask%20group.png",
       "photo": "photos/speakers/fabio-alves-moura.png"
     },
     {
       "id": "francesco-paolo-patti",
       "name": "Francesco Paolo Patti",
-      "caption": "Law Professor at the University Bocconi Co-Founder at Blockchain Lawyers Group",
+      "caption": "Law Professor at the University Bocconi, Co-Founder at Blockchain Lawyers Group",
       "twitter": "eaglelex_eth",
+      "linkedin": "francesco-paolo-patti-68b475113",
       "photoUrl": "https://uploads-ssl.webflow.com/6419d553c89ebe398c7c8116/6458ba5d2d5b6da6caf08e9c_francesco-18-min.jpg",
       "photo": "photos/speakers/francesco-paolo-patti.jpg"
     },
     {
       "id": "frantisek-vinopal",
       "name": "František Vinopal",
-      "caption": "Chairman of ČKMA Chief Risk Officer at Coinmate and Confirmo",
+      "caption": "Chairman of ČKMA, Chief Risk Officer at Coinmate and Confirmo",
+      "linkedin": "vinfra",
       "photoUrl": "https://uploads-ssl.webflow.com/6419d553c89ebe398c7c8116/6458b36aeb6a13f07e874f15_F.Vinopal.jpg",
       "country": "cz",
       "photo": "photos/speakers/frantisek-vinopal.jpg"
@@ -51,7 +56,8 @@
     {
       "id": "jakub-tesar",
       "name": "Jakub Tesař",
-      "caption": "Innovation & Emerging Tech Lead  at EY",
+      "caption": "Innovation & Emerging Tech Lead at EY",
+      "linkedin": "jakub-tesar",
       "photoUrl": "https://uploads-ssl.webflow.com/6419d553c89ebe398c7c8116/646338b96c3ec1b9c54ff016_Profile.jpg",
       "country": "cz",
       "photo": "photos/speakers/jakub-tesar.jpg"
@@ -60,6 +66,7 @@
       "id": "michal-matejka",
       "name": "Michal Matějka",
       "caption": "Partner at PRK Partners, attorneys at law",
+      "linkedin": "michal-matejka-9377624",
       "photoUrl": "https://uploads-ssl.webflow.com/6419d553c89ebe398c7c8116/6463382859799e255ce68d5e_Zme%C5%A1eno_Mat%C4%9Bjka%20Michal_portr%C3%A9t_clr_web_1.jpg",
       "country": "cz",
       "photo": "photos/speakers/michal-matejka.jpg"
@@ -69,6 +76,7 @@
       "name": "Ondřej Dusílek",
       "caption": "CEO at Central Securities Depository Prague",
       "twitter": "OndrejDusilek",
+      "linkedin": "ondrejdusilek",
       "photoUrl": "https://uploads-ssl.webflow.com/6419d553c89ebe398c7c8116/645b5ecd5702b7f59d632947_PSE04209.jpg",
       "country": "cz",
       "photo": "photos/speakers/ondrej-dusilek.jpg"
@@ -78,6 +86,7 @@
       "name": "Ondřej Kovařík",
       "caption": "Member of the Committee on Economic and Monetary Affairs at European Parliament",
       "twitter": "OKovarikMEP",
+      "linkedin": "okovarikmep",
       "photoUrl": "https://uploads-ssl.webflow.com/6419d553c89ebe398c7c8116/6458bdbebc41e9510d1f896f_64525cfb49d6f9332c5181fd_1609757832596.jpg",
       "country": "cz",
       "photo": "photos/speakers/ondrej-kovarik.jpg"
@@ -87,6 +96,7 @@
       "name": "Peter Kris",
       "caption": "CEO at Mangata Finance",
       "twitter": "upeterkris",
+      "linkedin": "peter-kris-a7274054",
       "photoUrl": "https://uploads-ssl.webflow.com/6419d553c89ebe398c7c8116/646675165c53b820bbbbfdad_web_DSD_2285_kris_peter_2022%20(1).jpg",
       "photo": "photos/speakers/peter-kris.jpg"
     },
@@ -94,6 +104,7 @@
       "id": "peter-laubert",
       "name": "Peter Laubert",
       "caption": "Co-Founder at Blockmate",
+      "linkedin": "peter-laubert",
       "photoUrl": "https://uploads-ssl.webflow.com/6419d553c89ebe398c7c8116/6466869ca5fc47954e887e0e_1633446302366.jpg",
       "photo": "photos/speakers/peter-laubert.jpg"
     },
@@ -102,6 +113,7 @@
       "name": "Štěpán Kouba",
       "caption": "Open Banking Leader at Česká Spořitelna",
       "twitter": "stepan_kouba",
+      "linkedin": "stepan-kouba-7096a45",
       "photoUrl": "https://uploads-ssl.webflow.com/6419d553c89ebe398c7c8116/646729adb5a9f841bca8f26f_Mask%20group%20(1).png",
       "country": "cz",
       "photo": "photos/speakers/stepan-kouba.png"
@@ -110,6 +122,7 @@
       "id": "tomas-olexa",
       "name": "Tomáš Olexa",
       "caption": "Head of the FinTech Team at Czech National Bank",
+      "linkedin": "tomas-olexa-566ba815",
       "photoUrl": "https://uploads-ssl.webflow.com/6419d553c89ebe398c7c8116/646337994e797d41e6a93898_OLEXA%20Tom%C3%A1%C5%A1%20Foto_1.jpg",
       "country": "cz",
       "photo": "photos/speakers/tomas-olexa.jpg"
