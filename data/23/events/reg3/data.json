@@ -1,6 +1,13 @@
 {
   "speakers": [
     {
+      "id": "bohdan-zubac",
+      "name": "Bohdan Zubač",
+      "caption": "Attorney at Law at PRK Partners",
+      "photoUrl": "https://uploads-ssl.webflow.com/6419d553c89ebe398c7c8116/64672a71b3e353a65dac5d2f_Zmen%C5%A1eno_Zuba%C4%8D%20Bohdan_portr%C3%A9t_clr_22_web_citace.jpg",
+      "photo": "photos/speakers/bohdan-zubac.jpg"
+    },
+    {
       "id": "dalibor-cerny",
       "name": "Dalibor Černý",
       "caption": "Legal Mind at Sparring",
@@ -8,6 +15,15 @@
       "photoUrl": "https://uploads-ssl.webflow.com/6419d553c89ebe398c7c8116/64633aaf2a42dfa5c9a98df9_Mask%20group.png",
       "country": "cz",
       "photo": "photos/speakers/dalibor-cerny.png"
+    },
+    {
+      "id": "david-stancel",
+      "name": "David Stancel",
+      "caption": "Co-Founder at Blockchain Slovakia",
+      "twitter": "dave_stancel",
+      "photoUrl": "https://uploads-ssl.webflow.com/6419d553c89ebe398c7c8116/646729bdab8af9324504c23f_C3F3siHA_1.jpeg",
+      "country": "sk",
+      "photo": "photos/speakers/david-stancel.jpeg"
     },
     {
       "id": "fabio-alves-moura",
@@ -86,9 +102,9 @@
       "name": "Štěpán Kouba",
       "caption": "Open Banking Leader at Česká Spořitelna",
       "twitter": "stepan_kouba",
-      "photoUrl": "https://uploads-ssl.webflow.com/6419d553c89ebe398c7c8116/6466778f6e98e0fd2318d189_1517754053123.jpg.jpg",
+      "photoUrl": "https://uploads-ssl.webflow.com/6419d553c89ebe398c7c8116/646729adb5a9f841bca8f26f_Mask%20group%20(1).png",
       "country": "cz",
-      "photo": "photos/speakers/stepan-kouba.jpg"
+      "photo": "photos/speakers/stepan-kouba.png"
     },
     {
       "id": "tomas-olexa",

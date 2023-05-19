@@ -218,7 +218,7 @@
       "id": "gene-kogan",
       "name": "Gene Kogan",
       "twitter": "genekogan",
-      "caption": "genekogan.com",
+      "caption": "eden.art",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3aCQLOVSGlqmUx8fnncYUb/7db4816c45496501b70ee107455c68f6/IMG_5970a_smaller.png.preset.square.jpeg",
       "photo": "photos/speakers/gene-kogan.jpeg"
     },
@@ -239,12 +239,12 @@
       "photo": "photos/speakers/harry-bairstow.jpg"
     },
     {
-      "id": "ivan-manchev",
-      "name": "Ivan Manchev",
+      "id": "ivo-georgiev",
+      "name": "Ivo Georgiev",
       "twitter": "Ivshti",
       "caption": "Ambire",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2UIFhzfRqC9vk677uUgTwV/cce51d9bfa8c8c490c8744abbdbca709/1657612341975.jpeg",
-      "photo": "photos/speakers/ivan-manchev.jpeg"
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2UIFhzfRqC9vk677uUgTwV/2135157c4b493b8e9bfde62f05a46fc8/ivo-192b97016dc3a1263508c754090ef3f7.jpg",
+      "photo": "photos/speakers/ivo-georgiev.jpg"
     },
     {
       "id": "jan-jaczkal",
@@ -653,7 +653,7 @@
       "id": "tom-teman",
       "name": "Tom Teman",
       "twitter": "tomteman",
-      "caption": "Account Abstraction",
+      "caption": "Ethereum Foundation",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/kJiKJKU8p09a6PxOD0ui6/a5b1afe9bfeb9aff9db8b7922c7fa24e/tom-profile-square-new_2_xYmep7p.jpg",
       "photo": "photos/speakers/tom-teman.jpg"
     },

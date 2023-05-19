@@ -24,6 +24,7 @@ const peopleMapper = {
   "Roman Nováček": { country: "cz" },
   "Kateřina Lesch": { country: "cz" },
   "Jakub Hrdina": { country: "cz" },
+  "David Stancel": { country: "sk" },
 };
 
 export async function data(tools) {
