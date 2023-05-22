@@ -50,6 +50,14 @@
       "photo": "photos/speakers/alexei-zamyatin.jpeg"
     },
     {
+      "id": "amir-taaki",
+      "name": "Amir Taaki",
+      "twitter": "Narodism",
+      "caption": "DarkFi",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/573urj0qYRGT3c9a87qynC/d161c9be10aa7627b50043d1fc24cf82/AmirTaaki_um9UHjW.jpeg",
+      "photo": "photos/speakers/amir-taaki.jpeg"
+    },
+    {
       "id": "anett-rolikova",
       "name": "Anett Rolikova",
       "twitter": "AnettRolikova",
@@ -521,6 +529,14 @@
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/L0ivlTcMiiScPPGGSEBB1/68e70e665915099272a883e301cf215f/1673510206362_6Ttl4yg.jpg",
       "country": "cz",
       "photo": "photos/speakers/michal-prevratil.jpg"
+    },
+    {
+      "id": "nader-dabit",
+      "name": "Nader Dabit",
+      "twitter": "dabit3?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+      "caption": "AAVE & LENS PROTOCol",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2b3oJt63KfEJuJI9UHy1IU/dbddc17ff3b6fe1322584a60d767443a/headshot_fjLT74v.jpg",
+      "photo": "photos/speakers/nader-dabit.jpg"
     },
     {
       "id": "nicholas-paul-brysiewicz",
