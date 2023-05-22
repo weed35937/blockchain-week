@@ -1,14 +1,6 @@
 {
   "speakers": [
     {
-      "id": "alexander-mitrovich",
-      "name": "Alexander Mitrovich",
-      "caption": "CEO",
-      "twitter": "AleksandaMitro1",
-      "photoUrl": "https://polkadotnft.xyz/wp-content/uploads/2023/05/Aleksandar_Mitrovic-300x300-1.jpg",
-      "photo": "photos/speakers/alexander-mitrovich.jpg"
-    },
-    {
       "id": "dakota-barnett",
       "name": "Dakota Barnett",
       "caption": "Founder, CEO",
@@ -21,7 +13,7 @@
       "name": "Daniel Vaculík",
       "caption": "Project and community manager, Member of the leading Council",
       "twitter": "FrodolBohemian",
-      "photoUrl": "https://polkadotnft.xyz/wp-content/uploads/2023/05/Daniel_Vaculik.jpg",
+      "photoUrl": "https://polkadotnft.xyz/wp-content/uploads/2023/05/Screenshot-2023-05-22-at-08.53-1.jpg",
       "country": "cz",
       "photo": "photos/speakers/daniel-vaculik.jpg"
     },
@@ -32,6 +24,47 @@
       "twitter": "VaraNetwork",
       "photoUrl": "https://polkadotnft.xyz/wp-content/uploads/2023/05/katarina-min-300x300-1.jpg",
       "photo": "photos/speakers/ekaterina-voronina.jpg"
+    },
+    {
+      "id": "filip-bd",
+      "name": "Filip",
+      "caption": "Product BD Lead",
+      "photoUrl": "https://polkadotnft.xyz/wp-content/uploads/2023/05/Screenshot-2023-05-22-at-08.51-1.jpg",
+      "country": "cz",
+      "photo": "photos/speakers/filip-bd.jpg"
+    },
+    {
+      "id": "greg-zaitsev",
+      "name": "Greg Zaitsev",
+      "caption": "CTO",
+      "twitter": "gz_unique",
+      "photoUrl": "https://polkadotnft.xyz/wp-content/uploads/2023/05/238391575-17ac648e-1e57-4614-a939-34ab1f683752-1.jpg",
+      "photo": "photos/speakers/greg-zaitsev.jpg"
+    },
+    {
+      "id": "ilo-meeze",
+      "name": "Ilo Meeze",
+      "caption": "Founder",
+      "twitter": "GraviDAO_",
+      "photoUrl": "https://polkadotnft.xyz/wp-content/uploads/2023/05/Screenshot-2023-05-22-at-09.05-1.jpg",
+      "photo": "photos/speakers/ilo-meeze.jpg"
+    },
+    {
+      "id": "jan-zibner",
+      "name": "Jan Zibner",
+      "caption": "CLO & Co-founder",
+      "photoUrl": "https://polkadotnft.xyz/wp-content/uploads/2023/05/Screenshot-2023-05-22-at-09.07-1.jpg",
+      "country": "cz",
+      "photo": "photos/speakers/jan-zibner.jpg"
+    },
+    {
+      "id": "jana-kubatova",
+      "name": "Jana Kubátová",
+      "caption": "Co-founder",
+      "twitter": "DVRGnft",
+      "photoUrl": "https://polkadotnft.xyz/wp-content/uploads/2023/05/Screenshot-2023-05-22-at-09.08-1.jpg",
+      "country": "cz",
+      "photo": "photos/speakers/jana-kubatova.jpg"
     },
     {
       "id": "marta-adamczyk",
@@ -47,8 +80,24 @@
       "name": "Nicholas Douzinas",
       "caption": "Co-Founder",
       "twitter": "AjunaNetwork",
-      "photoUrl": "https://polkadotnft.xyz/wp-content/uploads/2023/05/RZX4CLU_400x400-300x300-1.jpg",
+      "photoUrl": "https://polkadotnft.xyz/wp-content/uploads/2023/05/238335603-270bbf12-f07d-41f6-bb40-4294625da450-1.jpg",
       "photo": "photos/speakers/nicholas-douzinas.jpg"
+    },
+    {
+      "id": "sacha-l",
+      "name": "Sacha L",
+      "caption": "Developer Advocate",
+      "twitter": "SachaL__",
+      "photoUrl": "https://polkadotnft.xyz/wp-content/uploads/2023/05/238915757-7468df75-f5ff-4a15-a111-8ce8a423d8ed.png",
+      "photo": "photos/speakers/sacha-l.png"
+    },
+    {
+      "id": "viki-val",
+      "name": "Viki Val",
+      "caption": "Co-founder",
+      "twitter": "vikiival",
+      "photoUrl": "https://polkadotnft.xyz/wp-content/uploads/2023/05/tWaIhzMH_400x400.jpg",
+      "photo": "photos/speakers/viki-val.jpg"
     }
   ]
 }

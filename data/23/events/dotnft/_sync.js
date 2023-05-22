@@ -1,6 +1,11 @@
 const peopleMapper = {
   "Daniel Vaculík": { country: "cz" },
   "Marta Adamczyk": { country: "nz" },
+
+  "Filip": { id: "filip-bd", country: "cz" },
+  "Jan Zibner": { country: "cz" },
+  "Jana Kubátová": { country: "cz" },
+
 };
 
 export async function data(tools) {
