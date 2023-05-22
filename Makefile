@@ -41,11 +41,8 @@ fsync:
 twitter-stats:
 	deno run --unstable --allow-read --allow-write --allow-env --allow-net utils/twitter-stats.js $(complete)
 
-lock:
-	deno cache --lock-write --lock=lock.json ./utils/*.js
-
 install:
-	deno cache --lock=lock.json ./utils/*.js
+	deno cache ./utils/*.js
 
 reinstall:
-	deno cache --reload --lock=lock.json ./utils/*.js
+	deno cache --reload ./utils/*.js
