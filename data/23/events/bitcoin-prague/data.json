@@ -317,6 +317,21 @@
       "photo": "photos/speakers/domenico-gabriele.jpeg"
     },
     {
+      "id": "dominik-stroukal",
+      "name": "Dominik Stroukal",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/05/dominik_stroukal-320x320.jpg",
+      "caption": "Economist, bitcoiner and book author",
+      "twitter": "Stroukal",
+      "linkedin": "stroukal",
+      "tag": "Economist",
+      "desc": "Dominik lectures at the Metropolitan University Prague. He is the author of several books, including the first Czech book on bitcoin in 2015. He is a member of the National Economic Council of the Government and an economic advisor to SatoshiLabs. Dominik also enjoys giving talks at bitcoin meetups and high schools.",
+      "web": {
+        "url": "https://stroukal.cz/"
+      },
+      "link": "https://www.btcprague.com/speakers/dominik-stroukal/",
+      "photo": "photos/speakers/dominik-stroukal.jpg"
+    },
+    {
       "id": "douglas-bakkum",
       "name": "Douglas Bakkum",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/03/Douglas-Bakkum-320x320.jpg",
@@ -449,6 +464,18 @@
       "photo": "photos/speakers/general-kenobi.png"
     },
     {
+      "id": "giacomo-collini",
+      "name": "Giacomo Collini",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/05/Giacomo-Collini-320x320.jpg",
+      "caption": "Managing Director at Clovr Labs",
+      "linkedin": "gcollini",
+      "tag": "Entrepreneur",
+      "desc": "Giacomo holds deep knowledge and experience in tech and business processes. His experience in information security spans back more than 15 years including senior positions at King (Activision Blizzard), Hellofresh, and various startups across Europe.",
+      "web": {},
+      "link": "https://www.btcprague.com/speakers/giacomo-collini/",
+      "photo": "photos/speakers/giacomo-collini.jpg"
+    },
+    {
       "id": "giacomo-zucco",
       "name": "Giacomo Zucco",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2022/11/btcprague-giacomozucco-320x320.jpg",
@@ -499,6 +526,32 @@
       "photo": "photos/speakers/hermann-vivier.jpeg"
     },
     {
+      "id": "hodlonaut",
+      "name": "hodlonaut",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/05/hodlonaut-320x320.jpg",
+      "caption": "Bitcoin cat in a spacesuit",
+      "twitter": "hodlonaut",
+      "tag": "Community Leader",
+      "desc": "Hodlonaut is a Norwegian bitcoin pleb who’s been in the orange rabbit hole since 2013. He was behind the Lightning Torch in 2019 and is the co-founder and editor of Citadel21, the no-holds-barred bitcoin-only zine. Hodlonaut currently spends a lot of his time defending against legal harassment from enemies of bitcoin.",
+      "web": {
+        "url": "https://www.defendingbtc.com/"
+      },
+      "link": "https://www.btcprague.com/speakers/hodlonaut/",
+      "photo": "photos/speakers/hodlonaut.jpg"
+    },
+    {
+      "id": "hynek-jina",
+      "name": "Hynek Jína",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/05/Hynek-Jina-320x320.jpeg",
+      "caption": "Head of Development at Trezor",
+      "twitter": "HynekJina",
+      "tag": "Developer",
+      "desc": "Economist, libertarian, free education advocate, former music teacher, and organizer of voluntary family retreats. Interested in bitcoin adoption, scaling, lightning network, privacy, pay via coinjoin, and other related topics.",
+      "web": {},
+      "link": "https://www.btcprague.com/speakers/hynek-jina/",
+      "photo": "photos/speakers/hynek-jina.jpeg"
+    },
+    {
       "id": "ioni-appelberg",
       "name": "Ioni Appelberg",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2022/11/btcprague-ioniappelberg-320x320.jpg",
@@ -511,6 +564,18 @@
       },
       "link": "https://www.btcprague.com/speakers/ioni-appelberg/",
       "photo": "photos/speakers/ioni-appelberg.jpg"
+    },
+    {
+      "id": "irina-bashkova",
+      "name": "Irina Bashkova",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/05/Irina-Bashkova-320x320.jpg",
+      "caption": "Technical Support Lead at Braiins",
+      "twitter": "IrinaBashkova",
+      "tag": "Entrepreneur",
+      "desc": "Irina leads a technical support team at Braiins, assisting bitcoin miners with a wide range of products from firmware to proxy, pool, and Stratum V2.",
+      "web": {},
+      "link": "https://www.btcprague.com/speakers/irina-bashkova/",
+      "photo": "photos/speakers/irina-bashkova.jpg"
     },
     {
       "id": "jakub-vejmola",
@@ -579,6 +644,18 @@
       "web": {},
       "link": "https://www.btcprague.com/speakers/jan-mosovsky/",
       "photo": "photos/speakers/jan-mosovsky.jpeg"
+    },
+    {
+      "id": "jan-pleskac",
+      "name": "Jan Pleskač",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/05/Jan-Pleskac-e1684572723110-320x320.jpeg",
+      "caption": "Co-founder & CTO of Tropic Square",
+      "twitter": "jan_pleskac",
+      "tag": "Entrepreneur",
+      "desc": "Jan is a leading specialist in chip design, architecture, and hardware security. He built the technology team at Tropic Square from scratch, which he now heads. Together they are developing the transparent and fully auditable TROPIC01 (TRuly OPen Integrated Circuit) chip with the goal of bringing it to market in 2025. In addition to building Tropic Square, Jan is involved in activities of the community around chip design, embedded firmware, and security.",
+      "web": {},
+      "link": "https://www.btcprague.com/speakers/jan-pleskac/",
+      "photo": "photos/speakers/jan-pleskac.jpeg"
     },
     {
       "id": "jan-prochazka",
@@ -731,6 +808,18 @@
       "photo": "photos/speakers/justin-moon.jpg"
     },
     {
+      "id": "karel-wolf",
+      "name": "Karel Wolf",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/05/Karel-Wolf-320x320.jpg",
+      "caption": "Editor of Forbes CZ magazine",
+      "twitter": "wolfdencz",
+      "tag": "Author",
+      "desc": "Karel has been thinking about the meaningful use of bitcoin and the public blockchain for nine years. He also writes for Lupa.cz and has previously covered blockchain issues externally for KPMG Czech Republic, worked as a cryptocurrency analyst for Roklen360, and worked as a consultant with Braiins and Creative Dock.",
+      "web": {},
+      "link": "https://www.btcprague.com/speakers/karel-wolf/",
+      "photo": "photos/speakers/karel-wolf.jpg"
+    },
+    {
       "id": "kevin-loaec",
       "name": "Kevin Loaec",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/03/Kevin-Loaec-320x320.jpg",
@@ -756,6 +845,19 @@
       },
       "link": "https://www.btcprague.com/speakers/knut-svanholm/",
       "photo": "photos/speakers/knut-svanholm.jpg"
+    },
+    {
+      "id": "kristian-csepcsar",
+      "name": "Kristian Csepcsar",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/05/Kristian-Csepcsar-320x320.jpg",
+      "caption": "CMO at Braiins",
+      "twitter": "KristianCsep",
+      "linkedin": "kristiancsepcsar",
+      "tag": "Entrepreneur",
+      "desc": "Kristian leads marketing at Braiins – company building tools for bitcoin miners including pool, firmware, proxy, monitoring, Stratum V2, and more.",
+      "web": {},
+      "link": "https://www.btcprague.com/speakers/kristian-csepcsar/",
+      "photo": "photos/speakers/kristian-csepcsar.jpg"
     },
     {
       "id": "lauren-prince",
@@ -899,6 +1001,20 @@
       "photo": "photos/speakers/martin-kuchar.png"
     },
     {
+      "id": "matej-svancer",
+      "name": "Matěj Švancer",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/05/Matej-Svancer-2-e1684697751564-320x320.png",
+      "caption": "Co-founder & CEO of Plebstr",
+      "twitter": "KRYPTOMates",
+      "tag": "Entrepreneur",
+      "desc": "Matěj is the co-founder & CEO of Plebstr, a client for Nostr (previously Tweetoshi). He also has a YouTube channel about bitcoin with 38k subscribers. ",
+      "web": {
+        "url": "https://plebstr.com/"
+      },
+      "link": "https://www.btcprague.com/speakers/matej-svancer/",
+      "photo": "photos/speakers/matej-svancer.png"
+    },
+    {
       "id": "matej-zak",
       "name": "Matěj Žák",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/04/Matej-Zak-320x320.jpeg",
@@ -924,6 +1040,18 @@
       },
       "link": "https://www.btcprague.com/speakers/mathew-mezinskis/",
       "photo": "photos/speakers/mathew-mezinskis.jpg"
+    },
+    {
+      "id": "matous-ledvina",
+      "name": "Matouš Ledvina",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/05/Matous-Ledvina-1-320x320.jpeg",
+      "caption": "Analytical Consultant at Google",
+      "twitter": "MatousLed",
+      "tag": "Entrepreneur",
+      "desc": "Matouš is a digital marketing consultant at Google and a freelancer for Braiins. But beyond that, he’s an avid bitcoiner with an appetite for learning new things, exploring alternative paths, and thinking differently.",
+      "web": {},
+      "link": "https://www.btcprague.com/speakers/matous-ledvina/",
+      "photo": "photos/speakers/matous-ledvina.jpeg"
     },
     {
       "id": "matyas-kuchar",
@@ -996,6 +1124,19 @@
       "photo": "photos/speakers/michal-novak.jpeg"
     },
     {
+      "id": "michal-zapletal",
+      "name": "Michal Zapletal",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/05/Michal-Zapletal-320x320.jpeg",
+      "caption": "Head of Technical Support at Trezor",
+      "twitter": "zaplmi_",
+      "linkedin": "michal-zapletal",
+      "tag": "Entrepreneur",
+      "desc": "Michal is helping others to secure their bitcoin. He’s a passionate advocate for bitcoin and is dedicated to giving hand others understand and navigate this complex world. Michal has made easy many people and organizations use and secure their bitcoin with confidence through his work with Trezor and now also Vexl.",
+      "web": {},
+      "link": "https://www.btcprague.com/speakers/michal-zapletal/",
+      "photo": "photos/speakers/michal-zapletal.jpeg"
+    },
+    {
       "id": "mir-liponi",
       "name": "Mir Liponi",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/05/Mir-Liponi.jpeg",
@@ -1006,6 +1147,18 @@
       "web": {},
       "link": "https://www.btcprague.com/speakers/mir-liponi/",
       "photo": "photos/speakers/mir-liponi.jpeg"
+    },
+    {
+      "id": "nathan-day",
+      "name": "Nathan Day",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/05/Nathan-Day-320x320.png",
+      "caption": "Co-founder of BTC Map",
+      "twitter": "nathan_day",
+      "tag": "Entrepreneur",
+      "desc": "Nathan is pleb-at-large. He is a tech entrepreneur and bitcoiner class of ’21. He co-founded BTC Map and Gamertron, an 8-bit lightning gaming platform.",
+      "web": {},
+      "link": "https://www.btcprague.com/speakers/nathan-day/",
+      "photo": "photos/speakers/nathan-day.png"
     },
     {
       "id": "nicolas-dorier",
@@ -1077,6 +1230,19 @@
       },
       "link": "https://www.btcprague.com/speakers/obi-nwosu/",
       "photo": "photos/speakers/obi-nwosu.jpeg"
+    },
+    {
+      "id": "pavel-moravec",
+      "name": "Pavel Moravec",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/05/Pavel-Moravec-320x320.png",
+      "caption": "Co-founder of Braiins",
+      "twitter": "mor_pav",
+      "linkedin": "p-moravec",
+      "tag": "Developer",
+      "desc": "Pavel is Braiins co-founder developing tools for bitocin miners including pool, firmware, proxy, Stratum V2, and more.",
+      "web": {},
+      "link": "https://www.btcprague.com/speakers/pavel-moravec/",
+      "photo": "photos/speakers/pavel-moravec.png"
     },
     {
       "id": "pavlenex",
@@ -1444,6 +1610,20 @@
       "photo": "photos/speakers/walker.png"
     },
     {
+      "id": "wiz",
+      "name": "Wiz",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/05/Wiz.png",
+      "caption": "CEO of mempool.space",
+      "twitter": "wiz",
+      "tag": "Entrepreneur",
+      "desc": "Wiz is the co-founder of The Mempool Open Source Project, ISP operator AS54415, maintainer of BitcoinTV.com, organizer of Tokyo Bitcoin Hackers meetup, publisher of the Japanese version of The Bitcoin Standard, and Liquid network oversight board member.",
+      "web": {
+        "url": "https://mempool.space"
+      },
+      "link": "https://www.btcprague.com/speakers/wiz/",
+      "photo": "photos/speakers/wiz.png"
+    },
+    {
       "id": "wolf-von-laer",
       "name": "Wolf von Laer",
       "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/01/Wolf-von-Laer-320x320.jpg",
@@ -1455,6 +1635,18 @@
       },
       "link": "https://www.btcprague.com/speakers/wolf-von-laer/",
       "photo": "photos/speakers/wolf-von-laer.jpg"
+    },
+    {
+      "id": "xmei-lin",
+      "name": "Xmei Lin",
+      "photoUrl": "https://www.btcprague.com/wp-content/uploads/2023/05/Xmei-Lin-320x320.jpg",
+      "caption": "Head of Sales at Bitmain",
+      "twitter": "xmei_lin",
+      "tag": "Entrepreneur",
+      "desc": "Lin is the Head of Sales and the former head of marketing at Bitman. She is the initiator of ETC Grants DAO.",
+      "web": {},
+      "link": "https://www.btcprague.com/speakers/xmei-lin/",
+      "photo": "photos/speakers/xmei-lin.jpg"
     },
     {
       "id": "yael-ossowski",
