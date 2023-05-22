@@ -43,3 +43,6 @@ twitter-stats:
 
 lock:
 	deno cache --lock-write --lock=lock.json ./utils/*.js
+
+install:
+	deno cache --reload --lock=lock.json ./utils/*.js

@@ -31,7 +31,7 @@ jobs:
       - uses: szenius/set-timezone@v1.0
         with:
           timezoneLinux: "Europe/Prague"
-      - run: deno cache --reload --lock=lock.json utils/*.js
+      - run: make install
       - run: "deno run --allow-run utils/tag.js >> $GITHUB_ENV"
       - run: "echo \"Tag: ${{ env.TAG }}\""
       - run: "make tag=${{ env.TAG }}"
