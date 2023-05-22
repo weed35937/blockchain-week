@@ -45,4 +45,7 @@ lock:
 	deno cache --lock-write --lock=lock.json ./utils/*.js
 
 install:
+	deno cache --lock=lock.json ./utils/*.js
+
+reinstall:
 	deno cache --reload --lock=lock.json ./utils/*.js

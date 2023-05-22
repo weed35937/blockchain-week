@@ -1,4 +1,4 @@
-import { config } from "https://deno.land/x/dotenv/mod.ts";
+import { config } from "https://deno.land/x/dotenv@v3.2.2/mod.ts";
 import SimpleTwitter from "https://raw.githubusercontent.com/burningtree/twit-deno/master/simple_twitter_deno.ts";
 import { Table } from "https://deno.land/x/cliffy@v0.20.1/table/mod.ts";
 
