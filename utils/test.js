@@ -1,8 +1,8 @@
 import { DeConfEngine } from "./engine.js";
 
 // initialize ajv JSON Schema validator
-import Ajv from "https://esm.sh/ajv@8.8.1?pin=v58";
-import addFormats from "https://esm.sh/ajv-formats@2.1.1";
+import Ajv from "npm:ajv@8.8.2";
+import addFormats from "npm:ajv-formats@2.1.1";
 
 const ajv = new Ajv({ strict: false });
 addFormats(ajv);
