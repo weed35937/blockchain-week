@@ -447,6 +447,9 @@ async function _imageWebPInfo(src) {
     console.log(src);
     return null;
   }
+  if (info.match("Errors detected.")) {
+    return false
+  }
   return {
     size: Number(info.match(/File size:\s+(\d+)/)[1]),
     width: Number(info.match(/Width: (\d+)/)[1]),
