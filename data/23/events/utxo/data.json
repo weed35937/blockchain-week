@@ -819,26 +819,6 @@
       "photo": "photos/speakers/ondrej-pilny.webp"
     },
     {
-      "id": "ondrej-rehacek",
-      "name": "Ondřej Řeháček",
-      "bio": "Vývojář, Smart-contract Auditor",
-      "orgs": "Partner Engineer @ [Fractal.is](https://www.fractal.is/), Software & Blockchain Developer, Lecturer @ [Ackee Blockchain](https://ackeeblockchain.com/)\n",
-      "caption": "Developer, Smart-contract Auditor",
-      "tracks": [
-        "eth",
-        "alty",
-        "nft"
-      ],
-      "country": "cz",
-      "desc": "Full-stack software engineer with eight years of experience, Solana blockchain auditor.\n",
-      "photos": [
-        "web:jpg",
-        "twitter:jpg"
-      ],
-      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/ondrej-rehacek-web.jpg",
-      "photo": "photos/speakers/ondrej-rehacek.jpg"
-    },
-    {
       "id": "pablo-cz",
       "name": "PabloCZ",
       "twitter": "PabloCzeth",
@@ -1055,16 +1035,18 @@
     {
       "id": "stanislav-simek",
       "name": "Stanislav Šimek",
+      "twitter": "Stan_Simek",
       "web": {
-        "url": "https://www.linkedin.com/in/stanislav-%C5%A1imek-6272091a5/"
+        "url": "https://dromisolutions.com/"
       },
-      "bio": "Právník a kryptoměnový konzultant",
-      "caption": "Lawyer and Cryptocurrency Consultant",
+      "bio": "Právník, web3 poradce",
+      "caption": "Právník, web3 poradce",
       "tracks": [
         "regulace",
-        "nft"
+        "dao",
+        "alty"
       ],
-      "desc": "Právník s dlouholetou zkušeností v přední české advokátní kanceláři a kryptoměnový konzultant. Nyní podílející se na vývoji Thrive-to-Earn hry.\n",
+      "desc": "Jsem právník v advokátní kanceláři BADOKH, kde se zaměřuji na blockchainové právo. \nDále jsem spoluzakladatelem společnosti DROMI, ke poskytujeme blockchainové poradenství. Zaměřujeme se na tradičním korporace, kterým radíme, jak nejlépe využít blockchain v jejich podnikání. Dále poskytujeme komplexní služby blockchainovým start-upům a pomáháme investorům orientovat se v kryptu.\n",
       "country": "cz",
       "photos": [
         "web:jpg"
@@ -1189,26 +1171,6 @@
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/vojtech-olbrecht-web.jpg",
       "photo": "photos/speakers/vojtech-olbrecht.jpg"
-    },
-    {
-      "id": "vojtech-pour",
-      "name": "Vojtěch Pour",
-      "twitter": "vojtechpoureth",
-      "bio": "spoluzakladatel Meetvers, Web3 social nadšenec",
-      "orgs": "[Meetvers](https://meetvers.io)\n",
-      "caption": "Co-founder of [Meetvers](https://meetvers.io), Web3 social enthusiast",
-      "country": "cz",
-      "tracks": [
-        "eth",
-        "spolecnost"
-      ],
-      "desc": "Zakladatel meetvers.io, Web3 social nadšenec\n",
-      "photos": [
-        "web:webp",
-        "twitter:jpg"
-      ],
-      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/vojtech-pour-web.webp",
-      "photo": "photos/speakers/vojtech-pour.webp"
     }
   ],
   "tracks": [
