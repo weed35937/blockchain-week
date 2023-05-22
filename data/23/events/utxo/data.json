@@ -72,11 +72,11 @@
       },
       "country": "cz",
       "photos": [
-        "web:jpg",
+        "web:webp",
         "twitter:jpg"
       ],
-      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/anna-pichova-web.jpg",
-      "photo": "photos/speakers/anna-pichova.jpg"
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/anna-pichova-web.webp",
+      "photo": "photos/speakers/anna-pichova.webp"
     },
     {
       "id": "antonin-jilek",
@@ -114,6 +114,28 @@
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/artur-sychov-web.jpg",
       "photo": "photos/speakers/artur-sychov.jpg"
+    },
+    {
+      "id": "bihanojko",
+      "name": "Nikola",
+      "nickname": "Bihanojko",
+      "twitter": "bihanojko",
+      "bio": "Data scientist, crypto & web3 nadšenec",
+      "orgs": "[Futureland DAO](https://futureland.io/)\n",
+      "caption": "Data scientist, crypto & web3 nadšenec\n",
+      "tracks": [
+        "eth",
+        "dao",
+        "nft"
+      ],
+      "country": "cz",
+      "desc": "Data scientist @ Gen, člen Futureland DAO  \n",
+      "photos": [
+        "web:jpg",
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/bihanojko-web.jpg",
+      "photo": "photos/speakers/bihanojko.jpg"
     },
     {
       "id": "bozena-rezab",
@@ -169,11 +191,11 @@
       "country": "cz",
       "desc": "Chain-agnostic vizionář, community builder, Web3 Events COO. Progresivní web3 kouzelník.\n",
       "photos": [
-        "web:png",
+        "web:webp",
         "twitter:jpg"
       ],
-      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/damsky-web.png",
-      "photo": "photos/speakers/damsky.png"
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/damsky-web.webp",
+      "photo": "photos/speakers/damsky.webp"
     },
     {
       "id": "david-stancel",
@@ -194,11 +216,11 @@
       "desc": "Dávid vyštudoval Ekonómiu na Masarykovej univerzite v Brne, a Master of Science v obore Digitálnych mien na Univerzite v Nikózii na Cypre. Pracoval  ako IT auditor a konzultant v [PwC Slovensko](https://www.pwc.com/sk/sk/). Spoluzakladal [Blockchain Slovakia](https://blockchainslovakia.sk/) a pracoval ako konzultant v oblasti kryptomien a blockchain technológií na niekoľkých slovenských ako aj zajhraničných startupoch a projektoch. David často prednáša o kryptomenách a blockchaine na medzinárodných fórach, konferenciách či univerzitách. Taktiež učí vlastný predmet o kryptomenách na Slovenskej Technickej univerzite ako aj na Ekonomickej univerzite v Bratislave. Je taktiež autorom knihy Coinstory, ktorá mapuje históriu a evolúciu kryptomien ([CoinStory.tech](https://coinstory.tech/)).\n",
       "lead": true,
       "photos": [
-        "web:jpg",
+        "web:webp",
         "twitter:jpg"
       ],
-      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/david-stancel-web.jpg",
-      "photo": "photos/speakers/david-stancel.jpg"
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/david-stancel-web.webp",
+      "photo": "photos/speakers/david-stancel.webp"
     },
     {
       "id": "dominika-v",
@@ -240,11 +262,11 @@
       "country": "cz",
       "desc": "František se v oblasti kryptoměn pohybuje od počátku roku 2016.  Své dlouholeté zkušenosti z oblastí průmyslové automatizace a prostředí realit využívá k rozvoji společnosti Altlift, kde působí jako CFO. Je odborníkem na využití kryptoměn na realitním trhu. #Family4Kids\n",
       "photos": [
-        "web:jpg",
+        "web:webp",
         "twitter:jpg"
       ],
-      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/frantisek-kudrna-web.jpg",
-      "photo": "photos/speakers/frantisek-kudrna.jpg"
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/frantisek-kudrna-web.webp",
+      "photo": "photos/speakers/frantisek-kudrna.webp"
     },
     {
       "id": "huge",
@@ -264,10 +286,10 @@
       },
       "desc": "See [LinkedIn.com/in/uhuge](https://linkedin.com/in/uhuge)\n",
       "photos": [
-        "web:jpg"
+        "web:webp"
       ],
-      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/huge-web.jpg",
-      "photo": "photos/speakers/huge.jpg"
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/huge-web.webp",
+      "photo": "photos/speakers/huge.webp"
     },
     {
       "id": "hynek-jina",
@@ -342,11 +364,11 @@
       "country": "cz",
       "desc": "Investor, liqudity provider, konzultant.\n",
       "photos": [
-        "web:png",
+        "web:webp",
         "twitter:jpg"
       ],
-      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/jakub-duhonsky-web.png",
-      "photo": "photos/speakers/jakub-duhonsky.png"
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/jakub-duhonsky-web.webp",
+      "photo": "photos/speakers/jakub-duhonsky.webp"
     },
     {
       "id": "jakub-jedlinsky",
@@ -384,10 +406,10 @@
       },
       "country": "cz",
       "photos": [
-        "web:jpg"
+        "web:webp"
       ],
-      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/jakub-tesar-web.jpg",
-      "photo": "photos/speakers/jakub-tesar.jpg"
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/jakub-tesar-web.webp",
+      "photo": "photos/speakers/jakub-tesar.webp"
     },
     {
       "id": "jan-21m",
@@ -462,11 +484,11 @@
       "country": "cz",
       "desc": "Jana vystudovala Arts management. V letech 2008 - 2015 realizovala na 50 solo a kolektivních výstav českých a slovenských umělců pod vlastní NGO Inter-Art. Šest let působila jako projektová manažerka a copywriterka v kreativních digitálních agenturách. Poslední dva roky se věnuje rozvoji web3 a uměleckým NFT projektům jako např. The Divergents a Here/After The Art, a své know-how předává firmám se zájmem vstoupit do světa NFT a web3.\n",
       "photos": [
-        "web:jpg",
+        "web:webp",
         "twitter:jpg"
       ],
-      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/jana-kubatova-web.jpg",
-      "photo": "photos/speakers/jana-kubatova.jpg"
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/jana-kubatova-web.webp",
+      "photo": "photos/speakers/jana-kubatova.webp"
     },
     {
       "id": "jiri-cepelka",
@@ -523,11 +545,11 @@
       "country": "cz",
       "desc": "Josef Gattermayer je CEO [Ackee Blockchain](https://ackeeblockchain.com), spoluzakladatel [Ackee](https://www.ackee.cz/)) a odborný asistent na [Faktultě informačních technologií ČVUT](https://fit.cvut.cz/cs) v Praze. O tom, že bezpečnost bude klíčovým prvkem k lepší adaptaci kryptoměn, se přesvědčil již v roce 2016, kdy přišel během Bitfinex hacku o první Ether. V roce 2018 úspěšně se svým týmem získal grant od Ethereum Foundation na rozvoj vývojářských nástrojů této kryptoměny a s tímto týmem v roce 2021 založil auditorskou firmu Ackee Blockchain, která se věnuje bezpečnosti smart kontraktů.\n",
       "photos": [
-        "web:jpg",
+        "web:webp",
         "twitter:jpg"
       ],
-      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/josef-gattermayer-web.jpg",
-      "photo": "photos/speakers/josef-gattermayer.jpg"
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/josef-gattermayer-web.webp",
+      "photo": "photos/speakers/josef-gattermayer.webp"
     },
     {
       "id": "julie-sislerova",
@@ -719,11 +741,11 @@
       ],
       "country": "cz",
       "photos": [
-        "web:jpg",
+        "web:webp",
         "twitter:jpg"
       ],
-      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/martin-janik-web.jpg",
-      "photo": "photos/speakers/martin-janik.jpg"
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/martin-janik-web.webp",
+      "photo": "photos/speakers/martin-janik.webp"
     },
     {
       "id": "martin-matejka",
@@ -743,11 +765,11 @@
       "country": "sk",
       "desc": "Martin se celý život pohybuje na finančních trzích. V rámci tradičních financí dlouhé roky vedl úspěšný tradingový tým obchodující s energetickými komoditami. Od roku 2021 se plně věnuje Bitcoinu. Nejdříve spoluzaložil hedge fond Stratosphere a od loňského roku pak vyvíjí platformu Firefish.io, která umožňuje využití Bitcoinu jako finančního kolaterálu.\n",
       "photos": [
-        "web:png",
+        "web:webp",
         "twitter:jpg"
       ],
-      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/martin-matejka-web.png",
-      "photo": "photos/speakers/martin-matejka.png"
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/martin-matejka-web.webp",
+      "photo": "photos/speakers/martin-matejka.webp"
     },
     {
       "id": "milan-marcak",
@@ -773,27 +795,6 @@
       "photo": "photos/speakers/milan-marcak.jpg"
     },
     {
-      "id": "nikola",
-      "name": "Nikola",
-      "nickname": "Bihanojko",
-      "twitter": "bihanojko",
-      "bio": "Data scientist, crypto & web3 nadšenec",
-      "orgs": "[Futureland DAO](https://futureland.io/)\n",
-      "caption": "Data scientist, crypto & web3 nadšenec\n",
-      "tracks": [
-        "eth",
-        "dao",
-        "nft"
-      ],
-      "country": "cz",
-      "desc": "Data scientist @ Gen, člen Futureland DAO  \n",
-      "photos": [
-        "twitter:jpg"
-      ],
-      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/nikola-twitter.jpg",
-      "photo": "photos/speakers/nikola.jpg"
-    },
-    {
       "id": "ondrej-pilny",
       "name": "Ondřej Pilný",
       "twitter": "Ondrej_Pilny",
@@ -811,11 +812,11 @@
       "country": "cz",
       "desc": "Crypto analytik, investor, spoluzakladatel baserank.io.\n",
       "photos": [
-        "web:jpg",
+        "web:webp",
         "twitter:jpg"
       ],
-      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/ondrej-pilny-web.jpg",
-      "photo": "photos/speakers/ondrej-pilny.jpg"
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/ondrej-pilny-web.webp",
+      "photo": "photos/speakers/ondrej-pilny.webp"
     },
     {
       "id": "ondrej-rehacek",
@@ -851,11 +852,11 @@
       "country": "cz",
       "desc": "30 let v TELCO sféře ve vlastní firmě. Nyní obchodní ředitel v MOLKI VISION. Zájem o WEB3, AR/VR, ale hlavně jsem NETWORKER, rád spojuji lidi, kteří by se měli poznat... \n",
       "photos": [
-        "web:png",
+        "web:webp",
         "twitter:jpg"
       ],
-      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/pablo-cz-web.png",
-      "photo": "photos/speakers/pablo-cz.png"
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/pablo-cz-web.webp",
+      "photo": "photos/speakers/pablo-cz.webp"
     },
     {
       "id": "pavol-luptak",
@@ -951,11 +952,11 @@
       "country": "cz",
       "desc": "Radek pracoval přes 17 let pro TradFi (banky) v různých externích a IT manažerských pozicích. Řídil např. systémovou integraci při změně core banking systému, v posledních letech se věnoval celkové business/IT architektuře bank. Užívá si posouvání hranic použitím cutting-edge technologií, kde se propojuje business a IT. Od 2017 věří, že ČR je celosvětově velice silné v crypto engineeringu a rád by, aby nezahodilo šanci být tahounem crypto odvětví v Evropě.\n",
       "photos": [
-        "web:jpg",
+        "web:webp",
         "twitter:jpg"
       ],
-      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/radek-svarz-web.jpg",
-      "photo": "photos/speakers/radek-svarz.jpg"
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/radek-svarz-web.webp",
+      "photo": "photos/speakers/radek-svarz.webp"
     },
     {
       "id": "radim-kozub",
@@ -998,11 +999,11 @@
       "lead": true,
       "desc": "O Bitcoinu jsem se dozvěděl ve 2011 a od té doby mě nepřestal fascinovat. Posouvat jeho myšlenky dále ale není jednoduché. Vysvětli \"proč Bitcoin?\" během pár minut, fakticky není možné. Abych podpořil adopci kryptoměn, rozhodl jsem se v roce 2013 budovat Coinmate coby bezpečnou a férovou kryptoburzu. Bitcoin může v budoucnu fungovat jako kotva ve světě nekontrolovatelně rostoucího množství peněz a dluhů. Technologie blockchainu má potenciál změnit finanční trhy a internet.\n",
       "photos": [
-        "web:png",
+        "web:webp",
         "twitter:jpg"
       ],
-      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/roman-valihrach-web.png",
-      "photo": "photos/speakers/roman-valihrach.png"
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/roman-valihrach-web.webp",
+      "photo": "photos/speakers/roman-valihrach.webp"
     },
     {
       "id": "samuela-davidova",
@@ -1020,11 +1021,11 @@
       "country": "cz",
       "desc": "Samuela je zástupcem Liberlandu pro Gruzii, kde žije. Přednáší po světě o individuální svobodě nebo aplikovatelné praktické individuální filosofii. Díky svému non-konformnímu myšlení poukazuje na nevšední perspektivy možností života i práce - na téma potenciálu práce na dálku ji sledují tisíce lidí z celého světa hlavně na LinkedInu. V tomto roce vydá Samuela knihu s jejím projektem The Freeist, který ukazuje, jak můžeme prakticky rozšířit své možnosti pro větší svobodu, stejně tak jako to, co nás od toho drží zpět.\n",
       "photos": [
-        "web:png",
+        "web:webp",
         "twitter:jpg"
       ],
-      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/samuela-davidova-web.png",
-      "photo": "photos/speakers/samuela-davidova.png"
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/samuela-davidova-web.webp",
+      "photo": "photos/speakers/samuela-davidova.webp"
     },
     {
       "id": "sodomak",
@@ -1090,11 +1091,11 @@
       "country": "cz",
       "desc": "Content creator and social media manager, NFT nadšenec.\n",
       "photos": [
-        "web:jpg",
+        "web:webp",
         "twitter:jpg"
       ],
-      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/tereza-etheri-web.jpg",
-      "photo": "photos/speakers/tereza-etheri.jpg"
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/tereza-etheri-web.webp",
+      "photo": "photos/speakers/tereza-etheri.webp"
     },
     {
       "id": "tereza-starostova",
@@ -1164,11 +1165,11 @@
       "lead": true,
       "desc": "KryptoVláďa je dlouholetý novinář a moderátor, který se po odchodu z televize rozhodl na plno věnovat oblasti kryptoměn. Kromě svého youtubového kanálu působí i na Stream.cz, nebo měl televizní pořad KryptoTime, který získa ocenění od EU za druhů nejlepší evropský projekt v oblasti edukace v blockchainových technologiích.\n",
       "photos": [
-        "web:jpg",
+        "web:webp",
         "twitter:jpg"
       ],
-      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/vladimir-pinker-web.jpg",
-      "photo": "photos/speakers/vladimir-pinker.jpg"
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/vladimir-pinker-web.webp",
+      "photo": "photos/speakers/vladimir-pinker.webp"
     },
     {
       "id": "vojtech-olbrecht",
@@ -1203,11 +1204,11 @@
       ],
       "desc": "Zakladatel meetvers.io, Web3 social nadšenec\n",
       "photos": [
-        "web:jpg",
+        "web:webp",
         "twitter:jpg"
       ],
-      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/vojtech-pour-web.jpg",
-      "photo": "photos/speakers/vojtech-pour.jpg"
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/vojtech-pour-web.webp",
+      "photo": "photos/speakers/vojtech-pour.webp"
     }
   ],
   "tracks": [

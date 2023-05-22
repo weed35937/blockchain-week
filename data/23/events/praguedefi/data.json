@@ -57,6 +57,14 @@
       "photo": "photos/speakers/cyrille-pastour.png"
     },
     {
+      "id": "daniel-luca",
+      "name": "Daniel Luca",
+      "twitter": "cleanunicorn",
+      "caption": "Eden Block",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/4hLQNx8Y0HPmes5YIesnFE/60a29a5de6c4d880c6ae5e5f20a558db/Daniel_Luca.png",
+      "photo": "photos/speakers/daniel-luca.png"
+    },
+    {
       "id": "david-rbx",
       "name": "David",
       "twitter": "Daviderbx",
@@ -104,6 +112,14 @@
       "caption": "Reserve",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/4wMGzz3ucZhE3SaM3OLFjQ/e806110522cb65775e82c3606d51f001/James_Glasscock.png",
       "photo": "photos/speakers/james-glasscock.png"
+    },
+    {
+      "id": "jan-osolnik",
+      "name": "Jan Osolnik",
+      "twitter": "JanOsolnik",
+      "caption": "MakerDAO / BlockAnalitica",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1iLW4pX95QgzZwqUZJyu9r/e61403c7726c1fe6a6bc1e60c528286c/Jan_Osolnik.png",
+      "photo": "photos/speakers/jan-osolnik.png"
     },
     {
       "id": "jogundas-armaitis",
@@ -162,6 +178,14 @@
       "caption": "Pragma Oracle",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3iSl7arCHYC2jLoh7UPt7Q/c05a17e172cb3f0d450b9ec097be5768/Matteo.jpeg",
       "photo": "photos/speakers/matteo.jpeg"
+    },
+    {
+      "id": "max-sherwood",
+      "name": "Max Sherwood",
+      "twitter": "WholegrainMax",
+      "caption": "Ultimate / H2O Nodes",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5uEe1MIf8nM9zdgi8lGb7C/f630d1040d7595193124a5ca3c8e0010/Max_Sherwood.JPG",
+      "photo": "photos/speakers/max-sherwood.JPG"
     },
     {
       "id": "mona-el-isa",
@@ -240,6 +264,14 @@
       "caption": "Vega Protocol",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2ckBjpwl4OaiKy9aveVICm/3ff42a801f35ad85c790363361073ac7/Tom_McLean.jpg",
       "photo": "photos/speakers/tom-mclean.jpg"
+    },
+    {
+      "id": "ugur-mersinlioglu",
+      "name": "Ugur Mersinlioglu",
+      "twitter": "UgurMersin61",
+      "caption": "API3 DAO",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/G1WCpePfkPkhtDniVvp7L/56745cdf7c33e890be91d224b5625f6c/Ugur_Mersinlioglu.jpg",
+      "photo": "photos/speakers/ugur-mersinlioglu.jpg"
     },
     {
       "id": "will-harborne",

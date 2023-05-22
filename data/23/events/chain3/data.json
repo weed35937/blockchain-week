@@ -1,12 +1,12 @@
 {
   "speakers": [
     {
-      "id": "andrej-kieszling",
-      "name": "Andrej Kieszling",
+      "id": "andrej-kiszling",
+      "name": "Andrej Kiszling",
       "caption": "Droplove.xyz",
       "photoUrl": "https://images.squarespace-cdn.com/content/v1/64551b69aaee1d2ba684b0af/5a826d1f-2c31-48c0-8504-c36c11a0162f/Andrej+Kiszling.jpeg",
       "country": "sk",
-      "photo": "photos/speakers/andrej-kieszling.jpeg"
+      "photo": "photos/speakers/andrej-kiszling.jpeg"
     },
     {
       "id": "daniel-fekete",
@@ -23,6 +23,14 @@
       "photoUrl": "https://images.squarespace-cdn.com/content/v1/64551b69aaee1d2ba684b0af/ed2d19b5-5d8b-4783-9233-cd69a3ca6038/David+Achberger_2.jpeg",
       "country": "sk",
       "photo": "photos/speakers/david-achberger.jpeg"
+    },
+    {
+      "id": "janak-kubatova",
+      "name": "Janak Kubátová",
+      "caption": "NFTense: The Divergents",
+      "photoUrl": "https://images.squarespace-cdn.com/content/v1/64551b69aaee1d2ba684b0af/9e5472ac-b0da-4024-b189-bf845a827811/Janak+Kubatova_NFTense_The+Divergents.jpeg",
+      "country": "sk",
+      "photo": "photos/speakers/janak-kubatova.jpeg"
     },
     {
       "id": "julie-sislerova",
@@ -60,9 +68,9 @@
       "id": "martin-hergovic",
       "name": "Martin Hergovič",
       "caption": "BlockWise / Sparring",
-      "photoUrl": "https://images.squarespace-cdn.com/content/v1/64551b69aaee1d2ba684b0af/193d3eaa-69aa-4bea-a51d-a5f1df95ee53/Martin+Hergovic%CC%8C.jpeg",
+      "photoUrl": "https://images.squarespace-cdn.com/content/v1/64551b69aaee1d2ba684b0af/13e7f24a-0cbd-48d6-85d6-0e6c93511ae8/Martin+Hergovic%CC%8C_2.jpg",
       "country": "sk",
-      "photo": "photos/speakers/martin-hergovic.jpeg"
+      "photo": "photos/speakers/martin-hergovic.jpg"
     },
     {
       "id": "michaela-adamcova",
@@ -81,6 +89,14 @@
       "photo": "photos/speakers/milan-peschl.jpeg"
     },
     {
+      "id": "peter-hucik",
+      "name": "Peter Hucik",
+      "caption": "Vacuum Labs",
+      "photoUrl": "https://images.squarespace-cdn.com/content/v1/64551b69aaee1d2ba684b0af/5067a86b-8975-4555-9218-c83c9c7ae6ad/Peter+Hucik_Vacuum+Labs.png",
+      "country": "sk",
+      "photo": "photos/speakers/peter-hucik.png"
+    },
+    {
       "id": "peter-laubert",
       "name": "Peter Laubert",
       "caption": "Blockmate",
@@ -95,6 +111,14 @@
       "photoUrl": "https://images.squarespace-cdn.com/content/v1/64551b69aaee1d2ba684b0af/c2172de9-dea0-42d2-8839-a33e3043f42a/Tomas+Richter+Urban+2.jpg",
       "country": "cz",
       "photo": "photos/speakers/tomas-urban.jpg"
+    },
+    {
+      "id": "vojtech-rychnovsky",
+      "name": "Vojtěch Rychnovský",
+      "caption": "Artifine/ NFT Insights",
+      "photoUrl": "https://images.squarespace-cdn.com/content/v1/64551b69aaee1d2ba684b0af/eab0367f-4c14-45f0-b1bc-9415b7d773c3/Vojtech+Rychnovsky%CC%81_Artifine_NFT+Insights.jpeg",
+      "country": "sk",
+      "photo": "photos/speakers/vojtech-rychnovsky.jpeg"
     }
   ]
 }

@@ -34,6 +34,22 @@
       "photo": "photos/speakers/alex-gluchowski.jpg"
     },
     {
+      "id": "alex-holland",
+      "name": "Alex Holland",
+      "twitter": "https://www.instagram.com/solarpunkstories/",
+      "caption": "solarpunkstories",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1bAAJBcf6Jyv7mIPuXpIfN/8cca28599c94fc2df2822638bd9442f5/Alex_Holland_SolarPunk_Stories_-_Copy_hSH9ody.png.jpeg",
+      "photo": "photos/speakers/alex-holland.jpeg"
+    },
+    {
+      "id": "alexei-zamyatin",
+      "name": "Alexei Zamyatin",
+      "twitter": "alexeiZamyatin",
+      "caption": "Interlay",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3A0PwplUwjOuEbTuR0B9bR/c23e0da427e8ffa8733fb8139d2006d8/alexei_1_lCziUzp-2.jpeg",
+      "photo": "photos/speakers/alexei-zamyatin.jpeg"
+    },
+    {
       "id": "anett-rolikova",
       "name": "Anett Rolikova",
       "twitter": "AnettRolikova",
@@ -67,12 +83,36 @@
       "photo": "photos/speakers/avihu-mordechai-levy.jpg"
     },
     {
+      "id": "bernd-riedel",
+      "name": " Bernd Riedel",
+      "twitter": "https://ellerystudio.com",
+      "caption": "Ellery Studio",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3pJ98sPnOClukhSfJJJFSU/2847edd6c31dd42798d2b253878a9091/unnamed.jpg",
+      "photo": "photos/speakers/bernd-riedel.jpg"
+    },
+    {
+      "id": "brewster-kahle",
+      "name": "Brewster Kahle",
+      "twitter": "brewster_kahle?lang=en",
+      "caption": "Internet Archive/ Alexa Internet",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/45gOHjUpPNw1OOrKPsIEBH/bec181f97fdc326d9bbaaecc5d886f85/Unknown-6",
+      "photo": "photos/speakers/brewster-kahle"
+    },
+    {
       "id": "burak-arikan",
       "name": "Burak Arikan",
       "twitter": "arikan?s=21&t=8M0MwOz1dPFeY2ErOIjDzA",
       "caption": "graphcommons  ",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/70uBS5DKFFpVKpyXCKL8Pz/f5ef55a43cf55c6811b063b93f26b0d2/PPjcoiD4_400x400.jpg",
       "photo": "photos/speakers/burak-arikan.jpg"
+    },
+    {
+      "id": "camila-ramos-garzon",
+      "name": "Camila Ramos Garzon ",
+      "twitter": "camiinthisthang",
+      "caption": "Fuel Labs",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/7qHQGDVXfojyBKp1NxYoKn/162e4988e26c7c0b0a30a83d955a896f/blueheadshot_cGgSsy5.JPG",
+      "photo": "photos/speakers/camila-ramos-garzon.JPG"
     },
     {
       "id": "carlo-modica",
@@ -105,6 +145,13 @@
       "caption": "status.im",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2s8D1OYaxMPLTHWvkme83o/20ebe70db8a6c73185bfda92e4aa7c6c/self_bOMmCTf.jpeg",
       "photo": "photos/speakers/csaba-kiraly.jpeg"
+    },
+    {
+      "id": "daniel",
+      "name": "Daniel",
+      "caption": "Altiplanic",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1iHtkGtBARS4eLaTGrrUiZ/323a18b9b466349a83921b69e81a841c/danburck_ape_cfmWTde.jpeg",
+      "photo": "photos/speakers/daniel.jpeg"
     },
     {
       "id": "daniel-hwang",
@@ -189,6 +236,14 @@
       "photo": "photos/speakers/eleonore-blanc.jpg"
     },
     {
+      "id": "federico-kunze-kullmer",
+      "name": "Federico Kunze Küllmer",
+      "twitter": "fekunze",
+      "caption": "Evmos",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2PCMCLyiaXohQ37UDBuEri/4bd0216360d703069b7cf67c91e77c3c/vqF6_jDF_400x400.jpg",
+      "photo": "photos/speakers/federico-kunze-kullmer.jpg"
+    },
+    {
       "id": "ferit-tuncer",
       "name": "Ferit Tunçer",
       "twitter": "0xferit",
@@ -221,6 +276,14 @@
       "caption": "eden.art",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3aCQLOVSGlqmUx8fnncYUb/7db4816c45496501b70ee107455c68f6/IMG_5970a_smaller.png.preset.square.jpeg",
       "photo": "photos/speakers/gene-kogan.jpeg"
+    },
+    {
+      "id": "grace-rachmany",
+      "name": "Grace Rachmany",
+      "twitter": "RebeccaRachmany",
+      "caption": "PricelessDAO",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/58Sx1ONfAfoSgdHf9eQzO0/52f763a2f2c1a2e9940a635bd89e11e3/GraceRachmanyPostonja_i66mukR-2.jpg",
+      "photo": "photos/speakers/grace-rachmany.jpg"
     },
     {
       "id": "guillaume-ballet",
@@ -278,6 +341,14 @@
       "caption": "Heliax",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1PiMcbk72G0MgzOcQeiwNg/77636da3121119dcebd1f68663987740/me_fC2aqrl.jpeg",
       "photo": "photos/speakers/jonathan-cubides.jpeg"
+    },
+    {
+      "id": "josef",
+      "name": "Josef ",
+      "twitter": "JosefJ_",
+      "caption": "PWN",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/58TnVlG7DDmCVMbO1LWoJe/f0a7538cfd453ac984f95250b4b3e4f7/0o8jAFqm_400x400.jpg",
+      "photo": "photos/speakers/josef.jpg"
     },
     {
       "id": "josef-gattermayer",
@@ -353,6 +424,14 @@
       "photo": "photos/speakers/leonardo-bautista-gomez.jpeg"
     },
     {
+      "id": "lightclient",
+      "name": "Lightclient",
+      "twitter": "lightclients",
+      "caption": "Go ethereum",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1ykEtn8cvon11ZjjE7Iihq/393f6974cae8018ba4f16532ee017238/675E3D3D-633C-41E3-A070-9686D28ACDC0_P3bLLOX.jpeg",
+      "photo": "photos/speakers/lightclient.jpeg"
+    },
+    {
       "id": "lorenzo-nardiello",
       "name": "Lorenzo Nardiello ",
       "twitter": "juventino448",
@@ -401,6 +480,13 @@
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/7qkSw5hgEHZHfz47IOoPb5/b41c4fc2c6c2db93c629207c81f7d5b6/3FeDe54c_400x400_iyV3h1o.jpg",
       "country": "cz",
       "photo": "photos/speakers/mario-havel.jpg"
+    },
+    {
+      "id": "martina-bauerova",
+      "name": "Martina Bauerová ",
+      "caption": "IPR Prague",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1NnW4B018fJY8nHYfM8SEy/eea61c792ef8afdfe82804dd1bcef6d6/1601884432920.jpeg",
+      "photo": "photos/speakers/martina-bauerova.jpeg"
     },
     {
       "id": "mathieu-saugier",
@@ -533,6 +619,14 @@
       "caption": "Gamium",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3gndQtWbkzqMhGqtD1XO5J/6c76a6710ca1511cd10d4254c1db3fb5/RasimMuftiev_XDDCmb0.jpg",
       "photo": "photos/speakers/rasim-muftiev.jpg"
+    },
+    {
+      "id": "rebecca-bowlin",
+      "name": "Rebecca Bowlin",
+      "twitter": "https://www.joandeart.com/about-us",
+      "caption": "Joan de Art ",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/c2tDYX85u9EsW0P4xdRpf/f3917b1c8dbba6a48cc665f4b1f5b0d7/1517442336141.jpeg",
+      "photo": "photos/speakers/rebecca-bowlin.jpeg"
     },
     {
       "id": "rhys-williams",
