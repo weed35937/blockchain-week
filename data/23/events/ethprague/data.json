@@ -384,6 +384,14 @@
       "photo": "photos/speakers/karl-floersch.jpeg"
     },
     {
+      "id": "katherine-radeka",
+      "name": "Katherine Radeka",
+      "twitter": "https://rapidlearningcycles.com/",
+      "caption": "Rapid Learning Cycles",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6zrMBNnQp8lfYSe2RgWIYF/d69c6cc1a59c45557f50d20dbc2ca6e2/KatherineRadeka-065.rt1largeweb-square-300x300.jpg",
+      "photo": "photos/speakers/katherine-radeka.jpg"
+    },
+    {
       "id": "kirsten-pomales",
       "name": "Kirsten Pomales",
       "twitter": "kirstenrpomales",
@@ -488,6 +496,14 @@
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/7qkSw5hgEHZHfz47IOoPb5/b41c4fc2c6c2db93c629207c81f7d5b6/3FeDe54c_400x400_iyV3h1o.jpg",
       "country": "cz",
       "photo": "photos/speakers/mario-havel.jpg"
+    },
+    {
+      "id": "martin-baric",
+      "name": "Martin Baric",
+      "twitter": "https://zeroarch.cz/",
+      "caption": "ZERO architecture",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/77FihVbVaZ07AWGtfcjF83/4cab3dff37aef81665c21a8e22798531/MB_70ZjUwe.png",
+      "photo": "photos/speakers/martin-baric.png"
     },
     {
       "id": "martina-bauerova",
