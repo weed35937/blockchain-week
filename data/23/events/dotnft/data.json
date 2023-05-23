@@ -76,6 +76,14 @@
       "photo": "photos/speakers/marta-adamczyk.jpg"
     },
     {
+      "id": "matt-c",
+      "name": "Matt C",
+      "caption": "BizDev",
+      "twitter": "Matt_Web3_",
+      "photoUrl": "https://polkadotnft.xyz/wp-content/uploads/2023/05/239901074-0bacee85-ad6a-41a2-9ac9-3d26b0307b92.jpeg",
+      "photo": "photos/speakers/matt-c.jpeg"
+    },
+    {
       "id": "nicholas-douzinas",
       "name": "Nicholas Douzinas",
       "caption": "Co-Founder",
