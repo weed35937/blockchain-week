@@ -276,7 +276,7 @@
         "zaklady",
         "alty"
       ],
-      "country": "it",
+      "country": "ch",
       "photos": [
         "twitter:jpg"
       ],
@@ -527,7 +527,11 @@
       },
       "country": "cz",
       "desc": "Deset let podnikám a spolupracuju s různými subjekty. Rozjíždím projekt zaměřený na peníze, které mají hodnotu. Věřím stříbru, zlatu a Bitcoinu. Edukuju v oblasti peněz a pomáhám s výběrem vhodných obchodníků při nákupu drahých kovů. Projekt jsem pojmenoval Chráníme Peníze a plánuji se v něm dlouhodobě realizovat.\nŽiju sportem, hlavně fotbalem, kromě hraní i trénuju děti. Největší smysl mi dává vzdělávání se v praxi, nepohrdnu ani eventy úspěšných podnikatelů, mentorů... Rád si přečtu něco inspirativního, ideálně když to rovnou uplatním, naposledy třeba Čtyři tisíce týdnů od Olivera Burkemana, oblíbenou mám Investujte do zlata a stříbra od Mika Maloneyho, na internetu využívám různé zdroje vzdělání včetně podcastů jako Zlé peniaze, dobrý život, Real AF, Na vlně podnikání a další. \nV rámci projektů, do kterých jsem se v minulosti zapojoval, jsem měl možnost vézt menší týmy lidí, což mě také baví. Mám rád networking, konference a vystupování na veřejnosti.\n",
-      "photos": []
+      "photos": [
+        "web:webp"
+      ],
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/jan-kamlach-web.webp",
+      "photo": "photos/speakers/jan-kamlach.webp"
     },
     {
       "id": "jan-zibner",
@@ -570,6 +574,26 @@
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/jana-kubatova-web.webp",
       "photo": "photos/speakers/jana-kubatova.webp"
+    },
+    {
+      "id": "jaroslav-roch",
+      "name": "Jaroslav Roch",
+      "bio": "Businessový právník a odborník na daně",
+      "orgs": "Právník @ [SimpleTax&Law](www.smpl.cz)\n",
+      "caption": "Businessový právník a odborník na daně\n",
+      "tracks": [
+        "regulace"
+      ],
+      "web": {
+        "url": "https://www.smpl.cz"
+      },
+      "country": "cz",
+      "desc": "Jaroslav je expertem na businessové právo a daně. V kryptu se zaměřuje na právní pomoc se strukturováním krypto projektů, s investicemi do krypto startupů a akvizicemi firem. Klientům také pomáhá s adopcí kryptoměn do jejich firem a podnikání. Mimo svět krypta se zaměřuje na právní ochranu majetku firmy, strukturaci podnikání, fúze a akvizice a právo ve venture kapitálu.\n",
+      "photos": [
+        "web:webp"
+      ],
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/jaroslav-roch-web.webp",
+      "photo": "photos/speakers/jaroslav-roch.webp"
     },
     {
       "id": "jiri-cepelka",
@@ -697,6 +721,28 @@
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/kirill-juran-twitter.jpg",
       "photo": "photos/speakers/kirill-juran.jpg"
+    },
+    {
+      "id": "kristina-klaudyova",
+      "name": "Kristina Klaudyová",
+      "twitter": "KristinaKlaudy1",
+      "bio": "Stratég a kommunity manager",
+      "orgs": "[BanklessHQ](https://www.bankless.com/)\n",
+      "caption": "Stratég a kommunity manager\n",
+      "tracks": [
+        "spolecnost"
+      ],
+      "web": {
+        "url": "https://www.bankless.com/"
+      },
+      "country": "cz",
+      "desc": "Přes čtyři roky jsem pracovala jako Brand Strategist v globální marketingové agentuře Publicis Groupe a následně vedla marketingové odělení ve společnosti Precismo.\nNyní působím jako Community Manager v americké společnosti Bankless a v kryptu tak trávím 100% svého pracovního a 90% volného svého času. Zajímám se především o infrastrukturu, ekonomický systém  a business v kryptu. Zároveň jsme ale také velký fanoušek filozofie, historie a technologií obecně. Ano, prostě nerd. :)\n",
+      "photos": [
+        "web:webp",
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/kristina-klaudyova-web.webp",
+      "photo": "photos/speakers/kristina-klaudyova.webp"
     },
     {
       "id": "lc-young",
@@ -876,6 +922,29 @@
       "photo": "photos/speakers/martin-matejka.webp"
     },
     {
+      "id": "matej-curda",
+      "name": "Matěj Čurda",
+      "twitter": "MattCurda",
+      "bio": "Metaverse Guide, Web3 Consultant, Speaker, Investor, Airdrop Hunter",
+      "orgs": "Chief Happiness Manager [Meta Investor](https://metainvestor.substack.com/)\n",
+      "caption": "Metaverse Guide, Web3 Consultant, Speaker, Investor\n",
+      "tracks": [
+        "eth",
+        "nft"
+      ],
+      "web": {
+        "url": "https://metainvestor.substack.com/"
+      },
+      "country": "cz",
+      "desc": "Matej is a consultant and advisor in the Web3 space, with a focus on accelerating metaverse and Web3 gaming projects. With years of experience in consulting and a deep interest in gaming, he provides strategic guidance to startups and Fortune 500 companies alike.\nMatej also runs an investment Newsletter and Blog at https://metainvestor.substack.com/, bringing Metaverse closer to users and providing detailed deep dives for investors.\n",
+      "photos": [
+        "web:webp",
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/matej-curda-web.webp",
+      "photo": "photos/speakers/matej-curda.webp"
+    },
+    {
       "id": "matej-zimak",
       "name": "Matej Zimák",
       "twitter": "mattbullish",
@@ -919,6 +988,31 @@
       "photo": "photos/speakers/matous-ledvina.webp"
     },
     {
+      "id": "metapavel",
+      "name": "Pavel Říha",
+      "nickname": "MetaPavel",
+      "twitter": "metapavel",
+      "bio": "Futurista, populizátor technologií, našenec pro krypto, NFT, AI, AR/VR",
+      "orgs": "Zakladatel [Futureland DAO](https://futureland.io)\n",
+      "caption": "Populizátor technologií, našenec pro krypto, NFT\n",
+      "tracks": [
+        "dao",
+        "nft",
+        "spolecnost"
+      ],
+      "web": {
+        "url": "https://futureland.io"
+      },
+      "country": "cz",
+      "desc": "Podnikatel, futurista a popularizátor technologií; projekty v oblastech WEB3, AI a VR; zakladatel Futureland DAO a autor knihy Metaverse přichází\n",
+      "photos": [
+        "web:webp",
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/metapavel-web.webp",
+      "photo": "photos/speakers/metapavel.webp"
+    },
+    {
       "id": "milan-marcak",
       "name": "Milan Marcak",
       "twitter": "milan_marcak",
@@ -956,10 +1050,11 @@
       },
       "country": "cz",
       "photos": [
+        "web:webp",
         "twitter:jpg"
       ],
-      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/niftyape-twitter.jpg",
-      "photo": "photos/speakers/niftyape.jpg"
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/niftyape-web.webp",
+      "photo": "photos/speakers/niftyape.webp"
     },
     {
       "id": "ondrej-pilny",
@@ -1168,6 +1263,29 @@
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/radim-kozub-web.jpg",
       "photo": "photos/speakers/radim-kozub.jpg"
+    },
+    {
+      "id": "rene-darmos",
+      "name": "Rene Darmos",
+      "twitter": "xrendolf",
+      "bio": "Managing partner of investment fund. Member of Bitcoach. DAO advisor.",
+      "orgs": "CEO [Moonhill](https://moonhill.capital/), member of TG community [Bitcoach](https://bitcoach.org/), host of CCC\n",
+      "caption": "Managing partner of investment fund. Bitcoach member\n",
+      "tracks": [
+        "dao",
+        "spolecnost"
+      ],
+      "web": {
+        "url": "https://www.moonhill.capital/"
+      },
+      "country": "cz",
+      "desc": "René má 14 let zkušeností ve vedoucích funkcích managementu, včetně nadnárodních společností jako Red Bull a Unilever. Má více než 8 let zkušeností jako podnikatel a 6 let zkušeností jako investor do kryptoměn s rozsáhlou sítí kontaktů a partnerství, kterou vybudoval také díky pořádání krypto podcastu. René řídí denní provoz v Moonhill Capital, dohlíží na jeho růst a rozhoduje o klíčových strategických a administrativních otázkách. Je také členem skupiny Bitcoach. V současnosti poskytuje poradenství a je také členem rad investičních struktur DAO, čemuž se intenzivně věnuje.\n",
+      "photos": [
+        "web:webp",
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/rene-darmos-web.webp",
+      "photo": "photos/speakers/rene-darmos.webp"
     },
     {
       "id": "roman-valihrach",

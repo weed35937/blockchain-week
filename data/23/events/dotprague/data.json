@@ -1,14 +1,6 @@
 {
   "speakers": [
     {
-      "id": "aleksandar-mitrovic",
-      "name": "Aleksandar Mitrovic",
-      "caption": "Unique Network",
-      "twitter": "AleksandaMitro1",
-      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/04/Aleksandar_Mitrovic.jpg",
-      "photo": "photos/speakers/aleksandar-mitrovic.jpg"
-    },
-    {
       "id": "alex-muller",
       "name": "Alex Müller",
       "caption": "ChainSafe",
@@ -23,6 +15,14 @@
       "twitter": "AlexSiman",
       "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/05/alex.png",
       "photo": "photos/speakers/alex-siman.png"
+    },
+    {
+      "id": "alexander-mitrovich",
+      "name": "Alexander Mitrovich",
+      "caption": "Unique Network",
+      "twitter": "AleksandaMitro1",
+      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/04/Aleksandar_Mitrovic.jpg",
+      "photo": "photos/speakers/alexander-mitrovich.jpg"
     },
     {
       "id": "alexei-zamyatin",
@@ -65,18 +65,9 @@
       "photo": "photos/speakers/dakota-barnett.jpg"
     },
     {
-      "id": "damsky",
-      "name": "damsky",
-      "caption": "Kodadot",
-      "twitter": "helloitsdamsky",
-      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/04/damsky.jpeg",
-      "country": "cz",
-      "photo": "photos/speakers/damsky.jpeg"
-    },
-    {
       "id": "ekaterina-voronina",
       "name": "Ekaterina Voronina",
-      "caption": "Gear Technologies",
+      "caption": "Gear Foundation",
       "twitter": "Katie_Voronina",
       "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/04/katarina-min.jpg",
       "photo": "photos/speakers/ekaterina-voronina.jpg"
@@ -93,14 +84,14 @@
       "id": "gautham-jayasankar",
       "name": "Gautham Jayasankar",
       "caption": "Polkadex",
-      "twitter": "gauthamastro",
+      "twitter": "polkadex",
       "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/05/Gautham-Jayasankar.jpg",
       "photo": "photos/speakers/gautham-jayasankar.jpg"
     },
     {
       "id": "gustav-hemmelmayr",
       "name": "Gustav Hemmelmayr",
-      "caption": "Kilt",
+      "caption": "Kilt Protocol",
       "twitter": "goosetough",
       "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/05/w1mYBG-_400x400.jpg",
       "photo": "photos/speakers/gustav-hemmelmayr.jpg"
@@ -122,20 +113,20 @@
       "photo": "photos/speakers/jafar-azam.jpeg"
     },
     {
-      "id": "jakub-hydra",
-      "name": "Jakub Hydra",
+      "id": "jakub-gregus",
+      "name": "Jakub Gregus",
       "caption": "HydraDX",
       "twitter": "GregusJakub",
       "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/05/jakub_hydra.jpeg",
-      "country": "cz",
-      "photo": "photos/speakers/jakub-hydra.jpeg"
+      "photo": "photos/speakers/jakub-gregus.jpeg"
     },
     {
-      "id": "kasper-mai-jørgensen",
-      "name": "Kasper Mai Jørgensen",
+      "id": "kasper-mai-joergense",
+      "name": "Kasper Mai Joergense",
       "caption": "Polimec",
+      "twitter": "PolimecProtocol",
       "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/04/1537446395744-1.png",
-      "photo": "photos/speakers/kasper-mai-jørgensen.png"
+      "photo": "photos/speakers/kasper-mai-joergense.png"
     },
     {
       "id": "marcel-ebert",
@@ -148,7 +139,7 @@
     {
       "id": "matej-yangwao",
       "name": "Matej Yangwao",
-      "caption": "Kodadot",
+      "caption": "KodaDot",
       "twitter": "yangWao",
       "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/05/tSwfKNH_400x400.jpg",
       "country": "sk",
@@ -182,17 +173,16 @@
       "id": "pascal-brun",
       "name": "Pascal Brun",
       "caption": "Acurast",
-      "twitter": "IAmPascalB",
+      "twitter": "Acurast",
       "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/04/Pascal_Brun.jpg",
       "photo": "photos/speakers/pascal-brun.jpg"
     },
     {
       "id": "petr-mensik",
-      "name": "Petr Mensik",
+      "name": "Petr Menšík",
       "caption": "Polkadotters",
       "twitter": "petr_mensik",
       "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/05/238314290-36fc4af2-703d-4e16-b0af-7e381f335a00-1.jpg",
-      "country": "cz",
       "photo": "photos/speakers/petr-mensik.jpg"
     },
     {
@@ -212,13 +202,12 @@
       "photo": "photos/speakers/six.jpg"
     },
     {
-      "id": "vikiival",
-      "name": "vikiival",
-      "caption": "Kodadot",
+      "id": "viki-val",
+      "name": "Viki Val",
+      "caption": "KodaDot",
       "twitter": "vikiival",
       "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/05/Group-308.jpg",
-      "country": "sk",
-      "photo": "photos/speakers/vikiival.jpg"
+      "photo": "photos/speakers/viki-val.jpg"
     },
     {
       "id": "william-johs",
