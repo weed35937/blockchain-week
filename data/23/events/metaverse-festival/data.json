@@ -9,6 +9,13 @@
       "photo": "photos/speakers/adam-rajnoha.png"
     },
     {
+      "id": "daria-hvizdalova",
+      "name": "Daria Hvizdalova",
+      "caption": "AI Specialist",
+      "photoUrl": "https://metaversefestivalprague.com/wp-content/uploads/2023/05/Diseno-sin-titulo-17-1.png",
+      "photo": "photos/speakers/daria-hvizdalova.png"
+    },
+    {
       "id": "david-marak",
       "name": "David Mařák",
       "caption": "Co-Founder & CTO of YORD",

@@ -39,26 +39,6 @@
       "photo": "photos/speakers/adam-kracik.jpg"
     },
     {
-      "id": "adam-rajnoha",
-      "name": "Adam Rajnoha",
-      "bio": "VR & AR Expert",
-      "orgs": "Metaverse Chief Explorer at [MOYA](https://themoya.com/) | Co-Founder & CEO at [YORD](https://yordstudio.com/cs/)\n",
-      "caption": "VR & AR Expert\n",
-      "tracks": [
-        "nft"
-      ],
-      "web": {
-        "url": "https://themoya.com/"
-      },
-      "country": "cz",
-      "desc": "Adam is globally recognized as VR & AR Strategist, Metaverse Explorer, Tech enthusiast, XR Entrepreneur, and Speaker working in the XR field with big players like Apple, Adidas, Niantic, Deloitte, and more. Adam is the CEO of the YORD and Co-founder of Mainware.\n",
-      "photos": [
-        "web:webp"
-      ],
-      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/adam-rajnoha-web.webp",
-      "photo": "photos/speakers/adam-rajnoha.webp"
-    },
-    {
       "id": "adam-sobotka",
       "name": "Adam Sobotka",
       "nickname": "vorcigernix",
@@ -1269,14 +1249,14 @@
       "web": {
         "url": "https://dromisolutions.com/"
       },
-      "bio": "Právník, web3 poradce",
-      "caption": "Právník, web3 poradce",
+      "bio": "CEO v [DROMI](https://dromisolutions.com/) a právník v [BADOKH](https://www.badokh.com/)",
+      "caption": "CEO v DROMI a právník v BADOKH",
       "tracks": [
         "regulace",
         "dao",
         "alty"
       ],
-      "desc": "Jsem právník v advokátní kanceláři BADOKH, kde se zaměřuji na blockchainové právo. \nDále jsem spoluzakladatelem společnosti DROMI, ke poskytujeme blockchainové poradenství. Zaměřujeme se na tradičním korporace, kterým radíme, jak nejlépe využít blockchain v jejich podnikání. Dále poskytujeme komplexní služby blockchainovým start-upům a pomáháme investorům orientovat se v kryptu.\n",
+      "desc": "Jsem právník v advokátní kanceláři BADOKH, kde se zaměřuji na blockchainové právo. Dále jsem spoluzakladatelem společnosti DROMI, kde poskytujeme blockchainové poradenství. Zaměřujeme se na tradiční korporace, kterým radíme, jak nejlépe využít blockchain v jejich podnikání. Dále poskytujeme komplexní služby blockchainovým start-upům a pomáháme investorům orientovat se v kryptu.\n",
       "country": "cz",
       "photos": [
         "web:jpg",
