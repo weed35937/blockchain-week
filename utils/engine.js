@@ -341,6 +341,7 @@ class DeConf_Collection {
         for (const sp of data.speakers) {
           if (!sp.photoUrl) continue;
           const ext = await posix.extname(sp.photoUrl);
+          const nameId = sp.id || sp.name.toLowerCase().replace(/ /g, "-");
           const dir = [photosDir, "speakers"].join("/");
           const ffn = (sp.id ? sp.id : nameId) + ext.replace(/\?.+$/, "");
           const fn = [dir, ffn].join("/");
@@ -349,7 +350,6 @@ class DeConf_Collection {
             continue;
           }
           await ensureDir(dir);
-          const nameId = sp.id || sp.name.toLowerCase().replace(/ /g, "-");
           const photoFetch = await fetch(sp.photoUrl);
           if (!photoFetch.body) {
             continue;

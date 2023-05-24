@@ -21,7 +21,9 @@ export async function data(tools) {
   for (const el of $("#speakers div.w-full.relative").toArray()) {
     const value = (path) => cleanup($(path, el).text());
     const name = value("h3 span");
-
+    if (!name) {
+      continue
+    }
     const item = {
       id: tools.formatId(name),
       name,
