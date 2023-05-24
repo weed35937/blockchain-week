@@ -1,0 +1,42 @@
+name = "Urbit Meetup Prague"
+shortname = "Urbit Prague"
+types = ["meetup"]
+status = "published"
+chains = ["ethereum"]
+org = "Gwei.cz"
+dri = "burningtree"
+poc = "[tree](https://t.me/treecz)"
+date = "2023-06-08"
+days = 1
+times = "14:00-16:00"
+venues = ["loft-bubny"]
+languages = ["english"]
+attendees = 100
+tags = ["network", "identity", "data", "community"]
+description = '''
+Urbit is a new kind of computer that you can own completely in ways that matter: networking, identity, & data.
+
+​We realized that in order to fix the internet, we had to build a new computer from scratch. Good thing we started over a decade ago.
+
+​Today, Urbit is a real system with thousands of users that are building all kinds of communities, software, DAOs, and more. And it’s getting better every day.
+
+---
+
+​The meetup takes place as part of the [L2Loft](https://explore.prgblockweek.com/23/event/l2loft) initiative.
+
+'''
+logo = "logo.png"
+
+[links]
+web = "https://lu.ma/urbitprague"
+#twitter = ""
+telegram = "https://t.me/l2loft"
+
+[registration]
+type = "signup"
+link = "https://t.me/l2loft"
+status = "available"
+button = "Register for free!"
+
+[[speakers]]
+id = "owen-barnes"
