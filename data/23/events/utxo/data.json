@@ -11,6 +11,7 @@
       ],
       "country": "cz",
       "desc": "Solana blockchain auditor v české bezpečnostní společnosti Ackee Blockchain.\n",
+      "pretalxId": "PZEAE8",
       "photos": [
         "web:jpg"
       ],
@@ -31,6 +32,7 @@
         "url": "https://www.facebook.com/knox.gunner"
       },
       "country": "cz",
+      "pretalxId": "DMJEPY",
       "photos": [
         "web:jpg",
         "twitter:jpg"
@@ -50,6 +52,7 @@
         "dao"
       ],
       "country": "cz",
+      "pretalxId": "GA8TSY",
       "photos": [
         "web:jpg",
         "twitter:jpg"
@@ -71,6 +74,7 @@
         "url": "https://www.linkedin.com/in/anna-p%C3%ADchov%C3%A1/"
       },
       "country": "cz",
+      "pretalxId": "A7XHLB",
       "photos": [
         "web:webp",
         "twitter:jpg"
@@ -90,6 +94,7 @@
       ],
       "country": "cz",
       "desc": "Web developer, podnikatel, nadšenec do krypta a NFT. Podílí se na organizaci kryptoměnových konferencí (Cryptobyte, UTXO, Prague Blockchain Week) a je členem několika komunit (KryptoVláďa, Futureland...).\n",
+      "pretalxId": "BH7YGF",
       "photos": [
         "web:webp",
         "twitter:jpg"
@@ -108,6 +113,7 @@
       ],
       "country": "cz",
       "lead": true,
+      "pretalxId": "NFEWXG",
       "photos": [
         "web:jpg",
         "twitter:jpg"
@@ -130,31 +136,13 @@
       ],
       "country": "cz",
       "desc": "Data scientist @ Gen, člen Futureland DAO  \n",
+      "pretalxId": "HTMVKH",
       "photos": [
         "web:jpg",
         "twitter:jpg"
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/bihanojko-web.jpg",
       "photo": "photos/speakers/bihanojko.jpg"
-    },
-    {
-      "id": "bozena-rezab",
-      "name": "Bozena Rezab",
-      "twitter": "anestetica",
-      "orgs": "CEO a Spoluzakladatelka [GAMEE](https://www.gamee.com/)\n",
-      "caption": "CEO a Spoluzakladatelka [GAMEE](https://www.gamee.com/)\n",
-      "desc": "Bozena Rezab je generální ředitelkou a spoluzakladatelkou GAMEE, herní platformy s více než 40 miliony uživatelů spojující metaverse, hráče, značky a we3 komunity ve hře. Bozeny rolí je strategie GAMEE a představování práv na digitální vlastnictví a hodnotu blockchainu hernímu publiku. Před GAMEE byla zodpovědná za růst YouTube na evropských trzích.",
-      "tracks": [
-        "nft"
-      ],
-      "country": "cz",
-      "lead": true,
-      "photos": [
-        "web:jpg",
-        "twitter:jpg"
-      ],
-      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/bozena-rezab-web.jpg",
-      "photo": "photos/speakers/bozena-rezab.jpg"
     },
     {
       "id": "dalibor-cerny",
@@ -169,6 +157,7 @@
         "regulace"
       ],
       "country": "cz",
+      "pretalxId": "YWAAL9",
       "photos": [
         "web:jpg",
         "twitter:jpg"
@@ -190,6 +179,7 @@
       ],
       "country": "cz",
       "desc": "Chain-agnostic vizionář, community builder, Web3 Events COO. Progresivní web3 kouzelník.\n",
+      "pretalxId": "83RSQ8",
       "photos": [
         "web:webp",
         "twitter:jpg"
@@ -212,6 +202,7 @@
       },
       "country": "cz",
       "desc": "David je přední expert na moderní technologie Virtuální a Rozšířené reality. V oboru je již od jeho ranných forem v podobě cardboardů či prvních prototypu rozšířené reality. Před 4 lety spolu založil studio Yord, které během následujících let expandovalo do celého světa a stalo se jedním z 5 nejlepších společností vývoje Immersivních aplikací na světě. Velký nadšenec do AI a Blockchain.\n",
+      "pretalxId": "UPVWGJ",
       "photos": [
         "web:webp",
         "twitter:jpg"
@@ -237,6 +228,7 @@
       "country": "sk",
       "desc": "Dávid vyštudoval Ekonómiu na Masarykovej univerzite v Brne, a Master of Science v obore Digitálnych mien na Univerzite v Nikózii na Cypre. Pracoval  ako IT auditor a konzultant v [PwC Slovensko](https://www.pwc.com/sk/sk/). Spoluzakladal [Blockchain Slovakia](https://blockchainslovakia.sk/) a pracoval ako konzultant v oblasti kryptomien a blockchain technológií na niekoľkých slovenských ako aj zajhraničných startupoch a projektoch. David často prednáša o kryptomenách a blockchaine na medzinárodných fórach, konferenciách či univerzitách. Taktiež učí vlastný predmet o kryptomenách na Slovenskej Technickej univerzite ako aj na Ekonomickej univerzite v Bratislave. Je taktiež autorom knihy Coinstory, ktorá mapuje históriu a evolúciu kryptomien ([CoinStory.tech](https://coinstory.tech/)).\n",
       "lead": true,
+      "pretalxId": "YPDVWH",
       "photos": [
         "web:webp",
         "twitter:jpg"
@@ -258,6 +250,7 @@
       ],
       "country": "cz",
       "desc": "Že si Bitcoin koupí říkala svému šéfovi už někdy mezi 2015-2017 ještě předtím než vůbec věděla, jak na to. V Polis si pak kupovala první krypto a v rámci projektu Mytitle se zabývala blockchainovými záznamy potvrzující digitální vlastnictví. Strašně ji to chytlo a zaujalo, jak kryptoměny fungují. Na základě článku se jí ozvala Soňa a brzy po vzniku Holek v kryptu se stala jejich součástí. V HvK tvoří content, organizuje kryptobazary a spoluvede workshopy. Pomáhala organizovat UTXO a ETHBrno.\n",
+      "pretalxId": "FZWYZR",
       "photos": [
         "web:jpg",
         "twitter:jpg"
@@ -272,11 +265,13 @@
       "bio": "Technical educator, PhD in statistics",
       "orgs": "Technical educator [web3 foundation](https://web3.foundation/)\n",
       "caption": "Technical educator, PhD in statistics\n",
+      "desc": "Filippo has a PhD in statistics & drone engineering. He previously taught statistical computing and data analysis. Filippo strongly believes in the Web3 vision of having a privacy-focused, secure, and decentralized internet where power is given back to the users. The complexity of Web3 technology can be intimidating, and it is still a major blocking element behind mainstream adoption. Filippo is excited to educate professionals and the general public about Web3 and blockchain technology.\n",
       "tracks": [
         "zaklady",
         "alty"
       ],
       "country": "ch",
+      "pretalxId": "SM8E9Q",
       "photos": [
         "twitter:jpg"
       ],
@@ -301,6 +296,7 @@
       ],
       "country": "cz",
       "desc": "František se v oblasti kryptoměn pohybuje od počátku roku 2016.  Své dlouholeté zkušenosti z oblastí průmyslové automatizace a prostředí realit využívá k rozvoji společnosti Altlift, kde působí jako CFO. Je odborníkem na využití kryptoměn na realitním trhu. #Family4Kids\n",
+      "pretalxId": "WHHLZA",
       "photos": [
         "web:webp",
         "twitter:jpg"
@@ -325,6 +321,7 @@
         "url": "https://github.com/huge"
       },
       "desc": "See [LinkedIn.com/in/uhuge](https://linkedin.com/in/uhuge)\n",
+      "pretalxId": "REFMCH",
       "photos": [
         "web:webp"
       ],
@@ -344,6 +341,7 @@
       ],
       "country": "cz",
       "desc": "Ekonom, libertarián, obhájce svobodného vzdělávání, bývalý učitel hudební výchovy a organizátor svobodných rodinných pobytů [Svéjá](https://sveja.cz/).\n",
+      "pretalxId": "XLJBF3",
       "photos": [
         "web:jpg",
         "twitter:jpg"
@@ -363,6 +361,7 @@
         "alty"
       ],
       "country": "cz",
+      "pretalxId": "LFSBEL",
       "photos": [
         "web:jpg",
         "twitter:jpg"
@@ -381,6 +380,7 @@
       "tracks": [
         "spolecnost"
       ],
+      "pretalxId": "TP8BQ3",
       "photos": [
         "twitter:jpg"
       ],
@@ -403,6 +403,7 @@
       },
       "country": "cz",
       "desc": "Investor, liqudity provider, konzultant.\n",
+      "pretalxId": "GUCXAT",
       "photos": [
         "web:webp",
         "twitter:jpg"
@@ -423,6 +424,7 @@
         "spolecnost"
       ],
       "country": "cz",
+      "pretalxId": "HZFL7B",
       "photos": [
         "web:jpg",
         "twitter:jpg"
@@ -445,6 +447,7 @@
         "url": "https://www.ey.com/en_gl"
       },
       "country": "cz",
+      "pretalxId": "K7FTH3",
       "photos": [
         "web:webp"
       ],
@@ -463,6 +466,7 @@
         "btc"
       ],
       "country": "cz",
+      "pretalxId": "3FJ7KA",
       "photos": [
         "twitter:jpg"
       ],
@@ -481,6 +485,7 @@
       ],
       "country": "cz",
       "desc": "Jeden z mnoha moderátorů [discordu Bitcoinového kanálu](https://discord.gg/HWG9Erm). Jeden z otců zakladatelů projektu [KryptoDoupě.cz](https://kryptodoupe.cz). Holky mi píšou, jak dostat bitcoiny z Change Invest, kluci se ptají, jak těžit obskurní kryptoměny. Ale jinak jsem pěkná osina v prdeli. :o) (bude to chtít učesat)\n",
+      "pretalxId": "PNHERE",
       "photos": [
         "web:jpg",
         "twitter:jpg"
@@ -505,6 +510,7 @@
       },
       "country": "cz",
       "desc": "Formální vzdělání mám v několika oborech od fyziky po finance a pracovní život jsem začínal jako datový vědec v astrofyzice. Vždy jsem ale měl rád technologie a vše kolem počítačů, což mě v roce 2013 přivedlo k Bitcoinu a od té doby se mu věnuji z mnoha pohledů - těžba, investice, použití v životě i podnikání a dopady na společnost. Od roku 2015 jsem se angažoval v Paralelní Polis, odkud jsem v roce 2019 odešel do Alzy, kde jsem rozjel Fraud & Risk oddělení. Z Alzy mě v roce 2021 vylákala Xapo Bank, kde do dnes na pozici Anti Financial Crime SME ladím systémy pro monitoring transakcí.\n",
+      "pretalxId": "SJRJVH",
       "photos": [
         "web:webp",
         "twitter:jpg"
@@ -527,6 +533,7 @@
       },
       "country": "cz",
       "desc": "Deset let podnikám a spolupracuju s různými subjekty. Rozjíždím projekt zaměřený na peníze, které mají hodnotu. Věřím stříbru, zlatu a Bitcoinu. Edukuju v oblasti peněz a pomáhám s výběrem vhodných obchodníků při nákupu drahých kovů. Projekt jsem pojmenoval Chráníme Peníze a plánuji se v něm dlouhodobě realizovat.\nŽiju sportem, hlavně fotbalem, kromě hraní i trénuju děti. Největší smysl mi dává vzdělávání se v praxi, nepohrdnu ani eventy úspěšných podnikatelů, mentorů... Rád si přečtu něco inspirativního, ideálně když to rovnou uplatním, naposledy třeba Čtyři tisíce týdnů od Olivera Burkemana, oblíbenou mám Investujte do zlata a stříbra od Mika Maloneyho, na internetu využívám různé zdroje vzdělání včetně podcastů jako Zlé peniaze, dobrý život, Real AF, Na vlně podnikání a další. \nV rámci projektů, do kterých jsem se v minulosti zapojoval, jsem měl možnost vézt menší týmy lidí, což mě také baví. Mám rád networking, konference a vystupování na veřejnosti.\n",
+      "pretalxId": "ZBEHNP",
       "photos": [
         "web:webp"
       ],
@@ -545,6 +552,7 @@
       ],
       "country": "cz",
       "desc": "JUDr., Ph.D. IT/IP právník se specializací na právo duševního vlastnictví a digitální trendy, aktuálně jako CLO & Co-founder projektu Artiffine\n",
+      "pretalxId": "TFLL7Z",
       "photos": [
         "web:jpg",
         "twitter:jpg"
@@ -568,6 +576,7 @@
       },
       "country": "cz",
       "desc": "Jana vystudovala Arts management. V letech 2008 - 2015 realizovala na 50 solo a kolektivních výstav českých a slovenských umělců pod vlastní NGO Inter-Art. Šest let působila jako projektová manažerka a copywriterka v kreativních digitálních agenturách. Poslední dva roky se věnuje rozvoji web3 a uměleckým NFT projektům jako např. The Divergents a Here/After The Art, a své know-how předává firmám se zájmem vstoupit do světa NFT a web3.\n",
+      "pretalxId": "NBUZ8G",
       "photos": [
         "web:webp",
         "twitter:jpg"
@@ -589,6 +598,7 @@
       },
       "country": "cz",
       "desc": "Jaroslav je expertem na businessové právo a daně. V kryptu se zaměřuje na právní pomoc se strukturováním krypto projektů, s investicemi do krypto startupů a akvizicemi firem. Klientům také pomáhá s adopcí kryptoměn do jejich firem a podnikání. Mimo svět krypta se zaměřuje na právní ochranu majetku firmy, strukturaci podnikání, fúze a akvizice a právo ve venture kapitálu.\n",
+      "pretalxId": "NGGJ8H",
       "photos": [
         "web:webp"
       ],
@@ -612,6 +622,7 @@
       "orgs": "Zakladatel Secret Network czech/slovak & organizátor [IBC Prague](https://ibcprague.carrd.co/)\n",
       "country": "cz",
       "desc": "Miluju Ethereum, Secret Network a DAOs \nAktivně se podílím na budování soukromí ve Web3 a na adopci Secret Network.\n",
+      "pretalxId": "3GWMER",
       "photos": [
         "web:jpg",
         "twitter:jpg"
@@ -630,6 +641,7 @@
         "zaklady"
       ],
       "desc": "Jirka je zástupce [Skovo.cz](https://www.skovo.cz/). Výrobce produktů pro bezpečné zabezpečení Vašeho seedu.\n",
+      "pretalxId": "8TWKQT",
       "photos": [
         "web:jpg"
       ],
@@ -649,6 +661,7 @@
       ],
       "country": "cz",
       "desc": "Josef Gattermayer je CEO [Ackee Blockchain](https://ackeeblockchain.com), spoluzakladatel [Ackee](https://www.ackee.cz/)) a odborný asistent na [Faktultě informačních technologií ČVUT](https://fit.cvut.cz/cs) v Praze. O tom, že bezpečnost bude klíčovým prvkem k lepší adaptaci kryptoměn, se přesvědčil již v roce 2016, kdy přišel během Bitfinex hacku o první Ether. V roce 2018 úspěšně se svým týmem získal grant od Ethereum Foundation na rozvoj vývojářských nástrojů této kryptoměny a s tímto týmem v roce 2021 založil auditorskou firmu Ackee Blockchain, která se věnuje bezpečnosti smart kontraktů.\n",
+      "pretalxId": "KTSNLW",
       "photos": [
         "web:webp",
         "twitter:jpg"
@@ -668,6 +681,7 @@
       ],
       "country": "cz",
       "lead": true,
+      "pretalxId": "HFEXSH",
       "photos": [
         "twitter:jpg"
       ],
@@ -692,6 +706,7 @@
         "spolecnost"
       ],
       "country": "sk",
+      "pretalxId": "BHRGRY",
       "photos": [
         "web:jpg",
         "twitter:jpg"
@@ -716,6 +731,7 @@
         "regulace"
       ],
       "lead": true,
+      "pretalxId": "X3ZQDY",
       "photos": [
         "twitter:jpg"
       ],
@@ -737,6 +753,7 @@
       },
       "country": "cz",
       "desc": "Přes čtyři roky jsem pracovala jako Brand Strategist v globální marketingové agentuře Publicis Groupe a následně vedla marketingové odělení ve společnosti Precismo.\nNyní působím jako Community Manager v americké společnosti Bankless a v kryptu tak trávím 100% svého pracovního a 90% volného svého času. Zajímám se především o infrastrukturu, ekonomický systém  a business v kryptu. Zároveň jsme ale také velký fanoušek filozofie, historie a technologií obecně. Ano, prostě nerd. :)\n",
+      "pretalxId": "CPYZQ8",
       "photos": [
         "web:webp",
         "twitter:jpg"
@@ -759,6 +776,7 @@
       },
       "country": "en",
       "desc": "LC, a serial entrepreneur and expert in digital marketing, data analytics, and product development. LC is the founder of Alphalytics and Bshare.Alphalytics is a data analytics platform that provides true market transparency through on-chain dynamic wallet tagging analysis. Bshare is a crypto education platform and the leading Mandarin Chinese on-chain data channel.\n",
+      "pretalxId": "WJDLTL",
       "photos": [
         "web:jpg",
         "twitter:jpg"
@@ -781,6 +799,7 @@
       ],
       "country": "cz",
       "desc": "YT kanál Investocka. Autor české investiční deskovky Vyhrej Život. Investor\n",
+      "pretalxId": "X3KXZL",
       "photos": [
         "web:jpg",
         "twitter:jpg"
@@ -804,6 +823,7 @@
       },
       "country": "cz",
       "desc": "Zakladatel projektu Štosuj.cz, dříve vývojář v GENERAL BYTES. Zajímám se o Bitcoin a kryptoměny přes 10 let a mým cílem je pomáhat lidem řešit stejný problém, který jsem měl já sám. Ideálně vše automatizovat.\n",
+      "pretalxId": "FUGKZU",
       "photos": [
         "web:webp",
         "twitter:jpg"
@@ -826,12 +846,34 @@
         "regulace"
       ],
       "lead": true,
+      "pretalxId": "MGTRTZ",
       "photos": [
         "web:jpg",
         "twitter:jpg"
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/lukas-kovanda-web.jpg",
       "photo": "photos/speakers/lukas-kovanda.jpg"
+    },
+    {
+      "id": "marianna-sadecka",
+      "name": "Marianna Sádecká",
+      "twitter": "SadeckaMarianna",
+      "bio": "Moderátorka",
+      "orgs": "Spoluzakladateľka [Paralelná Polis Bratislava](https://paralelnapolis.sk/homepage/), [Slovak Students for Liberty](https://www.studentsforliberty.sk/), [liberation.travel](https://liberation.travel/).\n",
+      "caption": "Moderátorka\n",
+      "tracks": [
+        "zaklady",
+        "btc",
+        "spolecnost"
+      ],
+      "country": "sk",
+      "desc": "Marianna Sádecká is Austrian Economist, co-founder of Slovak Students for Liberty and Paralelná Polis Bratislava, moderator of digital security podcast Lokálhosť, writer, psychonaut and liberation-traveler.\n",
+      "pretalxId": "YVAKLD",
+      "photos": [
+        "web:webp"
+      ],
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/marianna-sadecka-web.webp",
+      "photo": "photos/speakers/marianna-sadecka.webp"
     },
     {
       "id": "mario-havel",
@@ -868,6 +910,7 @@
         "alty"
       ],
       "desc": "Analyst in Altlift.cz with focus on testing tokenomics using SFC modelling\n",
+      "pretalxId": "V3WGCD",
       "photos": [
         "web:jpg",
         "twitter:jpg"
@@ -890,6 +933,7 @@
         "btc"
       ],
       "country": "cz",
+      "pretalxId": "ERBG9L",
       "photos": [
         "web:webp",
         "twitter:jpg"
@@ -914,6 +958,7 @@
       },
       "country": "sk",
       "desc": "Martin se celý život pohybuje na finančních trzích. V rámci tradičních financí dlouhé roky vedl úspěšný tradingový tým obchodující s energetickými komoditami. Od roku 2021 se plně věnuje Bitcoinu. Nejdříve spoluzaložil hedge fond Stratosphere a od loňského roku pak vyvíjí platformu Firefish.io, která umožňuje využití Bitcoinu jako finančního kolaterálu.\n",
+      "pretalxId": "AWZZDN",
       "photos": [
         "web:webp",
         "twitter:jpg"
@@ -937,6 +982,7 @@
       },
       "country": "cz",
       "desc": "Matej is a consultant and advisor in the Web3 space, with a focus on accelerating metaverse and Web3 gaming projects. With years of experience in consulting and a deep interest in gaming, he provides strategic guidance to startups and Fortune 500 companies alike.\nMatej also runs an investment Newsletter and Blog at https://metainvestor.substack.com/, bringing Metaverse closer to users and providing detailed deep dives for investors.\n",
+      "pretalxId": "ND8JPJ",
       "photos": [
         "web:webp",
         "twitter:jpg"
@@ -960,6 +1006,7 @@
       },
       "country": "cz",
       "desc": "Zakladatel projektu Štosuj.cz, dříve vývojář v GENERAL BYTES. Zajímám se o Bitcoin a kryptoměny přes 10 let a mým cílem je pomáhat lidem řešit stejný problém, který jsem měl já sám. Ideálně vše automatizovat.\n",
+      "pretalxId": "QQVJUL",
       "photos": [
         "web:webp",
         "twitter:jpg"
@@ -980,6 +1027,7 @@
       ],
       "country": "cz",
       "desc": "Matouš je konzultant výkonnostního digitálního marketingu v Google a pro Braiins. Zajímá se o moderní technologie a v oblasti kryptoměn už si vyzkoušel první poslední.\n",
+      "pretalxId": "V3LB8P",
       "photos": [
         "web:webp",
         "twitter:jpg"
@@ -1005,6 +1053,7 @@
       },
       "country": "cz",
       "desc": "Podnikatel, futurista a popularizátor technologií; projekty v oblastech WEB3, AI a VR; zakladatel Futureland DAO a autor knihy Metaverse přichází\n",
+      "pretalxId": "QLDJC3",
       "photos": [
         "web:webp",
         "twitter:jpg"
@@ -1028,6 +1077,7 @@
       },
       "country": "cz",
       "desc": "Milan je součástí marketingového oddělení a v jeho gesci je tvorba veškerých vizuálů spojených se společností Altlift. Kromě toho se soustředí na analýzy herních NFT projektů.\n",
+      "pretalxId": "MAGGAU",
       "photos": [
         "web:jpg",
         "twitter:jpg"
@@ -1049,6 +1099,7 @@
         "url": "https://www.nftspace.cz"
       },
       "country": "cz",
+      "pretalxId": "GSJJVE",
       "photos": [
         "web:webp",
         "twitter:jpg"
@@ -1073,6 +1124,7 @@
       },
       "country": "cz",
       "desc": "Crypto analytik, investor, spoluzakladatel baserank.io.\n",
+      "pretalxId": "ZCACJS",
       "photos": [
         "web:webp",
         "twitter:jpg"
@@ -1096,6 +1148,7 @@
         "url": "https://whalebooks.com"
       },
       "country": "cz",
+      "pretalxId": "B3ZGSN",
       "photos": [
         "web:webp",
         "twitter:jpg"
@@ -1116,6 +1169,7 @@
       ],
       "country": "cz",
       "desc": "30 let v TELCO sféře ve vlastní firmě. Nyní obchodní ředitel v MOLKI VISION. Zájem o WEB3, AR/VR, ale hlavně jsem NETWORKER, rád spojuji lidi, kteří by se měli poznat... \n",
+      "pretalxId": "PDS7LR",
       "photos": [
         "web:webp",
         "twitter:jpg"
@@ -1135,6 +1189,7 @@
       ],
       "country": "sk",
       "lead": true,
+      "pretalxId": "FQDFF8",
       "photos": [
         "twitter:jpg"
       ],
@@ -1153,6 +1208,7 @@
       ],
       "country": "cz",
       "desc": "Petr Hotovec is the chief operating officer at the Investment Adviser. Petr worked in Prague, Czech Republic-based legal office Skils s.r.o. advokátní kancelář (former Weil, Gotshal & Manges) as a lawyer. Prior to that he worked as an analyst in the first Central European cryptocurrency fund – Kryptofond and at Allen & Overy in Prague as a paralegal. Petr specialised in M&A, corporate and finance law during his stay at Skils and Allen & Overy.\nPetr Hotovec holds a master’s degree in law and a bachelor's degree in economics and finance from the Charles University in Prague, Czech Republic. \n\nPetr Hotovec is co-founder of Dromi Solutions, a blockchain consultancy agency.\n",
+      "pretalxId": "ANV3RL",
       "photos": [
         "web:jpg"
       ],
@@ -1172,6 +1228,7 @@
       ],
       "country": "cz",
       "desc": "Jsem Nezmič - krypto a NFT nadšenec zaměřující se na fundament a využití web3 technologií v praxi. Člen vzdělávacího Futureland DAO, redaktor Kryptonovinek CZ/SK, Discord moderátor a redaktor blogu NFTčesky. Mým cílem je být mostem mezi světy.\n",
+      "pretalxId": "HZG7RY",
       "photos": [
         "web:webp",
         "twitter:jpg"
@@ -1191,6 +1248,7 @@
       ],
       "country": "cz",
       "lead": true,
+      "pretalxId": "LSRPFZ",
       "photos": [
         "web:jpg",
         "twitter:jpg"
@@ -1236,6 +1294,7 @@
       "caption": "Visionary @ [APUS.finance](https://apus.finance)\n",
       "country": "cz",
       "desc": "Radek pracoval přes 17 let pro TradFi (banky) v různých externích a IT manažerských pozicích. Řídil např. systémovou integraci při změně core banking systému, v posledních letech se věnoval celkové business/IT architektuře bank. Užívá si posouvání hranic použitím cutting-edge technologií, kde se propojuje business a IT. Od 2017 věří, že ČR je celosvětově velice silné v crypto engineeringu a rád by, aby nezahodilo šanci být tahounem crypto odvětví v Evropě.\n",
+      "pretalxId": "8EN9GL",
       "photos": [
         "web:webp",
         "twitter:jpg"
@@ -1257,6 +1316,7 @@
       ],
       "country": "cz",
       "lead": true,
+      "pretalxId": "AVWK7D",
       "photos": [
         "web:jpg",
         "twitter:jpg"
@@ -1280,6 +1340,7 @@
       },
       "country": "cz",
       "desc": "René má 14 let zkušeností ve vedoucích funkcích managementu, včetně nadnárodních společností jako Red Bull a Unilever. Má více než 8 let zkušeností jako podnikatel a 6 let zkušeností jako investor do kryptoměn s rozsáhlou sítí kontaktů a partnerství, kterou vybudoval také díky pořádání krypto podcastu. René řídí denní provoz v Moonhill Capital, dohlíží na jeho růst a rozhoduje o klíčových strategických a administrativních otázkách. Je také členem skupiny Bitcoach. V současnosti poskytuje poradenství a je také členem rad investičních struktur DAO, čemuž se intenzivně věnuje.\n",
+      "pretalxId": "NDXFLS",
       "photos": [
         "web:webp",
         "twitter:jpg"
@@ -1306,6 +1367,7 @@
       "country": "cz",
       "lead": true,
       "desc": "O Bitcoinu jsem se dozvěděl ve 2011 a od té doby mě nepřestal fascinovat. Posouvat jeho myšlenky dále ale není jednoduché. Vysvětli \"proč Bitcoin?\" během pár minut, fakticky není možné. Abych podpořil adopci kryptoměn, rozhodl jsem se v roce 2013 budovat Coinmate coby bezpečnou a férovou kryptoburzu. Bitcoin může v budoucnu fungovat jako kotva ve světě nekontrolovatelně rostoucího množství peněz a dluhů. Technologie blockchainu má potenciál změnit finanční trhy a internet.\n",
+      "pretalxId": "YLFJZU",
       "photos": [
         "web:webp",
         "twitter:jpg"
@@ -1328,6 +1390,7 @@
       },
       "country": "cz",
       "desc": "Samuela je zástupcem Liberlandu pro Gruzii, kde žije. Přednáší po světě o individuální svobodě nebo aplikovatelné praktické individuální filosofii. Díky svému non-konformnímu myšlení poukazuje na nevšední perspektivy možností života i práce - na téma potenciálu práce na dálku ji sledují tisíce lidí z celého světa hlavně na LinkedInu. V tomto roce vydá Samuela knihu s jejím projektem The Freeist, který ukazuje, jak můžeme prakticky rozšířit své možnosti pro větší svobodu, stejně tak jako to, co nás od toho drží zpět.\n",
+      "pretalxId": "J7DDCM",
       "photos": [
         "web:webp",
         "twitter:jpg"
@@ -1353,6 +1416,7 @@
         "spolecnost"
       ],
       "country": "cz",
+      "pretalxId": "WDQAXM",
       "photos": [
         "web:jpg",
         "twitter:jpg"
@@ -1376,6 +1440,7 @@
       ],
       "desc": "Jsem právník v advokátní kanceláři BADOKH, kde se zaměřuji na blockchainové právo. Dále jsem spoluzakladatelem společnosti DROMI, kde poskytujeme blockchainové poradenství. Zaměřujeme se na tradiční korporace, kterým radíme, jak nejlépe využít blockchain v jejich podnikání. Dále poskytujeme komplexní služby blockchainovým start-upům a pomáháme investorům orientovat se v kryptu.\n",
       "country": "cz",
+      "pretalxId": "ZMKJVV",
       "photos": [
         "web:jpg",
         "twitter:jpg"
@@ -1399,6 +1464,7 @@
       },
       "country": "cz",
       "desc": "Jsem Bitcoinovým nadšencem a k tomu součástí Vexl crew. Mám za sebou organizaci pár Bitcoinových meetupů a pohyb mezi stejně smýšlejícími lidmi je mi blízký. K tomu všemu hraju profesionálně basket a ještě studuju na ekonomické fakultě.\n",
+      "pretalxId": "NJNHND",
       "photos": [
         "twitter:jpg"
       ],
@@ -1445,6 +1511,7 @@
       },
       "country": "cz",
       "desc": "Content creator and social media manager, NFT nadšenec.\n",
+      "pretalxId": "UZX7EE",
       "photos": [
         "web:webp",
         "twitter:jpg"
@@ -1463,6 +1530,7 @@
         "spolecnost"
       ],
       "country": "cz",
+      "pretalxId": "N9NCBV",
       "photos": [
         "twitter:jpg"
       ],
@@ -1494,6 +1562,7 @@
         }
       ],
       "desc": "člen projektu [Svoboda učení](https://www.svobodauceni.cz/)\n",
+      "pretalxId": "HJ3RAE",
       "photos": [
         "web:jpg",
         "twitter:jpg"
@@ -1517,6 +1586,7 @@
       },
       "country": "cz",
       "lead": true,
+      "pretalxId": "ZSSUBH",
       "photos": [
         "web:webp",
         "twitter:jpg"
@@ -1542,6 +1612,7 @@
       "country": "cz",
       "lead": true,
       "desc": "KryptoVláďa je dlouholetý novinář a moderátor, který se po odchodu z televize rozhodl na plno věnovat oblasti kryptoměn. Kromě svého youtubového kanálu působí i na Stream.cz, nebo měl televizní pořad KryptoTime, který získa ocenění od EU za druhů nejlepší evropský projekt v oblasti edukace v blockchainových technologiích.\n",
+      "pretalxId": "XKC33U",
       "photos": [
         "web:webp",
         "twitter:jpg"
@@ -1561,6 +1632,7 @@
         "dao"
       ],
       "country": "cz",
+      "pretalxId": "LJFGKJ",
       "photos": [
         "web:jpg",
         "twitter:jpg"
@@ -1622,6 +1694,11 @@
       "name": "Krypto-společnost",
       "shortname": "Společnost",
       "examples": "* odluka peněz od státu\n* kryptoanarchismus, anarchokapitalismus, meritokracie\n* představení lokálních krypto-komunit\n* fenomén maximalismu\n"
+    },
+    {
+      "id": "kryptopodnikani",
+      "name": "Krypto a podnikání",
+      "shortname": "Kryptopodnikání"
     },
     {
       "id": "other",

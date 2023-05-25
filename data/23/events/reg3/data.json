@@ -1,6 +1,15 @@
 {
   "speakers": [
     {
+      "id": "alexander-pilar",
+      "name": "Alexander Pilař",
+      "caption": "Angel Investor, Advisor, Author,",
+      "twitter": "alexpilar?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+      "linkedin": "alexpilar/?originalSubdomain=cz",
+      "photoUrl": "https://uploads-ssl.webflow.com/6419d553c89ebe398c7c8116/646f86eb4be6c8467542b67f_photo_2023-05-25_17-59-23.jpg",
+      "photo": "photos/speakers/alexander-pilar.jpg"
+    },
+    {
       "id": "bohdan-zubac",
       "name": "Bohdan Zubač",
       "caption": "Attorney at Law at PRK Partners",
@@ -109,6 +118,14 @@
       "photoUrl": "https://uploads-ssl.webflow.com/6419d553c89ebe398c7c8116/6458bdbebc41e9510d1f896f_64525cfb49d6f9332c5181fd_1609757832596.jpg",
       "country": "cz",
       "photo": "photos/speakers/ondrej-kovarik.jpg"
+    },
+    {
+      "id": "pavel-martinik",
+      "name": "Pavel Martiník",
+      "caption": "Advisor, Attorney & Scholar at Martinik Law Firm, Charles University Law School, Parliament of Czech Republic",
+      "linkedin": "pavel-martin%C3%ADk-cz",
+      "photoUrl": "https://uploads-ssl.webflow.com/6419d553c89ebe398c7c8116/646f40d796a1b02f2b033028_Image%20(003).jpeg",
+      "photo": "photos/speakers/pavel-martinik.jpeg"
     },
     {
       "id": "peter-kris",

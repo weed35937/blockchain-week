@@ -17,6 +17,14 @@
       "photo": "photos/speakers/alexei-zamyatin.jpeg"
     },
     {
+      "id": "andreas-fletcher",
+      "name": "Andreas Fletcher",
+      "twitter": "Fletcher4321",
+      "caption": "brainbot / Beamer Bridge",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/7nENedXWuGX27LAsJXlk6q/d6eacaa4b8a8abc22af1ff718d0a9c15/Andreas_Fletcher.png",
+      "photo": "photos/speakers/andreas-fletcher.png"
+    },
+    {
       "id": "arnaud-castillo",
       "name": "Arnaud Castillo",
       "twitter": "CrunchDAO",
@@ -186,6 +194,14 @@
       "caption": "Ultimate / H2O Nodes",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5uEe1MIf8nM9zdgi8lGb7C/f630d1040d7595193124a5ca3c8e0010/Max_Sherwood.JPG",
       "photo": "photos/speakers/max-sherwood.JPG"
+    },
+    {
+      "id": "mel-gelderman",
+      "name": "Mel Gelderman",
+      "twitter": "melgelderman?lang=en",
+      "caption": "Token / Monolith",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/37uo9xjw0dYF6JxPQvWf3T/5f5a282503ad3ad8645ad036f63fa2cc/Mel_Gelderman.JPG",
+      "photo": "photos/speakers/mel-gelderman.JPG"
     },
     {
       "id": "mona-el-isa",

@@ -36,6 +36,15 @@
       "photo": "photos/speakers/antoni-zolciak.jpg"
     },
     {
+      "id": "constanza-gallo",
+      "name": "Constanza Gallo",
+      "twitter": "costgallo",
+      "caption": "Head of partnerships at the [The Swarm Foundation](https://www.ethswarm.org/foundation)",
+      "country": "it",
+      "photoUrl": "https://prague.web3privacy.info/people/costanza-gallo.jpeg",
+      "photo": "photos/speakers/constanza-gallo.jpeg"
+    },
+    {
       "id": "dcbuilder-eth",
       "name": "dcbuilder.eth",
       "twitter": "DCbuild3r",
@@ -129,8 +138,15 @@
       "name": "Rachel-Rose O'Leary",
       "twitter": "lunar_mining",
       "caption": "[DarkFi](https://dark.fi/) core dev, writer",
-      "photoUrl": "https://prague.web3privacy.info/people/rachel-rose-oleary.jpeg",
-      "photo": "photos/speakers/rachel-rose-o'leary.jpeg"
+      "photoUrl": "https://prague.web3privacy.info/people/rachel-rose-oleary.jpg",
+      "photo": "photos/speakers/rachel-rose-o'leary.jpg"
+    },
+    {
+      "id": "tibor-csoka",
+      "name": "Tibor Csóka",
+      "caption": "Software Engineer at [HOPR](https://hoprnet.org/)",
+      "photoUrl": "https://prague.web3privacy.info/people/tibor-csoka.jpg",
+      "photo": "photos/speakers/tibor-csoka.jpg"
     },
     {
       "id": "tree",
