@@ -39,3 +39,29 @@ status = "available"
 [links]
 web = "https://www.eventbrite.co.uk/e/privacy-in-cosmos-live-in-prague-tickets-621670712837"
 twitter = "https://twitter.com/ZKValidator"
+
+[[speakers]]
+id = "anna-rose"
+name = "Anna Rose"
+twitter = "https://twitter.com/annarrose"
+caption = "Host of the Zero Knowledge Podcast"
+photo = "photos/speakers/anna-rose.jpg"
+
+[[speakers]]
+id = "will-harborne"
+
+[[speakers]]
+id = "guy-zyskind"
+
+[[speakers]]
+id = "zaki-manian"
+
+[[speakers]]
+id = "finch"
+
+[[speakers]]
+id = "dave-hrycyszyn"
+name = "Dave Hrycyszyn"
+twitter = "futurechimp"
+caption = "NYM"
+photo = "photos/speakers/dave-hrycyszyn.jpg"

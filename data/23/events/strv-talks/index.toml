@@ -50,7 +50,8 @@ photo = "photos/speakers/tim-walther.jpg"
 
 [[speakers]]
 id = "daryl-kelly"
-name = "Daryl Kelly (a.k.a. Blokculture.eth)"
+name = "Daryl Kelly"
+nickname = "Blokculture.eth"
 twitter = "blokculture"
 caption = "Founder and CEO of LTD.INC"
 photo = "photos/speakers/daryl-kelly.jpg"
