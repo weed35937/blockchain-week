@@ -148,13 +148,6 @@
       "photo": "photos/speakers/cryptowanderer.jpeg"
     },
     {
-      "id": "csaba-kiraly",
-      "name": "Csaba Kiraly ",
-      "caption": "status.im",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2s8D1OYaxMPLTHWvkme83o/20ebe70db8a6c73185bfda92e4aa7c6c/self_bOMmCTf.jpeg",
-      "photo": "photos/speakers/csaba-kiraly.jpeg"
-    },
-    {
       "id": "daniel",
       "name": "Daniel",
       "caption": "Altiplanic",
@@ -595,20 +588,19 @@
       "photo": "photos/speakers/ole-ersson.jpg"
     },
     {
-      "id": "osho-jha",
-      "name": "Osho Jha",
-      "twitter": "CryptoBroShoNYC",
-      "caption": "dClimate",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1fkMUIHNjF5cPKRrm3qVk1/494958de1b350ff7b8d927de0f17a76b/Osho_headshot_BW_VjN7fkO.jpg",
-      "photo": "photos/speakers/osho-jha.jpg"
-    },
-    {
       "id": "owen-barnes",
       "name": "Owen Barnes ",
       "twitter": "temporalwave",
       "caption": "owenbarnes.com",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5tsXsqJCPFXTjmyAivjSoa/aeb2dda96e390bf3bb39574065c0af2b/me_Kw99m5f.jpg",
       "photo": "photos/speakers/owen-barnes.jpg"
+    },
+    {
+      "id": "paul-cadman",
+      "name": "Paul Cadman",
+      "caption": "Heliax",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/4mrErrWBLwBr4XGfh1Dud3/7a4e71ce89c99dfa7e13dfd95cb19fc1/67BDC0A9-E91A-4F0C-8CCA-B8B075A0C479.jpeg",
+      "photo": "photos/speakers/paul-cadman.jpeg"
     },
     {
       "id": "paul-gadi",
@@ -719,6 +711,14 @@
     },
     {
       "id": "shayan-eskandari",
+      "name": "Shayan Eskandari",
+      "twitter": "sbetamc",
+      "caption": "Concordia University",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3tXiKa0YYHyu6DUIGBVTID/bcc0733c7de35f29f7626cbb7a35bfc3/9C800F25-D4DD-47F1-A00C-FA57E9718C60.jpeg",
+      "photo": "photos/speakers/shayan-eskandari.jpeg"
+    },
+    {
+      "id": "shayan-eskandari",
       "name": " Shayan Eskandari",
       "twitter": "sbetamc",
       "caption": " Concordia University",
@@ -808,6 +808,13 @@
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5fcBu1QuRXiIeVIQDD4LTx/4f60e083fd5ce52317d4d5fd9f18c584/Screenshot_2023-05-09_at_11.11.43.png",
       "country": "tr",
       "photo": "photos/speakers/zeynep-ecenaz-altınok.png"
+    },
+    {
+      "id": "łukasz-czajka",
+      "name": "Łukasz Czajka",
+      "caption": "Heliax",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5wTWQ3eO5BWzMSXj4L69Rv/8e6273089cfbdcd621e358d3b0404c3f/DAAFBDFF-5AC8-47F5-88C2-E9173F383EE6.jpeg",
+      "photo": "photos/speakers/łukasz-czajka.jpeg"
     }
   ]
 }
