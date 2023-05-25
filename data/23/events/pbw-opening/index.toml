@@ -12,37 +12,48 @@ days = 1
 venueName = "Smíchovská náplavka"
 languages = ["english", "czech", "slovak"]
 attendees = 350
-#tags = ["lunarpunk"]
+tags = ["waterfront", "community"]
 description = '''
 
-Come together to celebrate the start of [Prague Blockchain 2023](https://prgblockweek.com/) at our open-air community party, which will take place right on **Prague's Smíchov waterfront on Friday, June 2 from 18:00**.
+Come together to celebrate the start of [Prague Blockchain 2023](https://prgblockweek.com/) at our open-air community party, which will take place right **on Prague's Smíchov waterfront on Friday, June 2 from 18:00**.
 
 For the next 10 days many of you will be sitting cooped up somewhere inside the venues, so we want to offer you something different. A chance to enjoy the unique atmosphere of the outdoor Prague Embankment, with friends, good drinks and an amazing view of nocturnal Prague.
 
 Don't expect posh surroundings, loud music or fancy decorations. We want to create a relaxed and inclusive environment where blockchain enthusiasts from all walks of life can come together, network and celebrate the start of #PBW23.
 
-The event is free and everyone is welcome! The capacity of the outdoor waterfront space is almost unlimited ;)
+The event is free and everyone is welcome! The capacity of the outdoor waterfront space is almost unlimited ;) The exact location will be announced later. 
 
-Note: No need to bring your own drinks, there are plenty of bars right on the waterfront! Don't forget your jacket, it can get a bit cold later on.
+Note: No need to bring your own drinks, there are plenty of bars right on the waterfront! Don't forget your jacket, it can get a bit cold later on. We are trying to arrange some seating, but if you bring your own you won't go wrong.
 
 You don't need a ticket or registration for the event, but we'd still love it if you'd [sign up](https://lu.ma/pbw23-opening) to let us know how many of you are coming! Thank you
 
 ---
 
-### POPIS V ČEŠTINĚ 🇨🇿👇
+### POPIS V ČEŠTINĚ 🇨🇿👇 (description in Czech language)
 
-Přijďte společně oslavit začátek [Prague Blockchain 2023](https://prgblockweek.com/) na naší komunitní party pod širým nebem, která se bude konat přímo na pražské smíchovské náplavce v pátek 2. června od 18:00.
+Přijďte společně oslavit začátek [Prague Blockchain 2023](https://prgblockweek.com/) na naší komunitní party pod širým nebem, která se bude konat přímo **na pražské smíchovské náplavce v pátek 2. června od 18:00**.
 
 Následujících 10 dní bude spousta z vás sedět zavřená někde uvnitř venues, tak vám chceme nabídnout něco jiného. Možnost užít si unikátní atmosféru venkovní pražské náplavky, s přáteli, dobrým pitím a úžasným výhledem noční Prahu.
 
 Nečekejte posh prostředí, hlasitou hudbu nebo efektní dekorace. Chceme vytvořit uvolněné a inkluzivní prostředí, kde se mohou sejít blockchainoví nadšenci ze všech oblastí života, navázat kontakt a oslavit začátek #PBW23.
 
-Akce je zdarma a všichni jsou vítáni! Kapacita venkovního prostoru náplavky je téměr neomezená ;)
+Akce je zdarma a všichni jsou vítáni! Kapacita venkovního prostoru náplavky je téměr neomezená ;) Konkrétní místo bude upřesněno později.
 
-Poznámka: Nemusíte si brát vlastní pití, hned na náplavce je spousta barů! Nezapomeňte na bundu, pozdějí může být trošku zima.
+Poznámka: Nemusíte si brát vlastní pití, hned na náplavce je spousta barů! Nezapomeňte na bundu, pozdějí může být trošku zima. Snažíme se zařídit nějaké sezení, ale když si vezmete něco vlastního nic tím nezkazíte.
 
 Na akci nepotřebujete žádnou vstupenku, nebo registraci, ale i tak budeme rádi pokud [se přihlásíte](https://lu.ma/pbw23-opening) a dáte nám tak vědět kolik z vás dorazí! Děkujeme
 
 
 '''
-logo = "logo.webp"
+logo = "logo.png"
+
+[links]
+web = "https://lu.ma/pbw23-opening"
+twitter = "https://twitter.com/PrgBlockWeek"
+telegram = "https://t.me/PrgBlockWeek"
+
+[registration]
+type = "signup"
+link = "https://lu.ma/pbw23-opening"
+status = "available"
+button = "Sign up for free!"
