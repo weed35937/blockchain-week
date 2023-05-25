@@ -1,0 +1,29 @@
+name = "Breaking Bread & Blocks w/ Ackee"
+shortname = "Breaking Bread & Blocks"
+types = ["meetup"]
+status = "published"
+#chains = []
+org = "Ackee Blockchain Security"
+dri = ""
+poc = "[maximilian.sterndorff](https://t.me/maxi_sterndorff)"
+date = "2023-06-08"
+days = 1
+times = "09:00-11:00"
+venues = ["ackee-blox"]
+languages = ["english", "czech", "slovak"]
+attendees = 60
+tags = ["DeFi", "breakfast"]
+description = '''
+Conferences, hackathons, parties... Getting overwhelmed? Stop by for a morning snack & chat with fellow enthusiasts from the blockchain and web3 community. The breakfast hosted by Ackee is the perfect opportunity to (re)connect and recharge after and before another night full of action. Join us on 8 June and fuel up energy and inspiration for the rest of #PBW23!
+'''
+logo = "poster.png"
+
+[links]
+web = "https://lu.ma/fo3gdngy"
+twitter = "https://twitter.com/AckeeBlockchain"
+
+[registration]
+type = "signup"
+link = "https://lu.ma/fo3gdngy"
+status = "available"
+button = "Register for free!"

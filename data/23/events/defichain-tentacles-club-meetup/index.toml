@@ -1,0 +1,32 @@
+name = "DeFiChain Tentacles Club Meetup"
+#shortname = ""
+types = ["meetup"]
+status = "published"
+#chains = [""]
+org = "DTRVL"
+dri = ""
+poc = "[sven](https://t.me/unofficialtool)"
+date = "2023-06-06"
+times = "20:00-23:00"
+days = 1
+venueName = "Karlín Pub"
+venueAddress = "Březinova 513, 186 00 Praha 8-Karlín"
+venueUrl = "https://goo.gl/maps/Cv3y9GNP9Ds5sjNH9"
+languages = ["english"]
+attendees = 10
+tags = ["DeFiChain","DeFi"]
+description = '''
+Our second physical DeFiChain meetup in Prague.
+Let's have a great evening and enjoy some delicious beers and talk about DeFiChain and it's community projects.
+'''
+logo = "logo.jpg"
+
+[links]
+web = "https://lets-meet.org/events/tentacles_club"
+twitter = "https://twitter.com/DTRVL_tours"
+
+[registration]
+type = "signup"
+link = "https://lets-meet.org/reg/357a400e26c70a9bb0"
+status = "available"
+button = "Register for free!"

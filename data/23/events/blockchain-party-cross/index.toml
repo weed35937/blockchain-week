@@ -1,0 +1,48 @@
+name = "Blockchain Party x Cross Club"
+shortname = "Blockchain Party at Cross"
+types = ["party"]
+status = "published"
+#chains = ["ethereum"]
+org = "[NFTiology](http://nftiology.tech)"
+dri = ""
+poc = "[113kw](https://t.me/Me_113kw)"
+date = "2023-06-02"
+times = "20:00-07:00"
+days = 1
+venueName = "Cross Club"
+venueAddress = "Plynární 1096/23, Prague 7"
+venueUrl = "https://goo.gl/maps/9pBZhc6d1LJMe2pD8"
+languages = ["english"]
+attendees = 100
+#tags = ["lunarpunk"]
+logo = "poster.png"
+description = '''
+Welcome to the Blockchain Party 2023!
+
+Starting at 8pm, join us for exceptional food and delightfully chilled tank beer at our first-floor restaurant.
+
+This is followed by the musical talents of British drum and bass artist, Submotive, and the electronic band Hard to Frame, with music production kicking off from 10pm.
+
+Your ticket price includes entry to the music production, a welcome drink, a merchandise gift, and reserved seating in the restaurant before the concert.
+
+Our goal is to facilitate engaging conversations among attendees of the Prague Blockchain Week. As such, the event will only proceed if we register a minimum of five participants, a status update that will be provided on the event page. If we do not gather enough attendees, the event will be cancelled and all previously purchased tickets will be refunded, with updates also made available on the event page. 
+
+It is also possible to purchase your ticket by acquiring an NFT from selected collections. Further details will be clarified here in the event description.
+
+We invite you to dine, engage in conversation, and then dance the night away to extraordinary drum and bass music!
+
+If you've met someone at the conference you'd like to converse with privately, please write to us https://t.me/nftiology_events or http://nftiology.tech and we will arrange a separate reservation for you away from the crowd.
+
+Blockchain Party 2023: Enjoy great food, cold beer, and live dnb music by Submotive & Hard to Frame. Network and dance into the night!
+'''
+
+[links]
+web = "https://113kw.yapsody.com/event/index/771515/blockchain-party-x-cross-club-drum-and-bass-from-uk"
+telegram = "https://t.me/nftiology_events"
+twitter = "https://twitter.com/nftiology"
+
+[registration]
+type = "tickets"
+price = "30 EUR"
+status = "available"
+link = "https://113kw.yapsody.com/event/index/771515/blockchain-party-x-cross-club-drum-and-bass-from-uk"

@@ -1,0 +1,39 @@
+name = "ETH Captains' Boat 🏴‍☠️ by Ackee Blockchain"
+shortname = "ETH Captains' Boat 🏴‍☠️"
+types = ["party"]
+status = "published"
+chains = ["ethereum"]
+org = "Ackee Blockchain Security"
+dri = ""
+poc = "[Tomas Bayer](https://twitter.com/TomasABCH)"
+date = "2023-06-10"
+days = 1
+times = "18:00-22:00"
+venueName = "Register to See Address"
+languages = ["english"]
+attendees = 30
+#tags = []
+description = '''
+​Ahoj, crypto sailors!
+
+​Come aboard to 
+
+​🏴‍☠️ 6PM: Profit from networking with other crypto pirates
+
+​🍻 7PM: Experience beer tasting by a Czech brewery Vaclav guided by its CEO Václav
+
+​🎶 All the time: Enjoy the river view and great music music
+
+​The capacity is very limited, otherwise the boat may sink. DM @TomasABCH on Twitter to get approved.
+'''
+logo = "poster.png"
+
+[links]
+web = "https://lu.ma/okjo5vyz"
+twitter = "https://twitter.com/AckeeBlockchain"
+
+[registration]
+type = "signup"
+link = "https://lu.ma/okjo5vyz"
+status = "available"
+button = "Apply to Join"

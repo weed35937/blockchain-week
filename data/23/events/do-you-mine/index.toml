@@ -1,0 +1,41 @@
+name = "Do you mine?"
+types = ["meetup"]
+status = "published"
+#chains = [""]
+org = "Nervos community"
+dri = ""
+poc = "annalese"
+date = "2023-06-09"
+days = 1
+times = "17:30-21:00"
+venueName = "Truhlárna - The Event Room"
+venueAddress = "Šaldova 388/5, 180 00 Praha 8-Karlín"
+venueUrl = "https://goo.gl/maps/FsMxzAZnNvohdrYHA"
+languages = ["english"]
+attendees = 60
+tags = ["PoW", "UTXOs", "Mining"]
+description = '''
+Howdy Folks!
+
+Calling all PoW enthusiasts!
+
+Do You Mine presents-Proof-of-Work vs. Proof-of-Stake: Analyzing the Narrative War Through the Meme's Eye View
+
+Join us for food🍔, drinks 🥤, neworking🗣️, talks, and fun💃 !
+
+- Doors open at 530pm
+- Talks start at 630pm
+- Networking and good vibes at 730pm till 9 pm
+
+This will be held at Šaldova 388/5, Prague 8
+'''
+logo = "poster.png"
+
+[links]
+twitter = "https://twitter.com/nervosnetwork"
+
+[registration]
+type = "signup"
+link = "https://www.eventbrite.com/e/do-you-mine-meme-edition-tickets-641832206407"
+status = "available"
+button = "Register for free!"
