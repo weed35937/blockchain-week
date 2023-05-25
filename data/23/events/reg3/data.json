@@ -137,6 +137,16 @@
       "photo": "photos/speakers/radek-svarz.jpg"
     },
     {
+      "id": "roman-valihrach",
+      "name": "Roman Valihrach",
+      "caption": "Founder at Coinmate",
+      "twitter": "rvalihrach?lang=cs",
+      "linkedin": "romanvalihrach",
+      "photoUrl": "https://uploads-ssl.webflow.com/6419d553c89ebe398c7c8116/646f0f16276cc29fdf782b3c_RomanValihrach.jpg",
+      "country": "cz",
+      "photo": "photos/speakers/roman-valihrach.jpg"
+    },
+    {
       "id": "stepan-kouba",
       "name": "Štěpán Kouba",
       "caption": "Open Banking Leader at Česká Spořitelna",
