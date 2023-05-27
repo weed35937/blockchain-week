@@ -18,6 +18,14 @@
       "photo": "photos/speakers/abeer-sharma.png"
     },
     {
+      "id": "abena-asante",
+      "name": "Abena Asante",
+      "twitter": "abena_eth?lang=en",
+      "caption": "SheFi / Bankless Africa / UZH",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3LxgxJmev1WMQzikvjChbe/8910d3c93286aff6798da6b3ca8cc22f/ProfilePicture_Abena_RkMM6pK.jpg",
+      "photo": "photos/speakers/abena-asante.jpg"
+    },
+    {
       "id": "aless",
       "name": "Aless",
       "twitter": "O_Romano_",
@@ -40,14 +48,6 @@
       "caption": "solarpunk stories",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1bAAJBcf6Jyv7mIPuXpIfN/8cca28599c94fc2df2822638bd9442f5/Alex_Holland_SolarPunk_Stories_-_Copy_hSH9ody.png.jpeg",
       "photo": "photos/speakers/alex-holland.jpeg"
-    },
-    {
-      "id": "alexei-zamyatin",
-      "name": "Alexei Zamyatin",
-      "twitter": "alexeiZamyatin",
-      "caption": "Interlay",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3A0PwplUwjOuEbTuR0B9bR/c23e0da427e8ffa8733fb8139d2006d8/alexei_1_lCziUzp-2.jpeg",
-      "photo": "photos/speakers/alexei-zamyatin.jpeg"
     },
     {
       "id": "amir-taaki",
@@ -89,14 +89,6 @@
       "caption": "StarkWare",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/4V4vXtN92xxVtUtQyw8epw/5132b725ca062c73677f7cd085d9d8ca/Avihu_1_YLcWwy1-2.jpg",
       "photo": "photos/speakers/avihu-mordechai-levy.jpg"
-    },
-    {
-      "id": "bernd-riedel",
-      "name": "Bernd Riedel",
-      "twitter": "https://ellerystudio.com",
-      "caption": "Ellery Studio",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3pJ98sPnOClukhSfJJJFSU/00fc22c9874a15b81820e440c13f4d4c/unnamed.jpg",
-      "photo": "photos/speakers/bernd-riedel.jpg"
     },
     {
       "id": "brewster-kahle",
@@ -635,6 +627,14 @@
       "photo": "photos/speakers/puncar.jpg"
     },
     {
+      "id": "rachel-rose-o'leary",
+      "name": "Rachel-Rose O'Leary ",
+      "twitter": "lunar_mining",
+      "caption": "DarkFi",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/7n2DuaAacZqavu63VUpV97/da05e4b0f95191af7f3e386cece317fc/ikqsOZMG_400x400_Tc0g0gI.jpg",
+      "photo": "photos/speakers/rachel-rose-o'leary.jpg"
+    },
+    {
       "id": "radek-svarz",
       "name": "Radek Svarz",
       "twitter": "radk",
@@ -710,14 +710,6 @@
     },
     {
       "id": "shayan-eskandari",
-      "name": "Shayan Eskandari",
-      "twitter": "sbetamc",
-      "caption": "Concordia University",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3tXiKa0YYHyu6DUIGBVTID/bcc0733c7de35f29f7626cbb7a35bfc3/9C800F25-D4DD-47F1-A00C-FA57E9718C60.jpeg",
-      "photo": "photos/speakers/shayan-eskandari.jpeg"
-    },
-    {
-      "id": "shayan-eskandari",
       "name": " Shayan Eskandari",
       "twitter": "sbetamc",
       "caption": " Concordia University",
@@ -789,6 +781,14 @@
       "caption": "Ethereum Foundation",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2NqJAtibmXHGj6lV1lxWk8/190348f4e303add3ecdf5a3e415f88eb/signal-2023-04-13-172434_002.jpeg",
       "photo": "photos/speakers/vitalik-buterin.jpeg"
+    },
+    {
+      "id": "vlad-frolov",
+      "name": "Vlad Frolov",
+      "twitter": "Freol",
+      "caption": "NEar protocol",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/7iTkqM6ljZI1R02gSJRmrp/9c0c4141de5f607650a5491d83286cda/F826926C-E01A-4EB1-A8FE-CAA68D02F3A0.jpeg",
+      "photo": "photos/speakers/vlad-frolov.jpeg"
     },
     {
       "id": "wlodek-gogloza",
