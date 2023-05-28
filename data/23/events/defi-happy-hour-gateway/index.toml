@@ -1,0 +1,41 @@
+name = "DeFi Happy Hour at Gateway to Cosmos with Halborn, Fraction, Six Sigma Sports"
+shortname = "DeFi Happy Hour at Gateway to Cosmos"
+types = ["meetup", "party"]
+status = "published"
+chains = []
+org = "[Halborn](https://www.halborn.com/)"
+dri = ""
+poc = ""
+date = "2023-06-05"
+days = 1
+times = "17:00-20:00"
+venueName = "Šalanda Pankrác"
+venueAddress = "Na Strži 2097/63, 140 00 Praha 4-Nusle, Czechia"
+venueUrl = "https://goo.gl/maps/obPKysuQ94R8Wa278"
+languages = ["english"]
+attendees = 200
+tags = ["halborn", "DeFi"]
+description = '''
+Unwind and network with the Cosmos community on the first night of Gateway to Cosmos at the exclusive Happy Hour side event brought to you by Halborn, Fraction and Six Sigma Sports while enjoying the finest local brews that Prague has to offer! 
+
+​Don't miss this opportunity to mingle with the industry leaders, innovators and builders in the Cosmos ecosystem right after Day 1 of the conference. Venue is also inside Cubex :)
+
+​Please note that this event is exclusively for Cosmos Gateway conference attendees.
+
+​ABOUT HALBORN
+
+​Halborn is an award-winning, elite cybersecurity firm for emerging technologies.
+
+​Security never ends. Halborn serves as a third-party partner to continuously assess an organization’s most vital assets, drive maximum value and provide world-class cybersecurity consulting and execution every step of the way — far beyond smart contracts.
+'''
+logo = "image.png"
+
+[links]
+web = "https://lu.ma/DeFiHappyHour"
+#twitter = ""
+
+[registration]
+type = "signup"
+link = "https://lu.ma/DeFiHappyHour"
+status = "available"
+button = "Apply to join!"

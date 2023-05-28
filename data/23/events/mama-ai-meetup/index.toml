@@ -27,5 +27,5 @@ web = "https://www.eventbrite.com/e/smart-contract-security-sunset-meetup-ticket
 [registration]
 type = "signup"
 link = "https://www.eventbrite.com/e/smart-contract-security-sunset-meetup-tickets-596165265357"
-status = "available"
+status = "Sold out!"
 button = "Register for free!"
