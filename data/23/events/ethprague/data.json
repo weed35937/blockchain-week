@@ -91,6 +91,14 @@
       "photo": "photos/speakers/avihu-mordechai-levy.jpg"
     },
     {
+      "id": "becca-bowlin",
+      "name": "Becca Bowlin",
+      "twitter": "joan_de_art?lang=en",
+      "caption": "Joan de Art ",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1iJDpdNi6HANMUMHQD7mrB/58c38089dd3ef3129d97d140cc3dc0b5/image.png",
+      "photo": "photos/speakers/becca-bowlin.png"
+    },
+    {
       "id": "brewster-kahle",
       "name": "Brewster Kahle",
       "twitter": "brewster_kahle?lang=en",
@@ -506,7 +514,7 @@
     },
     {
       "id": "martina-bauerova",
-      "name": "Martina Bauerová ",
+      "name": "Martina Bauerová",
       "caption": "IPR Prague",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1NnW4B018fJY8nHYfM8SEy/eea61c792ef8afdfe82804dd1bcef6d6/1601884432920.jpeg",
       "photo": "photos/speakers/martina-bauerova.jpeg"
@@ -650,14 +658,6 @@
       "caption": "Gamium",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3gndQtWbkzqMhGqtD1XO5J/6c76a6710ca1511cd10d4254c1db3fb5/RasimMuftiev_XDDCmb0.jpg",
       "photo": "photos/speakers/rasim-muftiev.jpg"
-    },
-    {
-      "id": "rebecca-bowlin",
-      "name": "Rebecca Bowlin",
-      "twitter": "https://www.joandeart.com/about-us",
-      "caption": "Joan de Art ",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/c2tDYX85u9EsW0P4xdRpf/f3917b1c8dbba6a48cc665f4b1f5b0d7/1517442336141.jpeg",
-      "photo": "photos/speakers/rebecca-bowlin.jpeg"
     },
     {
       "id": "rhys-williams",

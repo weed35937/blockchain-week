@@ -10,6 +10,14 @@
       "photo": "photos/speakers/alexander-pilar.jpg"
     },
     {
+      "id": "anja-blaj",
+      "name": "Anja Blaj",
+      "caption": "Policy Expert at EUCI, President of Blockchain Think Tank Slovenia",
+      "linkedin": "anja-blaj",
+      "photoUrl": "https://uploads-ssl.webflow.com/6419d553c89ebe398c7c8116/6474bce33799e038e977010f_6437e6091c63032e6fe1bf51_6362d080c15c7cc1d027ebf4_Anja%20Blaj.jpeg",
+      "photo": "photos/speakers/anja-blaj.jpeg"
+    },
+    {
       "id": "bohdan-zubac",
       "name": "Bohdan Zubač",
       "caption": "Attorney at Law at PRK Partners",
@@ -80,15 +88,6 @@
       "photoUrl": "https://uploads-ssl.webflow.com/6419d553c89ebe398c7c8116/646a34117561eb319a1143c0_Lukas-Kovanda_v1.jpg",
       "country": "cz",
       "photo": "photos/speakers/lukas-kovanda.jpg"
-    },
-    {
-      "id": "marina-markezic",
-      "name": "Marina Markezic",
-      "caption": "Co-Founder & Executive Director at European Crypto Initiative",
-      "twitter": "MarinaMarkezic",
-      "linkedin": "marinamarkezic",
-      "photoUrl": "https://uploads-ssl.webflow.com/6419d553c89ebe398c7c8116/646a396e75cc47a70b28d3c3_NaKQQtdD_400x400.jpg",
-      "photo": "photos/speakers/marina-markezic.jpg"
     },
     {
       "id": "michal-matejka",

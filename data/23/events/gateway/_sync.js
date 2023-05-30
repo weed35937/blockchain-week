@@ -16,6 +16,8 @@ export async function data(tools) {
     "Juraj Petro": { country: "sk" },
     "Marta Adamczyk": { country: "nz" },
     "Martin Vejmelka": { country: "cz" },
+    "Cami Ramos": { id: "camila-ramos-garzon" },
+    "Tomáš Eminger": { id: "tomas-eminger" },
   };
 
   for (const el of $("#speakers div.w-full.relative").toArray()) {
