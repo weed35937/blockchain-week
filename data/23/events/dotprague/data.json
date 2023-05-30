@@ -1,6 +1,14 @@
 {
   "speakers": [
     {
+      "id": "0xevolve",
+      "name": "0xevolve",
+      "caption": "Pragma",
+      "twitter": "0xevolve",
+      "photoUrl": "https://dotprague.xyz/wp-content/uploads/2023/05/KGVLQ-4R_400x400.jpg",
+      "photo": "photos/speakers/0xevolve.jpg"
+    },
+    {
       "id": "alex-muller",
       "name": "Alex Müller",
       "caption": "ChainSafe",

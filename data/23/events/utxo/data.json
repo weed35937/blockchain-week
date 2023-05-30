@@ -1787,6 +1787,7 @@
       "bio": "Strategy & Operations",
       "orgs": "[Kraken](https://www.kraken.com/) Digital Asset Exchange.\n",
       "caption": "Strategy & Operations\n",
+      "lead": true,
       "tracks": [
         "zaklady",
         "regulace",
