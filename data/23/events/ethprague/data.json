@@ -99,6 +99,14 @@
       "photo": "photos/speakers/becca-bowlin.png"
     },
     {
+      "id": "bernd-riedel",
+      "name": "Bernd Riedel",
+      "twitter": "https://ellerystudio.com",
+      "caption": "Ellery Studio",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3pJ98sPnOClukhSfJJJFSU/00fc22c9874a15b81820e440c13f4d4c/unnamed.jpg",
+      "photo": "photos/speakers/bernd-riedel.jpg"
+    },
+    {
       "id": "brewster-kahle",
       "name": "Brewster Kahle",
       "twitter": "brewster_kahle?lang=en",
@@ -560,14 +568,6 @@
       "caption": "AAVE & LENS PROTOCol",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/2b3oJt63KfEJuJI9UHy1IU/dbddc17ff3b6fe1322584a60d767443a/headshot_fjLT74v.jpg",
       "photo": "photos/speakers/nader-dabit.jpg"
-    },
-    {
-      "id": "nicholas-paul-brysiewicz",
-      "name": "Nicholas Paul Brysiewicz",
-      "twitter": "nicholaspaul26",
-      "caption": "LONG NOW",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6EDhzzzLUebx5XFue2bdfi/df6a6ca1e297de76d5c623397e03dbe6/PB9XWGLt_400x400.jpg",
-      "photo": "photos/speakers/nicholas-paul-brysiewicz.jpg"
     },
     {
       "id": "nicolas-consigny",

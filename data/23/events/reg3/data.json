@@ -10,6 +10,16 @@
       "photo": "photos/speakers/alexander-pilar.jpg"
     },
     {
+      "id": "anett-rolikova",
+      "name": "Anett Rolikova",
+      "caption": "Dev Rel at Hyperlane",
+      "twitter": "AnettRolikova",
+      "linkedin": "anette-rolikova",
+      "photoUrl": "https://uploads-ssl.webflow.com/6419d553c89ebe398c7c8116/6474d8e04dc71d6411d077e9_photo_2023-05-29_18-51-46.jpg",
+      "country": "sk",
+      "photo": "photos/speakers/anett-rolikova.jpg"
+    },
+    {
       "id": "anja-blaj",
       "name": "Anja Blaj",
       "caption": "Policy Expert at EUCI, President of Blockchain Think Tank Slovenia",
@@ -180,6 +190,14 @@
       "photoUrl": "https://uploads-ssl.webflow.com/6419d553c89ebe398c7c8116/646337994e797d41e6a93898_OLEXA%20Tom%C3%A1%C5%A1%20Foto_1.jpg",
       "country": "cz",
       "photo": "photos/speakers/tomas-olexa.jpg"
+    },
+    {
+      "id": "viktor-koliba",
+      "name": "Viktor Koliba",
+      "caption": "Reg3 Prague Organizer, Associate at PRK Partners",
+      "photoUrl": "https://uploads-ssl.webflow.com/6419d553c89ebe398c7c8116/6475bba35b26076edd211395_Zmen%C5%A1eno_Koliba%20Viktor_polopotret_%C4%8Dtverec.jpg",
+      "country": "cz",
+      "photo": "photos/speakers/viktor-koliba.jpg"
     },
     {
       "id": "vyara-savova",
