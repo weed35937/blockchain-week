@@ -1,0 +1,29 @@
+name = "DTRVL Crypto Meetup"
+types = ["meetup"]
+status = "published"
+org = "DTRVL"
+dri = ""
+poc = "Sven"
+date = "2023-06-02"
+days = 1
+times = "19:00-22:00"
+venueName = "Letná Beer Garden"
+venueAddress = "Letenské sady, 170 00 Praha 7-Holešovice"
+venueUrl = "https://goo.gl/maps/Z3etM1z5FLYaQSvw9"
+languages = ["english"]
+attendees = 10
+#tags = []
+description = '''
+We will have a  meetup for the start of the Prague Blockchain Week and discuss about the markets and projects. Later joining some PBW23 party.
+'''
+logo = "logo.png"
+
+[links]
+web = "https://lets-meet.org/reg/56193932925579b00b"
+twitter = "https://twitter.com/DTRVL_tours"
+
+[registration]
+type = "signup"
+link = "https://lets-meet.org/reg/56193932925579b00b"
+status = "available"
+button = "Register for free!"

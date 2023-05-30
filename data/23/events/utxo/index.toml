@@ -43,6 +43,9 @@ times = "10:00-19:00"
 title = "Day 1"
 
 [[segments]]
+remote = "utxo-afterparty"
+
+[[segments]]
 date = "2023-06-04"
 times = "10:00-18:00"
 title = "Day 2"

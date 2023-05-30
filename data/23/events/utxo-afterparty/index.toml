@@ -1,0 +1,44 @@
+name = "UTXO Saturday Afterparty w/ Crypto Portal x Museverse x Somnium Space"
+shortname = "UTXO Saturday Afterparty"
+types = ["party"]
+status = "published"
+#chains = [""]
+org = "Crypto Portal / Museverse"
+dri = ""
+poc = "[Derek](https://t.me/AloisPerspektiv)"
+date = "2023-06-03"
+days = 1
+times = "18:00-02:00"
+venues = ["gabriel-loci"]
+languages = ["english", "czech", "slovak"]
+attendees = 150
+tags = ["Cross reality", "live music", "dj", "nft"]
+description = '''
+The Official UTXO Saturday Afterparty hosted by Crypto Portal and Museverse.
+Join us as we kick off the first Saturday of Prague Blockchain Week featuring live music, DJs, NFT Visuals, Metaverse performances, and more at the Gabriel Loci Monastery in Prague.
+
+Enjoy the full UTXO conference and guarantee entry to the afterparty with your ticket here: https://vstupenky.utxo.cz/23/
+
+Thanks to our partners:
+
+- [Somnium Space](https://somniumspace.com/)
+- [UTXO Foundation](https://utxo.foundation/)
+- [Museverse.xyz](https://museverse.xyz/)
+- [HATA](https://www.hereaftertheart.com/)
+- [Polkadot](https://polkadot.network/)
+
+Capacity is limited! More details coming soon!
+'''
+logo = "poster.jpeg"
+
+[links]
+web = "https://utxo-afterparty.eventbrite.com/"
+twitter = "https://twitter.com/CryptoPortalArt"
+
+[registration]
+type = "signup"
+link = "https://utxo-afterparty.eventbrite.com/"
+status = "available"
+button = "Register for free!"
+
+

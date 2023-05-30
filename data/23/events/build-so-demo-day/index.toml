@@ -1,0 +1,49 @@
+name = "Buidl.so Demo Day ETH Prague"
+shortname = "Buidl.so Demo Day"
+types = ["meetup"]
+status = "published"
+org = "BuidlersTribe"
+dri = ""
+poc = "[ayush](https://t.me/web3_ayush)"
+date = "2023-06-11"
+times = "17:00-20:00"
+days = 1
+venues = ["press-center-cleevio"]
+languages = ["english"]
+attendees = 60
+tags = ["Demo Day", "Investors", "Founders"]
+logo = "poster.webp"
+description = '''
+Find the best investors for your groundbreaking Web3 startups at Buidl.so Demo Day ETH Prague! 
+
+Apply to the program, and if you get shortlisted, you will be pitching in person to a room full of marquee investors. (watch this space to know which investors will be there👀)
+
+All of the key ecosystem leaders and investors will be present there. So, if you're a founder looking to raise early-stage capital from marquee VCs and angels this is the place to be. 
+
+Why you should apply?
+
+- Get access to various ecosystem support like grants, credits, etc. 💳
+
+- Network with fellow founders 🕸️
+
+- Tap into our mentor network and get feedback 🧠
+
+- Shot at getting funded 💸
+
+Venue📍: Mississippi House
+
+Date of the demo day📅: Sun, June 11, 2023
+
+Join the BuidlersTribe Prague Chapter here to meet local founders and have a Prague support group!
+'''
+
+[links]
+web = "https://buidl.so/buidlso-demo-day-eth-prague"
+telegram = "https://t.me/+-w9OjVyy88IzYzll"
+twitter = "https://twitter.com/BuidlersTribe"
+
+[registration]
+type = "signup"
+link = "https://buidl.so/buidlso-demo-day-eth-prague"
+status = "available"
+button = "Register for free!"

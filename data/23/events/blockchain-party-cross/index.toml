@@ -2,7 +2,6 @@ name = "Blockchain Party x Cross Club"
 shortname = "Blockchain Party at Cross"
 types = ["party"]
 status = "published"
-#chains = ["ethereum"]
 org = "[NFTiology](http://nftiology.tech)"
 dri = ""
 poc = "[113kw](https://t.me/Me_113kw)"
@@ -14,7 +13,6 @@ venueAddress = "Plynární 1096/23, Prague 7"
 venueUrl = "https://goo.gl/maps/9pBZhc6d1LJMe2pD8"
 languages = ["english"]
 attendees = 100
-#tags = ["lunarpunk"]
 logo = "poster.png"
 description = '''
 Welcome to the Blockchain Party 2023!
