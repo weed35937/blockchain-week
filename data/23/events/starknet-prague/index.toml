@@ -2,7 +2,7 @@ name = "Starknet Prague"
 #shortname = ""
 types = ["meetup"]
 status = "published"
-chains = ["ethereum"]
+chains = ["ethereum", "starknet"]
 org = "Starknet Foundation"
 dri = ""
 poc = ""
@@ -11,12 +11,19 @@ days = 1
 times = "18:00-22:00"
 venues = ["loft-bubny"]
 languages = ["english"]
-attendees = 100
+attendees = 150
 tags = ["ethereum", "starknet", "scaling", "L2", "cairo"]
 description = '''
 Join us for the second edition of Starknet Prauge, this time held at the L2 Loft as part of Prague Blockchain Week. The meetup will host some of the brightest minds in the ecosystem, with 3 talks on the agenda. There will also be plenty of time to socialize, meet new people and have fun. Whether you're new to Starknet or already a seasoned Starknet enjoyooor, you definitely don't want to miss this.
 
 Doors open 18.00 (6 PM), talks start around 18.30 (6.30 PM).
+
+Lineup:
+
+* [Avihu Levy](https://twitter.com/avihu28/) - Head of Product @ StarkWare - Topic of talk TBD
+* [Rohit Goyal](https://twitter.com/imrgoyal) - Founder @ JediSwap - Building JediSwap: A new way of human coordination and building organizations
+* [Matthias / 0xevolve](https://twitter.com/0xevolve/) - Pragma CTO - Provable Oracles
+* [Pia](https://twitter.com/piapark_eth) - Product Engineer @ Herodotus - Cross chain storage proofs with Herodotus
 
 Stay tuned for more updates and join [our TG group](https://t.me/StarknetPrague) to get real time info.
 '''
@@ -35,6 +42,9 @@ button = "Register for free!"
 
 [[speakers]]
 id = "avihu-mordechai-levy"
+name = "Avihu Levy"
+twitter = "avihu28"
+caption = "Head of Product at StarkWare"
 
 [[speakers]]
 id = "rohit-goyal"
@@ -42,3 +52,15 @@ name = "Rohit Goyal"
 twitter = "imrgoyal"
 caption = "Founder of [JediSwap](https://www.jediswap.xyz/)"
 photo = "photos/speakers/rohit-goyal.jpeg"
+
+[[speakers]]
+id = "0xevolve"
+twitter = "0xevolve"
+caption = "Pragma CTO"
+
+[[speakers]]
+id = "pia"
+name = "Pia"
+twitter = "piapark_eth"
+caption = "Product engineer at Herodotus"
+photo = "photos/speakers/pia.jpeg"
