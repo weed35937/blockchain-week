@@ -1,0 +1,56 @@
+name = "HODL JAZZ: riverside rooftop"
+types = ["meetup"]
+status = "published"
+org = "NFTiology"
+dri = ""
+poc = "[113kw](https://t.me/Me_113kw)"
+date = "2023-06-10"
+days = 1
+times = "15:00-18:00"
+venueName = "Jazz Dock"
+venueAddress = "Janáčkovo nábř. 3249/2, Prague 5"
+venueUrl = "https://goo.gl/maps/Ymjg7QQn6aKTuufGA"
+languages = ["english"]
+attendees = 50
+#tags = []
+description = '''
+Welcome to the HODL JAZZ 2023!
+
+Are you tired of the hustle and bustle of conferences and looking for a moment to relax and enjoy the summer weather and the beauty of Prague? Starting from 3 PM, you can join us on the sunny rooftop in the middle of the Vltava River and immerse yourself in the enchanting world of jazz music.
+
+The HODL JAZZ events series takes place in a truly exceptional venue, a transformed harbor dock. This ticket from this eventbrite event is valid from 3 PM to 6 PM. The ticket is valid only for the rooftop and does not include access to the later concert inside the club.
+
+Your ticket includes admission to the music production, a complimentary welcome drink, a special merchandise gift, and reserved seating prior to the concert.
+
+Our main objective is to foster engaging conversations among attendees of the BTC Prague conference and Prague Blockchain Week. Therefore, the event will proceed only if we reach a minimum of five registered participants. Regular updates regarding the status of the event will be provided on this event page. In the event that we do not meet the required number of attendees, the event will be canceled, and all previously purchased tickets will be fully refunded. We will keep you informed of any updates on the event page as well.
+
+You can purchase your tickets using Bitcoin! Simply follow the BTCpay link provided for seamless ticket purchases through BTC.
+
+Alternatively, you have the option to acquire a ticket by purchasing an NFT from our selected collections. When you purchase an NFT from any of the collections listed at the end of this text, you will receive complimentary entry to the event, permanent access to over 100 Discord channels, and exclusive discounts for future in-person events organized by us.
+
+Take a seat, savor a drink, and relax to the soothing sounds of live jazz music.
+
+If you wish to have a private conversation with someone you've met at the conference, please reach out to us through https://t.me/nftiology_events or http://nftiology.tech, and we will arrange a separate reservation for you away from the crowd.
+
+Discover the NFT collections (Ethereum and Polygon Matic) available as an alternative to purchasing a ticket here:
+
+https://opensea.io/collection/voxelmodel﻿ https://opensea.io/collection/113kw﻿ https://opensea.io/collection/art113kw https://opensea.io/collection/weiser https://opensea.io/collection/magdalenacubrova https://opensea.io/collection/rootsinego ﻿https://opensea.io/collection/krutspliff
+
+By acquiring an NFT from any of the mentioned collections, you not only gain complimentary entry to the event but also enjoy permanent access to over 100 Discord channels and receive discounts for future in-person events organized by us. We express our heartfelt appreciation to Tokenproof for enabling this incredible opportunity.
+
+If you purchase an NFT or make a BTC payment, please let us know and register for the event at https://t.me/nftiology_events.
+
+This evening's festivities are made possible through the collaborative efforts of Jazzdock and http://nftiology.tech.
+'''
+logo = "poster.png"
+
+[links]
+web = "https://www.eventbrite.com/e/hodl-jazz-riverside-rooftop-tickets-645284843337"
+twitter = "https://twitter.com/nftiology"
+telegram = "https://t.me/nftiology_events"
+
+[registration]
+type = "tickets"
+price = "25 EUR"
+link = "https://www.eventbrite.com/e/hodl-jazz-riverside-rooftop-tickets-645284843337"
+status = "available"

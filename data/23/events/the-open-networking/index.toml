@@ -1,0 +1,44 @@
+name = "The Open Networking"
+types = ["meetup"]
+status = "published"
+org = "Inguro.io & TonanaDAO"
+dri = ""
+poc = ""
+date = "2023-06-02"
+times = "20:00-22:00"
+days = 1
+venueName = "Prague Marriott Hotel"
+venueAddress = "V Celnici 8, 110 00 Nové Město"
+venueUrl = "https://goo.gl/maps/arGNS5ZugVJoWqmo8"
+languages = ["english", "czech", "slovak"]
+attendees = 50
+tags = ["TON", "startups", "networking"]
+logo = "image.jpeg"
+description = '''
+Our event aims to foster connections and spark discussions on the diverse aspects of blockchain technology without the constraints of a set agenda.
+
+Join us to mingle with like-minded individuals and companies, share your experiences, and possibly discover new opportunities in a relaxed and inviting atmosphere.
+
+Remember, at #PBW23, the overall themes are financial freedom, decentralization, and privacy, allowing you to explore and engage in a breadth of relevant topics. We look forward to welcoming you to this enriching event, contributing to the spirit of collaboration and knowledge exchange that characterizes Prague Blockchain Week.
+
+Organizers:
+Inguro - Inguro is a seed-stage startup and a sales intelligence platform. Inguro vision is to eliminate cold outreach. Inguro AI finds the closest mutual connections for warm introductions. Vyacheslav Ladischenski Startup ThinkTank Prague moderator and founder of Inguro.
+
+Ton Europe Hub - the network that brings together individuals and businesses interested in blockchain technology.
+
+Sponsors:
+StartupYard Accelerator - Accelerating Deep Tech Startups from the Heart of Europe since 2011. So far our startups have raised over €100m in funding.
+
+Startup Kitchen - Seeking a recipe for success is no piece of cake, so our Startup Kitchen staff is here to help. We are a group of network-loving investors and talent scouts with a delicate taste for overlooked yet gifted founders. We are here for all startup apprentices that want to become master chefs.
+'''
+
+[links]
+web = "https://www.eventbrite.com/e/the-open-networking-pbw23-tickets-645986461897"
+telegram = "https://t.me/+FBATOcfdBzphNDcy"
+twitter = "https://twitter.com/evaaprotocol"
+
+[registration]
+type = "signup"
+link = "https://www.eventbrite.com/e/the-open-networking-pbw23-tickets-645986461897"
+status = "available"
+button = "Register for free!"

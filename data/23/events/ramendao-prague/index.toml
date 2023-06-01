@@ -1,0 +1,29 @@
+name = "RamenDAO: Traditional Czech Dinner & Beer 🍻"
+types = ["meetup", "party"]
+status = "published"
+org = "Crypto Nomads Club"
+dri = ""
+poc = ""
+date = "2023-05-03"
+times = "19:30-22:00"
+days = 1
+venueName = "Mint NFT to See Address"
+languages = ["english", "czech", "slovak"]
+attendees = 40
+tags = ["dinner", "web3", "ETHPrague", "crypto frens", "beer"]
+logo = "image.png"
+description = '''
+🇨🇿 RamenDAO: Traditional Czech Dinner & Beer 🍻 is the 10th edition of the RamenDAO web3 dinner series by Crypto Nomads Club. Bringing together like-minded frens from all over the world to enjoy tasty food, drinks and excellent company. Join for a night of fun and feasting by minting the special NFT 🖼
+
+Location: Prague 1, 10 mins by car from ETHPrague venue - the venue is secret and will be given once you mint the NFT. 
+'''
+
+[links]
+web = "https://www.cryptonomadsclub.xyz/ramendao/ethprague"
+twitter = "https://twitter.com/CryptoNomads_gm"
+
+[registration]
+type = "tickets"
+link = "https://www.cryptonomadsclub.xyz/ramendao/ethprague"
+price = "0.045 ETH"
+button = "Mint NFT to attend!"

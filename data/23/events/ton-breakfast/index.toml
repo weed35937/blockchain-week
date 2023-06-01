@@ -1,0 +1,32 @@
+name = "TON Breakfast"
+types = ["meetup"]
+status = "published"
+org = "TON Europe Hub"
+dri = ""
+poc = ""
+date = "2023-06-03"
+times = "10:00-11:30"
+days = 6
+venues = ["vnitroblock"]
+languages = ["english", "czech", "slovak"]
+attendees = 30
+tags = ["TON", "Breakfast", "Telegram", "TWA"]
+logo = "image.png"
+description = '''
+Join us at TON Breakfasts (3.6 - 8.6) for diverse blockchain discussions, connections, and opportunities. No agenda, just mingle and share experiences in a relaxed setting.
+
+Themes:
+- TON Blockchain features showcase
+- Tonkeeper and Wallet introduction
+- TAKT and FunC language discussions
+- Footsteps, grants, and funding in TON Ecosystem
+- Financial freedom, decentralization, privacy
+- Minting soul-bound TON NFTs with 3.14XL
+- Hack-a-TONxDWF and FunC Contests
+- TON and Cross-chain compatibility
+- Telegram Web Applications for dApps
+'''
+
+[links]
+web = "https://www.eventbrite.com/e/the-open-networking-pbw23-tickets-645986461897"
+telegram = "https://t.me/tonbreakfast"
