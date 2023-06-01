@@ -100,6 +100,13 @@
       "photo": "photos/speakers/lukas-kovanda.jpg"
     },
     {
+      "id": "madalena-perestrelo-de-oliveira",
+      "name": "Madalena Perestrelo de Oliveira",
+      "caption": "Professor at the University of Lisbon School of Law, Senior Counsel at PLMJ",
+      "photoUrl": "https://uploads-ssl.webflow.com/6419d553c89ebe398c7c8116/6477447378caa12ba4970a32_DSC_1554%20(1)_1.jpg",
+      "photo": "photos/speakers/madalena-perestrelo-de-oliveira.jpg"
+    },
+    {
       "id": "michal-matejka",
       "name": "Michal Matějka",
       "caption": "Partner at PRK Partners, attorneys at law",

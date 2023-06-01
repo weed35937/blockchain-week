@@ -41,14 +41,6 @@
       "photo": "photos/speakers/arseneeth.jpg"
     },
     {
-      "id": "avihu-mordechai-levy",
-      "name": "Avihu Mordechai Levy",
-      "twitter": "avihu28",
-      "caption": "StarkWare",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3OcAiHEyvxOESkY1Vz2bc4/79d4bd550c7d7dec2b70ca1682aa59bf/Avihu_Mordechai_Levy.jpg",
-      "photo": "photos/speakers/avihu-mordechai-levy.jpg"
-    },
-    {
       "id": "conor-gilmore",
       "name": "Conor Gilmore",
       "twitter": "TheKidCG",
@@ -112,6 +104,14 @@
       "caption": "APWine",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/6RcO7FFJhyeTW2rmtFTx9m/e7bcb7071eb63dcb9d2dc25c29a3a2aa/Gaspard_Peduzzi.jpeg",
       "photo": "photos/speakers/gaspard-peduzzi.jpeg"
+    },
+    {
+      "id": "henri-lieutaud",
+      "name": "Henri Lieutaud",
+      "twitter": "henrlihenrli",
+      "caption": "Starknet",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/36AnNjKCS89oKb1gM0pfXy/3af35ebc442b54c24e557dfe5485174c/Henri_Lieutaud.png",
+      "photo": "photos/speakers/henri-lieutaud.png"
     },
     {
       "id": "james-glasscock",

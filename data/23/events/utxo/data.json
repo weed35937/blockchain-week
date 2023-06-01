@@ -200,7 +200,8 @@
       "tracks": [
         "zaklady",
         "dao",
-        "spolecnost"
+        "spolecnost",
+        "polkadot"
       ],
       "country": "cz",
       "desc": "Chain-agnostic vizionář, community builder, Web3 Events COO. Progresivní web3 kouzelník.\n",
@@ -211,6 +212,25 @@
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/damsky-web.webp",
       "photo": "photos/speakers/damsky.webp"
+    },
+    {
+      "id": "daniel-krupka",
+      "name": "Daniel Krupka",
+      "twitter": "krupda42",
+      "bio": "Head of research",
+      "orgs": "[Coinbureau](https://www.coinbureau.com/)\n",
+      "caption": "Head of research\n",
+      "tracks": [
+        "eth",
+        "spolecnost"
+      ],
+      "country": "cz",
+      "lead": true,
+      "photos": [
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/daniel-krupka-twitter.jpg",
+      "photo": "photos/speakers/daniel-krupka.jpg"
     },
     {
       "id": "david-marak",
@@ -898,6 +918,31 @@
       "photo": "photos/speakers/lc-young.jpg"
     },
     {
+      "id": "lea-petrasova",
+      "name": "Lea Petrášová",
+      "lead": true,
+      "twitter": "LeaPetras",
+      "bio": "Spoluzakladatelka, CEO",
+      "orgs": "[Vexl](https://vexl.it)\n",
+      "caption": "Spoluzakladatelka, CEO\n",
+      "tracks": [
+        "btc",
+        "regulace"
+      ],
+      "web": {
+        "url": "https://vexl.it"
+      },
+      "country": "sk",
+      "desc": "Lea je spoluzakladatelkou a CEO společnosti Vexl, mobilní aplikace, která usnadňuje obchodování s bitcoiny tak, jak bylo zamýšleno: peer-to-peer a bez KYC.\n",
+      "pretalxId": "MX9NKW",
+      "photos": [
+        "web:webp",
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/lea-petrasova-web.webp",
+      "photo": "photos/speakers/lea-petrasova.webp"
+    },
+    {
       "id": "libor-flossler",
       "nickname": "Investocka",
       "name": "Libor Flössler",
@@ -1028,12 +1073,37 @@
       ],
       "country": "sk",
       "lead": true,
+      "pretalxId": "8HXCTV",
       "photos": [
         "web:jpg",
         "twitter:jpg"
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/mario-havel-web.jpg",
       "photo": "photos/speakers/mario-havel.jpg"
+    },
+    {
+      "id": "markoinether",
+      "name": "markoInEther",
+      "twitter": "markoinether",
+      "bio": "A surfing addict, decentralization & DVT evangelist",
+      "orgs": "[SSV DAO](https://ssv.network/dao/) contributor.\n",
+      "caption": "A surfing addict, decentralization & DVT evangelist\n",
+      "tracks": [
+        "eth",
+        "defi"
+      ],
+      "web": {
+        "url": "https://www.youtube.com/@markoinether"
+      },
+      "country": "sk",
+      "desc": "A surfing addict, decentralization & DVT evangelist. \nCurrently working on DVT tech and decentralizing staking infrastructure using distributed validator technology as SSV DAO contributor.\nInvolved with the Ethereum ecosystem since 2016 organizing Ethereum meetups in Bratislava and volunteering at Devcon4, 6.  Have been working on various staking projects since 2020. \nCheck my blog if you want to read my [rambling on ETH staking](https://medium.com/@MarkoInEther) and crypto in general, my [shitposting track record](https://twitter.com/markoinether) on twitter or [awesome-ssv repo](https://github.com/bloxapp/awesome-ssv/) if you are a builder interested in Eth staking.\n",
+      "pretalxId": "ZXKJZP",
+      "photos": [
+        "web:webp",
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/markoinether-web.webp",
+      "photo": "photos/speakers/markoinether.webp"
     },
     {
       "id": "martin-bok",
@@ -1122,31 +1192,6 @@
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/martin-kabrhel-web.webp",
       "photo": "photos/speakers/martin-kabrhel.webp"
-    },
-    {
-      "id": "martin-matejka",
-      "name": "Martin Matejka",
-      "twitter": "MatejkaMar",
-      "bio": "Founder a vývojář platformy",
-      "caption": "Founder a vývojář platformy Firefish.io\n",
-      "orgs": "[firefish.io](https://firefish.io/)\n",
-      "tracks": [
-        "btc",
-        "defi",
-        "spolecnost"
-      ],
-      "web": {
-        "url": "https://firefish.io/"
-      },
-      "country": "sk",
-      "desc": "Martin se celý život pohybuje na finančních trzích. V rámci tradičních financí dlouhé roky vedl úspěšný tradingový tým obchodující s energetickými komoditami. Od roku 2021 se plně věnuje Bitcoinu. Nejdříve spoluzaložil hedge fond Stratosphere a od loňského roku pak vyvíjí platformu Firefish.io, která umožňuje využití Bitcoinu jako finančního kolaterálu.\n",
-      "pretalxId": "AWZZDN",
-      "photos": [
-        "web:webp",
-        "twitter:jpg"
-      ],
-      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/martin-matejka-web.webp",
-      "photo": "photos/speakers/martin-matejka.webp"
     },
     {
       "id": "matej-curda",
@@ -1288,6 +1333,27 @@
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/milan-peschl-web.webp",
       "photo": "photos/speakers/milan-peschl.webp"
+    },
+    {
+      "id": "nataliya-grimberg",
+      "name": "Nataliya Grimberg",
+      "bio": "Web3 Fashion & Luxury Consultant",
+      "orgs": "Metaverse Fashion Expert at [Somnium Space](https://somniumspace.com/), Digital Fashion Consultant at MOYA\n",
+      "caption": "Web3 Fashion & Luxury Consultant\n",
+      "tracks": [
+        "nft"
+      ],
+      "web": {
+        "url": "https://www.msha.ke/futurist"
+      },
+      "country": "cz",
+      "desc": "Nataliya is a Web3 fashion and luxury strategist building a new generation of digital experiences and reporting on the newest developments in the field as a speaker and trend forecaster. She works with luxury and tech companies to help them navigate the rapidly changing landscape of the metaverse industry with future-proof strategies.\n",
+      "pretalxId": "LVJ3L3",
+      "photos": [
+        "web:webp"
+      ],
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/nataliya-grimberg-web.webp",
+      "photo": "photos/speakers/nataliya-grimberg.webp"
     },
     {
       "id": "niftyape",
@@ -1515,6 +1581,7 @@
       ],
       "country": "cz",
       "desc": "Zakladatel Polkadot, Dfinity a Solana komunit v ČR a na Slovensku. Nejblíže je mi ovšem [Polkadot](https://polkadot.network/), proto jsme založili značku [Polkadotters](https://polkadotters.medium.com/) pod kterou pravidelně píšeme pro mezinárodní publikum a zároveň provozujeme validátory na Polkadotu, Kusamě a téměr všech ostatních parachainech.\n",
+      "pretalxId": "XYQSQC",
       "photos": [
         "web:jpg",
         "twitter:jpg"
@@ -1623,7 +1690,7 @@
       "name": "Samuela Davidova",
       "twitter": "samremotegirl",
       "bio": "Thinker | Doer | Rethinking Life",
-      "orgs": "[The Freeist](https://thefreeist.com/)\n",
+      "orgs": "Author [The Freeist](https://thefreeist.com/), ambasador konference [DeGameFi](https://degamefi.io/)\n",
       "caption": "Thinker | Doer | Rethinking Life\n",
       "tracks": [
         "spolecnost"
@@ -1640,6 +1707,28 @@
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/samuela-davidova-web.webp",
       "photo": "photos/speakers/samuela-davidova.webp"
+    },
+    {
+      "id": "six",
+      "name": "Six",
+      "twitter": "sixTheDave",
+      "bio": "Web3 security auditor and consultant",
+      "orgs": "Founder of [CCTF](https://cryptoctf.org/) and [Polkadot](https://polkadot.network/) Head Ambassador.\n",
+      "caption": "Web3 security auditor and consultant\n",
+      "tracks": [
+        "nft"
+      ],
+      "web": {
+        "url": "https://sixthedave.me"
+      },
+      "country": "hu",
+      "desc": "Founder of CCTF and Polkadot Head Ambassador. Web3 security auditor and consultant.\n",
+      "pretalxId": "GY7UG3",
+      "photos": [
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/six-twitter.jpg",
+      "photo": "photos/speakers/six.jpg"
     },
     {
       "id": "sodomak",
@@ -1729,6 +1818,7 @@
         "url": "https://pwn.xyz/"
       },
       "country": "cz",
+      "pretalxId": "AZCLF8",
       "photos": [
         "web:webp",
         "twitter:jpg"
@@ -1801,6 +1891,26 @@
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/tomas-hajek-web.webp",
       "photo": "photos/speakers/tomas-hajek.webp"
+    },
+    {
+      "id": "tomas-vlasak",
+      "name": "Tomáš Vlasák",
+      "nickname": "Krypto Tomáš",
+      "twitter": "KryptoTomasCZ",
+      "bio": "DeFi konzultant",
+      "orgs": "Investor na volné noze\n",
+      "caption": "DeFi konzultant\n",
+      "tracks": [
+        "defi"
+      ],
+      "country": "cz",
+      "desc": "Akciový a krypto investor.\n",
+      "pretalxId": "DAEAV8",
+      "photos": [
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/tomas-vlasak-twitter.jpg",
+      "photo": "photos/speakers/tomas-vlasak.jpg"
     },
     {
       "id": "urza",
@@ -1927,6 +2037,31 @@
       "photo": "photos/speakers/vojtech-olbrecht.jpg"
     },
     {
+      "id": "vratislav-pecka",
+      "name": "Vratislav Pecka",
+      "nickname": "PosterLad",
+      "twitter": "posterlad",
+      "bio": "Digitální umělec",
+      "orgs": "[SuperRare](https://superrare.com/) artist\n",
+      "caption": "Digitální umělec\n",
+      "tracks": [
+        "nft"
+      ],
+      "web": {
+        "url": "https://www.posterlad.com"
+      },
+      "country": "cz",
+      "desc": "PosterLad je projekt digitálního umělce Vratislava Pecky. Své práce vystavoval na mnoha místech v různých koutech světa, jeho NFT tvorba byla pak vystavena i na několika virtuálních a NFT výstavách, naposledy na NFTNYC nebo v pařížské aukční síni FauveParis. Projekt byl oceněn několika mezinárodními designovými cenami. Na konci roku 2020 byl přijat na platformu SuperRare. Je aktivní jak v tradičním uměleckém světě, tak v prostředí NFT.\n",
+      "pretalxId": "FKQV8V",
+      "lead": true,
+      "photos": [
+        "web:webp",
+        "twitter:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/vratislav-pecka-web.webp",
+      "photo": "photos/speakers/vratislav-pecka.webp"
+    },
+    {
       "id": "yangwao",
       "name": "yangwao",
       "twitter": "yangwao",
@@ -1938,6 +2073,7 @@
       ],
       "country": "sk",
       "desc": "🔆 🌘 Solar ⚔️  Lunar punk ⏳💾  Accumulating History 🦠🧠 Senescent cells are bad 🥽🖼️  @KodaDot @SubWorkBled\n",
+      "pretalxId": "YX3EL7",
       "photos": [
         "web:webp",
         "twitter:jpg"
@@ -1963,6 +2099,12 @@
       "name": "Ethereum a smart-kontrakty obecně",
       "shortname": "Ethereum",
       "examples": "* Ethereum 2.0\n* Layer2 - rollupy\n* (EVM) Sidechainy\n* vývoj smart-kontraktů (solidity)\n* MEV - Miner Extractable Value\n"
+    },
+    {
+      "id": "polkadot",
+      "name": "Polkadot",
+      "shortname": "Polkadot",
+      "examples": "* Polkadot\n"
     },
     {
       "id": "defi",

@@ -50,6 +50,14 @@
       "photo": "photos/speakers/alex-holland.jpeg"
     },
     {
+      "id": "alexei-zamyatin",
+      "name": "Alexei Zamyatin",
+      "twitter": "alexeiZamyatin",
+      "caption": "Interlay",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3A0PwplUwjOuEbTuR0B9bR/c23e0da427e8ffa8733fb8139d2006d8/alexei_1_lCziUzp-2.jpeg",
+      "photo": "photos/speakers/alexei-zamyatin.jpeg"
+    },
+    {
       "id": "amir-taaki",
       "name": "Amir Taaki",
       "twitter": "Narodism",
@@ -366,14 +374,6 @@
       "caption": "Heliax",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1PiMcbk72G0MgzOcQeiwNg/77636da3121119dcebd1f68663987740/me_fC2aqrl.jpeg",
       "photo": "photos/speakers/jonathan-cubides.jpeg"
-    },
-    {
-      "id": "josef-gattermayer",
-      "name": "Josef Gattermayer",
-      "twitter": "jgattermayer",
-      "caption": " Ackee Blockchain",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/31mQ6BlJbPKwt8fEytleew/35c4b1735ac73cd4379e71dffc6de3e1/ceo-cut_WYMKvyu.png",
-      "photo": "photos/speakers/josef-gattermayer.png"
     },
     {
       "id": "josef-j",

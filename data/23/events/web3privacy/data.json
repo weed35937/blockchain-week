@@ -18,6 +18,13 @@
       "photo": "photos/speakers/alona-shevchenko.jpg"
     },
     {
+      "id": "althea",
+      "name": "Althea",
+      "caption": "Head of Comms, Privacy & Scaling Exploration",
+      "photoUrl": "https://prague.web3privacy.info/people/althea.jpeg",
+      "photo": "photos/speakers/althea.jpeg"
+    },
+    {
       "id": "ameen-soleimani",
       "name": "Ameen Soleimani",
       "twitter": "ameensol",
@@ -99,6 +106,13 @@
       "photo": "photos/speakers/max-hampshire.jpg"
     },
     {
+      "id": "merula",
+      "name": "Merula",
+      "caption": "Software engineer and cryptographer Circles Entropy",
+      "photoUrl": "https://prague.web3privacy.info/people/merula.jpeg",
+      "photo": "photos/speakers/merula.jpeg"
+    },
+    {
       "id": "mykola-siusko",
       "name": "Mykola Siusko",
       "twitter": "nicksvyaznoy",
@@ -142,6 +156,21 @@
       "photo": "photos/speakers/rachel-rose-o'leary.jpg"
     },
     {
+      "id": "serinko",
+      "name": "Serinko",
+      "caption": "Privacy Researcher",
+      "photoUrl": "https://prague.web3privacy.info/people/serinko.jpeg",
+      "photo": "photos/speakers/serinko.jpeg"
+    },
+    {
+      "id": "steffen-kux",
+      "name": "Steffen Kux",
+      "twitter": "SteffenKux",
+      "caption": "CEO dm3",
+      "photoUrl": "https://prague.web3privacy.info/people/steffen.jpeg",
+      "photo": "photos/speakers/steffen-kux.jpeg"
+    },
+    {
       "id": "tibor-csoka",
       "name": "Tibor Csóka",
       "caption": "Software Engineer at [HOPR](https://hoprnet.org/)",
@@ -155,6 +184,14 @@
       "country": "cz",
       "photoUrl": "https://prague.web3privacy.info/people/tree.jpg",
       "photo": "photos/speakers/tree.jpg"
+    },
+    {
+      "id": "wesley",
+      "name": "Wesley",
+      "twitter": "wslyvh",
+      "caption": "Events @ Ethereum 🛠️ Indie Maker",
+      "photoUrl": "https://prague.web3privacy.info/people/wslyvh.png",
+      "photo": "photos/speakers/wesley.png"
     }
   ]
 }
