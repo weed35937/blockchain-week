@@ -30,6 +30,7 @@ logo = "logo.png"
 
 [[speakers]]
 id = "vojtech-rychnovsky"
-name = "Vojtěch Rycnovský"
+name = "Vojtěch Rychnovský"
+linkedin = "vojtechrychnovsky"
 photo = "photos/speakers/vojtech-rychnovsky.jpg"
 country = "cz"
