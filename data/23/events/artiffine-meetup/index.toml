@@ -1,20 +1,26 @@
-name = "Artiffine meetup"
+name = "Artiffine Web3 Beer Meetup"
 shortname = ""
 types = ["meetup"]
-status = "planning"
+status = "published"
 chains = []
 org = ""
 dri = ""
-poc = "Jan Zibner"
+poc = "Vojtěch Rychnovský"
 date = "2023-06-09"
+times = "17:00-22:00"
 days = 1
-venueName = "TBA"
-#venueAddress = ""
-#venueUrl = ""
+venueName = "Pivovar Národní"
+venueAddress = "Location: Národní 8, 110 00 Nové Město"
+venueUrl = "https://en.pivovarnarodni.cz/"
 languages = ["czech", "slovak"]
 #attendees = 100
 tags = ["NFT", "legal"]
 description = '''
+Small, casual meetup @ Národní Pivovar without any agenda.
+Connect with like-minded individuals who are equally excited about Web3. 
+Expect interesting & insightful discussions, sharing experiences, opportunities, and ice-cold local brews!
+
+Due to limited availability, this event is by invitation only, so if you would like to join us, let us know.
 '''
 logo = "logo.png"
 
