@@ -16,11 +16,14 @@ languages = ["czech", "slovak"]
 tags = ["NFT", "legal"]
 description = '''
 '''
-logo = "logo.jpg"
+logo = "logo.png"
 
 [links]
 #web = "https://www.artiffine.com/"
 #twitter = "https://twitter.com/artiffine"
 
 [[speakers]]
-id = "jan-zibner"
+id = "vojtech-rychnovsky"
+name = "Vojtěch Rycnovský"
+photo = "photos/speakers/vojtech-rychnovsky.jpg"
+country = "cz"

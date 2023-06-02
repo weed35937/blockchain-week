@@ -695,6 +695,23 @@
       "photo": "photos/speakers/jan-zibner.jpg"
     },
     {
+      "id": "vojtech-rychnovsky",
+      "name": "Vojtěch Rychnovský",
+      
+      "bio": "Artiffine CTO",
+      "orgs": "CTO & spoluzakladatel [Artiffine](https://www.artiffine.com/)\n",
+      "caption": "CTO & co-founder of [Artiffine](https://www.artiffine.com/)\n",
+      "tracks": [
+        "nft"
+      ],
+      "country": "cz",
+      "photos": [
+        "web:jpg"
+      ],
+      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/jan-zibner-web.jpg",
+      "photo": "photos/speakers/jan-zibner.jpg"
+    },
+    {
       "id": "jana-kubatova",
       "name": "Jana Kubátová",
       "twitter": "DivergentsNFT",
