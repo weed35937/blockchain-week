@@ -212,11 +212,10 @@
     },
     {
       "id": "dcbuilder-eth",
-      "name": "Dcbuilder.eth",
+      "name": "dcbuilder.eth",
       "twitter": "DCbuild3r",
       "caption": "Worldcoin",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/5ckzIji6kfbucbd3qqoL2Z/06e8a00ef6ffb5e2cc09b70d38633185/r-mqtMjszyRcqDbIsDI0E.jpeg",
-      "country": "cz",
       "photo": "photos/speakers/dcbuilder-eth.jpeg"
     },
     {
@@ -457,7 +456,7 @@
     },
     {
       "id": "lightclient",
-      "name": "Lightclient",
+      "name": "lightclient",
       "twitter": "lightclients",
       "caption": "Go ethereum",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/1ykEtn8cvon11ZjjE7Iihq/393f6974cae8018ba4f16532ee017238/675E3D3D-633C-41E3-A070-9686D28ACDC0_P3bLLOX.jpeg",
@@ -720,7 +719,7 @@
       "id": "stani-kulechov",
       "name": "Stani Kulechov",
       "twitter": "StaniKulechov",
-      "caption": "AAVE & LENS PROTOCOL",
+      "caption": "Aave Companies",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/4ws5PA8vKt02JgVN3pK7Zh/bdbe2855fc12a3461cafa1d41a6ed2ad/stani1.png",
       "photo": "photos/speakers/stani-kulechov.png"
     },

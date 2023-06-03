@@ -90,6 +90,14 @@
       "photo": "photos/speakers/jakub-tesar.jpg"
     },
     {
+      "id": "jan-chudoba",
+      "name": "Jan Chudoba",
+      "caption": "Head of Legal at SatoshiLabs",
+      "linkedin": "janch/?originalSubdomain=cz",
+      "photoUrl": "https://uploads-ssl.webflow.com/6419d553c89ebe398c7c8116/647b34a0bc5a7c8c9dd3ef8a_IMG07277_1.jpg",
+      "photo": "photos/speakers/jan-chudoba.jpg"
+    },
+    {
       "id": "lukas-kovanda",
       "name": "Lukáš Kovanda",
       "caption": "Chief Economist at Trinity Bank",
