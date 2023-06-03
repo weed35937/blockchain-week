@@ -3,7 +3,7 @@ shortname = ""
 types = ["meetup"]
 status = "published"
 chains = []
-org = ""
+org = "Artiffine"
 dri = ""
 poc = "Vojtěch Rychnovský"
 date = "2023-06-09"
@@ -17,7 +17,9 @@ languages = ["czech", "slovak"]
 tags = ["NFT", "legal"]
 description = '''
 Small, casual meetup @ Národní Pivovar without any agenda.
+
 Connect with like-minded individuals who are equally excited about Web3. 
+
 Expect interesting & insightful discussions, sharing experiences, opportunities, and ice-cold local brews!
 
 Due to limited availability, this event is by invitation only, so if you would like to join us, let us know.
