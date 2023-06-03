@@ -50,20 +50,20 @@
       "photo": "photos/speakers/alex-holland.jpeg"
     },
     {
-      "id": "alexei-zamyatin",
-      "name": "Alexei Zamyatin",
-      "twitter": "alexeiZamyatin",
-      "caption": "Interlay",
-      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/3A0PwplUwjOuEbTuR0B9bR/c23e0da427e8ffa8733fb8139d2006d8/alexei_1_lCziUzp-2.jpeg",
-      "photo": "photos/speakers/alexei-zamyatin.jpeg"
-    },
-    {
       "id": "amir-taaki",
       "name": "Amir Taaki",
       "twitter": "Narodism",
       "caption": "DarkFi",
       "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/573urj0qYRGT3c9a87qynC/d161c9be10aa7627b50043d1fc24cf82/AmirTaaki_um9UHjW.jpeg",
       "photo": "photos/speakers/amir-taaki.jpeg"
+    },
+    {
+      "id": "andrew-schmidt",
+      "name": "Andrew Schmidt",
+      "twitter": "DeFiSpartan",
+      "caption": "Aave",
+      "photoUrl": "https://images.ctfassets.net/6j1me6tz5h39/21NWo9cChXXw6uzht4QGIu/ea0eb8d542f22ce58cbbe26eaea950f5/1649203633025.jpg",
+      "photo": "photos/speakers/andrew-schmidt.jpg"
     },
     {
       "id": "anett-rolikova",

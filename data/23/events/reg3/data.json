@@ -144,6 +144,14 @@
       "photo": "photos/speakers/pavel-martinik.jpeg"
     },
     {
+      "id": "pavel-niedoba",
+      "name": "Pavel Niedoba",
+      "caption": "CEO at Simple Coin",
+      "linkedin": "pavel-niedoba/?trk=public_profile_browsemap&originalSubdomain=cz",
+      "photoUrl": "https://uploads-ssl.webflow.com/6419d553c89ebe398c7c8116/647a046c8a5e9cad0df01c70_photo_2023-06-02_15-43-25.jpg",
+      "photo": "photos/speakers/pavel-niedoba.jpg"
+    },
+    {
       "id": "peter-kris",
       "name": "Peter Kris",
       "caption": "CEO at Mangata Finance",

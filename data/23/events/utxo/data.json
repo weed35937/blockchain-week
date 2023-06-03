@@ -695,23 +695,6 @@
       "photo": "photos/speakers/jan-zibner.jpg"
     },
     {
-      "id": "vojtech-rychnovsky",
-      "name": "Vojtěch Rychnovský",
-      
-      "bio": "Artiffine CTO",
-      "orgs": "CTO & spoluzakladatel [Artiffine](https://www.artiffine.com/)\n",
-      "caption": "CTO & co-founder of [Artiffine](https://www.artiffine.com/)\n",
-      "tracks": [
-        "nft"
-      ],
-      "country": "cz",
-      "photos": [
-        "web:jpg"
-      ],
-      "photoUrl": "https://spec.utxo.cz/23/photos/speakers/vojtech-rychnovsky-web.jpg",
-      "photo": "photos/speakers/vojtech-rychnovsky.jpg"
-    },
-    {
       "id": "jana-kubatova",
       "name": "Jana Kubátová",
       "twitter": "DivergentsNFT",
@@ -1192,7 +1175,7 @@
       "name": "Martin Kabrhel",
       "twitter": "martinkabrhell",
       "bio": "Matematik, podnikatel a hráč pokeru.",
-      "orgs": "[Entropiq](https://www.entropiq.gg/) Founder, [Ematiq a.s.](https://www.ematiq.com/) CEO\n",
+      "orgs": "[Entropiq](https://www.entropiq.gg/) Founder, [Ematiq a.s.](https://www.ematiq.com/) CEO, & doing crypto at [iqtec.com](https://www.iqtec.com/)\n",
       "caption": "Matematik, podnikatel a hráč pokeru.\n",
       "lead": true,
       "tracks": [
@@ -1351,6 +1334,25 @@
       ],
       "photoUrl": "https://spec.utxo.cz/23/photos/speakers/milan-peschl-web.webp",
       "photo": "photos/speakers/milan-peschl.webp"
+    },
+    {
+      "id": "mopo680",
+      "name": "Martin Paulini",
+      "nickname": "mOpO680",
+      "twitter": "mopo680",
+      "bio": "NFT believer | Web 3.0 | Crypto enthusiast",
+      "orgs": "[NFT Space CZ/SK](https://www.nftspace.cz/) co-founder\n",
+      "caption": "NFT believer | Web 3.0 | Crypto enthusiast\n",
+      "tracks": [
+        "nft"
+      ],
+      "web": {
+        "url": "https://www.posterlad.com"
+      },
+      "country": "cz",
+      "desc": "NFT believer | Web 3.0 | Crypto enthusiast | NFT Space CZ/SK - co-founder | BAYC owner |\n",
+      "pretalxId": "TMFCDK",
+      "photos": []
     },
     {
       "id": "nataliya-grimberg",
